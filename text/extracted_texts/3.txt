@@ -1,0 +1,1816 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/333521182
+Context in Person, Person in Context: A Cultural Psychology Approach to Social–
+Personality Psychology. In K. Deaux and M. Snyder (Eds.) The Oxford Handbook
+of Personality and Socia...
+Chapter · October 2018
+DOI: 10.1093/oxfordhb/9780190224837.013.8
+CITATION
+1
+READS
+736
+2 authors:
+Glenn Adams
+University of Kansas
+122 PUBLICATIONS   4,938 CITATIONS   
+SEE PROFILE
+Tugce Kurtis
+University of West Georgia
+27 PUBLICATIONS   877 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Glenn Adams on 31 May 2019.
+The user has requested enhancement of the downloaded file.
+1 
+ 
+Context in Person, Person in Context: 
+A Cultural Psychology Approach to Social-Personality Psychology 
+ 
+Glenn Adams 
+ 
+Tuğçe Kurtiş 
+University of Kansas 
+ 
+University of West Georgia 
+ 
+ 
+Chapter to appear in K. Deauz and M. Snyder (Eds.), The Oxford Handbook of Personality 
+and Social Psychology. New York: Oxford University Press.  
+2 
+ 
+Abstract  
+This chapter describes a cultural psychology approach to social-personality psychology. 
+Extending the standard social-psychological emphasis on the importance of context, the first 
+section considers the cultural constitution of personal experience. A history of engagement with 
+particular cultural affordances shapes a person with an associated set of residual tendencies such 
+that what appear to be “personal” dispositions are instead a form of context in person: embodied 
+traces of a person’s engagement with ecological structures of mind that continually reconstitute 
+the person’s habitual ways of being. Extending an emphasis on importance of subjective 
+construal, the second section considers the psychological constitution of cultural worlds. As 
+people act on subjective interpretations, their behavior leaves traces on objective realities to 
+create a form of person in context: everyday constructions of reality that bear the influence of 
+personal activity. In this way, a cultural psychology analysis balances the traditional social 
+psychological emphasis on the power of the situation with a restored emphasis on the power of 
+the culturally grounded person as (re)constructor of intentional worlds. 
+Keywords: action, cultural affordance, ecological, habitus, identity, intentional world, mutual 
+constitution, selfways 
+3 
+ 
+Context in Person, Person in Context: 
+A Cultural Psychology Approach to Social-Personality Psychology 
+ 
+A cultural psychology aims to develop a principle of intentionality—action responsive 
+to and directed at mental objects or representations—by which culturally constituted 
+realities (intentional worlds) and reality-constituting psyches (intentional persons) 
+continually and continuously make each other up. (Shweder, 1990, pp. 26-27) 
+ 
+ 
+In this chapter, we approach the guiding theme of this Handbook—the integration of 
+social and personality psychology—from a perspective of cultural psychology. Contrary to 
+common understandings, the point of a cultural psychology analysis is not merely to examine 
+how psychological phenomena vary across cultural settings; instead, a cultural psychology 
+analysis highlights how psyche and culture “make each other up” (Shweder, 1990; p. 27). That 
+is, a cultural psychology analysis emphasizes the extent to which person-based structures of 
+experience that are the focus of most psychological research exist in a dynamic relationship of 
+mutual constitution with socially constructed affordances (i.e., qualities of an object or 
+environment that allow performance of an action; see Gibson, 1977) embedded in the structure 
+of everyday worlds. We apply this cultural psychology framework to provide an account of 
+social-personality psychology that balances the traditional social psychological emphasis on “the 
+power of the situation” with a restored emphasis on the power of the person as creator of 
+intentional worlds (see Gjerde, 2004). 
+With its defining focus on the mutual constitution of cultural worlds and psychological 
+experience, a cultural psychology analysis extends an earlier discussion of the relationship 
+between social and personality psychology by Lee Ross and Richard Nisbett (1991), who 
+proposed that the field of social psychology rests on a small set of basic principles.1 The first 
+principle, the “power of the situation,” refers to the typically underappreciated extent to which 
+subtle contextual features moderate the course of psychological experience. In contrast to the 
+general thrust of psychological science and its emphasis on personal dispositions, this principle 
+emphasizes environmental regulation of action and experience. The second principle, “the 
+importance of subjective construal,” refers to the role of human imagination in the creation of 
+meaning from inherently ambiguous stimuli. In contrast to the layperson’s sense of direct access 
+to an objective reality (i.e., naive realism), this social-psychological principle emphasizes the 
+dynamic construction of experience from typically underspecified, environmental inputs.2 
+A cultural psychology analysis elaborates these social-psychological principles by adding 
+considerations of history and materiality. Extending “the power of the situation,” one direction of 
+the mutual constitution relationship refers to the cultural constitution of psychological 
+experience. Psychological development is not simply the natural outgrowth of inborn 
+programming or unfolding of genetic potential; instead, it reflects the incorporation and 
+embodiment—literally, “taking into the body”—of blueprints for psychological experience 
+deposited over historical time in the structure of everyday cultural worlds. The idea here is not a 
+weak form of contextualism that emphasizes the “power of the situation” to regulate personal 
+experience, but rather a strong form of contextualism in which cultural realities are constitutive 
+of psychological experience. In terms of species-typical tendencies, this means that what we 
+have come to regard as normal human development would not be possible without the tools or 
+scaffolding that socially constructed, historically evolved, cultural affordances provide. In terms 
+of individual personalities, this means that a history of engagement with particular sets of 
+4 
+ 
+cultural affordances shapes a person with an associated set of residual tendencies such that what 
+appear to be “personal” dispositions are instead a form of context in person: embodied traces of a 
+person’s engagement with ecological structures of mind that continually reconstitute the person’s 
+habitual ways of being. 
+Extending the idea of subjective construal, the other side of this mutual constitution 
+relationship refers to the psychological constitution of cultural worlds. Cultural worlds do not 
+exist apart from human action; instead, people continually reproduce environmental extensions 
+of the person into which they inscribe, objectify, and realize (literally, “make real”; see Berger & 
+Luckmann, 1966; Moscovici, 1984) their beliefs and desires. Again, the idea here is not a 
+relatively weak form of constructivism that emphasizes the dynamic role of human imagination 
+in the interpretation of reality, but rather a strong form of constructivism in which human 
+subjectivity is constitutive of everyday realities. As people act on subjective interpretations, their 
+behavior leaves traces on objective realities to create a form of person in context: everyday 
+constructions of reality that bear the influence of personal activity. One important implication is 
+that species-typical human beings do not inhabit anything close to a “just natural” environment, 
+Even many settings where humans live “close to nature” are cultural products, shaped by choices 
+to preserve or cultivate a “natural” state (see e.g., Adams & Mulligan, 2003). Moreover, what 
+appears at first glance to be wilderness apart from human contact often upon further investigation 
+reveals influence of human activity, whether temporally distant interventions in the landscape 
+due to earlier habitation (e.g., Ferme, 2001; Heckenberger, 2005) or spatially distant activity that 
+results in local climate change and related consequences for local ecology. In short, human 
+beings are born into and develop within cultural ecologies: everyday worlds of collective design 
+that are already structured by human understanding.  
+In the sections that follow, we consider the intersection of social and personality 
+psychology in terms of both directions of the mutual constitution process. Reflecting the 
+emphasis of existing work, the first section of the paper considers the cultural constitution of 
+personal experience: the extent to which the structure of persons bears the embodied influence of 
+contextual scaffolding. In the second section, we consider the equally important, but typically 
+less well articulated, psychological constitution of cultural worlds: the extent to which the 
+cultural-ecological context bears the accumulated influence of personal activity.  
+ 
+CONTEXT IN PERSON: 
+SOCIOCULTURAL CONSTITUTION OF PSYCHOLOGICAL EXPERIENCE 
+One of the most significant developments in social-personality psychology during the 
+past two decades has been unprecedented attention to the cultural constitution of psychological 
+experience. This work suggests that psychological tendencies observed in the typical experiment 
+are not “just so,” but instead reflect the particular cultural-psychological ecologies of the worlds 
+in which the science developed. One of the most important statements of this idea is a review of 
+cultural variation in constructions of self by Hazel Markus and Shinobu Kitayama (1991). 
+Independent Constructions of Self 
+Markus and Kitayama (1991) proposed that theory and research in psychological science 
+primarily considered (and treated as normative or “just natural”) historically particular patterns 
+of experience associated with what they referred to as independent self-construal: an atomistic 
+understanding of self as a bounded entity, inherently separate from social and physical context, 
+composed of defining or essential attributes abstracted from particular situational performances. 
+The key feature of independent self-construal is not devaluation of relational connection, but 
+5 
+ 
+instead an experience of such connection—for better or worse—as the secondary, manufactured 
+product of inherently separate selves.  
+With respect to perception and cognition, research has linked independent constructions 
+of self with analytic tendencies to focus attention on properties of people and objects as the 
+primary unit of reality (Nisbett, Peng, Choi, & Norenzayan, 2001; see also Kühnen, Hannover, & 
+Schubert, 2001; Kühnen & Oyserman, 2002). The experience of self as a bounded entity 
+abstracted from context reflects and promotes perceptual tendencies to a focus on discrete 
+objects and their defining attributes independent of their background fields (Masuda & Nisbett, 
+2001; Nisbett et al., 2001). In turn, the tendency to focus on defining attributes of objects reflects 
+and promotes tendencies to understand or explain everyday events with disproportionate 
+emphasis on actors’ personal traits or dispositions (i.e., the “fundamental attribution error,” Ross, 
+1977; see Cousins, 1989; Miller, 1984). Similarly, the focus on defining properties of bounded 
+objects reflects and promotes analytic tendencies of taxonomic categorization, whereby people 
+categorize objects on the basis of common attributes (e.g., rather than functional relationship; see 
+Nisbett et al., 2001). Finally, perceptual or cognitive tendencies to abstract objects from context 
+are associated with analytic reasoning styles whereby people view the world as operating 
+according to universal abstract rules and laws (Norenzayan, Smith, Kim, & Nisbett, 2002). 
+With respect to motivation, research has linked independent constructions of self with 
+promotion-focused tendencies (Higgins, 1996; see also Lee, Aaker, & Gardner, 2000) to express 
+authentic dispositions and to pursue opportunities for self-enhancement (Heine, Lehman, 
+Markus, & Kitayama, 1999; Kitayama, Markus, Matsumoto, & Norasakkunkit, 1997). 
+Independent constructions of self foster motivations to express defining attributes (e.g., beliefs 
+and preferences) via acts of disclosure and personal choice (Kim & Sherman, 2007; Savani, 
+Markus, & Conner, 2008), to highlight one’s uniqueness (Kim & Markus, 1999), and to 
+influence one’s surroundings to fit one’s preferences, goals, or wishes (Morling, Kitayama, & 
+Miyamoto, 2002). Likewise, the focus on defining attributes of independent selves reflects and 
+promotes an emphasis on cultivation of self-esteem (e.g., Singelis, Bond, Lai, & Sharkey, 1999) 
+and a tendency to maintain positively biased self-views (Heine & Hamamura, 2007) via “self-
+serving” patterns of memory and attribution (Endo & Meijer, 2004). This motivation to seek self-
+enhancement (at the expense of self-improvement) is especially evident in tendencies to persist 
+at a task longer after success feedback than failure feedback (Heine et al., 2001). 
+With respect to affect and emotion, research has linked independent constructions of self 
+to tendencies of experience and expression that highlight positive personal attributes and affirm 
+the self as an independent entity (Kitayama, Markus, & Kurokawa, 2010). For example, research 
+has associated independent constructions of self with an emphasis on the personal meaning of 
+emotional experience (rather than normative or consensual understandings; Mesquita, 2001; 
+Oishi, Diener, Scollon, & Biswas-Diener, 2004) and positive evaluation of self-conscious 
+emotions (e.g., pride) that signal personal accomplishment (Eid & Diener, 2001). Likewise, 
+research has associated independent constructions with a self-indulgent preference for high-
+arousal positive affective states (Tsai, 2007). 
+Research has also linked independent constructions of self to a set of implications for 
+relational and collective belonging. Contrary to stereotypes about solitary, relationship-
+disdaining individualists, a cultural psychology perspective suggests that the relevant feature of 
+independent constructions is a “promotion-focused” experience of relational belonging as a 
+somewhat voluntary, effortful choice of atomistic “free agents” who strive to create connection 
+in contexts of inherent separation. Independent constructions of self afford open, uninhibited 
+6 
+ 
+pursuit of pleasurable companionship and a sense of freedom both to choose attractive partners 
+and to avoid onerous obligations (e.g., to relatives). They resonate strongly with market pricing 
+models of relationality (Fiske, 1991) that emphasize a free market of relationship in which 
+people are at liberty to choose whether to initiate or dissolve connections. They also resonate 
+strongly with equality matching models of relationality (Fiske, 1991) and conceptions of a highly 
+disordered “state of nature” in which “all [people] are created equal . . . with unalienable rights 
+[that] include . . . liberty and the pursuit of happiness” in mutually rewarding, companionate 
+relationship. These conceptions find expression in tendencies for people to report a relatively 
+large number of friends (Adams & Plaut, 2003); to report a sense of freedom from enemies 
+(Adams, 2005); to emphasize verbally oriented, emotional intimacy as the essence of social 
+support (Adams & Kurtiş, 2015); and to rely on self-disclosure as a mechanism for establishing 
+intimacy and communion across the intersubjective gap of inherent interpersonal separation 
+(Kurtiş & Adams, 2015a; Schug, Yuki, & Maddux, 2010).  
+Similarly independent constructions of self afford a voluntaristic experience of collective 
+belonging as a product of personal choice that grants people liberty (and requires them) to create 
+their own group memberships (Triandis, Bontempo, Villareal, Asai, & Lucca, 1988). The high 
+degree of social mobility associated with independent models is associated with a relatively 
+limited experience of obligation and high conditionality of group identification (Oishi, Ishii, & 
+Lun, 2009), meaning that people feel free to invest in group memberships, or not, to the extent 
+that doing so serves their current personal projects. In general, independent constructions of self 
+afford a sense of freedom to create a relatively large number of thin connections dependent on 
+the extent to which they satisfy personal goals. 
+As another manifestation of this relatively thin construction of sociality, Yuki (2003) has 
+proposed that independent constructions promote a “common identity” experience of belonging 
+(Prentice, Miller, & Lightdale, 1994)—as assimilation to a representation of an identity 
+category—that resonates strongly with self-categorization theoretical perspectives (e.g., Turner, 
+Hogg, Oakes, Reicher, & Wetherell, 1987). From this perspective, the glue that holds collective 
+identity together is not actual connection among people, but instead a sense of imagined 
+community (Anderson, 1983) with abstract or hypothetical others in the same category. As we 
+note in a later section, this sense of imagined community typically rests on cultural artifacts (e.g., 
+monuments, national media, standardized national languages; see Anderson, 1983; Billig, 1995; 
+Reicher & Hopkins, 2001) that afford particular constructions of the collective self and convey 
+knowledge about prototypical members. 
+Interdependent Constructions of Self 
+In contrast to the independent constructions of self that inform scientific imagination and 
+conceptions of normative, Markus & Kitayama (1991) suggested that the more typical patterns of 
+subjectivity in human communities across time and space have been more relational 
+understandings of self-in-context that they referred to as interdependent self-construal. One of 
+many statements of this idea comes from the Kuranko (Sierra Leone, West Africa) settings 
+where one of us (GA) lived for three years while working as a secondary school mathematics 
+teacher with the Peace Corps. When discussing what it means to be human, people in Kuranko 
+settings often make statements similar to the idea that “One’s birth is like the bird-scaring rope” 
+(Jackson, 1982, p. 17). The bird-scaring rope is an agricultural tool that consists of a network of 
+rope with bits of metal tied to stakes and stretched back and forth across a field. By tugging from 
+a central point, a farmer sets in motion the whole network of rope and produces a cacophony of 
+clanking metal that scares marauding birds away from the maturing rice crop. This tool serves as 
+7 
+ 
+an apt metaphor for personal experience in many West African settings. People emphasize that 
+they do not exist in isolation; rather, their actions reflect the influence of others in the 
+community. When one person is agitated, the whole network shakes. Likewise, people 
+emphasize that their actions trigger consequences for others that reverberate across networks of 
+social relations like a tug of the bird-scaring rope. From this perspective, the defining feature of 
+interdependent self-construal is not greater value of relationship, but instead an experience—
+again, for better or worse—of embeddedness in community. 
+With respect to perception and cognition, research has linked interdependent 
+constructions of self with holistic tendencies to focus attention on contextual forces or 
+relationships as the primary unit of reality (Nisbett et al., 2001). The experience of self as a 
+relational node embedded in context reflects and promotes “field-dependent” perceptual 
+tendencies to focus on relations among objects in their surrounding context, to make sense of 
+situations by considering relationships among objects or events, and to make situational 
+attributions when understanding the sources of action (Masuda & Nisbett, 2001; Nisbett et al., 
+2001). Similarly, the holistic focus on relationships between objects and attention to background 
+context reflects and promotes tendencies to categorize objects according to functional 
+relationship rather than defining attributes, dialectic reasoning styles, and tolerance for logical 
+contradiction (Nisbett et al., 2001; Peng & Nisbett, 1999). 
+With respect to motivation, research has linked interdependent constructions of self with 
+prevention-focused tendencies (Higgins, 1996; see also Lee et al., 2000) to meet obligations, live 
+up to normative expectations, and attend to domains that require self-improvement (e.g., 
+Kitayama et al., 1997). Interdependent constructions of self as a node in a network of 
+interpersonal connection are associated with a de-emphasis on expression of personal attributes 
+(Savani et al., 2008), motivations to act in ways that fit in with others (Kim & Markus, 1999), 
+and an emphasis on adjusting or accommodating oneself to one’s surroundings (Morling et al., 
+2002). Likewise, research has associated interdependent constructions of self with motivations to 
+maintain relatively unbiased self-views (Heine & Hamamura, 2007) via attention to information 
+that indicates shortcomings or failure to meet normative standards and obligations (Kitayama et 
+al., 1997). This motivation to prevent shortcomings (rather than promote self-enhancement) is 
+especially evident in tendencies to persist at a task longer after failure feedback than success 
+feedback (Heine et al., 2001). 
+With respect to affect and emotion, research has linked interdependent constructions of 
+self to tendencies of experience and expression that emphasize adjustment of self to interpersonal 
+context (Kitayama et al., 2010). For example, research has associated interdependent 
+constructions of self with emphases on external, “objective,” or consensual meaning of 
+emotional experience (Mesquita, 2001; Oishi et al., 2004) and positive evaluation of emotions 
+that signal one’s shortcomings (e.g., guilt; see Eid & Diener, 2001). Likewise, research has 
+associated interdependent constructions with preference for low-arousal positive affective states 
+(e.g., contentment) and deemphasis on expression of elated happiness due to its potentially 
+disruptive effects on interpersonal relationships (Tsai, 2007). 
+Research has also linked interdependent constructions of self to implications for 
+relational and collective belonging. A cultural psychology perspective suggests that the relevant 
+feature of interdependent constructions is an experience of relationality as environmentally 
+afforded connection. This sense of inherent connection affords a “prevention-focused” 
+orientation to relationship that emphasizes painstaking management of obligations for material 
+support—what Coe (2011) has referred to as “the materiality of care” (see also Adams & Kurtiş, 
+8 
+ 
+2015; Adams & Plaut, 2003; Kim et al., 2008—and an acute awareness of the potential hazards 
+of embeddedness in thickly overlapping networks of enduring interpersonal connection (Adams, 
+2005). Interdependent constructions resonate strongly with authority ranking models of 
+relationality (Fiske, 1991) that promote a sense of vertical positioning characterized by 
+reciprocal obligations of deferent obedience and benevolent supervision. They also resonate with 
+communal sharing models of relationality (Fiske, 1991) that emphasize fundamental 
+connectedness, for better or worse, in prefabricated webs of interpersonal connection. In many 
+West African settings, these conceptions find expression in tendencies for people to report a 
+relatively small number of friends (Adams & Plaut, 2003), to be vigilant for attacks from envious 
+personal enemies (including family and other intimate spaces; Adams, 2005; Geschiere, 1997), 
+and to emphasize silence and concealment rather than self-disclosure and revelation (e.g., Ferme, 
+2001; Kurtiş & Adams, 2015a; Shaw, 2000). Rather than valorize “manufactured” romantic or 
+mating relationships, interdependent constructions resonate with an experience of kinship as the 
+prototype of human relationality (Salter & Adams, 2012). 
+Similarly, interdependent constructions of self afford a relationally embedded experience 
+of collective belonging associated with a “common-bond” experience of group membership as a 
+network of actual connections (Prentice et al., 1994; Yuki, 2003). Although this relationally 
+embedded notion of collective belonging may provide a strong sense of tangible bonds, it also 
+places constraints on the number of bonds that people can claim (in part because of the 
+corresponding experience of substantial obligation; see Triandis et al., 1988). In contrast to 
+assumptions that “group-oriented” collectivists will show stronger patterns of group-relevant 
+phenomena, Yuki (2003) proposes that the more relational experience of collective belonging 
+associated with interdependent constructions will promote relatively weak patterns of the 
+phenomena detailed by the social identity tradition. This includes ingroup favoritism, (Karp, Jin, 
+Yamagishi, & Shinotsuka, 1993; Yamagishi, Jin, & Kiyonari, 1999), especially in the case of 
+minimal groups or other artificially imposed categories.  
+ Resonating with Yuki’s (2003) account, researchers propose that people in many 
+societies have experienced collective belonging not in terms of imagined community in an 
+abstract category, but rather as deeply embedded connection in locally rooted networks 
+characterized by a long history of tangible interactions (see Hawkins, 2002; and Lentz, 2006, for 
+examples from what is now Northern Ghana). One implication of this perspective is that the 
+“standard” patterns of belonging meticulously documented in such mainstream traditions as 
+social identity theory and self-categorization theory are partly the product of human invention—
+that is, cultural innovations for imagination of community—rather than a natural law of human 
+psychology (for discussions of cultural affordances that scaffold imagination of national 
+community, see Anderson, 1983; Reicher & Hopkins, 2001; Winachakul, 1994). 
+Beyond Self-Construal: Cultural-Ecological Scaffolding of Self 
+Especially as appropriated in mainstream social-personality psychology, the notions of 
+independent and interdependent self-construal are somewhat limiting to the extent that they 
+entail problematic reifications of both culture and self (Adams & Markus, 2004; Kurtiş & 
+Adams, 2013; Lewis & Wigen, 1997; Okazaki, David, & Abelmann, 2007; Said, 1978). A 
+formulation that resonates more clearly with a cultural psychology analysis is one that Markus 
+and Kitayama (along with Patricia Mullally) later referred to as selfways: scaffolding or 
+affordances for psychological functioning embedded in the structure of everyday cultural 
+ecologies (Markus, Mullally, & Kitayama, 1997). The notion of selfways makes explicit the idea 
+that the influence of culture on self is not a matter of reified cultural traditions shaping, once-
+9 
+ 
+and-for-all, an essentially independent or interdependent self. Instead, the notion of selfways 
+affords more fluid understandings of culture and self. With respect to culture, the notion of 
+selfways suggests fluid forms of cultural influence infused in diffuse institutions, practices, and 
+artifacts rather than calcified traditions associated with rigidly bounded groups (Adams & 
+Markus, 2004). This more fluid notion of cultural influence focuses on the ecological scaffolding 
+that promotes psychological tendencies rather than labeling tendencies as the product of some 
+reified cultural tradition. With respect to self, the notion of selfways makes explicit that the 
+foundations of psychological experience are not limited to internal architecture, but also reside in 
+the structure of everyday cultural worlds. Rather than trait-like construals that solidify during 
+early childhood and persist via inertia throughout the life course, the notion of selfways treats the 
+cultural construction of self as the repeated reconstitution of relatively fluid, habitual tendencies 
+that are the product of ongoing engagement with ecologically inscribed, psychological resources. 
+Independent Selfways 
+Theory and research have associated independent selfways with a variety of ecological 
+realities. With respect to distal ecological forces, independent selfways often feature a high 
+degree of market integration and organizational scale that allow for depersonalized economic 
+transactions between anonymous strangers (Henrich et al., 2005). Independent selfways often 
+feature voluntary settlement patterns (Kitayama, Ishii, Imada, Takemura, & Ramaswamy, 2006) 
+and relatively high levels of spatial and social mobility (Oishi & Kisling, 2009) that both reflect 
+and promote a sense of independence from any particular social or geographical context 
+(Giddens, 1991). Similarly, independent selfways often include collective realities of relative 
+affluence (amid pockets of individual scarcity) that afford high degrees of mobility (e.g., via 
+roads, mass transit, and other transportation infrastructure), convenient access to resources (e.g., 
+fuel, electricity, and water), and a sense of financial independence: the ability to enact one’s 
+preferences and pursue life projects with relative freedom from material constraint (Markus, 
+Ryff, Curhan, & Palmersheim, 2004). In turn, high levels of mobility and affluence are 
+associated with “neolocal” residence (i.e., the practice of leaving a parental home to occupy a 
+separate residence upon reaching adulthood), self-contained housing (i.e., with its own kitchen, 
+bath, and toilet rather than communal or public amenities), and a small ratio of persons to 
+rooms—all of which afford an experience of privacy and interpersonal insulation. 
+With respect to proximal forces, independent selfways often involve sociocultural 
+organization of bodily functions in ways that reflect and afford a sense of privacy and 
+interpersonal separation. These include bedtime rituals of parent-child separation to foster an 
+experience of independent subjectivity (e.g., Shweder, Jensen, & Goldstein, 1995). These also 
+include food rituals—such as individual place settings, individually wrapped meals from drive-
+through windows of fast food restaurants, “modern” conveniences that allow one to prepare and 
+consume food quickly with a minimum of labor, and a high frequency of eating alone—that 
+reflect and afford a socially disembedded experience of the biological activity of eating (see e.g., 
+Rozin, 2007). Other proximal realities of independent selfways include low-context 
+communication practices that assume relatively little common ground between speakers and rely 
+on direct or explicit reference (Hall, 1976), linguistic features (e.g., pronoun use; Kashima & 
+Kashima, 1998) that reflect and promote a sense of bounded actors abstracted from relational or 
+physical context, and a host of “promotion-focused” childcare practices (Higgins, 1996)—
+including visually and verbally oriented interaction with infants as more or less equal partners 
+(Keller, Schölmerich, & Eibl-Eibesfeldt, 1988; LeVine et al., 1994; see Greenfield, Keller, 
+Fuligni, & Maynard, 2003)—that emphasize exploration (Rothbaum, Weisz, Pott, Miyake, & 
+10 
+ 
+Morelli, 2000), bolstering (Higgins, 1996); nurturance (Higgins, 1997); and the emotional value 
+of children (Kağıtçıbaşı & Ataca, 2005). 
+A relatively recent focus of cultural psychological research has been the inscription of 
+different selfways in material artifacts (see Morling & Lamoreaux, 2008). To cite only a few 
+examples, researchers have associated independent selfways with magazine advertisements that 
+emphasize originality, freedom, and rejection of traditional roles (Kim & Markus, 1999); media 
+interviews with Olympic athletes and other forms of reportage that locate the source of 
+performance in individual ability or effort (Markus, Uchida, Omoregie, Townsend, & Kitayama, 
+2006); popular music that valorizes self-expression and independence (Snibbe & Markus, 2005); 
+and pictures in children’s books that valorize excitedly happy affective states (Tsai, Louie, Chen, 
+& Uchida, 2007). In summary, people in worlds informed by independent selfways inhabit 
+objective realities that—regardless of personal endorsement—reflect and promote intersubjective 
+understandings of individuality and self-expression as normal and normative ways of being 
+(Chiu, Gelfand, Yamagishi, Shteynberg, & Wan, 2010). 
+Interdependent Selfways 
+The preceding section describes a set of realities that hegemonic psychology tends to 
+portray as “just natural” (and then bases a science of human experience on interactions with this 
+“natural” environment).3 Accordingly, it is useful to recall the extent to which these realities are 
+highly unusual in the context of human history (Arnett, 2008; Henrich, Heine, & Norenzayan, 
+2010). To get some sense for alternative models of person and context, consider ecological 
+realities associated with the relatively interdependent selfways common across a variety of West 
+African worlds. These realities include such distal ecological forces as limited spatial and social 
+mobility (e.g., due to difficulty of transportation) that both reflect and promote a sense of 
+rootedness in community and place; Giddens, 1991; Tengan, 1991). These realities often (but not 
+always) involve labor-intensive, subsistence activities; difficult access to basic amenities (e.g., 
+fuel, electricity, and water); and a collective reality of scarcity (with nearly half of the population 
+living on less than $1.25 per day; United Nations Development Program, 2010) that demand 
+extensive coordination within and between domestic units and reciprocal obligations of support 
+to ensure viable existence. Similarly, these realities often include residence in communal or 
+compound houses with multiple generations of relatives who are typically linked by patrilineal 
+descent (occasionally by matrilineal descent; Oppong, 1974) and often include relationships 
+(e.g., cowife and siblings of the same father by different mothers) that arise from the widespread 
+practice of polygynous marriage (up to 25% of all conjugal unions; see Dodoo, 1998). These 
+residential realities require people to share space and amenities (e.g., bedrooms, kitchen, bath, 
+and toilet) in ways that—regardless of personal endorsement—constitute an experience of 
+embedded interdependence. 
+With respect to proximal forces, the interdependent selfways common in many West 
+African settings include sociocultural organization of bodily functions—for example, eating 
+from a common bowl, drinking from a common cup, and sleeping together in a common bed 
+(Morelli, Rogoff, Oppenheim, & Goldsmith, 1992; Keller, 2003)—in ways that afford an 
+experience of embeddedness in community (see Fiske, 1991). They include “prevention-
+focused” childcare practices (Higgins, 1996)—including bodily contact, parental control, and 
+familial obligation (LeVine et al., 1994; Keller, 2003)—that emphasize prudence (cf. Higgins, 
+1996), security, and contribution of children to the family’s economic survival (LeVine et al., 
+1994; Kağıtçıbaşı, 1996; Keller, 2003). They include practices of ritualized avoidance and 
+deferential respect that constitute the experience of authority-ranked relationality (Radcliffe-
+11 
+ 
+Brown, 1940; see Fiske, 1991), rituals of memory (e.g., libation and offerings; Cole, 2001; Fiske, 
+1991) that promote a sense of ongoing relationship with departed ancestors, and socially 
+distributed forms of childcare (e.g., fosterage; Bledsoe, 1990; Goody, 1982) that promote 
+experience of broad connection rather than intense dyadic attachment (Weisner, 2005). Together 
+with an abundance of material artifacts—including lorry slogans (van der Geest, 2009), calendars 
+(Adams & Dzokoto, 2003), and movies (Meyer, 1998), to name only a few—these everyday 
+realities reflect and promote intersubjective understandings of embedded relationality as normal 
+and normative ways of being.  
+History and Materiality of Self(ways)  
+From this cultural psychology perspective, contextual variation in self and experience is 
+less the product of conscious indoctrination into different value systems than it is something that 
+arises in bottom-up fashion as people repeatedly engage everyday realities that elicit or shape 
+psychological habits. A useful concept in this regard is habitus (see Bourdieu, 1977), which 
+refers to direct inscription of ecological affordances on a person’s habitual modes of affect, 
+cognition, motivation, and being in the world. This notion provides a useful alternative to 
+prevailing understandings of sociocultural influences on self. Perhaps reflecting their origins in 
+the discipline of psychology, typical formulations have tended to locate sociocultural influence 
+in individual endorsement of cultural values (see Oyserman, Coon, & Kemmelmeier, 2002) or 
+individual construal of self as independent or interdependent (Matsumoto, 1999). More recently, 
+theorists and researchers have proposed a conceptual move away from individual endorsement 
+toward intersubjective knowledge of modal community tendencies as carriers of sociocultural 
+influence (Chiu et al., 2010). The notion of habitus extends this conceptual move beyond 
+relatively conscious, intersubjective knowledge to emphasize relatively nonconscious processes 
+of environmental regulation via implicit ecological blueprints embedded in the structure of 
+everyday cultural worlds. From this perspective, tendencies that psychologists have associated 
+with different varieties of self-construal are not essential features of an independent or 
+interdependent self, but instead constitute a form of “history in person” (Holland & Lave, 2001): 
+embodied traces from a history of engagement with material realities that continually reconstitute 
+those tendencies. In this way, the notion of habitus adds considerations of history and materiality 
+to counteract essentialist notions of independent or interdependent self.  
+A similar form of reification is evident in discussion of selfways. Hegemonic psychology 
+tends to consider realities associated with independent selfways as “just natural” and tends to 
+portray prevailing patterns in an essentialist manner as a manifestation of timeless traditions or 
+reified cultural entities (see Gjerde, 2004; Hermans & Kempen, 1998; Okazaki et al., 2007). In 
+contrast, recent work in cultural psychology has illuminated cultural-ecological forces that 
+underlie observed patterns. For example, scholars have noted how the experience of mobility 
+(Oishi & Kisling, 2009; Oishi, Schug, Yuki & Axt, 2015; Yuki & Schug, 2012), frontier ecology 
+(Kitayama, Ishii, Imada, Takemura, & Ramaswamy, 2006), particular forms of livelihood (e.g., 
+fishing versus farming; Uskul, Nisbett, & Kitayama, 2008; wheat versus rice agriculture; 
+Talhelm et al., 2014), and ecologies of affluence (Adams, Bruckmüller, & Decker, 2012; Kraus 
+et al, 2012) afford the habits of mind associated with independent selfways.  
+While these accounts provide important contributions to non-essentialist understandings 
+of culture and self, they tend to portray independent selfways as the product of cultural 
+innovation and intellectual progress. In contrast, decolonial theorists working from epistemic 
+perspectives of the Global South (e.g., Comaroff & Comaroff, 2012; de Souza Santos, 2014) link 
+independent selfways and associated forms of neoliberal individualism to the coloniality of 
+12 
+ 
+everyday life in the modern global order (Grosfoguel, 2002; Mignolo, 2009; Quijano, 2000). 
+Rather than the leading edge of human progress, decolonial perspectives emphasize that the 
+modern global order is a product of colonial and racial violence.  
+This recognition of coloniality as the “dark side of modernity” (Mignolo, 2009) affords 
+similar recognition of the coloniality of being (Maldonado-Torres, 2007) as the dark side of 
+psychological modernity (e.g., Inkeles, 1969; Inkeles & Smith, 1974). From this perspective, the 
+sense of freedom from constraint and abstraction from context associated with independent 
+selfways is not a politically innocent development. Instead, independent selfways have their 
+foundations in colonial and interpersonal domination (e.g. Shaw, 2000). The modern subject 
+position arose and became typical for a privileged few through the appropriation of others’ 
+productivity (e.g. in the gendered domestic household, the racialized violence of slavery, or in 
+exploitative economic arrangements) which provided them with resources of time, energy, and 
+material security to explore personal desires, follow their heart, and pursue their dreams 
+(Coltrane, 2000). In this way, a decolonial vision of cultural psychology links the independent 
+selfways valorized by hegemonic accounts of psychological science to histories of violent 
+appropriation and material oppression.  
+Beyond Cultural Variation: Sociocultural Bases of Psychological Experience 
+Most people understand a cultural psychology approach as a means for investigating 
+diversity in psychological functioning along “cultural-group” dimensions. However, a cultural 
+psychology approach is a broader attempt to examine the foundation for psychological 
+experience in the structures of everyday cultural worlds. This approach applies beyond questions 
+of cultural diversity to topics across the spectrum of psychological science (see Cole, 1996). 
+Sociocultural Bases of Species-Typical Tendencies 
+With respect to general tendencies, a cultural psychology analysis considers the extent to 
+which apparently natural psychological capacities are particular technologies of mind made 
+possible by common cultural ecologies. From this perspective, human beings share a set of 
+species-typical tendencies that are the product of near-universal engagement with widely 
+distributed cultural tools. For example, researchers have noted how apparently “natural” 
+cognitive or perceptual abilities are associated with cultural ecologies in which language and 
+literacy practices are standard features. Tomasello (1999) argued that many forms of higher 
+cognition characteristic of species-typical humans are not themselves innate, but instead depend 
+on cultural tools that have developed via processes of cumulative cultural evolution. Similarly, 
+many near-universal and species-typical cognitive and perceptual abilities—including the use of 
+graphic conventions to represent and perceive depth in two-dimensional drawings, memory for 
+disconnected lists of information, spontaneous strategies for organizing memory, taxonomic 
+versus functional categories to organize test objects, and willingness to go beyond personal 
+experience in answering logical problems—are not innate properties of the human organism, but 
+instead reflect near-universal engagement with widespread institutions of literacy and formal, 
+school-based education (Rogoff, 1990; see also Scribner & Cole, 1981). 
+Likewise, the near-universal influence and expansion of market economic activity to a 
+variety of “traditional” settings carries with it cultural affordances that systematically evoke 
+certain forms of experience (Greenfield, Maynard, & Marti, 2009). For example, researchers 
+noted that apparently “standard” tendencies to diverge from unrestrained self-interest and make 
+relatively egalitarian offers in one-shot economic games are not “just natural” features of genetic 
+inheritance, but instead are associated with integration into market economies that require 
+abstract forms of impersonal cooperation (Henrich et al., 2005). Similarly, researchers who 
+13 
+ 
+observed a Zinacanatec Mayan setting over time documented increasing integration into market 
+economic activity that was, in turn, associated with increased reliance on technology, 
+individuation and opportunities for expression of individual choice, and specialization for 
+economic tasks (Greenfield et al., 2009). The researchers also noted associated changes due to 
+increased urban residence, including increased contact with strangers, contact with people of 
+different ethnicities, and increases in the range of economic and social possibilities for women. 
+Finally, technological advances have contributed to a global cultural space that has a 
+similar impact on identity-development processes of youth from a variety of national settings, 
+despite differences in local traditions of identity construction. Youth around the world encounter 
+manifestations of global popular culture that include film, music, and fashion distributed via such 
+widely (although unevenly; see Ferguson, 2006) available mechanisms as satellite television, cell 
+phones, and Internet cafes. As a result, they often develop a form of bicultural identity reflecting 
+the influence of engagement with local communities of origin and an “imagined” global 
+community (Arnett, 2002). This bicultural identity increases the range of options for construction 
+of personal identity and therefore grants some measure of increased authorship over one’s life 
+story. However, this bicultural identity also creates challenges for identity integration and 
+increases potential for intergenerational conflict (Arnett, 2002). 
+In all of these cases, the emphasis of a cultural psychology analysis is not cultural 
+diversity, but rather cultural-ecological structures—whether unique to a particular community or 
+shared across human societies—that continually reconstitute apparently “natural” features of 
+human psychological functioning. One noteworthy implication of these ideas is that failure to 
+observe a difference in comparisons of samples from two communities does not mean lack of a 
+cultural difference. Rather than “natural” features of the human organism, the observed similarity 
+can be the product of universal engagement with the same cultural-ecological affordances. 
+Likewise, a study with university students from different national settings does not necessarily 
+constitute a cross-cultural comparison. Although the students may differ in national cultures, 
+they share engagement with ecological affordances associated with university cultural spaces. 
+Sociocultural Bases of Personal Experience 
+With respect to personal dispositions, one application of a cultural psychology analysis 
+might be to investigate variation in personality across “cultural” settings (see McCrae & Allik, 
+2002). Instead, we consider a more general issue: the extent to which personal dispositions 
+reflect the particular sociocultural ecologies that a person inhabits. Just as a cultural psychology 
+perspective does not deny the existence of genetically inherited, species-typical capacities, it 
+likewise does not deny the existence of genetically inherited temperaments or predispositions—
+what one might refer to as “traits”—that vary across individuals. However, just as genetically 
+inherited capacities require complementary input from cultural-ecological affordances to produce 
+species-typical skills of recognizable human beings, so too do genetically linked predispositions 
+require complementary input from cultural-ecological affordances to produce normally 
+functioning, recognizably human persons. 
+Personal identity. Among the most important ecological affordances in this regard are 
+resources for the life stories that constitute personal identity (McAdams, 2001). One contribution 
+of cultural ecologies to the construction of personal identity concerns content. What matters for 
+inclusion in one’s identity story—category identities such as gender, nationality, ethnicity, 
+lineage, class, and age set; or role identities such as sibling, parent, child, patron, client, and 
+foster parent—depends on the cultural world that one inhabits. For example, the influence of 
+gender on experience of personal identity varies greatly across settings, determining many 
+14 
+ 
+aspects of a person’s life story (e.g., occupation) in some worlds, but exerting more limited 
+influence in others. Likewise, the influence of different roles varies across settings. In many 
+Majority-World spaces, the roles of sibling or parent exert strong influence on one’s evolving 
+life story and matter more than the “manufactured” role of spouse. In other worlds informed by 
+the notion of a “sacred couple” (Shweder et al., 1995), the role of spouse looms large in one’s 
+life story, and the search for a (soul)mate is one of the defining themes of a person’s life. 
+Cultural ecologies vary in conceptions of the life course in ways that impact personal 
+identity stories. Some cultural ecologies emphasize initiation ceremonies, parenthood, and 
+“becoming an ancestor” upon one’s death as defining scenes in life stories (e.g., Cole, 2001; 
+Oppong, 1973). Other cultural ecologies emphasize school graduations, marriage, professional 
+employment, home ownership, retirement, and “going to heaven” as defining scenes. One of the 
+most important variations in life course imagination concerns “leaving home.” In many cultural 
+ecologies that inform hegemonic psychology, the expectation is that a person will leave the 
+family home to start an independent life in a new location soon after reaching adulthood. Many 
+identity tasks that hegemonic psychology portrays as “just natural” features of a healthy life 
+course—establishing a “secure” attachment bond between parents and children or resolving 
+Eriksonian identity crises (1968)—may reflect adjustment to this culturally variable, life-course 
+mandate of separation (Bellah, Madsen, Sullivan, Swindler, & Tipton, 1985). This contrasts with 
+many West African communities, in which the expectation is enduring connection—often a 
+lifetime spent in or near the same residence—that persists even after death through practices such 
+as libation, offerings of food, and divination (e.g., Fiske, 1991, pp. 281–283). In these worlds, 
+problems of adjustment concern embeddedness as an ecological fact of life and successful 
+management of developmental tasks associated with “being a relative” (Reisman, 1992). 
+Beyond content, different cultural ecologies also impact the process and organization of 
+identity stories. One of the most important functions of identity stories is to integrate or abstract 
+an experience of sameness or unity from an individual’s different performances or presentations 
+of self across time and audiences (Goffman, 1959; McAdams, 2001). Cultural ecologies differ in 
+the degree to which they afford or promote such integration and abstraction. A typical pattern 
+across human history has been one in which everyday realities afford an experience of identity 
+tied to situated performances (e.g., occupational role, family position). In contrast, a history of 
+engagement with “modern” spaces promotes a relatively integrated experience of being as a 
+bundle of essential features, abstracted from situated performances, that define a person’s 
+authentic self-identity (Baumeister, 1987; Giddens, 1991). 
+From this perspective, the experience of personal identity is not the unfolding and 
+expression of some core, authentic essence; instead, it is a sociocultural construction: the product 
+of affordances that permit abstraction and integration of identity across situations. Indeed, 
+research suggests that cultural ecologies vary in the extent to which they both afford such 
+abstraction and require it for social approval and well-being (Suh, 2002). In summary, a cultural 
+psychology analysis emphasizes the extent to which identity stories reflect not only the collective 
+identities, role identities, and conceptions of life course that are prominent in different cultural 
+ecologies (Erikson, 1968; Reisman, 1992), but also affordances for abstraction or embeddedness 
+of identity associated with different selfways (Suh, 2002). 
+Attitudes and dispositions. Although few psychologists would deny that the 
+construction and experience of personal identity reflects considerable sociocultural influence, 
+prevailing approaches in hegemonic psychology regard other person factors—for example, 
+attitudes, preferences, traits, and habitual self-construals—as deeply embodied, essential features 
+15 
+ 
+of individual organisms. Perhaps reflecting the tendency to see context-abstracted persons as the 
+source of agency and experience, prevailing understandings hold that, whether conceived as 
+genetically inherited traits or habitual dispositions acquired during early socialization, it is these 
+internal structures that guide behavior and experience. From this hegemonic perspective, the 
+primary task of an integrated social-personality psychology is to determine the properties of 
+situations that moderate the operation of these guiding dispositions. This prevailing model does 
+not necessarily deny the possibility of change in guiding dispositions (as the enormous body of 
+research on such topics as attitude change suggests). However, the implicit conceptions at work 
+in this model portray such change as a case of rewriting a person’s operating code with a new set 
+of internal guides to replace earlier ones. As a productive contrast to this prevailing view of 
+personal dispositions, a cultural psychology analysis emphasizes two points.  
+Cultural-ecological variation. The first point concerns cultural-ecological variation in the 
+extent to which local realities permit (or require) individual exercise of personal dispositions. 
+Cultural ecologies associated with independent selfways typically promote disjoint constructions 
+of action as the self-directed product of internal dispositions, and these ecologies afford the 
+opportunity to exercise these personal dispositions. In contrast, cultural ecologies associated with 
+interdependent selfways typically promote conjoint constructions of action as a collaborative 
+production of personal dispositions in concert with environmental affordances (e.g., Markus & 
+Kitayama, 2004). Accordingly, even when people across settings are similarly shaped to have 
+dispositional stances, these dispositional stances typically have a greater impact on action and 
+experience in worlds informed by independent selfways than worlds informed by interdependent 
+selfways. For example, research suggests that subjective emotional experience informs life 
+satisfaction judgments to a greater extent in “individualist” settings than “collectivist” settings 
+(where normative standards are equally strong predictors of life satisfaction judgments; Suh, 
+Diener, Oishi, & Triandis, 1998). Similarly, research suggests that personal preferences serve as 
+a guide for product choice to a greater extent in middle-class American settings than similarly 
+situated, middle-class Indian settings, for whom product choices also reference preferences of 
+important relatives (Savani et al., 2008). Finally, research suggests that preferences for 
+attractiveness have a greater impact on interpersonal outcomes in cultural ecologies associated 
+with independent selfways (North American or urban settings) than in cultural ecologies 
+associated with interdependent selfways (e.g., West African or rural settings; Anderson, Adams, 
+& Plaut, 2008; Plaut, Adams, & Anderson, 2009). 
+In short, worlds informed by independent selfways both afford and require recruitment 
+and enactment of personal dispositions—whether attitudes (Ybarra & Trafimow, 1998), 
+assessments of individual happiness (Suh et al., 1998), product preferences (Savani et al., 2008), 
+or interpersonal attractions (Anderson et al., 2008)—to an extent that worlds informed by 
+interdependent selfways do not. Indeed, the association of independent selfways with the 
+“fundamental attribution error” (Ross, 1977)—the tendency to overweight personal dispositions 
+and underweight ecological affordances as causes of behavior—may be a reflection of this 
+variability in affordances for exercise of personal dispositions. That is, dispositional attributions 
+may be less “erroneous” in settings informed by disjoint rather than conjoint models of agency. 
+Sociocultural sources. Beyond the issue of cultural variation, the defining feature of a 
+cultural psychology analysis is to bridge the conceptual divide between embodied personal 
+dispositions and the cultural-ecological structures that continually tune those dispositions. From 
+this perspective, ecological structures do not merely moderate the direction of preexisting 
+dispositions; instead, a history of engagement with particular ecological structures continually 
+16 
+ 
+reconstitutes configurations of affect, motivation, and cognition. Rather than essential 
+characteristics, a cultural psychology perspective highlights the extent to which personal 
+dispositions are embodied traces of context in person: an acquired environmental charge 
+resulting from a history of engagement with ecological affordances for psychological experience 
+embedded in the structure of local worlds (Mischel, 1968). 
+There are a number of noteworthy resonances between this notion of context in person 
+and other theoretical perspectives. One is the “environmental associations” interpretation of 
+implicit attitudes, which highlights the extent to which a person’s “automatic” affective stances 
+toward objects reflect histories of engagement with ecological representations that portray the 
+object with positive or negative connotations (e.g., Karpinski & Hilton, 2001). Related to this is 
+recent work on the “social tuning” of attitudes (and the perspective of shared reality theory more 
+generally; see Sinclair, Lowery, Hardin, & Colangelo, 2005; Hardin & Higgins, 1996), which 
+emphasizes the extent to which people collaboratively construct situated attitudes and other 
+personal stances in the course of creating common ground with particular audiences. Another 
+point of resonance is with discourse analytic perspectives, which emphasize how people’s 
+reports of attitudes and other personal stances are not the expression of some essential internal 
+attribute, but instead reflect embodied representation of culturally inscribed rituals and discursive 
+repertories that people reproduce in situated performances of persuasion and justification 
+(Durrheim & Dixon, 2004).  
+Another expression of the idea of “context in person” is a cultural psychology account of 
+an enduring topic of research on personal dispositions in social-personality psychology: 
+dispositions of racist bias (Adams, Biernat, Branscombe, Crandall, & Wrightsman, 2008).4 
+Accounts of racism in hegemonic psychological science have focused almost exclusively on 
+personal dispositions of stereotyping and prejudice. Critics have noted how this understanding of 
+racism in terms of individual bias directs interventions toward the task of changing hearts and 
+minds while neglecting the cultural-ecological structures that afford racist subjectivity and 
+reproduce racist inequality (see Wright & Lubensky, 2008). In contrast, the defining feature of a 
+cultural psychology analysis is to bridge the conceptual divide between embodied personal 
+dispositions and the cultural-ecological structures that continually tune those dispositions. This 
+perspective conceives of prejudice, stereotypes, and other tendencies of racist bias as the product 
+of engagement with racist ecologies. In turn, recognition of the cultural psychological 
+foundations of personal bias suggests a shift in emphasis of intervention efforts from changing 
+personal dispositions to transforming the ecologically embedded structures that continually 
+reconstitute those dispositions.   
+Summary 
+A cultural psychology perspective emphasizes the extent to which much of psychological 
+experience—not only the psychological correlates of independent and interdependent selfways 
+that have been the focus of most work in cultural psychology, but also habits and dispositions 
+that are the topic of hegemonic psychology more generally—is not the “just natural” expression 
+of internal essence. Instead, it reflects the sociocultural constitution of the person: the continual 
+tuning of subjectivity to historically evolved structures for mind embedded in the stuff of 
+everyday worlds. This idea has been an enduring theme in the interdisciplinary exercise of social 
+psychology (e.g., Mead, 1934). A cultural psychology perspective is one of several theoretical 
+bases from which to recapture this theme. 
+17 
+ 
+PERSON IN CONTEXT: 
+PSYCHOLOGICAL CONSTITUTION OF CULTURAL WORLDS 
+The preceding focus on the cultural constitution of psychological experience resonates 
+with the objectivism and environmentalist roots of social psychology evident in discussions of 
+automaticity (Bargh & Chartrand, 1999; Devine, 1989) and ecological affordances (Gibson, 
+1977; McArthur & Baron, 1983). However, an exclusive emphasis on contextual determinants 
+neglects what may be the defining element of psychological science (as opposed to behavioral 
+science or neuroscience): namely, a subjectivist appreciation for the role of dynamic construction 
+processes—and related concepts of activity (versus behavior; Bruner, 1990), agency, meaning, 
+construal, and imagination—in the perception, interpretation, and (re-)production of everyday 
+reality (Griffin & Ross, 1991).  
+Upstream Impacts on Action 
+The typical way in which psychologists have considered dynamic construction processes 
+is with respect to the upstream side of action. For example, psychologists have considered the 
+necessarily “subjective” perception of “objective” physical stimuli. Whether the topic is visual 
+perception (e.g., Segall, Campbell, & Herskovitz, 1963), auditory perception (Bregman, 1990), 
+memory (Bartlett, 1932), or identity (Mead, 1934), people do not have direct access to objective 
+reality; instead, they build (i.e., construct) an emergent experience of reality from underspecified 
+inputs. Likewise, social psychologists have emphasized the phenomenon of subjective construal, 
+whereby people actively interpret situations that are inherently ambiguous (e.g., whether a 
+remark about a person’s appearance is a put-down, come-on, ingratiation, or relatively innocent 
+compliment; Ross & Nisbett, 1991; Griffin & Ross, 1991). 
+In similar fashion, cultural psychologists emphasize that the intersection of cultural-
+ecological niches does not wholly determine a person’s experience; instead, people exercise 
+some direction over selection and meaning of cultural resources that they appropriate. An 
+important implication for a cultural psychology analysis is that each act of appropriation or 
+interpretation constitutes a form of selection pressure on the evolution of cultural realities 
+(Heath, Bell, & Sternberg, 2001; Lau, Chiu, & Lee, 2001; McIntyre, Lyons, Clark, & Kashima, 
+2004; Norenzayan & Atran, 2004; Schaller, Conway, & Tanchuk, 2002). As people 
+preferentially attend to and act on interpretations of some features of a situation, they not only 
+ensure the continued relevance or reproduction of those features (in slightly altered form), but 
+also produce continued irrelevance of or silence about other possible features (Trouillot, 1995). 
+As an illustration, consider a classic study of sleeping arrangements among people in 
+Chicago, Illinois, United States, and Bhubaneswar, Orissa, India (Shweder et al., 1995). Noting 
+that people in the former city tend to sleep with fewer people to a space than do people in the 
+latter city, researchers considered whether this pattern reflected differences in desired ways of 
+being or was merely a function of material resources impinging on a universal desire for privacy. 
+When the researchers asked participants to allocate sleeping space to a 7-member family under 
+different conditions of resource availability, participants tended to reproduce locally typical 
+sleeping patterns regardless of material affordances. That is, participants in Chicago tended to 
+preserve the privacy of the “sacred” conjugal couple even in conditions of resource scarcity, and 
+participants from Bhubaneswar tended to preserve the local patterns of cosleeping (e.g., to 
+protect vulnerable members and guarantee female chastity) under conditions of resource 
+abundance. This study suggests that, even when cultural ecologies appear to be static and 
+unchanging across generations, this appearance of inertia often reflects the dynamic exercise of 
+18 
+ 
+human intentionality and preferential selection to maintain desired cultural ecologies in the face 
+of structural forces (e.g., acquisition of resources) that might enable other ways of being. 
+Downstream Consequences of Action 
+A second way in which one can theorize dynamic construction processes is with respect 
+to the downstream side of action. As people act on their interpretations of events, they inscribe 
+observable traces of their subjectivity on intersubjective space and material realities. These 
+materialized traces of psychological experience influence the subsequent flow of interpretation 
+and activity not only for producers and their immediate interaction partners, but also for present 
+and future third-party observers who come in contact with those behavioral products. For 
+example, a person who expresses greater or less interest in a phone conversation as a function of 
+beliefs about visual attractiveness of the conversation partner elicits verbal responses from the 
+partner that subsequent, third-party observers find more or less interesting (Snyder, Tanke, & 
+Berschied, 1977). A man who responds with aggression (versus laughter) when another person 
+calls him “Asshole!” reconstructs normative understandings of the event as a personal attack or 
+insult that demands retaliation (rather than a ridiculous loss of self-control that one should 
+ignore), and suggests to observers that any man’s personal honor requires that he do the same 
+(Cohen, Nisbett, Bowdle, & Schwarz, 1996; see Vandello & Cohen, 2004). A person who 
+responds with liking or approval of someone who maintains high identity consistency across 
+diverse situations reproduces normative understandings of this consistency as authenticity 
+(versus insensitivity or failure to accommodate self to situations) and increases the likelihood of 
+others will strive for such consistency (Suh, 2002). A mother who routinely asks her child about 
+subjective emotional experience of daily events (rather than normative understandings of those 
+events) directs her child’s emerging autobiography in ways that habitually reference subjective 
+emotional experience (versus normative understandings) as a guide to interpretation of events 
+(Wang & Brockmeier, 2002). A man who responds to somatic manifestations of anxiety by 
+raising the alarm that a passerby has stolen his penis not only produces a construction of that 
+interaction as an incident of magical theft, but also reproduces the associated realities (e.g., 
+charged atmosphere of anxiety or the belief in a world populated by magical penis thieves) that 
+reconstitute fertile ground for others to report a similar experience (Adams & Dzokoto, 2007). 
+By drawing attention to such downstream consequences of action, a cultural psychology 
+perspective extends the idea of subjective construal in historical and material directions. When 
+people act on subjective construals they produce material realities that bear the traces of their 
+subjectivity and thereby inscribe personal psychology into ecological context. 
+To illustrate this idea of “person in context,” consider a classic study among students at 
+Kyoto University (Japan) and the University of Oregon (United States; Kitayama et al., 1997). 
+Researchers asked students in these universities to provide situations from their own lives in 
+which they experienced success and failure. The researchers then exposed different samples of 
+students from these universities to a random sample of 100 success situations and 100 failure 
+situations from each university, and they asked them to consider whether (and how much) their 
+self-esteem would rise or fall if they experienced those situations. Besides an effect of participant 
+background, such that European American students at Oregon (who reported net self-esteem 
+gain) tended to report higher self-esteem in response to situations than did Japanese students at 
+Kyoto (who reported net self-esteem loss), results also revealed an effect of situation source. 
+Regardless of participant background, Oregon-produced situations tended to elicit more self-
+enhancing (or less self-critical) responses and Kyoto-produced settings tended to elicit more self-
+critical (or less self-enhancing) responses. This study suggests that the patterns of promotion-
+19 
+ 
+focused self-enhancement and prevention-focused self-criticism observed in American and 
+Japanese settings (e.g., Heine et al., 1999) reside not only in the psychological habits of persons, 
+but also in the enhancement-affording or criticism-affording situations that people in these 
+settings create. These situations bear the self-evaluation tendencies of their producers, and exert 
+influence on the self-evaluation of subsequent actors who encounter them. 
+Dynamic Construction of Personal Identity 
+To further illustrate dynamic construction processes, consider again the phenomenon of 
+identity. Integration and stability in personal identity are not merely the reflection of some 
+authentic, internal core. Instead, the apparent stability of personal identity requires continual acts 
+of (re-)creation as a person collaborates with a relatively stable set of audiences (Hammack, 
+2008; Pasupathi, 2001) and draws on relatively stable configurations of ecological affordances—
+including selfways, subject positions (Hermans, 2001), and collective identity stereotypes—to 
+keep the story going (McAdams, 2001). 
+In terms of upstream influences, a person can exercise agency and direction over the 
+identity process by “selectively appropriating” elements of past autobiography or local 
+affordances and “imaginatively construing” them in ways that make sense for the person’s 
+particular identity story (McAdams, 2001, p. 101). For example, research suggests that people do 
+not recall autobiographical events in neutral or objective fashion, but instead do so in ways that 
+serve identity needs of the present (e.g., emphasizing success over failure to preserve a sense of 
+moral adequacy, personal efficacy, or self-esteem; Wilson & Ross, 2003). In terms of 
+downstream influences, the identity stories that people tell themselves and others have important 
+consequences for self-knowledge and motivation (e.g., Pasupathi, 2001; Wilson & Ross, 2003); 
+in particular, psychologists have noted the extent to which identity stories provide a person with 
+a sense of meaning, direction, and purpose.  
+A cultural psychology perspective suggests the extent to which integration and stability in 
+identities occur via the psychological constitution of everyday realities that provide the 
+ecological foundation for those identities. An interesting program of research in this regard 
+concerns the “behavioral residue” of personality: for example, the extent to which the content 
+and arrangement of artifacts in a room represent material expressions of personal traits (e.g., 
+Gosling, Ko, Mannarelli, & Morris, 2002). Similar work comes from research on place-making: 
+the process by which people transform natural space, often through use of tangible objects, by 
+individually or jointly infusing it with meaning. For example, people constitute relationships in 
+part through the collaborative production of a jointly constructed, material reality; that is, they 
+buy jointly owned objects, decorate and furnish homes, create gardens, and otherwise inscribe 
+their relationality on the structure of everyday worlds (Lohmann, Arriaga, & Goodfriend, 2003). 
+Likewise, research has examined the extent to which people express collective identities by 
+displaying national flags (Skitka, 2005), wearing clothing with university symbols, and otherwise 
+“basking in reflected glory” (Cialdini et al, 1976). All of these cases illustrate the psychological 
+constitution of cultural-ecological realities, by which actors deposit traces of their psychological 
+experience in the material stuff of everyday worlds. However, rather than see such behavioral 
+residue as the end-product of experience, a cultural psychology analysis emphasizes the extent to 
+which the associated artifacts—unmade beds, joint purchases, national flags—provide 
+scaffolding that continually reconstitutes the associated personal, relational, and collective 
+experience (see Mischel, 1968; Ross & Nisbett, 1991). 
+One important implication of this discussion is to propose greater space for the exercise 
+of human agency than one might otherwise expect from a perspective that emphasizes ecological 
+20 
+ 
+regulation. Researchers who emphasize the “automaticity of everyday life” have provocatively 
+asserted that perhaps 95% of psychological experience occurs via environmental regulation of 
+habitual responses. This suggests that only 5% of psychological experience is open to self-
+reflection or personal control toward meaningful, self-defining pursuits (Bargh, 1997; Bargh & 
+Chartrand, 1999). Without necessarily disputing this assessment, a cultural psychology analysis 
+proposes the psychological constitution of cultural realities as an additional, typically 
+underappreciated process by which people exercise self-direction. People exercise reflection and 
+intention not only to direct current activity, but also to construct worlds into which they deposit 
+their subjectivity and thereby permit a form of “automatic” intentional influence during future 
+moments in other settings when their action and experience are under environmental regulation. 
+Accordingly, some discussions of ecological regulation may understate the impact of human 
+agency because they fail to appreciate the extent to which the ecology of human experience is 
+not a “just natural” environment. Indeed, this failure to appreciate the psychological constitution 
+of everyday ecologies affords tendencies to naturalize the status quo and to deny the “possessive 
+investment” (Lipsitz, 1998) that people have in world maintenance. In contrast, a cultural 
+psychology perspective emphasizes that the ecology of human experience is a cultural product 
+that mediates the imagination and motivation of the intentional activity that created it.  
+Intentional Worlds 
+In addition to his famous definition of cultural psychology as the study of mutual 
+constitution, Shweder (1990, p. 3) less famously defined cultural psychology as the study of 
+“intentional worlds.” As the social-psychological principle of subjective construal emphasizes, 
+reality is typically ambiguous in the sense that any situation is open to multiple understandings.  
+When people act on particular understandings of a situation, they invest everyday realities with 
+beliefs and desires associated with those understandings. This process results in the 
+(re)production of intentional worlds: “already-there” (Shweder, 1990, p. 26) cultural ecologies 
+that bear the influence of collective understandings and subsequently direct activity toward 
+particular ends.  
+Although the idea of mutual constitution has been central to a cultural psychology 
+perspective in social-personality psychology (e.g., Fiske, Kitayama, Markus, & Nisbett, 1998; 
+Kashima, 2000), psychologists have typically ignored the idea of intentional worlds. In part, this 
+neglect likely reflects a disciplinary division of labor in which (even social) psychologists 
+typically study person-based manifestations of human experience and leave the study of “the 
+world” to other social sciences (for a discussion, see Shweder, et al., 2006). As we emphasize 
+throughout this paper, this division of labor ignores the extent to which the world is a 
+psychological product that mediates self-direction and social influence. However, this neglect 
+also reflects a conception of mind as a brain-limited processing mechanism, independent of 
+content and abstracted from context (Shweder, 1990). In contrast, the idea of intentional worlds 
+resonates with discussions of extended mind (e.g., Clark & Chalmers, 1998) and an appreciation 
+for the extent the extent to which species-typical experience requires engagement with the 
+scaffolding provided by ecologically embedded mentalities. 
+The “intention” in intentional worlds does not necessarily refer to the mental states of 
+people who produce, appropriate, or fall under the influence of these cultural products. People 
+may appropriate cultural tools without self-conscious reflection; they may engage them with 
+little intention or awareness about their (often “unintended”) consequences; and they may 
+reproduce them with little intention or awareness about the extent to which they inscribe their 
+own beliefs and desires. Rather, the adjective “intentional” refers to the directive force of cultural 
+21 
+ 
+realities. Instead of a (just) natural habitat, species-typical human beings inhabit psychologically 
+charged, cultural ecologies that systematically orient action toward particular directions. To 
+illustrate this concept, Shweder (1990) proposed an analytic framework for the study of the 
+relationship between “reality-constituting psyches (intentional persons) and culturally constituted 
+realities (intentional worlds)” (p. 27).   
+One can speak of an active relationship between psyche and reality “when the target 
+person himself [or herself] creates or selects his [or her] intentional world” (Shweder, 1990; p. 
+28). As an example of a negative active relationship—one in which “the intentionality of the 
+world diminishes or contravenes the intentionality of the person” (Shweder, 1990, p. 27)—
+consider a person who places an activated alarm clock across the room so that they must get out 
+of bed (rather than hit snooze button) to deactivate it the next morning (Shweder, 1990; based on 
+Schelling, 1984). In this example, a “reality-constituting person” recognizes the limitations of 
+self-directive capacity to follow more noble intentions in the moment of temptation and 
+“constructs an intentional world using collective resources to contravene his or her own 
+anticipated preference to stay in bed and go back to sleep” (Shweder, 1990, p. 28). In this and 
+other examples, people exercise a distal or culturally mediated form of self-regulation whereby 
+they actively invest their higher purposes in intentional worlds that provide more proximal, 
+automatic regulation to contravene their less noble intentions in some future moment.  
+As an example of a positive active relationship—one in which a “the intentionality of the 
+world amplifies or supports the intentionality of the person” (Shweder, 1990, p. 27)—consider 
+intentional worlds of romantic love. People on a date often deploy technologies of romance—
+soft candlelight, seductive fragrances, fine chocolates, sultry music, and silky textures (Adams, 
+Kurtiș, Salter, & Anderson, 2012)—not only as a means to seduce others, but also to “put 
+themselves in the mood” and enable their own self-seduction. In such cases, a reality-constituting 
+person (the distracted lover) uses a culturally constituted, intentional world (the romantic dinner) 
+to produce an experience that the person desires but cannot simply conjure up in the absence of 
+material affordances. This example suggests that romantic love is far from a “just” natural 
+experience; instead, romantic passion involves desires that people realize via cultural worlds 
+designed to constitute that experience (Holland & Eisenhart, 1990).  
+The preceding examples illuminate how intentional persons enhance their capacity for 
+self-direction by offloading or outsourcing self-regulation to affordances of intentional worlds. 
+This active appropriation of cultural affordances to serve personal projects contrasts with more 
+common understandings of cultural influence in which “other persons create or select an 
+intentional world for the target person in light of that [target] person’s intentionality” (Shweder, 
+1990, p. 27). In some cases, these forms of influence can relatively deliberate, as when people 
+knowingly deploy cultural affordances to afford or constrain another person’s actions or 
+experience in ways that the person herself or himself would not otherwise do. Shweder (1990, 
+pp. 27-28) refers to such cases as a reactive relationship between psyche and reality.  
+However, the more typical case is what Shweder (1990, p. 28) refers to as a passive 
+relationship between psyche and reality: one in which intentional influence becomes embedded 
+in routine practice or habitual ways of being that proceed without the awareness or deliberative 
+participation of influencer or influenced. Examples of this type come from work by Alan Fiske 
+(1991), who documented four basic relational models: Communal Sharing (CS), Authority 
+Ranking, (AR), Equality Matching (EM), and Market Pricing (MP). Fiske emphasizes that these 
+models are not simply evolved mechanisms hardwired into brain architecture, but also reside in 
+the cultural ecologies that intentional persons design to instantiate the models in locally 
+22 
+ 
+appropriate ways (see Fiske & Schubert, 2012). Although evolved predispositions associated 
+with the models provide potential for certain kinds of experience, people do not realize these 
+predispositions and develop the habits of being associated with these models unless they 
+participate in worlds that previous generations have arranged to reflect and impart the models. 
+To illustrate, consider practices of parent-child interaction in West African settings where 
+the AR model is prominent (Fiske, 1991). How do people come to experience parent-child (or 
+junior-senior) interaction in terms of this model versus others? Although elders may attempt to 
+explicitly indoctrinate children into value systems and ideologies associated with the AR model, 
+the more direct way that people acquire the habitual patterns associated with the model is 
+through repeated engagement with practices that reflect and promote the model. Everyday 
+practices of greeting, eating, sleeping, and interacting routinely direct people of junior status to 
+receive service after others, bend their bodies, subvert their gaze, or make themselves low than 
+others in ways that inscribe feelings of awe, respect, deference, and obedience. The same 
+practices routinely direct people of senior status to receive service before others, to assume more 
+expansive postures, or occupy elevated positions over others in ways that promote feelings of 
+power and responsibility for protection of others. It is routine performance of these practices in 
+the course of everyday interaction—not explicit indoctrination, ideological persuasion, or the 
+natural expression/outgrowth of an inborn model—that continually (re-)constitutes the 
+psychological habits associated with the model. It is likely that these practices find their way into 
+everyday routines through relatively conscious selection; that is, people originally invented 
+customary routines based on these practices because the practices reflect local beliefs about what 
+is good or true and afford desired behaviors in attunement with those beliefs. Eventually, routine 
+practices acquire an inertia of their own; that is, they continue to regulate everyday experience 
+without mindful or deliberate engagement of the actors who perform the routines. 
+Compare these practices to parent-child interaction in middle-class North American 
+settings where the EM model is prominent (Fiske, 1991). How do people come to experience 
+parent-child interaction in terms of this model versus others? Again, rather than explicit 
+indoctrination, the more direct way that people acquire associated patterns is through repeated 
+engagement with practices—e.g., face-to-face interaction featuring conversational turn-taking 
+while demanding eye contact (e.g., Greenfield et al., 2003)—that instantiate and promote an 
+experience of separate actors who interact as (potentially) equal partners. It is routine 
+engagement with these practices that continually re-constitutes the psychological habits 
+associated with the model (e.g., habits of independent self-construal).   
+Although the preceding examples consider the intentionality of everyday practices, one 
+can also consider intentionality of material artifacts. For example, an analysis of children’s books 
+suggested that authors in Taiwanese settings produce characters who model relatively low-
+arousal positive affect, but authors in American settings produce characters who model relatively 
+high-arousal positive affect (Tsai et al., 2007). Likewise, content analysis of televised interviews 
+with Olympic medalists suggests that Japanese interviews featured a balance of positive and 
+negative evaluations and emphasized the background or social context of performance, but 
+American interviews emphasized positive personal characteristics of the performers (Markus et 
+al., 2006). Presumably, the primary motivation of the producers of these artifacts is to tell stories 
+that resonate with consumers’ sensibilities and preferences, thereby increasing the demand for 
+their product. Even so, regardless of producers’ intentions, their products constitute intentional 
+worlds that shape consumers’ subjectivity (see Morling & Lamoreaux, 2008). 
+Toward a Cultural Psychology of Power and Domination 
+23 
+ 
+The idea of intentional worlds has implications for topics across the spectrum of social-
+personality psychology. For example, this notion resonates strongly with Bakhtinian perspectives 
+on the dialogical nature of personhood or self (Bakhtin, 1981; Hermans, 2001), which emphasize 
+how other people’s beliefs and desires constitute multiple subject positions from which a person 
+authors an experience of self-identity. Likewise, this idea resonates strongly with research on 
+behavioral confirmation processes, which documents how people deposit their beliefs and 
+expectations—regarding classroom performance (Rosenthal & Jacobsen, 1968), attractiveness 
+(Snyder et al., 1977), rejection (Downey, Freitas, Michaelis, & Khouri, 1998), hostility (Dodge 
+& Crick, 1990), or competition (Kelley & Stahelski, 1970)—into local ecologies via immediacy 
+behaviors and other observable manifestations. For example, research suggests that people often 
+act on anxious expectations about interracial interaction by increasing interpersonal distance as 
+measured by physical arrangement in space (e.g., chair distance; see Goff, Steele, & Davies, 
+2008; Word, Zanna, & Cooper, 1973). These inscriptions of person in context bear the social 
+influence of their producers and can elicit belief-confirming behavior (e.g., emotional distance or 
+racialized affect) from the often unwitting targets of the expectancy.  
+A promising way in which the idea of intentional worlds can inform social-personality 
+psychology concerns the topic of intergroup power. We briefly discuss two examples. 
+Privilege as Outcome Enhancement  
+The first example is the topic of stereotype threat. Conventional discussions of this topic 
+have emphasized how particular constructions of performance evaluation or testing situations—
+specifically, as a diagnostic measure of essential intelligence or intellectual merit (Croizet, 2008; 
+Steele, 1997)—cause underperformance among people from negatively stereotyped groups 
+relative to their “true” ability in the absence of those harmful constructions. However, an 
+exclusive emphasis on the harmful consequences of stereotype threat for people from 
+disadvantaged groups obscures a key point about the psychology of oppression. Specifically, the 
+same constructions of the test that artificially undermine oppressed group performance via 
+stereotype threat also serve to artificially inflate dominant group performance via the 
+phenomenon of stereotype lift (Walton & Cohen, 2003; Croizet, 2011).  
+This often obscured point has important implications for understandings of performance 
+and ability. If hegemonic constructions of the test situation provide a platform that leads people 
+from dominant groups to overperform relative to their true ability (such that they score higher 
+than they otherwise would in the absence of the performance-enhancing construction of the test), 
+then how is one to understand their personal ability? Is it most evident in their inflated 
+performance under standard constructions of the test situation or their corrected performance 
+under more neutral constructions of the test situation? Without denying the possibility of 
+performance-relevant dispositions (whether acquired skills or essential abilities; Dweck, Hong, 
+& Chiu, 1993), a cultural psychology analysis of “mind in society” (Vygotsky, 1978) emphasizes 
+that any performance is a joint product of such dispositions and the particular, culturally evolved 
+technologies present in an activity setting. This casts doubt on the possibility of observing raw 
+talent from any particular measure. 
+A second implication concerns an understanding of the test gap as the result not only of 
+barriers that impede outcomes of people from oppressed groups, but also of affordances that 
+enhance outcomes of people from dominant groups. Some readers may find it strange to refer to 
+standard constructions of the test situation as oppressive or to propose (as we do in the preceding 
+paragraph) that one might replace them with “more neutral” constructions. After all, the 
+tendency in hegemonic psychological science is to regard the test situation as a paragon of 
+24 
+ 
+neutrality. From a cultural psychology perspective, such beliefs in the neutrality of the test 
+situation require forms of “unknowing” (Geissler, 2013) similar to those that Shweder (1990) 
+described for the experimental laboratory. Specifically, constructions of standardized tests in 
+hegemonic psychological science treat the test situation 
+as a privileged space, where, quite fantastically and against much evidence, it is 
+conveniently assumed that one can physically enter a transcendental realm where 
+the effects of context, content, and meaning can be eliminated, standardized, or 
+kept under control, and [ability] observed in the raw. (Shweder, 1990; pp. 7-8) 
+ 
+In contrast, Shweder (1990) emphasizes the intentionality—psychologically constituted 
+affordances and constraints—of the test situation, 
+The alternative interpretation—the view from cultural psychology—is that mind 
+left to its own devices is mindless. … According to the principles of cultural 
+psychology, the effects of stuff won’t go away, even in the lab, for there is no 
+context-free environment. We are intentional beings who live in an intentional 
+world of constituted and represented particulars—domain-specific, concrete, 
+subject-dependent, artefactual things. (p. 10)  
+ 
+Such “constituted … things” as the standardized test situation are not neutral; instead, 
+processes of cultural selection have imbued them with a psychological charge that 
+reflects and serves particular interests.  
+ What interests does the construction of the test situation as neutral space serve? The 
+phenomenon of stereotype lift suggests that the test situation arises and persists precisely because 
+it does important societal work. In particular, standard constructions of the test situation launder 
+inequality (Croizet & Millet, 2012). They reproduce the same differential outcomes as the raw 
+exercise of power, but do so in a way that legitimizes the resulting inequality as the result of 
+differences in intellectual merit (see Jackman, 1994). Indeed, the very notion of raw, internal 
+ability—especially as an inherited entity that indicates merit—may itself produce racist 
+inequality (see Croizet, 2011 on the “racism of intelligence”). When this notion is in play, it not 
+only constitutes an unfair pressure that depresses performance of people with devalued identities, 
+but also serves as a performance-enhancing ideology that unfairly inflates the performance of 
+people with overvalued identities.  
+To help illustrate these ideas, consider discussions about performance-enhancing 
+substances in competitions such as the Olympic Games. Implicit in these discussions is an 
+understanding of performance as a combination of a performer’s true ability plus the artificial or 
+unnatural advantage that a person gains from using a performance-enhancing agent: whether 
+substance, piece of equipment, or training technique. All performers rely on some technologies 
+of performance enhancement; the question of the legitimacy of their performance rests on 
+conventions about which agents are “natural” and permissible, and these conventions vary over 
+time and across space. Two points follow. First, it is typically people in positions of power and 
+influence who decide on permissibility of different technologies, and the resulting decisions tend 
+to institutionalize their self-interested perceptions about which techniques are (un)natural. 
+Second, when the performance-enhancing agent is conventionally legitimate, observers are likely 
+to perceive the resulting performance as a function of the performer’s ability; to forget the 
+contribution of performance-enhancing agents to the production of the meritorious performance; 
+25 
+ 
+and to believe that any superior reward based on superior performance constitutes just desserts 
+for superior merit. 
+We think it instructive to apply the same logic to the case of cultural privilege and 
+notions of ability and merit. The superior performance of people from dominant or advantaged 
+groups is not so clearly the result of superior natural ability or merit; instead, it reflects the 
+imposition of technologies that have evolved via processes of cultural selection to 
+disproportionately afford them the possibility of over-performance beyond their natural ability. A 
+cultural psychology perspective calls into question the extent to which superior rewards based on 
+such (over)performance constitute just desserts. Performance is not just (in the sense of only) a 
+reflection of individual ability, but also reflects situations that have evolved to maximize the 
+advantage of some individuals over others. Moreover, the processes of selection that drive this 
+evolution are not just (in the sense of fair), but instead are biased in favor of the powerful. In 
+summary then, one can speak of hegemonic constructions of the test situation as “intentional 
+worlds” for domination: apparently “neutral” constructions of reality that (1) are infused with 
+dominant group beliefs and desires (e.g., about merit as the source of test scores) and (2) 
+systematically reproduce differential outcomes and racial advantage. 
+Collective Memory  
+As another example, consider work on representations of history and identity (Kurtiş et 
+al., 2010; Salter & Adams, 2016). In one direction, corresponding to the sociocultural 
+constitution of psychological experience, people build a sense of identity using collective 
+constructions of the past that tend to glorify collective triumphs and deny or silence acts of 
+collective wrongdoing (e.g., Baumeister & Hastings, 1997; Loewen, 1995; Wertsch, 2002). For 
+instance, official representations of history embedded in memorials, museums, and 
+commemorative holidays (Carretero & Kriger, 2011; Kurtiş, Adams, & Yellowbird, 2010; 
+Mukherjee, Saler, & Molina, 2015; Opotow, 2015) often highlight past glories and conceal 
+injustices. In the other direction, corresponding to this section’s focus on the psychological 
+constitution of cultural reality, people do not recall the past in neutral or disinterested fashion; 
+instead, they selectively re-member and re-produce constructions of the past in ways that address 
+present identity concerns (Sahdra & Ross, 2007; Wohl, Branscombe, & Klar, 2006). For 
+example, researchers in one study reported that the denial of collective guilt for colonial violence 
+in the Congo was greater among Belgian participants from older than younger generations. 
+Moreover, this denial of collective guilt was especially pronounced among older-generation 
+participants who scored high in national identification (Licata & Klein, 2010). 
+To cite other examples from our own research, White American students prefer 
+hegemonic commemorations of the American Thanksgiving holiday that glorify European 
+colonization of the North American continent: that is, celebrating it as an opportunity to express 
+gratitude for fulfillment of divinely ordained destiny while remaining silent about the violent 
+destruction of indigenous societies as a result of European colonization (Kurtiş et al., 2010). 
+Likewise, White American students prefer relatively hegemonic representations of Black History 
+Month (BHM) that emphasize peaceful coexistence in ethnically diverse communities and 
+individual achievements of African American heroes, but remain silent about the systems of 
+racial domination that required heroic resistance (Salter & Adams, 2016). These preferences 
+inform subsequent actions—failure to mention racial violence in one’s own Thanksgiving 
+celebrations or BHM assignment—that reconstitute the culturally inscribed silences that in turn 
+promote national identification and identity-defensive activity (e.g., denial about racism in 
+American society and opposition to antiracist policy; Kurtiş et al., 2010; Nelson, Adams, & 
+26 
+ 
+Salter, 2013; Salter & Adams, 2016). From this perspective, the proliferation of nation-
+glorifying, racism-denying representations in American society is not an accident or coincidence, 
+but instead occurs instead through incremental acts of everyday reproduction by ordinary people 
+acting on personal understandings and preferences. 
+This section’s emphasis on the psychological constitution of cultural reality focuses on a 
+question about which canonical approaches to cultural psychology remain relatively silent: How 
+or why do prevailing constructions of reality arise and persist? The conception of cultural 
+realities as intentional worlds proposes an answer to this question. Particular constructions of 
+reality arise and persist because people selectively reproduce bits of everyday realities that 
+resonate with their beliefs and desires. Because these beliefs and desires include a (barely 
+conscious) sense of group position or collective interest (Blumer, 1958; Bobo, 1999), the 
+institutional structures that define social life are likely to resonate with the collective interest of 
+the people with the most power to influence production of cultural reality.  
+Although domination sometimes occurs through deliberate acts of direct discrimination 
+or conscious exercise of racial power, a cultural psychology analysis suggests that their more 
+typical form may be preferential reproduction of apparently “neutral” cultural tools that 
+nevertheless have “disparate impact” and reproduce dominant-group advantage. For example, 
+relatively innocuous constructions of behavior as choice not only resonate with middle-class 
+understandings of action and desires for perceived control, but also “just happen” to reproduce 
+racial inequality when people withhold aid or justice from victims because they made bad 
+“choices” (e.g., for “choosing” to live in ethnic enclaves or to stay in New Orleans during 
+Hurricane Katrina; see Stephens, Hamedani, Markus, Bergsieker, & Eloul, 2009). Similarly, 
+models of ideal affect that emphasize high arousal positive states not only resonate with white 
+American understandings and desires (Tsai, 2007), but also delegitimize the experience of 
+dissatisfaction that often accompanies motivation for social change (Ahmed, 2008; Becker & 
+Maracek, 2008). From this perspective, understandings of choice or ideal affect that prevail in 
+North American settings (and hegemonic psychological science) are not essentially neutral 
+constructions that have unfortunate side-effects; instead, they are dynamically reproduced 
+cultural tools that may evolve and persist precisely because they serve interests of domination. 
+ 
+EXTENDING SOCIAL AND PERSONAL IN SOCIAL-PERSONALITY PSYCHOLOGY 
+A primary goal of this chapter has been to extend the social and personal of social-
+personality psychology in ways that challenge the prevailing individualism of hegemonic 
+psychological science. In keeping with the reductionist roots and Euro-American colonial 
+character of psychological science, social-personality psychologists have typically retreated to 
+atomistic philosophical positions that portray social phenomena as the aggregate of separate 
+individual experience. In contrast, a cultural psychology analysis illuminates a more collective 
+understanding of mind, not in the sense of a collective entity with its own motivations or 
+intentions (Allport, 1924); nor merely in the sense of individual motivations and intentions when 
+collective identity is salient (as in self-categorization theory; Turner et al., 1987); but instead in 
+the sense of intentional worlds: motivation and intention deposited as psychological traces into 
+the structure of everyday cultural ecologies. The key to this extension is an emphasis on the 
+history and materiality of persons and situations. 
+Regarding the former, a cultural psychology analysis emphasizes the extent to which 
+species-general, community-specific, or individual patterns reflect the sociocultural constitution 
+of personal experience: the inscription of context in person as one engages and acquires the 
+27 
+ 
+psychological charge of ecologically embedded, cultural tools. From this perspective, even the 
+sense of abstracted independence that informs hegemonic psychological science is not “just 
+natural,” but instead is a social product that reflects the historical evolution of cultural 
+technologies (i.e., independent selfways) that promote and maintain it. In particular, a cultural 
+psychology perspective suggests that independent selfways have their foundation in the 
+unprecedented affluence of North American settings associated with past and ongoing resource 
+extraction and (neo)colonial appropriation. A cultural psychology perspective informed by 
+perspectives of the Majority World reveals that the naturalization of “independent selfways” 
+within hegemonic accounts of psychological science reflects and promotes the interests of a 
+privileged minority of people in Western, Educated, Industrial, Rich, Democratic (a.k.a. WEIRD; 
+Henrich et al., 2010) settings at the expense of the marginalized majority of humanity.  
+Regarding the latter, a cultural psychology analysis emphasizes the extent to which situations 
+and everyday ecologies reflect the psychological constitution of cultural realities: that is, the 
+infusion of person in context as people imaginatively re-make material realities into which they 
+invest their beliefs and desires. Humans do not exist in a natural environment, but instead inhabit 
+cultural ecologies that bear the accumulated, material sediment from a social history of human 
+activity. Besides avoiding pitfalls of an exclusive emphasis on environmental determinants of 
+action (see Reicher & Haslam, 2006; Wrong, 1961), this emphasis on the psychological 
+constitution of cultural realities extends the “personal” in social-personality psychology beyond 
+the narrow concern with embodied dispositions to emphasize more enduring manifestations of 
+personal agency embedded in everyday intentional worlds (Gjerde, 2004). From this perspective, 
+one should locate the power of the person not only in proximal self-direction of momentary 
+experience, but also (and more profoundly) in the imaginative capacity to construct intentional 
+worlds (i.e., ecological manifestations of person in context) that provide distal or “culturally 
+mediated” forms of self-regulation, even in the absence of proximal self-direction. 
+28 
+ 
+Acknowledgments 
+We thank the Culture and Psychology Research Group at the University of Kansas and Hazel 
+Rose Markus for valuable suggestions on an earlier draft. Glenn Adams acknowledges the 
+influence of innumerable conversations with fellows at the Center for Advanced Study in the 
+Behavioral Sciences at Stanford University, and he is grateful for the Center’s support. 
+Address correspondence concerning this article to Glenn Adams, Department of Psychology, 
+University of Kansas, 1415 Jayhawk Blvd., Lawrence, KS 66045–7556. Email: adamsg@ku.edu. 
+29 
+ 
+References 
+Adams, G. (2005). The cultural grounding of personal relationship: Enemyship in North 
+American and West African worlds. Journal of Personality and Social Psychology, 88, 948–
+968. 
+Adams, G., Anderson, S. L., & Adonu, J. K. (2004). The cultural grounding of closeness and 
+intimacy. In D. Mashek & A. Aron (Eds.), The handbook of closeness and intimacy (pp. 321–
+339). Mahwah, NJ: Erlbaum. 
+Adams, G., Biernat, M., Branscombe, N. R., Crandall, C. S., & Wrightsman, L. S. (2008). 
+Beyond prejudice: Toward a sociocultural psychology of racism and oppression. In G. 
+Adams, M. Biernat, N. R. Branscombe, C. S. Crandall, & L. S. Wrightsman (Eds.), 
+Commemorating Brown: The social psychology of racism and discrimination (pp. 215–246). 
+Washington, DC: American Psychological Association. 
+Adams, G., Bruckmüller, S., & Decker, S. (2012). Agency in context: Ecologies of abundance 
+and scarcity. International Perspectives in Psychology: Research, Practice, Consultation, 1, 
+141-153. 
+Adams, G., & Dzokoto, V. A. (2007). Genital-shrinking panic in Ghana: A cultural-
+psychological analysis. Culture and Psychology, 13, 83–104 
+Adams, G., & Dzokoto, V. A. (2003). Self and identity in African studies. Self and Identity, 2, 
+345–359. 
+Adams, G. & Kurtiş, T. (2015). Friendship and gender in cultural-psychological perspective: 
+Implications for research, practice, and consultation. International Perspectives in 
+Psychology: Implications for Research, Practice, and Consultation, 4, 182-194. 
+Adams, G., Kurtiș, T., Salter, P. S., & Anderson, S. L. (2012). A cultural psychology of 
+relationship: Decolonizing science and practice. In O. Gillath, G. Adams, & A. D. Kunkel 
+(Eds.), Relationship science: Integrating across evolutionary, neuroscience and sociocultural 
+approaches (pp. 49–70). Washington DC: American Psychological Association. 
+Adams, G., & Markus, H. R. (2004). Toward a conception of culture suitable for a social 
+psychology of culture. In M. Schaller & C. S. Crandall (Eds.), Psychological foundations of 
+culture (pp. 335–360). Hillsdale, NJ: Erlbaum. 
+Adams, G., & Plaut, V. C. (2003). The cultural grounding of personal relationship: Friendship in 
+North American and West African worlds. Personal Relationships, 10, 333–348. 
+Adams, G., & Salter, P. S. (2007). Health psychology in African settings: A cultural 
+psychological analysis. Journal of Health Psychology, 12, 539–551. 
+Adams, W. M. & Mulligan, M. (2003). Introduction. In W.M. Adams & M. Mulligan (Eds.), 
+Decolonizing nature: Strategies for conservation in a post-colonial era. (pp. 1-15). London: 
+Earthscan Publications.  
+Ahmed, S. (2008). Multiculturalism and the promise of happiness. New Formations, 63, 121–
+137. 
+Allport. F. H. (1924). The group fallacy in relation to social science. Journal of Abnormal and 
+Psychology and Social Psychology, 19, 60–73. 
+Anderson, B. (1983). Imagined communities: Reflections on the origin and spread of 
+nationalism. London: Verso. 
+Anderson, S. L., Adams, G., & Plaut, V. C. (2008). The cultural grounding of personal 
+relationship: The importance of attractiveness in everyday life. Journal of Personality and 
+Social Psychology, 95, 352–368. 
+Arnett, J. J. (2002). The psychology of globalization. American Psychologist, 57, 774–783. 
+30 
+ 
+Arnett, J. J. (2008). The neglected 95%: Why American psychology needs to become less 
+American. American Psychologist, 63, 602–614. 
+Bakhtin, M. (1981). The dialogic imagination: Four essays by M. M. Bakhtin (M. E. Holquist, 
+Ed., C. Emerson & M. Holquist, Trans.). Austin: University of Texas Press. 
+Bargh, J. A. (1997). The automaticity of everyday life. In R. S. Wyer Jr. (Ed.), Advances in 
+social cognition (Vol. 10, pp. 1–61). Mahwah, NJ: Erlbaum. 
+Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity of being. American 
+Psychologist, 54, 462–479. 
+Bartlett, F. C. (1932). Remembering: A study in experimental and social psychology. Cambridge, 
+UK: Cambridge University Press. 
+Baumeister, R. F. (1987). How the self became a problem: A psychological review of historical 
+research. Journal of Personality and Social Psychology, 52, 163–176. 
+Baumeister, R. F., & Hastings, S. (1997). Distortions of collective memory: How groups flatter 
+and deceive themselves. In J. W. Pennebaker, D. Paez, & B. Rime (Eds.), Collective memory 
+of political events: Social psychological perspectives (pp. 277–293). Mahwah, NJ: Erlbaum. 
+Becker, D., & Maracek, J. (2008). Dreaming the American dream: Individualism and positive 
+psychology. Social and Personality Psychology Compass, 2, 1767–1780. DOI: 
+10.1111/j.1751–9004.2008.00139.x 
+Bellah, R., Madsen, R., Sullivan, W., Swindler, A., & Tipton, S. (1985). Habits of the heart: 
+Individualism and commitment in American life. New York: Harper & Row. 
+Berger, P. L., & Luckmann, T. (1966). The social construction of reality: A treatise in the 
+sociology of knowledge. Garden City, NY: Anchor Books. 
+Billig, M. (1995). Banal nationalism. London: Sage. 
+Bledsoe, C. (1990). No success without struggle: Social mobility and hardship for foster children 
+in Sierra Leone. Man, 25, 70–88. 
+Blumer, H. (1958). Race prejudice as a sense of group position. Pacific Sociological Review, 1, 
+3–7. 
+Bobo, L. D. (1999). Prejudice as group position: Microfoundations of a sociological approach to 
+racism and race relations. Journal of Social Issues, 55, 445–472. 
+Bourdieu, P. (1977). Outline of a theory of practice. Cambridge: Cambridge University Press. 
+Bregman, A. S. (1990). Auditory scene analysis: The perceptual organization of sound. 
+Cambridge, MA: MIT Press. 
+Bruner, J. (1990). Acts of meaning. Cambridge, MA: Harvard University Press. 
+Carretero, M. & Kriger, M. (2011). Historical representations and conflicts about indigenous 
+people as national identities. Culture & Psychology, 17, 177-195. 
+ Chiu, C. Y., Gelfand, M., Yamagishi, T., Shteynberg, G., & Wan, C. (2010). Intersubjective 
+culture: The role of intersubjective perceptions in cross-cultural research. Perspectives on 
+Psychological Science, 5, 482–493. 
+Cialdini, R. B., Borden, R. J., Thorne, A., Walker, M., Freeman, S., & Sloan, L. (1976). Basking 
+in reflected glory: Three (football) field studies. Journal of Personality and Social 
+Psychology, 34, 366–375. 
+Clark, A., & Chalmers. D. J. (1998). The extended mind. Analysis, 58, 7-19. 
+Coe, C. (2011). What is love? The materiality of care in Ghanaian transnational families. 
+International Migration, 49, 7-24. 
+31 
+ 
+Cohen, D., Nisbett, R. E., Bowdle, B. F., & Schwarz, N. (1996). Insult, aggression, and the 
+Southern culture of honor: An “experimental ethnography.” Journal of Personality and 
+Social Psychology, 70, 945–960. 
+Cole, J. (2001). Forget colonialism? Sacrifice and the art of memory in Madagascar. Berkeley: 
+University of California Press. 
+Cole, M. (1996). Cultural psychology: A once and future discipline. Cambridge, MA: Harvard 
+University Press. 
+Coltrane, S. (2000). Research on household labor: Modeling and measuring the social 
+embeddedness of routine family work. Journal of Marriage and the Family, 62, 1208-1233. 
+Comaroff, J., & Comaroff., J. L. (2012). Theory from the South: Or, how Euro-America is 
+evolving toward Africa. Anthropological Forum: A Journal of Social Anthropology and 
+Comparative Sociology, 22, 113–131. 
+Cousins, S. D. (1989). Culture and selfhood in Japan and the U.S. Journal of Personality and 
+Social Psychology, 56, 124–131. 
+Croizet, J. С. (2008). The pernicious relationship between merit assessment and discrimination in 
+education. In G. Adams, M. Biernat, N. R. Branscombe, С. S. Crandall, & L. S. Wrightman 
+(Eds.), Commemorating Brown: The social psychology of racism and discrimination (pp. 
+153–172). Washington, DC: American Psychological Association. 
+Croizet, J. C. (2011). The racism of intelligence: How mental testing practices have constituted 
+an institutionalized form of group domination. In H. L. Gates (Ed.), Handbook of African 
+American citizenship. Oxford: Oxford University Press. 
+Croizet, J. C., & Millet, M. (2012). Social class and test performance: From stereotype threat to 
+symbolic violence aand vice versa. In M. Inzlicht & T. Schmader (Eds.), Stereotype threat: 
+Theory, process, and application (pp. 188-201). New York: Oxford University Press. 
+De Sousa Santos, B. (2014). Epistemologies of the South: Justice against epistemicide. Paradigm 
+Publishers. 
+Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. 
+Journal of Personality and Social Psychology, 56, 5–18. 
+Dodge, K. A., & Crick, N. R. (1990). Social information-processing bases of aggressive behavior 
+in children. Personality and Social Psychology Bulletin, 16, 8–22. 
+Dodoo, F. N.-A. (1998). Marriage type and reproductive decisions: A comparative study in sub-
+Saharan Africa. Journal of Marriage and the Family, 60, 232–242. 
+Downey, G., Freitas, A. L., Michaelis, B., & Khouri, H. (1998). The self-fulfilling prophecy in 
+close relationships: Rejection sensitivity and rejection by romantic partners. Journal of 
+Personality and Social Psychology, 75, 545–560. 
+Durrheim, K., & Dixon, J. (2004). Attitudes in the fiber of everyday life: The discourse of racial 
+evaluation and the lived experience of desegregation. American Psychologist, 59, 626–636. 
+Dweck, C. S., Hong, Y., & Chiu, C. Y. (1993). Implicit theories: Individual differences in the 
+likelihood and meaning of dispositional inference. Personality and Social Psychology 
+Bulletin, 19, 644–656. 
+Eid, M., & Diener, E. (2001). Norms for experiencing emotions in different cultures: Inter- and 
+intranational differences. Journal of Personality and Social Psychology, 81, 869–885. 
+Endo, Y., & Meijer, Z. (2004). Autobiographical memory of success and failure experiences. In 
+Y. Kashima, Y. Endo, E. S. Kashima, C. Leung, & J. McClure (Eds.), Progress in Asian 
+social psychology (Vol. 4, pp.67–84). Seoul, Korea: Kyoyook-Kwahak-Sa Publishing 
+Company. 
+32 
+ 
+Erikson, E. H. (1968). Identity: Youth and crisis. New York: Norton. 
+Ferme, M. C. (2001). The underneath of things: Violence, history, and the everyday in Sierra 
+Leone. Berkeley: University of California Press. 
+Ferguson, J. (2006). Global shadows: Africa in the neoliberal world order. Durham, NC: Duke 
+University Press. 
+Fiske, A. P. (1991). Structures of social life: The four elementary forms of social relations: 
+Communal sharing, authority ranking, equality matching, and market pricing. New York: 
+Free Press. 
+Fiske, A., Kitayama, S., Markus, H. R., & Nisbett, R. E. (1998). The cultural matrix of social 
+psychology. In D. Gilbert & S. Fiske & G. Lindzey (Eds.), The handbook of social 
+psychology (4th ed., pp. 915–981). San Francisco: McGraw-Hill. 
+Fiske, A. & Schubert, L. (2012). How to relate to people: The extraterrestrial’s guide to Homo 
+sapiens. In O. Gillath, G. Adams, & A. Kunkel (Eds.), Relationship science: Integrating 
+evolutionary, neuroscience, and sociocultural approaches (pp. 169–195). Washington, DC: 
+American Psychological Association. 
+Geissler, P.W. (2013). Public secrets in public health: Knowing not to know while making 
+scientific knowledge. American Ethnologist, 40, 13-34. 
+Geschiere, P. (1997). The modernity of witchcraft: Politics and the occult in postcolonial Africa. 
+Charlottesville: University of Virginia Press. 
+Gibson, J. J. (1977). The theory of affordances. In R. Shaw & J. Bransford (Eds.), Perceiving, 
+acting, and knowing: Toward an ecological psychology (pp. 67–82). Hillsdale, NJ: Erlbaum. 
+Giddens, A. (1991). Modernity and self-identity: Self and society in the late modern age. 
+Cambridge, UK: Polity. 
+Gjerde, P. F. (2004). Culture, power, and experience: Toward a person-centered cultural 
+psychology. Human Development, 47, 138–157. 
+Goff, P. A., Steele, C. M., & Davies, P. G. (2008). The space between us: Stereotype threat and 
+distance in interracial contexts. Journal of Personality and Social Psychology, 94, 91–107. 
+Goffman, E. (1959). The presentation of self in everyday life. New York: Anchor Books. 
+Goody, E. (1982). Parenthood and social reproduction: Fostering and occupational roles in 
+West Africa. Cambridge, UK: Cambridge University Press. 
+Gosling, S. D., Ko, S., J., Mannarelli, T., & Morris, M. E. (2002). A room with a cue: Personality 
+judgments based on offices and bedrooms. Journal of Personality and Social Psychology, 82, 
+379–398. 
+Greenfield, P. M., Keller, H., Fuligni, A., & Maynard, A. (2003). Cultural pathways through 
+universal development. Annual Review of Psychology, 54, 461–490. 
+Greenfield, P. M., Maynard, A. E., & Martí, F. A. (2009). Implications of commerce and 
+urbanization for the learning environments of everyday life: A Zinacantec Maya family 
+across time and space. Journal of Cross-Cultural Psychology, 40, 935–952. 
+Griffin, D., & Ross, L. (1991). Subjective construal, social inference, and human 
+misunderstanding. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 
+24, pp. 319–359). San Diego, CA: Academic. 
+Grosfoguel, R. (2002). Colonial difference, geopolitics of knowledge, and global coloniality in 
+the modern/colonial capitalist world-system. Review, 25(3), 203-334. 
+Hammack, P. L. (2008). Narrative and the cultural psychology of identity. Personality and 
+Social Psychology Review, 12, 222–247. 
+33 
+ 
+Hardin, C. D., & Higgins, E. T. (1996). Shared reality: How social verification makes the 
+subjective objective. In R. Sorrentino & E. T. Higgins (Eds.), Handbook of motivation and 
+cognition (Vol. 3, pp. 28–84). New York: Guilford. 
+Hawkins, S. (2002). Writing and colonialism in Northern Ghana: The encounter between the 
+LoDagaa and “The world on paper,” 1892–1991. Toronto: University of Toronto Press. 
+Heath, C., Bell, C., & Sternberg, E. (2001). Emotional selection in memes: The case of urban 
+legends. Journal of Personality and Social Psychology, 81, 1028–1041. 
+Heine, S. J., & Hamamura, T. (2007). In search of East Asian self-enhancement. Personality and 
+Social Psychology Review, 11, 1–24. 
+Heine, S. J., Kitayama, S., Lehman, D. R., Takata, T., Ide, E., Leung, C., et al. (2001). Divergent 
+consequences of success and failure in Japan and North America: An investigation of self-
+improving motivations and malleable selves. Journal of Personality and Social Psychology, 
+81, 599–615. 
+Heine, S. J., Lehman, D. R., Markus, H. R., & Kitayama, S. (1999). Is there a universal need for 
+positive self-regard? Psychological Review, 106, 766–794. 
+Heckenberger, M. J., (2005). The ecology of power: Culture, place and personhood in the 
+Southern Amazon, A.D. 1000-2000. New York: Routledge. 
+Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., & Gintis, H., et al. (2005). “Economic 
+man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies. 
+Behavioral and Brain Sciences, 28, 795–855. 
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? 
+Behavioral and Brain Sciences, 33, 61–83. 
+Hermans, H. J. M. (2001). The dialogical self: Toward a theory of personal and cultural 
+positioning. Culture and Psychology, 7, 243–281. 
+Hermans, H. J. M., & Kempen, H. J. G. (1998). Moving cultures: The perilous problems of 
+cultural dichotomies in a globalizing society. American Psychologist, 53, 1111–1120. 
+Higgins, E. T. (1996). The “self digest”: Self-knowledge serving self-regulatory functions. 
+Journal of Personality and Social Psychology, 71, 1062–1083. 
+Higgins, E. T. (1997). Beyond pleasure and pain. American Psychologist, 52, 1280–1300.  
+Holland, D., & Eisenhart, M. (1990). Educated in romance: Women, achievement, and college 
+culture. Chicago: University of Chicago Press. 
+Holland, D. & Lave, J. (2001). History in person: An introduction. In D. Holland  & J. Lave 
+(Eds.), History in person: Enduring struggles, contentious practice, intimate identities (pp. 3-
+33). Santa Fe, NM, USA: School of American Research Press.  
+Inkeles, A. (1969). Making men modern: On the causes and consequences of individual change 
+in six developing countries. American Journal of Sociology, 75(2), 208-225.  
+Inkeles, A. & Smith, D. (1974). Becoming modern. Cambridge, MA: Harvard University Press. 
+Jackman, M. R. (1994). The velvet glove: Paternalism and conflict in gender, class, and race 
+relations. Berkeley: University of California Press. 
+Jackson, M. S. (1982). Allegories of the wilderness: Ethics and ambiguity in Kuranko narratives. 
+Bloomington: Indiana University Press. 
+Kağıtçıbaşı, Ç. (1996). Family and human development across cultures: A view from the other 
+side. Mahwah, NJ: Erlbaum. 
+Kağıtçıbaşı, Ç., & Ataca, B. (2005). Value of children and family change: A three-decade 
+portrait from Turkey. Applied Psychology, 54, 317–337. 
+34 
+ 
+Karp, D. R., Jin, N., Yamagishi, T., & Shinotsuka, H. (1993). Raising the minimum in the 
+minimal group paradigm. Japanese Journal of Experimental Social Psychology, 32, 231–
+240. 
+Karpinski, A., & Hilton, J. L. (2001). Attitudes and the implicit association test. Journal of 
+Personality and Social Psychology, 81, 774–788. 
+Kashima, Y. (2000). Conceptions of culture and person for psychology. Journal of Cross-
+Cultural Psychology, 31, 14–32. 
+Kashima, E. S., & Kashima, Y. (1998). Culture and language: The case of cultural dimensions 
+and personal pronoun use. Journal of Cross-Cultural Psychology, 29, 461–486. 
+Keller, H. (2003). Socialization for competence: Cultural models of infancy. Human 
+Development, 46, 288–311. 
+Keller, H., Schölmerich, A., & Eibl-Eibesfeldt, I. (1988). Communication patterns in adult-infant 
+interactions in Western and non-Western cultures. Journal of Cross-Cultural Psychology, 19, 
+427–445. 
+Kelley, H. H., & Stahelski, A. J. (1970). Social interaction basis of cooperators’ and competitors’ 
+beliefs about others. Journal of Personality and Social Psychology, 16, 66–91. 
+Kim, H., & Markus, H. R. (1999). Deviance or uniqueness, harmony or conformity? A cultural 
+analysis. Journal of Personality and Social Psychology, 77, 785–800. 
+Kim, H. S., & Sherman, D. K. (2007). “Express yourself”: Culture and the effect of self-
+expression on choice. Journal of Personality and Social Psychology, 92, 1–11. 
+Kim, H. S., Sherman, D. K., & Taylor, S. E. (2008). Culture and social support. American 
+Psychologist, 63, 518–526. 
+Kitayama, S., Ishii, K., Imada, T., Takemura, K., & Ramaswamy, J. (2006). Voluntary settlement 
+and the spirit of independence: Evidence from Japan’s “Northern frontier.” Journal of 
+Personality and Social Psychology, 91, 369–384. 
+Kitayama, S., Markus, H. R., & Kurokawa, M. (2010). Culture, emotion, and well-being: Good 
+feelings in Japan and the United States. Cognition and Emotion, 14, 93–124. 
+Kitayama, S., Markus, H. R., Matsumoto, H., & Norasakkunkit, V. (1997). Individual and 
+collective processes in the construction of the self: Self-enhancement in the United States and 
+self-criticism in Japan. Journal of Personality and Social Psychology, 72, 1245–1267. 
+Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., & Keltner, D. (2012). 
+Social class, solipsism, and contextualism: How the rich are different from the poor. 
+Psychological Review, 119, 546–572. 
+Kurtiş, T. & Adams, G. (2015a). Interdependence and relationality across dimensions of culture 
+and gender. Psychology and Society, 7, 29-50. 
+Kurtiş, T. & Adams, G. (2015b). Decolonizing liberation: Toward a transnational feminist 
+psychology. Journal of Social and Political Psychology: Special Thematic Section on 
+Decolonizing Psychological Science, 3, 388-413. 
+Kurtiş, T. & Adams, G. (2013). Toward a study of culture suitable for (Frontiers) in Cultural 
+Psychology. Frontiers in Cultural Psychology, 4, 392-393. 
+Kurtiș, T., Adams, G., & Yellow Bird, M. (2010). Generosity or genocide? Identity implications 
+of silence in American Thanksgiving commemorations. Memory, 18, 208–224. 
+Kühnen, U., Hannover, B., & Schubert, B. (2001). The semantic-procedural interface model of 
+the self: The role of self-knowledge for context-dependent versus context-independent modes 
+of thinking. Journal of Personality and Social Psychology, 80, 397–409. 
+35 
+ 
+Kühnen, U., & Oyserman, D. (2002). Thinking about the self influences thinking in general: 
+Cognitive influences of salient self-concept. Journal of Experimental Social Psychology, 38, 
+492–499. 
+Lau, I. Y. M., Chiu, C. Y., & Lee, S.-I. (2001). Communication and shared reality: Implications 
+for the psychological foundations of culture. Social Cognition, 19, 350–371. 
+Lee, A. Y., Aaker, J. L., & Gardner, W. L. (2000). The pleasures and pains of distinct self-
+construals: The role of interdependence in regulatory focus. Journal of Personality and 
+Social Psychology, 78, 1122–1134. 
+Lee, F., Hallahan, M., & Herzog, T. (1996). Explaining real life events: How culture and domain 
+shape attributions. Personality and Social Psychology Bulletin, 22, 732–741. 
+Lentz, C. (2006). Ethnicity and the making of history in Northern Ghana. Edinburgh: Edinburgh 
+University Press. 
+LeVine, R. A., Dixon, S., LeVine, S., Richman, A., Leiderman, P. H., Keefer, C. H., et al. 
+(1994). Child care and culture: Lessons from Africa. New York: Cambridge University 
+Press. 
+Lewis, M. W., & Wigen, K. E. (1997). The myth of continents: A critique of metageography. 
+Berkeley: University of California Press. 
+Licata, L. & Klein, O. (2010). Holocaust or benevolent paternalism? Intergenerational 
+comparisons on collective memories and emotions about Belgium’s colonial past. 
+International Journal of Conflict and Violence, 4(1), 45-57. 
+Lipsitz, G. (1998). The possessive investment in Whiteness: How White people profit from 
+identity politics. Philadelphia, PA: Temple University Press.  
+Loewen, J. (1995). Lies my teacher told me: Everything your American history textbook got 
+wrong. New York: Touchstone. 
+Lohmann, A., Arriaga, X. B., Goodfriend, W. (2003). Close relationships and placemaking: Do 
+objects in a couple’s home reflect couplehood? Personal Relationships, 10, 437–449. 
+Maldonado-Torres, N. (2007). On the coloniality of being. Contributions to the development of a 
+concept. Cultural Studies, 21, 240-270. 
+Markus, H. R., & Kitayama, S. (1991). Culture and self: Implications for cognition, emotion, and 
+motivation. Psychological Review, 98, 224–253. 
+Markus, H. R., & Kitayama, S. (2004). Models of agency: Sociocultural diversity in the 
+construction of action. In V. Murphy-Berman & J. J. Berman (Eds.), Nebraska symposium on 
+motivation: Vol. 49. Cross-cultural differences in perspectives on self (pp. 1–57). Lincoln: 
+University of Nebraska Press. 
+Markus, H. R., Mullally, P. R., & Kitayama, S. (1997). Selfways: Diversity in modes of cultural 
+perception. In U. Neisser & D. A. Jopling (Eds.), The conceptual self in context: Culture, 
+experience, self-understanding. The Emory symposia in cognition. (pp. 13–61). New York: 
+Cambridge University Press. 
+Markus, H. R., Ryff, C. D., Curhan, K. B., & Palmersheim, K. A. (2004). In their own words: 
+Well-being at midlife among high school educated and college-educated adults. In O. G. 
+Brim, C. D. Ryff, & R. C. Kessler (Eds.), How healthy are we? A national study of well-
+being at midlife (pp. 273–319). Chicago: University of Chicago Press. 
+Markus, H. R., Uchida, Y., Omoregie, H., Townsend, S. S. M., & Kitayama, S. (2006). Going for 
+the gold: Models of agency in Japanese and American contexts. Psychological Science, 17, 
+103–112. 
+36 
+ 
+Masuda, T., & Nisbett, R. E. (2001). Attending holistically vs. analytically: Comparing the 
+context sensitivity of Japanese and Americans. Journal of Personality and Social 
+Psychology, 81, 922–934. 
+Matsumoto, D. (1999). Culture and self: An empirical assessment of Markus and Kitayama’s 
+theory of independent and interdependent self-construal. Asian Journal of Social Psychology, 
+2, 289–310. 
+McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5, 100–
+122. 
+McArthur, L. Z., & Baron, R. M. (1983). Toward an ecological theory of social perception. 
+Psychological Review, 90, 215–238. 
+McCrae, R. R., & Allik, J. (Eds.) (2002). The five-factor model of personality across cultures. 
+New York: Kluwer. 
+McIntyre, A., Lyons, A., Clark, A. E., & Kashima, Y. (2004). The microgenesis of culture: Serial 
+reproduction as an experimental simulation of cultural dynamics. In M. Schaller, & C. S. 
+Crandall (Eds.), The psychological foundations of culture (pp. 227–258). Mahwah, NJ: 
+Erlbaum. 
+Mead, G. H. (1934). Mind, self, and society (Charles W. Morris, Ed.) Chicago: University of 
+Chicago Press. 
+Mesquita, B. (2001). Emotions in collectivist and individualist contexts. Journal of Personality 
+and Social Psychology, 80, 68–74. 
+Meyer, B. (1998). The power of money: Politics, sorcery, and Pentecostalism in Ghana. African 
+Studies Review, 41, 15–38. 
+Mignolo , W. D. (2009). Epistemic disobedience, independent thought, and decolonial freedom. 
+Theory, Culture, and Society, 26, 159–181. 
+Miller, J. G. (1984). Culture and the development of everyday social explanation. Journal of 
+Personality and Social Psychology, 46, 961–978. 
+Mischel, W. (1968). Personality and assessment. New York: Wiley. 
+Morling, B., Kitayama, S., & Miyamoto, Y. (2002). Cultural practices emphasize influence in the 
+United States and adjustment in Japan. Personality and Social Psychology Bulletin, 28, 311–
+323. 
+Morling, B., & Lamoreaux, M. (2008). Measuring culture outside the head: A meta-analysis of 
+cultural products. Personality and Social Psychology Review, 12, 199–221. 
+Morelli, G. A., Rogoff, B., Oppenheim, D., & Goldsmith, D. (1992). Cultural variation in 
+infants’ sleeping arrangements: Questions of independence. Developmental Psychology, 28, 
+604–613. 
+Moscovici, S. (1984). The phenomena of social representations. In R. M. Farr & S. Moscovici 
+(Eds.), Social representations (pp. 3–69). Cambridge, UK: Cambridge University Press 
+Mukherjee, S., Salter, P. S., & Molina, L. E. (2015). Museum spaces as psychological 
+affordances: representations of immigration history and national identity. Frontiers in 
+Psychology, 6, 692. http://doi.org/10.3389/fpsyg.2015.00692  
+Nelson, J.C., Adams, G., & Salter, P.S. (2013). The Marley Hypothesis: Racism denial reflects 
+ignorance of history. Psychological Science, 24(2), 213-218.  
+Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). Culture and systems of thought: 
+Holistic vs. analytic cognition. Psychological Review, 108, 291–310. 
+37 
+ 
+Norenzayan, A., & Atran, S. (2004). Cognitive and emotional processes in the cultural 
+transmission of natural and nonnatural beliefs. In M. Schaller & C. Crandall (Eds.), The 
+psychological foundations of culture (pp 149–169). Mahwah, NJ: Erlbaum. 
+Norenzayan, A., Smith, E. E., Kim, B. J., & Nisbett, R. E. (2002). Cultural preferences for 
+formal versus intuitive reasoning. Cognitive Science, 26, 653–684. 
+Oishi, S., Diener, E., Scollon, C. N., & Biswas-Diener, R. (2004). Cross-cultural consistency of 
+affective experiences across cultures. Journal of Personality and Social Psychology, 86, 460–
+472. 
+Oishi, S., Ishii, K., & Lun, J. (2009). Residential mobility and conditionality of group 
+identification. Journal of Experimental Social Psychology, 45, 913–919. 
+Oishi, S., & Kisling, J. (2009). The mutual constitution of residential mobility and individualism. 
+In R. S. Wyer Jr., C-Y. Chiu, Y. Y. Hong, & S. Shavitt (Eds.), Understanding culture: 
+Theory, research, and application (pp. 223–238). New York: Psychology Press. 
+Oishi, S., Schug, J., Yuki, M., & Axt, J. (2015). The psychology of residential and relational 
+motilities. In M. J. Gelfand, C.-Y. Chiu, & Y.-Y. Hong (Eds.), Handbook of advances in 
+culture and psychology, 5, (pp. 221–272). New York: Oxford University Press. 
+Okazaki, S., David, E. J. R., & Abelmann, N. (2007). Colonialism and psychology of culture. 
+Social and Personality Psychology Compass, 2, 90–106.  
+Opotow, S. (2015). Historicizing injustice: The museum of memory and human rights, Santiago, 
+Chile. Journal of Social Issues, 71, 229-243. 
+ Oppong, C. (1973). Growing up in Dagbon. Tema, Ghana: Ghana Publishing Corporation. 
+Oppong, C. (1974). Marriage among a matrilineal elite: A family study of Ghanaian senior civil 
+servants. Cambridge, UK: Cambridge University Press. 
+Oyserman, D., Coon, H. M., & Kemmelmeier, M. (2002). Rethinking individualism and 
+collectivism: Evaluation of theoretical assumptions and meta-analyses. Psychological 
+Bulletin, 128, 3–72. 
+Pasupathi, M. (2001). The social construction of the personal past and its implications for adult 
+development. Psychological Bulletin, 127, 651–672. 
+Peng, K., & Nisbett, R. E. (1999). Culture, dialectics, and reasoning about contradiction. 
+American Psychologist, 54, 741–754. 
+Plaut, V. C., Adams, G., & Anderson, S. (2009). Does attractiveness buy happiness? “It depends 
+where you’re from.” Personal Relationships, 16, 619–630. 
+Prentice, D. A., Miller, D. T., & Lightdale, J. R. (1994). Asymmetries in attachments to groups 
+and to their members: Distinguishing between common-identity and common-bond groups. 
+Personality and Social Psychology Bulletin, 20, 484–493. 
+Quijano, A. (2000). Coloniality of power, Eurocentrism, and Latin America. Nepentla: Views 
+From the South, 1(3), 533-580. 
+Radcliffe-Brown, A. (1940). On joking relationships. Africa, 13, 195–210. 
+Reicher, S., & Haslam, A. S. (2006). On the agency of individuals and groups: Lessons from the 
+BBC prison study. In T. Postmes & J. Jetten (Eds.), Individuality and the group: Advances in 
+social identity (pp. 237–257). Thousand Oaks, CA: Sage. 
+Reicher, S., & Hopkins, N. (2001). Self and nation. London: Sage. 
+Reisman, P. (1992). First find your child a good mother. New Brunswick, NJ: Rutledge 
+University Press. 
+Rogoff, B. (1990). Apprenticeship in thinking: Cognitive development in social context. New 
+York: Oxford University Press. 
+38 
+ 
+Rosenthal, R., & Jacobson, L. (1968). Pygmalion in the classroom. New York: Holt, Rinehart, 
+and Winston. 
+Ross, L. (1977). The intuitive psychologist and his shortcomings. In L. Berkowitz (Ed.), 
+Advances in experimental social psychology (Vol. 10, pp.173–220). New York: Academic. 
+Ross, L. D., & Nisbett, R. E. (1991). The person and the situation: Perspectives of social 
+psychology. New York: McGraw-Hill. 
+Rothbaum, F., Weisz, J., Pott, M., Miyake, K., & Morelli, G. (2000). Attachment and culture: 
+Security in the United States and Japan. American Psychologist, 55, 1093–1104. 
+Rozin, P. (2007). Food and eating. In S. Kitayama & D. Cohen (Eds.). Handbook of cultural 
+psychology (pp. 391–416). New York: Guilford. 
+Sahdra, B., & Ross, M. (2007). Group identification and historical memory. Personality and 
+Social Psychology Bulletin, 33, 384–395. 
+Said, E. W. (1978). Orientalism. New York: Vintage. 
+Salter, P. S. and Adams, G. (2016). On the intentionality of cultural products: Representations of 
+Black History as psychological affordances. Frontiers in Psychology, 7, 1166. doi: 
+10.3389/fpsyg.2016.01166  
+Salter, P. S. & Adams, G. (2012). Mother or wife? An African dilemma tale and the 
+psychological dynamics of social change. Social Psychology, 43, 232-242. 
+Savani, K., Markus, H. R., & Conner, A. L. (2008). Let your preference be your guide? 
+Preferences and choices are more tightly linked for North Americans than for Indians. 
+Journal of Personality and Social Psychology, 95, 861–876. 
+Schaller, M., Conway, L. G., & Tanchuk, T. L. (2002). Selective pressures on the once and 
+future contents of ethnic stereotypes: Effects of the communicability of traits. Journal of 
+Personality and Social Psychology, 82, 861–877. 
+Schelling, T. C. (1984). Choice and consequence: Perspectives of an errant economist. 
+Cambridge, MA: Harvard University Press. 
+Schug, J., Yuki, M., & Maddux, W. (2010). Relational mobility explains between- and within-
+culture differences in self disclosure to close friends. Psychological Science, 21, 1471-1478.  
+Scribner, S., & Cole, M. (1981). The psychology of literacy. London: Harvard University Press. 
+Segall, M. H., Campbell, D. T., & Herskovits, M. J. (1963). Cultural differences in the 
+perception of geometric illusions. Science, 139, 769–771. 
+Shaw, R. (2000). “Tok af, lef af”: A political economy of Temne techniques of secrecy and self. 
+In I. Karp & D. A. Masolo (Eds.), African philosophy as cultural inquiry (pp. 25–49). 
+Bloomington: Indiana University Press. 
+Shweder, R. A. (1990). Cultural psychology: What is it? In J. Stigler, R. Shweder, & G. Herdt 
+(Eds.), Cultural psychology: Essays on comparative human development (pp. 1–46). 
+Cambridge, UK: Cambridge University Press. 
+Shweder, R. A., Goodnow, J., Hatano, G., Levine, R. A., Markus, H. R., & Miller, P. (2006). The 
+cultural psychology of development: One mind, many mentalities. In W. Damon (Ed.), 
+Handbook of child development (5th ed., Vol. 1, pp. 865-937). New York: Wiley. 
+Shweder, R. A., Jensen, L. A., & Goldstein, W. M. (1995). Who sleeps by whom revisited: A 
+method for extracting the moral goods implicit in practice. In J. J. Goodnow, P. J. Miller, & 
+F. Kessel (Eds.), Cultural practices as contexts for development: New directions for child 
+development (pp. 21–39). San Francisco: Jossey-Bass. 
+39 
+ 
+Sinclair, S., Lowery, B. S., Hardin, C. D., & Colangelo, A. (2005). Social tuning of automatic 
+racial attitudes: The role of affiliative motivation. Journal of Personality and Social 
+Psychology, 89, 583–592. 
+Singelis, T. M., Bond, M. H., Lai, S. Y., & Sharkey, W. F. (1999). Unpacking culture’s influence 
+on self-esteem and embarrassability: The role of self-construals. Journal of Cross-Cultural 
+Psychology, 30, 215–331. 
+Skitka, L. J. (2005). Patriotism or nationalism? Understanding post–September 11, 2001 flag-
+display behavior. Journal of Applied Social Psychology, 35, 1995–2011. 
+Snibbe, A. C., & Markus, H. R. (2005). You can’t always get what you want: Educational 
+attainment, agency, and choice. Journal of Personality and Social Psychology, 88, 703–720. 
+Snyder, M., Tanke, E. D., Berschied, E. (1977). Social perception and interpersonal behavior: On 
+the self-fulfilling nature of social stereotypes. Journal of Personality and Social Psychology, 
+35, 656–666. 
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and 
+performance. American Psychologist, 52, 613–629. 
+Stephens, N. M., Hamedani, M. G., Markus, H. R., Bergsieker, H. B., & Eloul, L. (2009). Why 
+did they “choose” to stay? Perspectives of Hurricane Katrina observers and survivors. 
+Psychological Science, 20, 878–886. 
+Suh, E. M. (2002). Culture, identity consistency, and subjective well-being. Journal of 
+Personality and Social Psychology, 83, 1378–1391. 
+Suh, E. M., Diener, E., Oishi, S., & Triandis, H. C. (1998). The shifting basis of life satisfaction 
+judgments across cultures: Emotions versus norms. Journal of Personality and Social 
+Psychology, 74, 482–493. 
+Talhelm, T., Zhang, X., Oishi, S. Duan, D., & Kitayama, S. (2014). Large-scale psychological 
+differences within china explained by rice versus wheat agriculture. Science, 344, 603–608. 
+Tengan, E. (1991). The land as being and cosmos: The institution of the Earth Cult among the 
+Sisaala of northern Ghana. Frankfurt, Germany: Peter Lang. 
+Tomasello, M. (1999). A puzzle and a hypothesis. In The cultural origins of human cognition 
+(pp. 1–12). Cambridge, MA: Harvard University Press. 
+Triandis, H. C., Bontempo, R., Villareal, M. J., Asai, M., & Lucca, N. (1988). Individualism and 
+collectivism: Cross-cultural perspectives on self-ingroup relationships. Journal of 
+Personality and Social Psychology, 54, 323–338. 
+Trouillot, M. R. (1995). Silencing the past: Power and the production of history. Boston: Beacon 
+Press. 
+Tsai, J. L., (2007). Ideal affect: Cultural causes and behavioral consequences. Perspectives on 
+Psychological Science, 2, 242–259. 
+Tsai, J. L., Louie, J. Y., Chen, E. E., Uchida, Y. (2007). Learning what feelings to desire: 
+Socialization of ideal affect through children’s storybooks. Personality and Social 
+Psychology Bulletin, 33, 17–30. 
+Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S. (1987). 
+Rediscovering the social group: A self-categorization theory. Oxford: Blackwell. 
+United Nations Development Program (2010). The real wealth of nations: Pathways to human 
+development (Human Development Report 2010). New York: Palgrave Macmillan. 
+Uskul, A., Nisbett, R., & Kitayama, S. (2008). Ecoculture, social interdependence and holistic 
+cognition: Evidence from farming, fishing and herding communities in Turkey. 
+Communicative & Integrative Biology, 1, 40-41. 
+40 
+ 
+van der Geest, S. (2009). Anyway! Lorry inscriptions in Ghana. In J.-B. Gewald, S. Luning, & 
+K. van Walraven (Eds.), The speed of change: Motor vehicles and people in Africa, 1890–
+2000 (pp. 253–293). Leiden, Netherlands: Brill. 
+Vandello, J. A., & Cohen, D. (2004). When believing is seeing: Sustaining norms of violence in 
+cultures of honor. In M. Schaller & C. Crandall (Eds.), The psychological foundations of 
+culture (pp. 281–304). Mahwah, NJ: Erlbaum. 
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. 
+Cambridge, MA: Harvard University Press. 
+Wang, Q., & Brockmeier, J. (2002). Autobiographical remembering as cultural practice: 
+Understanding the interplay between memory, self, and culture. Culture and Psychology, 8, 
+45–64. 
+Walton, G. M., & Cohen, G. L. (2003). Stereotype lift. Journal of Experimental Social 
+Psychology, 39, 456–467. 
+Weisner, T. S. (2005). Commentary: Attachment as a cultural and ecological problem with 
+pluralistic cultural and ecological solutions. Human Development, 48, 89–94. 
+Wertsch, J. V. (2002). Voices of collective remembering. Cambridge, UK: Cambridge University 
+Press. 
+Wilson, A. E., & Ross, M. (2003). The identity function of autobiographical memory: Time is on 
+our side. Memory, 11, 137–149. 
+Winachakul, T. (1994). Siam mapped: A history of the geo-body of a nation. Honolulu: 
+University of Hawaii Press. 
+Wohl, M. J. A., Branscombe, N. R., & Klar, Y. (2006). Collective guilt: Emotional reactions 
+when one’s group has done wrong or been wronged. European Review of Social Psychology, 
+17, 1–37. 
+Word, C. O., Zanna, M. P., & Cooper, J. (1973). The nonverbal mediation of self-fulfilling 
+prophecies in interracial interaction. Journal of Experimental Social Psychology, 10, 109–120. 
+Wright, S. C., & Lubensky, M. (2008). The struggle for social equality: Collective action vs. 
+prejudice reduction. In S. Demoulin, J. P. Leyens & J. F. Dovidio (Eds.), Intergroup 
+misunderstandings: Impact of divergent social realities. (pp. 291–310). New York: 
+Psychology Press. 
+Wrong, D. H. (1961). The oversocialized conception of man in modern sociology. American 
+Sociological Review, 26, 183–193. 
+Yamagishi, T., Jin, N., & Kiyonari, T. (1999). Bounded generalized reciprocity: In-group 
+favoritism and in-group boasting. Advances in Group Processes, 16, 161–197. 
+Ybarra, O., & Trafimow, D. (1998). How priming the private self or collective self affects the 
+relative weights of attitudes or subjective norms. Personality and Social Psychology Bulletin, 
+24, 362–370. 
+Yuki, M. (2003). Intergroup comparison versus intragroup relationships: A cross-cultural 
+examination of social identity theory in North American and East Asian cultural contexts. 
+Social Psychology Quarterly, 66, 166–183. 
+Yuki, M. & Schug, J. (2012). Relational mobility: A socio-ecological approach to personal 
+relationships. In O. Gillath, G.E. Adams, & A.D. Kunkel (Eds.), Relationship science: 
+Integrating evolutionary, neuroscience, and sociocultural approaches (pp. 137-152). 
+Washington D.C.: American Psychological Association. 
+41 
+ 
+                                                 
+1 Indeed, in Shweder’s (1990) defining statement of a cultural psychology analysis, he cites the work of Ross and 
+Nisbett as one of the multidisciplinary sites where ideas compatible with a cultural psychology analysis flourish. 
+2 Ross and Nisbett also noted a third principle of “tension systems” but, unlike the other two themes, did not devote 
+a separate chapter to it. Although they undoubtedly meant it in more senses, this third principle is evident in the 
+mutual constitution framework as a dynamic-tension relationship between the other two principles. 
+3 By hegemonic, we refer to particular understandings and ways of being that originally derived from European 
+(American) experience, but by projection of colonial power have become the default or natural standard for global 
+humanity and mainstream academic work. 
+4 For an extended discussion of this idea, see the original chapter (Adams, 2012) in the first edition of this handbook. 
+View publication stats

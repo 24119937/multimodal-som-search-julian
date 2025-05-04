@@ -1,0 +1,1438 @@
+Research article
+Keeping up with the Joneses: Status projection as symbolic self‐completion
+HANNAH L. CARR AND VIVIAN L. VIGNOLES*
+Department of Psychology, University of Sussex, UK
+Abstract
+We studied the incidence and correlates of status projection—use of material possessions to emphasize social status to others—
+among 100 adolescents in a historical context of rising afﬂuence. Participants listed 10 possessions, rated each for its value as a
+status symbol, and chose ﬁve to discuss with another participant in a forthcoming interaction. Participants selected especially those
+of their possessions that they had rated higher in status value (p < .001). This effect was stronger among those reporting upward
+or downward change in their families’ socioeconomic status (p< .05), greater actual‐ideal self‐discrepancies (p < .05), and stronger
+commitment to materialistic values (p < .01); moreover, the effect of changing status was stronger among higher materialists
+(p< .05). These results indicate that people self‐complete through presenting their possessions selectively to others, and they help
+to clarify the precise role of identity commitment in symbolic self‐completion. Copyright # 2011 John Wiley & Sons, Ltd.
+In late modern society, social class boundaries are increas-
+ingly permeable (Giddens, 1991), and social status is often
+inferred from material consumption (Dittmar, 2008). Thus,
+people have to choose whether or not to compete with their
+neighbors in attempting to live up to images of success that are
+constantly primed by the media. Some seem to relish in
+projecting an elevated image of their socioeconomic status
+(SES). Examples are individuals who appear to deﬁne
+themselves by the car they drive and proudly leave their
+branded car keys on show, or the couple who sends around an
+annual circular to friends about this year’s cruise holiday, and
+their son’s ever‐increasing salary.
+MATERIAL POSSESSIONS AS STATUS SYMBOLS
+This paper focuses on the use of material possessions as
+symbolic markers of status. Research has shown that certain
+material possessions are understood fairly consensually as
+markers of particular identity categories, including SES
+(Dittmar, 1992), and that people often buy consumer goods
+to seek particular identities (Dittmar, 2005a). Yet, merely
+owning a possession may not be sufﬁcient to warrant the
+identity it symbolizes. Research suggests that most identity
+claims only gain validity to the extent that they are recognized
+and accepted by others in one’s immediate social context (see
+Reicher, 1995; Schlenker, 2003). Hence, material possessions
+may function more effectively as identity markers to the extent
+that they are seen and recognized as such by others.
+According to Goffman (1951), status symbols function to
+divide the world into visible social categories. They identify
+the social positions of individuals, as well as expressing the
+lifestyles, views, and values of different social groups. It is
+possible “that symbols may come to be employed in a
+‘fraudulent’ way, that is, to signify a status, which the claimant
+does not in fact possess” (p. 296). However, social class
+boundaries are relatively hard to deﬁne objectively. Hence, “on
+the whole […], class symbols serve not so much to represent or
+misrepresent one’s position, but rather to inﬂuence in a desired
+direction other persons’ judgment of it” (p. 297). According to
+Goffman (1959), such self‐presentation processes typically
+involve the selective ‘over‐communication’ of some facts and
+‘under‐communication’ of other facts (for a review, see
+Schlenker, 2003). Adopting this terminology, we use the
+phrase status projection to refer to the over‐communication of
+SES, through selectively displaying to others those of one’s
+material possessions that best serve as status symbols.
+SYMBOLIC SELF‐COMPLETION
+The symbolic self‐completion theory of Wicklund and
+Gollwitzer (1982) suggests a combination of social and
+psychological factors likely to be involved in status projection.
+They note that people often aim to deﬁne themselves in terms
+of particular valued identities. When the route to a desired
+identity is blocked, or when identity claims are in some way
+insecure, people experience their identities as “incomplete”
+and thus will be motivated to “complete themselves” using
+available identity markers. Although driven by intrapsychic
+concerns, social interaction is understood to play a key role in
+the process of symbolic self‐completion: identity claims must
+*Correspondence to: Vivian L. Vignoles, Senior Lecturer in Social Psychology, School of Psychology, University of Sussex, Falmer, Brighton, East Sussex,
+BN1 9QH, UK. E‐mail: v.l.vignoles@sussex.ac.uk
+European Journal of Social Psychology, Eur. J. Soc. Psychol. 41, 518–527 (2011)
+Published online in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/ejsp.812
+Copyright # 2011 John Wiley & Sons, Ltd.
+Received 28 June 2010, Accepted 5 April 2011
+be displayed to, and validated by, others to resolve feelings
+of incompleteness. Nevertheless, research has investigated
+only indirectly the role of symbolic self‐completion in the
+presentation of material possessions to others.
+Braun and Wicklund (1989) tested a symbolic self‐
+completion theory account of “conspicuous consumption”.
+Across ﬁve studies, they found that law students believed they
+were more recognizable as lawyers from their external
+characteristics than did practicing attorneys; that ﬁrst‐year
+students reported owning more articles displaying their
+university’s logo than did fourth‐year students; that tennis
+beginners with a relatively strong commitment to tennis showed
+greater brand orientation than did either expert tennis players or
+beginners with a weaker commitment to tennis; that committed
+business and economics students who found their studies
+relatively difﬁcult perceived their hobbies, sports, and holiday
+destinations as more prestigious than did either those who found
+their studies easier or those who were less committed; and that
+committed business and economics students made to feel
+insecure about their study area perceived their holiday destina-
+tions as more fashionable for business students than did either
+those made to feel secure about their study area or those who
+were less committed. Although ﬁndings were weaker in a sixth
+study, the overall pattern was consistent: self‐symbolizing was
+strongest among those with less secure identity status, especially
+if they were more committed to the identities in question.
+These studies provide initial support for the use of material
+possessions in symbolic self‐completion, but they included
+no behavioral measure of the extent to which participants
+displayed their identity‐relevant possessions and activities to
+others, despite the theoretical importance of self‐presentation
+in the self‐completion process (for behavioral outcomes of self‐
+completion in other domains, see Harmon‐Jones, Schmeichel,
+& Harmon‐Jones, 2009, on academics, and Wicklund &
+Gollwitzer, 1982, on German winemakers). Moreover, the
+identities examined were restricted to occupational and
+sporting memberships. Yet, symbolic self‐completion theory
+has an obvious afﬁnity with Goffman’s (1951) theoretical
+account of status symbols. One might predict that people
+whose SES is insecure in some way, would be especially
+motivated to verify their SES through status projection; the
+effect would be stronger among those with more commitment
+to SES as a valued identity domain.
+TWO FORMS OF IDENTITY INCOMPLETENESS
+Reﬂecting Braun and Wicklund’s (1989) operational deﬁni-
+tion of insecurity in terms of being a “newcomer” to a given
+identity, symbolic self‐completion theory predicts that mem-
+bers of newly afﬂuent families will engage more actively in
+attempts to promote an image of wealth, compared with
+members of families that have been wealthy for many
+generations. Consistent with this hypothesis, sociologists have
+proposed the existence of a nouveau riche class, whose
+members are especially invested in using status symbols
+owing to their recent—and hence, insecure—rise in SES
+(Goffman, 1951; see also Smith, 2003); however, we are
+aware of no existing quantitative test of this phenomenon.
+Notably, there is no reason to suppose that such effects
+necessarily would be restricted to the upwardly mobile. Unlike
+the occupational memberships typically studied within
+symbolic self‐completion theory, social status carries a more
+tangible possibility of downward as well as upward mobility.
+Presumably, people experiencing downward mobility will be
+at least as insecure about their status as the upwardly mobile.
+Hence, one might predict a curvilinear relationship between
+SES change and status projection: effects would be strongest
+among members of upwardly or downwardly mobile families,
+and weakest among members of families with relatively stable
+SES.
+Braun and Wicklund (1989) argue that symbolic self‐
+completion should occur only in response to insecurity in
+speciﬁc, relevant identities, suggesting that status projection
+should be provoked only by insecure SES, not by insecurity on
+other identity dimensions (see also Ledgerwood, Liviatan &
+Carnevale, 2007). In contrast, studies into self‐afﬁrmation and
+self‐esteem maintenance suggest that individuals often cope
+with identity threat in one domain by afﬁrming or enhancing
+identity in unrelated domains (Sherman & Cohen, 2006; Tesser,
+2000). Gollwitzer and Wicklund (1985, Study 1) showed that
+self‐symbolizing as a “female professional” was not provoked
+when female students committed to this identity were made
+to feel insecure about their potential capabilities as a mother—
+an irrelevant identity. However, they had selected participants
+with high career orientation and low family orientation; hence,
+the lack of response to this threat may simply have reﬂected a
+lack of commitment to the potential mothering role—and
+hence, no experience of “incompleteness”—rather than the
+impossibility of using self‐completion in one domain of
+identity to cope with incompleteness in another domain. In
+contrast, Dittmar (2005a) found that compulsive buying
+tendencies were predicted by a general measure of actual‐
+ideal self‐discrepancies. Seemingly, individuals were attempt-
+ing to compensate for feelings of incompleteness by acquiring
+new material possessions, irrespective of the speciﬁc domains
+in which they felt incomplete. Yet, to our knowledge, no
+previous study has evaluated effects of both speciﬁc and
+general forms of identity incompleteness together.
+THE ROLE OF MATERIALISTIC VALUES
+Symbolic self‐completion theory emphasizes that self‐
+completion strategies occur as an interactive function of identity
+incompleteness and commitment to the identity in question. We
+reasoned that commitment to SES as a valued dimension of
+identity would be greatest among people with strongly
+materialistic beliefs and values (Kasser, Ryan, Couchman, &
+Sheldon, 2004). Hence, a traditional reading of the theory
+predicts an interaction effect of status change and materialistic
+values as predictors of status projection: SES change will lead
+to “incompleteness” and thus predict status projection only to
+the extent that the individual holds materialistic values;
+conversely, materialistic values will predict status projection
+only to the extent that SES is somehow insecure.
+Interaction effects have also been predicted in studies using
+general rather than speciﬁc measures of identity incompleteness
+Status projection
+519
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+(Dittmar, 2005a, 2008). This requires a somewhat different
+theoretical rationale from the original conceptualization of
+symbolic self‐completion. There is no theoretical reason to
+suppose that materialistic values would increase the pressure
+for self‐completion arising from unrelated self‐discrepancies.
+However, it seems plausible that holding such values might
+enhance the appeal of materialistic self‐completion strategies,
+such as compulsive buying or status projection, given sufﬁcient
+feelings of incompleteness arising from some other domain.
+Empirical support for this second form of interaction has
+been somewhat elusive (H. E. Dittmar, personal communica-
+tion). However, there could be a methodological explanation
+for this lack of support. Since materialistic values are closely
+associated with various measures of poor psychological
+adjustment (e.g., Dittmar, 2005a; Kasser et al., 2004), this
+suggests that materialistic values and generalized identity
+insecurity may often be somewhat confounded, making it
+relatively difﬁcult statistically to detect a positive interaction
+between the two factors.
+CONTEXT, AIMS AND HYPOTHESES
+The conditions described earlier for the emergence of status
+projection may be especially prevalent in contemporary, post‐
+industrial societies. Although social stratiﬁcation is less
+marked than in preceding historical periods, the blurring of
+class boundaries and increasing social mobility raises the
+likelihood of uncertainty about one’s social and economic
+standing. Moreover, accompanying the rapid growth of
+borrowed money, the focus on an idealized, prosperous self
+is repeatedly primed by the media and in everyday discourse
+(Dittmar, 2008). Yet, surprisingly, no previous study known
+to us has tested the role of strategic presentation of status
+symbols to others in symbolic self‐completion.
+The current study was designed both to document the
+phenomenon of status projection, and to examine socioeco-
+nomic and psychological predictors of the magnitude of this
+behavior, among adolescents who had grown up during a
+period of economic growth. Data were collected early in 2006,
+following 13 years of sustained growth in the UK economy
+(International Monetary Fund, 2010). Participants were from
+two neighboring towns in the county of Surrey, an afﬂuent
+and desirable region of South East England. As an indicator of
+this, average house prices in Surrey had grown slightly above
+the national trend during the years preceding the study, rising
+from 155% of the average for England and Wales in January
+1995 to 162% in January 2006 (Land Registry, 2010).
+Adolescents in the UK typically are already active
+participants in consumer culture, with levels of disposable
+income comparable with those of most adults and showing
+somewhat higher endorsement of materialistic values than do
+adult samples (Dittmar, 2005b). Yet, most are still in full‐time
+education and not yet participating fully in the labor market.
+Adolescents’ SES may be inferred from that of their families—
+indexed by markers such as the occupational status, income, and
+educational level of their parents (Liberatos, Link, & Kelsey,
+1988). Yet, the adolescents’ own position on the same markers
+remain uncertain—their personal SES is quite literally
+“incomplete”—and so, claims to a particular status may need
+symbolic reinforcement through strategic self‐presentation.
+Braun and Wicklund’s (1989) studies of conspicuous
+consumption focused on self‐reports of possessions owned, of
+the perceived prestige of one’s consumer choices, and of how
+one might appear to others. In contrast, we wanted to develop a
+measure that reﬂected more precisely our theoretical deﬁnition
+of status projection as a communicative strategy of selectively
+presenting to others those of one’s material possessions that best
+serve as status symbols. We asked participants to list a number
+of material possessions that they owned, and to rate each for its
+value as a status symbol. Yet, owning status‐relevant posses-
+sions does not necessarily mean that these possessions are
+emphasized in self‐presentation. Hence, we led our participants
+to believe that they would be discussing a subset of their material
+possessions with another participant in a subsequent social
+interaction task, and we recorded their choices of which
+possessions to discuss with the other participant. Reﬂecting
+our theoretical deﬁnition of status projection, we predicted (H1)
+that participants would tend to choose especially those of their
+possessions that they perceived to have greater status value.
+Based on our discussion of symbolic self‐completion
+processes, we tested the role of several potential socioeconomic
+and social psychological moderators of the magnitude of the
+status projection effect. We measured participants’ family SES as
+well as their perceptions of SES change, testing for linear and
+curvilinear effects of both variables; in particular, we predicted
+(H2) a curvilinear effect of perceived SES change—such that
+status projection would be greater among those reporting less
+stable SES—whether upwardly or downwardly mobile. As an
+index of identity incompleteness not speciﬁc to SES, we included
+a measure of the size and subjective importance of participants’
+self‐discrepancies, predicting (H3) that status projection would
+be greater among those with greater self‐discrepancies. Addi-
+tionally, we measured participants’ internalization of material-
+istic values, predicting (H4) that status projection would be
+greater among those with stronger materialistic values.
+Finally, we tested two possible accounts of the moderating
+role of materialistic values. Reﬂecting the original formulation
+of symbolic self‐completion theory, we predicted (H5) that the
+effect of perceived SES change would be stronger among
+participants endorsing more materialistic values—on the basis
+that instability in this domain would only be problematic for
+individuals who were committed to SES as a valued identity
+domain. Following subsequent theorizing (e.g., Dittmar, 2008),
+we predicted (H6) that the effect of general self‐discrepancies
+also would be stronger among those with greater commitment
+to materialistic values—reasoning that materialistic values
+would make status projection a more appealing self‐completion
+strategy for those experiencing identity incompleteness,
+irrespective of the original domain of the incompleteness.
+METHOD
+Participants and Procedure
+Participants were 100 students (55 girls, 45 boys; mean
+age = 16.9 years, SD = 0.8), recruited from sixth‐form colleges
+520
+Hannah L. Carr and Vivian L. Vignoles
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+(US equivalent: ﬁnal 2 years of high school) in the county of
+Surrey. Students were approached during classes and asked to
+give 15 to 20 minutes to complete a questionnaire. Participants
+were informed of their right to withdraw, and that data would
+be kept strictly conﬁdential and anonymous except where
+indicated,1 and they signed to indicate their consent. On
+completion, participants were debriefed and questions were
+invited. After revealing the deception, participants were given
+an opportunity to withdraw their data; however, none did so.
+Measures
+Self‐discrepancies were measured using an idiographic–
+nomothetic approach validated by Halliwell and Dittmar
+(2006). Participants were asked to consider things about
+themselves that they would like to change, and then completed
+the sentence “I am…, but I would like …” up to seven times
+(e.g., “I am overweight but I would like to be thin”, “I am
+single but I would like to have a boyfriend”). They then rated
+each statement for how different they were from their ideal
+(magnitude), and how concerned they were about this gap
+(importance), from 1 (a little) to 6 (extremely). A self‐
+discrepancy index was calculated from the summed products
+of the magnitude and importance ratings for each statement,
+divided by the number of statements reported. Scores ranged
+from 0 to 36, with higher scores indicating larger and more
+psychologically important self‐discrepancies.2
+Materialistic values were measured using the short‐form
+material values scale (Richins, 2004), which includes 15 items
+(6 reverse‐coded; α = .83) reﬂecting three facets of material-
+ism: acquisition centrality (e.g., “I like a lot of luxury in my
+life.”), acquisition in the pursuit of happiness (e.g., “I’d be
+happier if I could afford to buy more things.”) and possessions
+as deﬁnitions of success (e.g., “The things I own say a lot
+about how well I’m doing in life.”). Items were rated from 1
+(strongly disagree) to 7 (strongly agree), and scores ranged
+from 2.20 to 6.27.
+Socioeconomic status was measured using two commonly
+used indicators: occupational status of the main wage‐earner in
+the household, and educational attainment of the highest
+achieving parent or guardian (see Liberatos et al., 1988). We
+did not ask about household income as we doubted that
+participants would be able to report this accurately. Occupa-
+tional status was measured using the self‐coded version of the
+standard classiﬁcation of occupations used in British national
+statistics, yielding ﬁve classes ranging from 1 (managerial and
+professional occupations) to 5 (semi‐routine and routine
+occupations) (Ofﬁce of National Statistics, 2002). Scores were
+recoded, so that higher numbers indicated higher status.
+Categories of educational attainment were derived from the
+Organisation for Economic Co‐operation and Development
+(OECD) standard classiﬁcation of educational qualiﬁcations
+(Organisation for Economic Co‐operation and Development,
+1999), ranging from 1 (no formal qualiﬁcations) to 9
+(doctorate/PhD). These two indices were moderately correlated
+(r = .40). Since we were not interested in differentiating
+between occupational and educational aspects of SES, we
+used the mean of the standardized scores on these two
+measures for our analyses. Scores ranged from −2.50 to +1.15,
+with higher values indicating higher SES.
+Perceived SES change was measured using two newly‐
+written items. We asked participants to compare their parents’
+or guardians’ social and economic circumstances with those of
+their grandparents, and to compare their parents’ or guardians’
+current social and economic circumstances with their past
+circumstances, using a scale of 1 (much better off) to 5 (much
+worse off), with 3 representing stability. Scores were
+subsequently reversed so that higher scores indicated more
+upward mobility. The two ratings were moderately correlated
+(r = .30). Since both ratings showed a similar pattern of
+linear and curvilinear associations with the other study
+variables, we measured perceived SES change as the mean
+of the two ratings. Scores ranged from 1 to 5 with higher
+scores indicating upward mobility, lower scores indicating
+downward mobility, and intermediate scores reﬂecting relative
+stability. Since we were interested in curvilinear as well as
+linear effects of this variable, scores were centered before
+analysis to reduce the multicollinearity between linear and
+quadratic terms (Pedhazur, 1982).
+Measurement of status projection involved three stages.
+First, each participant freely listed 10 possessions that they
+owned (e.g., “iPod”, “ring”, “teddy bear”). We gave no
+examples and provided no cues about the sorts of possessions
+that might be listed to avoid biasing or constraining responses.
+Second, participants rated each of their possessions on nine
+dimensions. Among six ﬁller questions, three items (α = .76)
+referred to ways that the possessions might confer “status”
+within society or within the respondent’s peer group: “To
+what extent do you think that other people would view each of
+these things as a ‘status symbol?’ ”; “To what extent does each
+of these possessions project the image of a successful
+person?”; “If you were without each of these things, to what
+extent would you feel less advantaged amongst your peer
+group?”, rated from 0 (not at all) to 10 (extremely). These
+items were averaged to measure the perceived “status value”
+of each possession.
+Third, participants were asked to participate in a (ﬁctitious)
+short follow‐up study which would involve discussing ﬁve of
+their ten listed possessions with another participant. We gave
+no further information about the nature or purpose of the
+interaction task, so as not to bias participants’ choices of
+which possessions to present to the other participant. All but
+ﬁve participants agreed to take part, and listed their ﬁve
+chosen possessions in preparation. Although we did not probe
+systematically for suspicion, many participants expressed their
+surprise on being told afterwards that there would be no
+follow‐up study. This provides some conﬁdence that partici-
+pants typically believed they were committing to discuss their
+chosen possessions in a genuine social interaction.
+Status projection was measured as the extent to which
+possessions chosen for the interaction task had higher
+associations with social status than did those that were not
+chosen. As a rough‐and‐ready individual difference measure
+(see Table 1), we subtracted the mean perceived status value
+1This was inserted to support the deception in the status projection measure. In
+reality, participants had full anonymity.
+2A few participants listed no self‐discrepancies, claiming subsequently that
+they could think of no ways they would like to be different. Hence, we
+assigned them a score of zero on this measure. Analyses excluding these
+participants showed a similar pattern of results to those reported.
+Status projection
+521
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+of those possessions that each participant had not chosen from
+the mean perceived status value of those that they had chosen.
+Scores ranged from −1.80 to 4.27, with a mean of 1.09
+(SD = 1.24).
+However, this measure ignores the variability in status
+ratings among possessions within each of the two categories
+(those that have been chosen and those that have not been
+chosen). A difference of one scale‐point has a very different
+interpretation if possessions are closely clustered around the
+mean within each category, to its interpretation if possessions
+within each category are widely distributed: in the former
+case, it may be possible to predict perfectly which
+possessions a participant has chosen based on their perceived
+status value, in the latter case hardly at all. Thus, removing
+possession‐level variance misrepresents the level of analysis
+of the status projection effect, which is likely to bias
+estimates of its magnitude and signiﬁcance in unknown ways.
+To avoid this potential bias, we used multilevel regression for
+our main analyses (Hox, 2002), which allowed us to model
+simultaneously effects at the level of material possessions
+(level 1), effects at the individual level (level 2), and
+interactions between effects at the two levels (cross‐level
+interactions). We modeled status projection as a level 1 (i.e.,
+within‐participant) main effect, which might be moderated by
+cross‐level interactions with our level 2 (i.e., individual
+differences) measures.
+RESULTS
+Table 1 shows zero‐order correlations among individual‐level
+variables. Our rough‐and‐ready individual differences measure
+of status projection was moderately associated with the squared
+value of perceived SES change (suggesting greater status
+projection among upwardly and downwardly mobile indivi-
+duals than among those perceiving their SES as relatively
+stable), self‐discrepancies (suggesting greater status projection
+among individuals with greater self‐discrepancies), and
+materialistic values (suggesting greater status projection among
+individuals with stronger materialistic values). For multilevel
+regression analyses, we used HLM 5.04 (Scientiﬁc Software
+International, Inc., Lincolnwood, IL, USA) to conduct full
+maximum likelihood estimation with convergence criterion of
+0.000001. Signiﬁcance of ﬁxed effects was tested using robust
+standard errors (Raudenbush, Bryk, Cheong & Congdon,
+2001). Tables 2 and 3 show the models tested.
+Occurrence of Status Projection
+To test for a general tendency towards status projection among
+our participants (H1), we estimated the difference in perceived
+status value between those possessions chosen for the
+interaction task and those that were not chosen. To do this,
+we regressed ratings of possession status on a dummy variable
+distinguishing possessions chosen for the interaction task
+(coded 1) from those that were not chosen (coded 0) (Model 1).
+The ﬁxed slope was estimated at 1.10 (SE = 0.13, p < .001).
+This indicates an average difference in perceived status value of
+just over one scale‐point between the chosen and non‐chosen
+possessions. Based on comparison with a null model omitting
+this slope (Model 0), this model accounted for an estimated
+10.2% of within‐participants variance on the status measure.
+We now tested for individual variability in the size of this
+effect, by estimating a random slope rather than a ﬁxed slope
+for possession choice (Model 2). This provided a signiﬁcant
+improvement in ﬁt compared with model 1, χ2 (2) = 10.77,
+p < .01, indicating signiﬁcant heterogeneity in the size of the
+status projection effect: individuals in our sample differed
+signiﬁcantly in the extent to which their chosen and non‐
+chosen possessions could be differentiated based on status.
+Subsequent analyses were designed to identify individual‐
+level predictors that might account for this variability. The
+Table 1.
+Zero order correlations between level 2 variables (n = 93)
+Variable
+1
+2
+3
+4
+5
+6
+7
+1. SES
+–
+2. SES squared
+−.54***
+–
+3. Perceived SES change
+.12
+.07
+–
+4. Perceived SES
+change squared
+.03
+−.12 −.25*
+–
+5. Self‐discrepancy score
+.16
+−.00 −.04
+.20†
+–
+6. Materialistic values
+.00
+−.03
+.12
+−.03
+.29**
+–
+7. Status projection a
+.11
+−.06 −.04
+.22* .31** .31** –
+Note. SES, socioeconomic status.
+SES and perceived SES change scores were centered on their respective grand
+means before quadratic terms were calculated.
+aThis variable was calculated as mean status value of possessions chosen
+for comparison minus mean status value of possessions not chosen for
+comparison. It is included here to aid interpretation, but was not used in
+analyses, given the greater precision achievable using multi‐level analysis.
+†p < .10, *p < .05, **p < .01, ***p < .001.
+Table 2.
+Estimated parameters of models 0 to 2
+Parameter
+Null model
+Model 1
+Model 2
+B
+SE
+p
+B
+SE
+p
+B
+SE
+p
+Level 1 main effects
+Grand intercept
+4.70
+.21
+–
+4.15
+.21
+–
+4.15
+.21
+–
+Possession choice
+–
+–
+–
+1.10
+.13
+<.001
+1.10
+.13
+<.001
+Residual variance
+Level 1 residual variance (σ2)
+3.28
+.16
+–
+2.95
+.14
+–
+2.84
+.15
+–
+Level 2 residual variance (τ2
+intercept)
+3.90
+.62
+–
+3.93
+.62
+–
+3.34
+.58
+–
+Level 2 random slope variance (τ2
+slope)
+–
+–
+–
+–
+–
+–
+0.38
+.23
+–
+Deviance
+3957.26
+3868.08
+3857.31
+522
+Hannah L. Carr and Vivian L. Vignoles
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+residual variance estimate for the possession choice slope,
+τ2
+slope, provides an estimate of unexplained variability in the
+magnitude of the status projection effect. Hence, reductions in
+τ2
+slope in subsequent models could be used to derive estimates
+of modeled variance in status projection.
+Controlling for Socioeconomic Status
+Our next model was designed to control for linear and
+curvilinear effects of SES. In this and subsequent models,
+effects on status projection were estimated as cross‐level
+interaction effects, where individual‐level variables were
+introduced as level 2 predictors of variability in the level 1
+slope for possession choice. Following standard procedure for
+testing interaction effects in multiple regression (Aiken & West,
+1991), we included the underlying main effects in our models
+alongside the theoretically important interaction effects. Hence,
+we included both linear and quadratic terms for SES as main
+effects on the status ratings and as cross‐level interactions
+predicting variation in the status projection effect (Model 3).
+Model 3 provided a non‐signiﬁcant improvement in model ﬁt,
+χ2 (4) = 4.02, p = .40, and accounted for only an estimated 3.3%
+of individual variability in status projection. None of the added
+parameters reached signiﬁcance, although the quadratic main
+effect of SES approached signiﬁcance, suggesting a marginal
+tendency among those of highest and lowest SES to make
+higher status ratings in general, compared with those of average
+SES. We retained these parameters in subsequent models to
+control for SES while testing our theoretical predictions.
+Testing Moderation Effects of Socioeconomic Status
+Change, Self‐discrepancies and Materialistic Values
+To test H2 to H4, we now introduced perceived SES change
+(linear and quadratic terms), self‐discrepancies, and material-
+istic values as main effects on the status ratings and as cross‐
+level interactions predicting individual differences in the
+magnitude of the status projection effect (Model 4). All
+predictors were centered on their grand means. Model 4
+showed a highly signiﬁcant improvement in ﬁt compared with
+the preceding model, χ2 (8) = 42.69, p < .001, and accounted
+for an estimated 77.0% of individual variability in the status
+projection slope. A signiﬁcant main effect of materialistic
+values (β = .41, p < .001) indicated that participants with more
+materialistic values tended to rate their possessions in general
+as higher in status value than did those with less materialistic
+values. However, our main hypothesis tests were in the cross‐
+level interaction effects. Supporting H2, this model showed a
+signiﬁcant interaction of possession choice with the quadratic
+term for perceived SES change (β = .41, p < .05). Figure 1
+shows variation in the status projection effect as a function of
+the reported direction of change. As predicted, the effect was
+Table 3.
+Estimated parameters of models 3 to 5
+Parameter
+Model 3
+Model 4
+Model 5
+B
+SE
+β
+p
+B
+SE
+β
+p
+B
+SE
+β
+p
+Level 1 main effects
+Grand intercept
+3.88
+.25
+–
+–
+3.82
+.30
+–
+–
+4.01
+.29
+–
+–
+Possession choice
+1.09
+.18
+.30
+<.001
+.88
+.19
+.24
+<.001
+.78
+.19
+.22
+<.001
+Level 2 main effects
+SES
+.09
+.30
+.04
+.77
+.07
+.29
+.03
+.80
+.08
+.29
+.03
+.78
+SES2
+.40
+.22
+.20
+.06
+.42
+.21
+.21
+<.05
+.42
+.22
+.21
+.05
+Perceived SES change
+–
+–
+–
+–
+.06
+.21
+.03
+.76
+.11
+.20
+.05
+.60
+Perceived SES change2
+–
+–
+–
+–
+.05
+.22
+.03
+.84
+−.15
+.19
+−.09
+.42
+Self‐discrepancy index
+–
+–
+–
+–
+.01
+.02
+.04
+.66
+.01
+.02
+.04
+.66
+Materialistic values
+–
+–
+–
+–
+.98
+.26
+.41
+<.001
+1.37
+.33
+.57
+<.001
+Perceived SES change × materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+.00
+.22
+.00
+.99
+Perceived SES change2 × materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+−.35
+.15
+−.29
+<.05
+Self‐discrepancy index × materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+−.01
+.02
+−.03
+.66
+Cross‐level interactions with possession choice
+SES
+.16
+.17
+.21
+.35
+.12
+.16
+.16
+.48
+.12
+.16
+.17
+.44
+SES2
+.01
+.11
+.02
+.90
+.04
+.10
+.07
+.69
+.05
+.10
+.08
+.61
+Perceived SES change
+–
+–
+–
+–
+−.02
+.13
+−.03
+.88
+−.05
+.12
+−.08
+.67
+Perceived SES change2
+–
+–
+–
+–
+.21
+.10
+.41
+<.05
+.30
+.13
+.61
+<.05
+Self‐discrepancy index
+–
+–
+–
+–
+.03
+.01
+.38
+<.05
+.02
+.01
+.39
+<.05
+Materialistic values
+–
+–
+–
+–
+.40
+.15
+.54
+<.01
+.15
+.19
+.20
+.45
+Perceived SES change × materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+.12
+.15
+.17
+.42
+Perceived SES change2 ×materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+.23
+.11
+.62
+<.05
+Self‐discrepancy index × materialistic values
+–
+–
+–
+–
+–
+–
+–
+–
+.00
+.01
+.00
+.99
+Residual variance
+Level 1 residual variance (σ2)
+2.84
+.15
+–
+–
+2.84
+.15
+–
+–
+2.84
+.15
+–
+–
+Level 2 residual variance (τ2
+intercept)
+3.22
+.56
+–
+–
+2.50
+.45
+–
+–
+2.32
+.42
+–
+–
+Level 2 random slope variance (τ2
+slope)
+0.37
+.23
+–
+–
+0.09
+.19
+–
+–
+0.04
+.18
+–
+–
+Deviance
+3853.28
+3810.60
+3801.49
+Note. SES, socioeconomic status.
+To aid interpretation of effect sizes, we have estimated values of β by multiplying unstandardized parameters by the SD of the predictor and dividing by the SD of
+the outcome (Hox, 2002). For main effects, outcome SDs were derived from levels 1 and 2 variance components of the status ratings estimated in the null model.
+For cross‐level effects, we treated the slope for possession choice as the “outcome” hence, we used the level 2 SD estimated for this slope in model 2 as our
+outcome SD.
+Status projection
+523
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+strongest among those reporting upward or downward
+mobility, compared with those reporting relatively stable SES.
+H3 was supported by a signiﬁcant interaction of possession
+choice with self‐discrepancies (β = .38, p < .05); as shown in
+Figure 2, status projection was signiﬁcantly greater among those
+with greater self‐discrepancies. H4 was supported by a
+signiﬁcant interaction of possession choice with materialistic
+values (β = .54, p < .01); as shown in Figure 3, participants with
+more materialistic values showed signiﬁcantly greater status
+projection than did those with less materialistic values.
+Incompleteness by Commitment Interactions
+Finally, we tested the predicted interactions between materi-
+alistic values and our two indices of incompleteness: SES
+change and self‐discrepancies (H5 and H6). After centering
+materialistic values and self‐discrepancies, we computed
+cross‐product terms of materialistic values with linear and
+quadratic terms for SES change, and with self‐discrepancies.
+We entered all three cross‐product terms as main effects and
+as cross‐level interaction terms predicting variation in the
+status projection effect (Model 5). Although only a marginally
+signiﬁcant improvement over Model 4, this model accounted
+for an estimated 88.9% of variability in the status projection
+slope, another substantial increase in modeled variance.
+Crucially, as predicted, the model showed a signiﬁcant
+3‐way interaction between materialistic values, the quadratic
+term for perceived SES change and possession choice (β = .62,
+p < .05). Figure 4 shows the estimated magnitude of the status
+projection effect as a function of perceived SES change and
+materialistic values. Supporting H5, the curvilinear effect of
+perceived SES change on status projection was stronger
+among those with higher materialistic values. We then
+recomputed Model 5 using various linear transformations of
+perceived SES change to establish under which circumstances
+materialistic value endorsement showed a signiﬁcant effect on
+status projection (Aiken & West, 1991). Materialistic values
+were signiﬁcantly related to status projection at SES change
+scores of 2 or below (downward change) and at scores of 4.5
+or above (upward change); however, materialistic values were
+not signiﬁcantly associated with status projection at values
+between 2.5 and 4 (representing relatively stable or slightly
+improved SES). Similarly, we used various transformations of
+materialistic values to establish under which circumstances
+Figure 1.
+Estimated status value of possessions chosen and not
+chosen as a function of perceived socioeconomic status change
+Figure 2.
+Estimated status value of possessions chosen and not
+chosen as a function of self‐discrepancy scores
+Figure 3.
+Estimated status value of possessions chosen and not
+chosen as a function of materialistic values
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+Downward
+Stable
+Upward
+Perceived SES change
+Status projection
+Higher materialism
+Mean materialism
+Lower materialism
+Figure 4.
+Estimated magnitude of the status projection effect as a
+function of perceived SES change and materialistic value endorse-
+ment. Thicker lines represent greater endorsement of materialistic
+values
+524
+Hannah L. Carr and Vivian L. Vignoles
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+perceived SES change was a signiﬁcant curvilinear predictor
+of status projection. SES change was a signiﬁcant curvilinear
+predictor of status projection at materialistic value scores of
+3.7 or above (close to the theoretical midpoint of 4).
+In contrast, the interaction effect involving generalized
+self‐discrepancies was non‐signiﬁcant and close to zero
+(β = .00, p = .99). Thus, against H6, there was no evidence to
+suggest that the effect of generalized self‐discrepancies on
+status projection was moderated by materialistic values.3
+DISCUSSION
+In this study, we documented the self‐presentational phenom-
+enon of status projection: participants chose to present to
+others especially those of their material possessions that they
+associated with higher SES. Previous research into self‐
+evaluation and impression management has typically focused
+on individual or interpersonal qualities such as competence or
+likeability as value dimensions (see Schlenker, 2003;
+Sedikides & Gregg, 2003), paying little attention to social
+structural conceptions of value often examined elsewhere in the
+social sciences (for exceptions, see Dittmar, 1992; Gecas &
+Schwalbe, 1983; Heine, Harihara, & Niiya, 2002). However,
+the present results highlight the importance of SES as a valued
+identity domain, even among adolescents in an individualistic
+society during the historical period of late modernity (Giddens,
+1991). Indeed, as social structures become more ﬂuid, this
+arguably makes judgments and portrayals of SES more
+amenable to the cognitive and self‐presentation biases
+involved in motivated identity construction.
+We used symbolic self‐completion theory (Wicklund &
+Gollwitzer, 1982) to predict individual differences in status
+projection. Previous research has supported a symbolic self‐
+completion account of the acquisition of material possessions
+(Dittmar, 2005a) and of cognitions about one’s possessions
+and consumer choices (Braun & Wicklund, 1989), but this was
+the ﬁrst study to test a symbolic self‐completion account of
+actual behavioral choices about which of one’s material
+possessions to present to others. Results supported two discrete
+pathways to status projection, reﬂecting different forms of
+identity incompleteness: status projection was signiﬁcantly
+enhanced (1) among those reporting either upward or
+downward change in SES, but only to the extent that they
+endorsed materialistic values; and (2) among those reporting
+greater self‐discrepancies, irrespective of materialistic values.
+Symbolic self‐completion studies have often operationa-
+lized identity incompleteness in terms of being new to a
+particular identity position (e.g., Braun & Wicklund, 1989).
+Although we did not measure potential mediators here, we
+propose that members of upwardly mobile families may have
+felt relatively uncertain of their elevated social status—
+especially in the context of social discourse about “old” and
+“new money”—increasing their need to display their social
+status to others in search of self‐veriﬁcation (Swann, 1983).
+We focused here on past‐to‐present improvement in SES,
+but it would be interesting to explore whether expected
+present‐to‐future improvement may have similar effects.
+Guimond and Dambrun (2002) found that participants led to
+expect future improvements in their economic circumstances
+showed increased prejudice and ethnocentrism, although they
+did not consider symbolic self‐completion as a possible
+explanation. Future research might test whether participants
+expecting future improvements in SES would also show
+increased status projection.
+Status projection was higher also among participants
+reporting downward change in SES. For these participants,
+status projection may have been driven by somewhat different
+concerns, perhaps involving self‐continuity maintenance
+(Chandler, Lalonde, Sokol, & Hallett, 2003). Although status
+projection appeared stronger among downwardly mobile than
+among upwardly mobile participants, this is not certain from
+the current analyses—only that the effect of perceived SES
+change was signiﬁcantly curvilinear. In fact, relatively few
+participants were located at the downward end of the SES
+change continuum—perhaps reﬂecting historically rising
+levels of afﬂuence or else some normative bias in the self‐
+report scale. Guimond and Dambrun (2002) also found some
+evidence for increased prejudice among participants led to
+expect future decline in their economic circumstances—
+although in their studies the effects were weaker than those of
+expected improvement.
+Supporting symbolic self‐completion theory, the curvilin-
+ear relationship between perceived SES change and status
+projection was strongest among those who more strongly
+endorsed materialistic values (Figure 4). Materialistic values
+entail commitment to SES as an important identity domain;
+hence, it may be only among relatively materialistic people
+that SES change is problematic for identity, creating the
+need for status projection. Consistent with this reasoning,
+perceived SES change was associated with greater status
+projection only among participants with materialistic values
+scores of 3.7 or above—showing neutral or positive
+endorsement of materialistic values. Thus, perceived SES
+change did not predict status projection among those who
+rejected materialistic values.
+We should acknowledge that we did not measure directly
+how people felt about the change or stability they reported in
+their SES. Theoretically, one might expect that those reporting
+either upward or downward change would show some indication
+of insecurity—such as feelings of uncertainty or discomfort—
+and that these feelings would mediate effects of the incomplete-
+ness on status projection. However, such feelings may be
+difﬁcult to detect, especially in a correlational study, because
+participants in a position of incompleteness would be expected
+already to have used one or more self‐completion strategies to
+avoid or resolve such feelings. Hence, future research should use
+experimental methods, as well as implicit measures, to attempt
+to detect such feelings at the moment they occur and without
+participants necessarily having to verbalize them.
+Interestingly, sources of identity insecurity unrelated to SES
+were also linked to status projection. Controlling for the main
+and interactive effects of SES change and materialistic values
+predicted by symbolic self‐completion theory, a generalized
+measure of actual‐ideal self‐discrepancies predicted additional
+3The interaction of materialistic values with the quadratic term for SES change
+remained signiﬁcant in a model excluding the interaction with self‐discrepancies,
+and the interaction of materialistic values with self‐discrepancies remained non‐
+signiﬁcant in a model excluding the interactions with SES change.
+Status projection
+525
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+variance in status projection. Unlike perceived SES change,
+the self‐discrepancy measure asked participants explicitly to
+report on feelings of identity incompleteness. Admittedly, if
+people often seek to hide or compensate for their insecurities,
+then self‐reports of the magnitude and importance of self‐
+discrepancies may underestimate the true extent of identity
+insecurity among participants. In particular, refusing to list
+any self‐discrepancies may have been a defensive position
+reﬂecting high, rather than low, incompleteness. This could
+have inﬂuenced our results, weakening the observed relation-
+ship between self‐discrepancies and status projection. Still, if
+this was the case, it would make the current signiﬁcant ﬁnding a
+conservative estimate of the true effect.
+Notably, this second pathway to status projection was not
+moderated by materialistic values. This helps us discriminate
+between two possible understandings of the role of identity
+commitment in symbolic self‐completion processes. On the
+one hand, identity commitment may be involved in
+determining the extent to which incompleteness in a given
+domain is experienced as problematic, leading to psycholog-
+ical insecurity and attempts at self‐completion; on the other
+hand, identity commitment may be involved in determining
+the extent to which a given behavior represents an attractive
+strategy for self‐completion, irrespective of the initial source
+of incompleteness. The former account is consistent with the
+interaction of materialistic values and SES change observed in
+the current data; in contrast, the latter conceptualization was not
+supported here: materialistic values did not interact with
+generalized self‐discrepancies to predict status projection. A
+purely methodological explanation for the lack of a signiﬁcant
+interaction seems unlikely here. Materialistic values and self‐
+discrepancies were only moderately correlated (r = .29), and so
+there remained a scope to ﬁnd a signiﬁcant interaction without
+creating problems of multicollinearity. As Wicklund and
+Gollwitzer (1982) recognize, individuals strive for recognition
+on self‐deﬁning aspects that are validated by the community.
+Thus, people experiencing insecurity may sometimes use status
+symbols because of society’s readiness to respond to them,
+irrespective of their personal values.
+We are not proposing that status projection is the only goal
+involved in the use of material possessions for identity
+construction. Possessions may be important to people for
+many reasons—including esthetic pleasure, prestige, self‐
+esteem, social afﬁliation, differentiation, and continuity over
+time (McIntosh & Schmeichel, 2004; Pearce, 1992; Vignoles,
+Dittmar, Langton, Wright & Anderson, 2007)—and they may
+likely be presented to others for a similarly wide variety of
+reasons. Although we camouﬂaged our status ratings among
+ﬁller items, making these ratings could possibly have
+increased the salience of status concerns, cueing participants
+to select high status possessions for the interaction task.
+Nevertheless, this would not explain the detailed pattern of
+cross‐level interactions we found, showing that the magnitude
+of the status projection effect varied predictably as a function
+of SES change, self‐discrepancies and materialistic values.
+Because of its correlational methodology, the current study
+does not permit strong causal inferences. Although the results
+supported our theoretical predictions, they are also consistent
+with some alternative causal explanations—for example that a
+tendency towards status projection leads to identity insecurity.
+We should reiterate that our main aims in this study were to
+document the existence of the phenomenon of status projection
+and to explore patterns of individual differences in a relatively
+naturalistic format, not to test predictions about causal
+sequence. Ample experimental evidence exists to support the
+causal direction of symbolic self‐completion processes in other
+domains (e.g., Gollwitzer & Wicklund, 1985; Ledgerwood et
+al., 2007), as well as for defensive responses to identity threats
+more generally (reviewed by Sedikides & Gregg, 2003). Still, it
+would be valuable to use an experimental approach in future
+research to test the causal antecedents of status projection, as
+well as to test the effectiveness of status projection as a strategy
+for resolving feelings of incompleteness.
+We should acknowledge that the present sample was not
+representative of British society as a whole. Earlier, we noted
+reasons to expect that status projection may be especially
+prevalent among adolescents—who typically strongly endorse
+materialistic values, but whose SES is not yet deﬁned by
+occupying a position within the labor market. Moreover,
+participants were sampled from a relatively afﬂuent geo-
+graphical area, which may have reduced our ability to detect
+effects of SES. Nevertheless, anecdotal evidence suggests that
+status projection is not restricted to afﬂuent adolescents, but
+occurs among adults of various backgrounds, especially when
+experiencing rising afﬂuence (Goffman, 1951; Smith, 2003).
+Moreover, the conditions of late modern society resonate with
+the characteristics of those participants in the current research
+among whom greater status projection was observed.
+Research has documented the increasing prevalence of
+materialistic values in Western cultures (e.g., Kasser et al.,
+2004). The breakdown of traditional class structures and
+availability of borrowed money have led to increased social
+mobility and higher socioeconomic aspirations among adults
+as well as adolescents, allowing for greater insecurity about
+one’s SES and greater latitude for using status symbols to
+rectify such insecurity (Dittmar, 2008; Giddens, 1991).
+To conclude, the present study offers a valuable ﬁrst look at
+the self‐presentational strategy of status projection. Our results
+relate this phenomenon to insecurity in the self‐concept,
+instability of SES and the materialistic values that are prevalent
+in contemporary mass consumer society. Perhaps, for those
+living in contexts of rising afﬂuence, some solace can be taken
+from the idea that those individuals engaged in status projection
+are not necessarily attempting to make others feel inadequate,
+but attempting to make themselves feel adequate.
+ACKNOWLEDGEMENTS
+We are grateful to Helga Dittmar, James Shepperd, Brian
+Parkinson, Ayse Uskul, and several anonymous reviewers for
+their useful comments on previous drafts of this article.
+REFERENCES
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and
+interpreting interactions. Newbury Park, CA: Sage.
+Braun, O. L., & Wicklund, R. A. (1989). Psychological antecedents of
+conspicuous consumption. Journal of Economic Psychology, 10, 161–187.
+526
+Hannah L. Carr and Vivian L. Vignoles
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Chandler, M. J., Lalonde, C. E., Sokol, B. & Hallett, D. (2003). Personal
+persistence, identity development, and suicide: A study of native and non‐
+native North American adolescents. Monographs of the Society for
+Research in Child Development, 68(2).
+Dittmar, H. (1992). Perceived material wealth and ﬁrst impressions. The
+British Journal of Social Psychology, 31, 379–391.
+Dittmar, H. (2005a). A new look at “compulsive buying”: Self‐discrepancies
+and materialistic values as predictors of compulsive buying tendency.
+Journal of Social and Clinical Psychology, 24, 832–859.
+Dittmar, H. (2005b). Compulsive buying – a growing concern? An
+examination of gender, age, and endorsement of materialistic values as
+predictors. British Journal of Psychology, 96, 467–491.
+Dittmar, H. (2008). Consumer culture, identity, and well‐being. European
+Monographs in Social Psychology. East Sussex and New York:
+Psychology Press.
+Gecas, V., & Schwalbe, M. L. (1983). Beyond the looking‐glass self: Social
+structure and efﬁcacy‐based self‐esteem. Social Psychology Quarterly, 46,
+77–88.
+Giddens, A. (1991). Modernity and self‐identity. Palo Alto, CA: Stanford
+University Press.
+Goffman, E. (1951). Symbols of class status. The British Journal of Sociology,
+2, 294–304.
+Goffman, E. (1959). The presentation of self in everyday life. New York, NY:
+Doubleday.
+Gollwitzer, P. M., & Wicklund, R. A. (1985). Self‐symbolizing and the
+neglect of others’ perspectives. Journal of Personality and Social
+Psychology, 48, 702–715.
+Guimond, S., & Dambrun, M. (2002). When prosperity breeds intergroup
+hostility: The effects of relative deprivation and relative gratiﬁcation on
+prejudice. Personality and Social Psychology Bulletin, 28, 900– 912.
+Halliwell, E., & Dittmar, H. (2006). Associations between appearance‐related
+self‐discrepancies and young women’s and men’s affect, body satisfaction,
+and emotional eating: A comparison of ﬁxed‐item and participant‐
+generated self‐discrepancies. Personality and Social Psychology Bulletin,
+32, 447–458.
+Harmon‐Jones, C., Schmeichel, B. J., & Harmon‐Jones, E. (2009). Symbolic
+self‐completion in academia: Evidence from department web pages and
+email signature ﬁles. European Journal of Social Psychology, 39, 311–316.
+Heine, S. J., Harihara, M., & Niiya, Y. (2002). Terror management in Japan.
+Asian Journal of Social Psychology, 5, 187–196.
+Hox, J. (2002). Multilevel analysis: Techniques and applications. London:
+Routledge.
+International Monetary Fund (2010). World economic outlook database,
+October 2010. [Database]. Washington, DC: International Monetary Fund,
+Publication Services. Retrieved from http://www.imf.org/external/pubs/ft/
+weo/2010/02/weodata/index.aspx
+Kasser, T., Ryan, R. M., Couchman, C. E., & Sheldon, K. M. (2004).
+Materialistic values: Their causes and consequences. In T. Kasser, & A. D.
+Kanner (Eds.), Psychology and Consumer Culture: The Struggle For a
+Good Life in a Materialistic World (pp. 11–28). Washington, DC:
+American Psychological Association.
+Land Registry (2010). House price index [Database]. London: Land Registry.
+Retrieved from http://www1.landregistry.gov.uk/houseprices/
+Ledgerwood, A., Liviatan, I., & Carnevale, P. J. (2007). Group‐identity
+completion and the symbolic value of property. Psychological Science, 18,
+873–878.
+Liberatos, P., Link, B. G., & Kelsey, J. L. (1988). The measurement of social
+class in epidemiology. Epidemiologic Reviews, 10, 87–121.
+McIntosh, W. D. & Schmeichel, B. (2004). Collectors and collecting: A social
+psychological perspective. Leisure Sciences, 26, 85–97.
+Ofﬁce of National Statistics (2002). The NS‐SEC Self‐Coded Method.
+London: Ofﬁce of National Statistics. Retrieved from http://www.statistics.
+gov.uk/methods_quality/ns_sec/nssec_self_coded_method.asp
+Organisation for Economic Co‐operation and Development (1999). Classify-
+ing educational programmes: Manual for ISCED ‐ 97 implementation in
+OECD Countries. Paris: OECD.
+Pearce, S. M. (1992). Museums, objects, and collections: A cultural study.
+London: Leicester University Press.
+Pedhazur, E. J., Kerlinger, F. N. (1982). Multiple regression in behavioral
+research: Explanation and prediction. New York: Holt, Rinehart, & Winston.
+Raudenbush, S., Bryk, A., Cheong, Y. F., & Congdon, R. (2001). HLM 5:
+Hierarchical linear and nonlinear modeling. Lincolnwood, IL: Scientiﬁc
+Software International, Inc.
+Reicher, S. (1995). Three dimensions of the social self. In A. Oosterwegel, &
+R. A. Wicklund (Eds.), The self in European and North American culture:
+Development and processes (pp. 277–290). Dordrecht: Kluwer Academic
+Publishers.
+Richins, M. (2004). The material values scale: Measurement properties and
+development of a short form. Journal of Consumer Research, 31, 209–219.
+Schlenker, B. R. (2003). Self‐presentation. InM.R. Leary, & J. P. Tangney(Eds.),
+Handbook of self and identity (pp. 492–518). New York: Guilford Press.
+Sedikides, C., & Gregg, A. (2003). Portraits of the self. In M. A. Hogg, &
+J. Cooper (Eds.), Sage handbook of social psychology (pp. 110 –138).
+London: Sage.
+Sherman, D. K., & Cohen, G. L. (2006). The psychology of self‐defense: Self‐
+afﬁrmation theory. Advances in Experimental Social Psychology, 38, 183–242.
+Smith, C. H. (2003). “I don’t like to dream about getting paid”: Representations
+of social mobility and the emergence of the hip‐hop mogul. Social Text,
+21(4), 69–97.
+Swann, W. B., Jr. (1983). Self‐veriﬁcation: Bringing social reality into
+harmony with the self. In J. Suls, & A. G. Greenwald (Eds.), Psychological
+perspectives on the self (Vol. 2, pp. 33–66). Hillsdale, NJ: Lawrence
+Erlbaum Associates.
+Tesser, A. (2000). On the conﬂuence of self‐esteem maintenance mechanisms.
+Personality and Social Psychology Review, 4, 290–299.
+Vignoles, V. L., Dittmar, H. E., Langton, T. A. D., Wright, A. E., &
+Anderson, N. (2007, September). The material self: Identity motives and
+the symbolic value of material possessions. Paper presented at the Annual
+Conference of the British Psychological Society Social Psychology Section,
+University of Kent, Canterbury.
+Wicklund, R. A., & Gollwitzer, P. M. (1982). Symbolic self‐completion. New
+Jersey: Lawrence Erlbaum Associates.
+Status projection
+527
+Copyright # 2011 John Wiley & Sons, Ltd.
+Eur. J. Soc. Psychol. 41, 518–527 (2011)
+ 10990992, 2011, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ejsp.812 by University College London UCL Library Services, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

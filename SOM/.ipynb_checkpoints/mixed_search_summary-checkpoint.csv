@@ -1,0 +1,10 @@
+SourceType,Image,Frame,VideoID,Text,CLIP_BMU_x,CLIP_BMU_y,SBERT_BMU_x,SBERT_BMU_y
+Image,101.jpg,frame-021642\frame_0000.jpg,frame-021642\frame_0000.jpg,10.txt,2,3,3,2
+Image,107.jpg,frame-028479\frame_0000.jpg,frame-028479\frame_0000.jpg,10.txt,2,3,3,2
+Image,109.jpg,frame-028479\frame_0000.jpg,frame-028479\frame_0000.jpg,10.txt,2,3,3,2
+Image,140.jpg,frame-028479\frame_0000.jpg,frame-028479\frame_0000.jpg,10.txt,2,3,3,2
+Image,134.jpg,frame-021642\frame_0000.jpg,frame-021642\frame_0000.jpg,10.txt,2,3,3,2
+Text,109.jpg,frame-116293\frame_0000.jpg,frame-116293\frame_0000.jpg,10.txt,2,3,3,2
+Text,109.jpg,frame-116293\frame_0000.jpg,frame-116293\frame_0000.jpg,3.txt,2,3,3,2
+Text,109.jpg,frame-116293\frame_0000.jpg,frame-116293\frame_0000.jpg,4.txt,2,3,3,2
+Text,109.jpg,frame-116293\frame_0000.jpg,frame-116293\frame_0000.jpg,6.txt,2,3,3,2

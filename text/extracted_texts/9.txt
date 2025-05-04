@@ -1,0 +1,1756 @@
+J Consum Psychol. 2022;32:519–536.	
+﻿
+   |  519
+wileyonlinelibrary.com/journal/jcpy
+Residential mobility is defined as the degree to which in-
+dividuals change their residence. At the level of individ-
+uals, it refers to the number of times they change their 
+residence in a given period (e.g., age 5 to 18). At the level 
+of the neighborhood, the city, the state, or the country, 
+it refers to the percentage of residents who changed their 
+residence in a given period (e.g., January 1st, 2020, to 
+December 31st, 2020). The change of residence is often 
+accompanied by a cascade of changes in neighborhoods, 
+schools, social networks, and daily routines. Not sur-
+prisingly, the importance of residential mobility has long 
+been recognized in behavioral and social sciences, such as 
+demography (Clark & Onaka, 1983), sociology (South & 
+Crowder, 1998), economics (Hoyt, 1993), political science 
+(Squire et al., 1987), and epidemiology (Prothero, 1977). 
+By contrast, relatively few researchers in psychology have 
+paid attention to the role of residential mobility until 
+around 2000 (see Oishi, 2010 for a review). However, over 
+the last two decades, psychological research on residen-
+tial mobility and relational mobility (the degree to which 
+an individual can form new relationships and exit from 
+undesirable relationships, Schug et al.,  2010; Yuki & 
+Schug, 2020) has proliferated. The present review features 
+major psychological studies on residential and relational 
+mobilities (see Oishi, Schug, et al., 2015, for an extensive 
+earlier review).
+R E S E A R C H  D I A L O G U E
+The socio-­ecological psychology of residential mobility
+Shigehiro Oishi
+  |    Shelly Tsang
+Received: 1 February 2022  |  Accepted: 2 March 2022
+DOI: 10.1002/jcpy.1310  
+Department of Psychology, University of 
+Virginia, Charlottesville, Virginia, USA
+Correspondence
+Shigehiro Oishi, Department of 
+Psychology, University of Virginia, 
+P.O. Box 400400, Charlottesville, VA 
+22904-­4410, USA.
+Email: soishi@virginia.edu
+Abstract
+From ancient time, Homo sapiens moved around in search of a better life. 
+Although the development of agriculture and industrialization no longer 
+necessitates frequently moving to find new food sources, people today still change 
+their residences for a variety of reasons. This article highlights key findings from 
+residential mobility, focusing on its implications for the self, social relationships, 
+societies, and well-­being. Generally, residential mobility shifts individual 
+attention away from collective attributes toward personal attributes. It also 
+changes people's relationship styles and preferences, leading individuals to favor 
+wider social networks, more open communication, low-­commitment groups, and 
+egalitarian helpers. In addition, it increases tolerance for norm violations and 
+moral deviations. Lastly, residential mobility can explain some cross-­national 
+and within-­nation variations. This article reviews recent psychological research 
+on residential mobility and then discusses limitations, paradoxical findings, and 
+future directions.
+K E Y W O R D S
+relational mobility, relationships, residential mobility, self, well-­being
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any 
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2022 The Authors. Journal of Consumer Psychology published by Wiley Periodicals LLC on behalf of Society for Consumer Psychology.
+Accepted by Lauren Block, Editor; Associate Editor, L. J. Shrum 
+Introduction: L. J. Shrum. Residential mobility: Implications for consumer psychology https://doi.org/10.1002/jcpy.1308 
+Commentary 1: Yajin Wang. Residential mobility or mobile residentiality? Exploring the effects of place stability and variety in consumer psychology https://doi.
+org/10.1002/jcpy.1311 
+Commentary 2: Minkyung Koo. Residential mobility and consumer psychology through a cultural lens https://doi.org/10.1002/jcpy.1309  
+520  |     
+OISHI and TSANG
+WHY RESIDENTIAL MOBILITY?
+First, residential mobility captures one aspect of human 
+agency. The anthropologist David Graeber and the ar-
+cheologist David Wengrow (2021) argue in their ambi-
+tious book “The dawn of everything: A new history of 
+humanity” that the history of humanity could be written 
+in terms of its creative solutions to the common strug-
+gle between individual freedom and social dominance. 
+According to Graeber and Wengrow, there are three 
+fundamental forms of freedom: the freedom to move, 
+the freedom to disobey orders, and the freedom to reor-
+ganize social relations. These freedoms are not the prod-
+uct of modernity. Since the ancient civilizations such as 
+Çatalhӧyűk on the Konya Plain of central Turkey circa 
+7400 BC, people have moved seasonally-­even in an ag-
+ricultural society-­and have organized their social lives 
+differently in different seasons. During a conflict or 
+under an oppressive government, people have frequently 
+exercised their freedoms to move for a better life. These 
+movements have important consequences for individu-
+als who move away and those who are left behind alike, 
+and the society that absorbs newcomers and for the soci-
+ety that loses its residents alike (Carson & Gimpel, 2019; 
+Stevenson et al., 2019; Talhelm & Oishi, 2014).
+Second, residential mobility illuminates a process un-
+derlying some cross-­national differences (Oishi,  2010). 
+For instance, one of the most fundamental cultural di-
+mensions is individualism–­collectivism (Hofstede, 2001; 
+Shavitt et al., 2011; Triandis, 1989). Triandis (1989) spec-
+ulated that, in addition to complexity and affluence, resi-
+dential mobility is one of the antecedents of individualism. 
+Indeed, a recent cross-­cultural study found that countries 
+high in relational mobility were also more individualistic 
+in terms of Hofstede's score (Thomson et al., 2018).
+Despite the long history of human mobility, there are 
+enormous diversities in the rate of residential mobility 
+across societies and times (see Figure  1). For instance, 
+the United States has always been known for its high rate 
+of residential mobility since colonial days (Turner, 1921; 
+van Minnen & Hilton,  2002). In Sangamon County, 
+Illinois, 80% of households living there in 1840 moved 
+elsewhere by 1850; in Boston's Jamaica Plain district, half 
+of the household heads listed in 1880 were gone by 1890 
+(Fischer, 2002). By contrast, Germans are known for res-
+idential stability, despite rapid economic growth in the 
+post-­World War II period. The rate of residential mobility 
+in Germany in the 1980s was equivalent to the rate in the 
+1830s (Hochstadt, 1999). Many of the youth who moved 
+to the cities for jobs eventually returned to their villages.
+These cross-­national differences in the general ten-
+dency to move can have a lasting impact on national cul-
+ture. For instance, corporate culture in the United States 
+has emphasized that future managers and executives are 
+F IGU R E 1 
+Residential mobility by country. Darker and more purple indicate countries that are higher in residential mobility. Lighter and 
+more yellow indicate countries that are lower in residential mobility. Gray indicates no data. Data from the 2016 Gallup World Poll [Colour 
+figure can be viewed at wileyonlinelibrary.com]
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  521
+RESIDENTIAL MOBILITY
+transferred to various branch offices in different regions, 
+thereby familiarizing themselves with the entire organi-
+zation (Whyte Jr., 1957). In 1997, the American retail cor-
+poration Wal-­Mart entered the German market through 
+the acquisition of Wertkauf with an estimated cost of 
+$1.04 billion. In July 2006, however, Wal-­Mart declared 
+its defeat in Germany. What happened? Landler and 
+Barbaro (2006) reported in the New York Times as fol-
+lows: “Compounding the problem, Wal-­Mart shut down 
+the headquarters of one of the chains, infuriating em-
+ployees who opted to quit rather than move. Such a deci-
+sion would have been routine in the United States, where 
+Ms. Keck said, ‘moving is a big part of the Wal-­Mart 
+culture’. In Germany, she said, it prompted an exodus 
+of talented executives.” As such, some cultural clashes 
+and differences could be explained in part by differential 
+familiarity with residential mobility (Oishi, 2010).
+Third, residential mobility can explain within-­country 
+changes over time as well as within-­country regional 
+variations. Even though the United States as a whole is 
+a mobile country, some states are more mobile than oth-
+ers (see Figure 2). For instance, Nevada, Arizona, and 
+Florida are far more mobile than Pennsylvania and West 
+Virginia. U.S. states with higher levels of residential mo-
+bility have more loose cultures (fewer strongly enforced 
+rules and more tolerance for deviance) than the states 
+with lower levels of residential mobility (Harrington & 
+Gelfand, 2014). Even within the same country, the rate 
+of residential mobility changes over time rather dramat-
+ically. In the United States, over 20% of the population 
+moved from one year to another in the 1950s. The annual 
+rate of mobility in the United States went down to less 
+than 10% in 2019. The decrease in the rate of residen-
+tial mobility was associated with the decline in optimism 
+and generalized trust and the increase in fatigue, anxi-
+ety, and tribalism (Buttrick & Oishi, 2021).
+Finally, at the level of individuals, some have moved a 
+lot while growing up, while others have not. These indi-
+vidual differences are associated with how people define 
+themselves, how they interact with others, and how they 
+make decisions. Likewise, even within the same person, ex-
+pecting to stay in one place for a long time versus expecting 
+to stay in one place briefly makes a noticeable difference 
+in terms of various intrapersonal and interpersonal strate-
+gies. In sum, residential mobility captures situational, indi-
+vidual, historical, regional, and cross-­national differences 
+in the degree to which people change their residence.
+PSYCHOLOGICAL IMPLICATIONS 
+OF RESIDENTIAL MOBILITY
+Implications for the self
+Identity
+According to the philosopher Charles Taylor (1989), peo-
+ple used to have a clear sense of who they are in part 
+because their identities were based primarily on perma-
+nent attributes such as their family origin, community, 
+religion, and social class (see also Baumeister, 1986). In 
+a traditional community, the family name was not just a 
+“name”; it was a title that could communicate the local 
+history, social standing, or prestige of a family. In addi-
+tion, people must perform their given social roles (e.g., 
+being a son) in such a community. Thus, social roles signal 
+important information about a person in a residentially 
+stable community. In a residentially mobile community, 
+however, there is no longer shared knowledge about most 
+families, and group affiliations and social roles are only 
+temporal parts of identification, rendering them not use-
+ful for identifying those with nomadic lifestyles.
+Therefore, residential mobility forces individuals to 
+base their identities on their own attributes (e.g., hard-
+working and outgoing) more than their family origin, 
+groups, and roles. When participants in a study were 
+asked to describe who they are using their own words, 
+individuals who had moved twice or more while grow-
+ing up were more likely to describe who they are in 
+terms of personal attributes (e.g., intelligent and ath-
+letic) than those who had never moved (Oishi, Lun, & 
+Sherman,  2007). Furthermore, 18.48% of those who 
+moved twice or more did not use any group affiliations 
+in their self-­descriptions, whereas only 4.76% of those 
+who never moved did not use any group affiliations in 
+their self-­descriptions. Likewise, individuals in a mo-
+bile mindset viewed the ability to perform one's role as 
+less important than those in a stable mindset did (Chen 
+et al.,  2009). Thus, residential mobility seems to shift 
+their self-­definition from collective attributes and social 
+roles to personal attributes.
+As people move, their personal identification and 
+place become detached (Easthope, 2009). A longitudinal 
+study of young adults found that those who moved more 
+than 50 km (31 miles) between assessments had weaker 
+local identity (i.e., less strongly identified with the region 
+of their residence) than those who stayed. Weaker local 
+identity was associated with having a romantic part-
+ner, friends, or family members living in far-­away loca-
+tions and an increase in geographical distance to close 
+others over time (within-­person, Borschel et al.,  2019). 
+Residentially mobile individuals' weaker local identity 
+is instead replaced with a larger global identity, which 
+also leads them to be more likely to donate to a far-­away 
+place (Wang et al., 2021).
+Internal locus of control
+As people move, they seem to place more centrality on 
+internal attributes over external attributes. For example, 
+relationally mobile individuals (who think it is easy to 
+form new relationships and exit from undesirable rela-
+tionships) tend to see someone else's actions as a result 
+of their personal volition, whereas relationally stable in-
+dividuals tend to see someone else's actions as a result of 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+522  |     
+OISHI and TSANG
+situational constraints. This suggests that relational mo-
+bility is associated with a greater internal locus of con-
+trol, while relational stability is associated with a greater 
+external locus of control (San Martin et al., 2019).
+Furthermore, relational mobility and internal locus 
+of control are associated with analytic thinking, whereas 
+relational stability and external locus of control are as-
+sociated with holistic thinking (San Martin et al., 2019; 
+Zhou et al., 2012). Relationally mobile individuals tend 
+to be good at cognitive tasks that require focusing on 
+the central figure while ignoring the context, whereas 
+relationally stable individuals tend to be good at cog-
+nitive tasks that require understanding the relationship 
+between the central figure and the background.
+Familiarity-­seeking
+Moving itself is a stressful life event (Holmes & 
+Rahe, 1967), and it is accompanied by a host of other 
+stressful events such as a change in living conditions, 
+schools, neighbors, friends, and affiliations. When 
+people are under stress, they like to cling to familiar 
+objects. The most famous psychological example is Mary 
+Ainsworth's (1979) Strange Situation procedure. In the 
+presence of a mother, an infant explores the world, play-
+ing with new toys and searching new territory. Once the 
+mother leaves the scene, however, the infant freezes, 
+cries, and clings to a familiar object (e.g., a teddy bear). 
+In a similar way, an adult under threat is soothed by 
+holding their partner's hand (Coan et al., 2006).
+Extending this logic, Oishi, Miao, et al.  (2012) hy-
+pothesized that residential mobility would increase 
+familiarity-­seeking. They found that U.S. states with a 
+higher rate of residential mobility (e.g., Nevada) have 
+more national chain stores such as Target and California 
+Pizza Kitchen than states with a lower rate of residential 
+mobility (e.g., Pennsylvania). This association held, even 
+after controlling for the total population and median in-
+come. Second, they found that participants who moved 
+more while growing up preferred national chain stores 
+(e.g., Starbucks) to local stores to a greater extent than 
+those who did not move. In a final series of studies, they 
+used Zajonc's (1968) mere-­exposure paradigm, showing 
+some Chinese characters more often (familiar Chinese 
+characters) than others (unfamiliar Chinese characters). 
+F IGU R E 2 
+Residential mobility in the United States by state. Darker and more blue colors indicate high residential mobility. 
+Lighter and more yellow colors indicate low residential mobility. Data from the U.S. Census Bureau, 2019 [Colour figure can be viewed at 
+wileyonlinelibrary.com]
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  523
+RESIDENTIAL MOBILITY
+Replicating Zajonc, they found that participants, in gen-
+eral, liked the familiar Chinese characters more than un-
+familiar ones. However, consistent with the hypothesis, 
+participants who had imagined their lives after college 
+being very mobile showed a stronger familiarity-­liking 
+effect than those who had imagined their lives after col-
+lege being very stable (see Figure 3).
+More recently, an experiment found that participants 
+who imagined a residentially mobile lifestyle were more 
+likely to pick household products with more traditional 
+designs (roughly 10 out of the 15 products), whereas par-
+ticipants who imagined a residentially stable lifestyle 
+were equally likely to pick household products with novel 
+designs and traditional designs (Ito et al., 2019, Study 2). 
+In short, residential mobility seems to shift people's pref-
+erences to seek familiarity.
+Subjective well-­being
+A residential move is particularly stressful for children 
+because they are most likely to move not of their own 
+volition but of others'. A longitudinal study that fol-
+lowed over 7000 American adults over 10 years found 
+that respondents who had moved frequently during their 
+childhood reported lower levels of life satisfaction, lower 
+levels of positive affect, and higher levels of negative af-
+fect. However, this negative association between child-
+hood mobility and adulthood well-­being was moderated 
+by extraversion: The association was virtually absent for 
+extraverts, but it was strongly negative for introverts. 
+Lastly, the residential mobility-­by-­extraversion inter-
+action effect on well-­being was explained by the qual-
+ity of social relationships (Oishi & Schimmack,  2010). 
+In general, respondents who moved a lot in childhood 
+had lower levels of social relationship satisfaction than 
+those who did not move. The inverse association be-
+tween childhood residential mobility and the quality of 
+social relationships in adulthood was particularly strong 
+among introverts, whereas this association was absent 
+among extraverts. In other words, extraverts who moved 
+frequently in childhood were still able to build good so-
+cial relationships in adulthood and therefore were quite 
+happy in adulthood. In contrast, introverts who moved 
+frequently in childhood were unable to build quality so-
+cial relationships in adulthood and therefore were less 
+happy in adulthood.
+Most shockingly, the 10-­year follow-­up data showed 
+that introverts who had moved a lot in childhood had 
+a substantially higher rate of mortality risk (they were 
+far more likely to be dead by the 10-­year follow-­up) than 
+introverts who had not moved at all. For extraverts, there 
+was no association between childhood moves and mor-
+tality risk (Oishi & Schimmack, 2010). Consistent with 
+the mortality findings, a subsequent study found that 
+European American college students who had moved 
+frequently in childhood and self-­reported as intro-
+verted showed higher levels of cortisol (stress hormone) 
+compared to those who had moved frequently in child-
+hood but self-­reported as extraverted (Oishi, Krochik, 
+et al.,  2012). These findings suggest that extraversion 
+serves as a buffer from the potentially negative effects of 
+childhood residential mobility.
+Residential mobility during development
+As seen above, childhood residential mobility has been 
+shown to have critical lasting consequences. A meta-­
+analysis found that frequent residential mobility in 
+childhood, described as moving 8 or more times, was as-
+sociated with higher levels of behavioral and emotional 
+problems, increased probability of teenage pregnancy, 
+earlier onset of drug use, depression in adolescence, 
+and reduced continuity of health care (Jellyman & 
+Spencer, 2008). It is also associated with a greater num-
+ber of adverse childhood experiences, which leads to a 
+greater risk of smoking and suicide during adolescence 
+F IGU R E 3 
+Residential Mobility and Familiarity-­Liking. Participants in the mobility condition showed a stronger familiarity-­liking effect 
+(liking a familiar object more than an unfamiliar one) than those in the control and stability conditions: d = 0.63 in the mobility condition vs. 
+d = 0.27 in the control, d = 0.32 in the stability condition for the comparison between the exposure of 3 times and that of 9 times. The figure was 
+recreated from the data in Oishi, Miao, et al. (2012) [Colour figure can be viewed at wileyonlinelibrary.com]
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+524  |     
+OISHI and TSANG
+(Dong et al.,  2005). In addition to adverse health out-
+comes, high childhood residential mobility was associ-
+ated with lower socioemotional behavioral functioning, 
+even if the move was to a more-­advantaged neighbor-
+hood (Mollborn et al., 2018).
+Frequently moving during adolescence also has ad-
+verse consequences. Adolescence is a critical time for 
+development, both physically and socio-­emotionally. 
+Moving adds stress, which can impede these critical 
+processes. One study examining 3700 first-­year univer-
+sity students found that residential mobility in adoles-
+cence, but not early childhood, predicted poorer overall 
+mental health and poorer academic performance (Li 
+et al., 2019a). Frequent moving during adolescence is 
+also associated with greater amounts of social anxiety 
+and impedes development of fear circuit maturation 
+and affective regulation (Hasler et al.,  2020). Young 
+adults who moved frequently between ages 10 and 
+16 had lower concentrations of brain-­derived neuro-
+trophic factor (BDNF), which plays a central role in 
+the development of the prefrontal–­amygdala circuit 
+during adolescence, and more abnormal amygdala–­
+orbitofrontal functional connectivity later on, increas-
+ing the risk of social deficits.
+In addition to these correlational studies, one study 
+was able to show causality by using an experimental 
+design to test the effect of residential mobility on be-
+havioral and educational outcomes in low-­income 
+families (Schmidt et al., 2018). In this study, families 
+were randomly assigned to either residential mobility, 
+by moving out of public housing into lower-­poverty 
+neighborhoods using a rental subsidy voucher, or no 
+change in residence. In this sample of over 2800 youth, 
+residential mobility caused higher delinquency among 
+boys who were 13–­16 during the transition time than 
+those in the stability condition. However, residential 
+mobility did not increase delinquency among boys who 
+were 5–­12 during the transition or among girls (regard-
+less of age). A similar pattern emerged for educational 
+problems. Thus, these findings suggest that the age at 
+the time of a move plays an important role in the poten-
+tially adverse effect of the move, and that the age effect 
+could be moderated by gender and other factors that 
+most likely affect social relationships.
+Personality and residential mobility
+Childhood moves are driven mainly by parents. Thus, 
+there are not many personality differences between 
+those who moved a lot and those who did not in child-
+hood (Oishi & Schimmack, 2010). By contrast, adult-
+hood moves are driven by one's own hopes, fears, and 
+desires, and thus should be associated with their per-
+sonality. So, who is more likely to move? While de-
+mographic variables, such as age, education, marital 
+status, and employment status can influence migration 
+decisions (Détang-­Dessendre et al.,  2002), personal-
+ity traits are also associated with migration behavior. 
+In the United States, high openness to experience and 
+low agreeableness were related to more residential mo-
+bility within and between states, while high extraver-
+sion increased within but not between state migration 
+(Jokela, 2009). On the global scale, high extraversion 
+and neuroticism increased the probability of interna-
+tional migration (Silventoinen et al., 2008). Similar pat-
+terns occur within Australia (Campbell, 2019), Europe 
+(Jokela, 2021; Jokela et al., 2008), and Japan (Yoshino 
+& Oshio, 2022).
+Personality traits are also associated with reasons 
+for moving. Some of the most frequent reasons for 
+moving include employment, education, family, hous-
+ing, and neighborhood. Openness to experience is as-
+sociated with more residential mobility for all reasons 
+and is stronger for education and employment reasons 
+than for other reasons (e.g., family). Extraversion is 
+associated with more residential mobility for neigh-
+borhood, housing, and family reasons than for employ-
+ment reasons. Individuals high in these dimensions, 
+who are outgoing and open-­minded, desire more stim-
+ulation in their social and physical environment, and 
+therefore are likely to move to areas that suit these 
+needs (Jokela, 2014, 2021). Agreeableness is associated 
+with less residential mobility, specifically for neigh-
+borhood and education reasons. Individuals high in 
+agreeableness tend to form stronger bonds with their 
+community and therefore are deterred from moving 
+away (Jokela, 2021; Jokela et al., 2008). Neuroticism is 
+associated with more residential mobility for housing 
+and family reasons than for employment and education 
+reasons (Jokela, 2021). Individuals high in neuroticism 
+tend to be less satisfied with their housing and family 
+relationships, which drives them to seek better oppor-
+tunities in other locations (Jokela et al., 2008).
+A longitudinal study of study abroad students 
+(Zimmermann & Neyer,  2013) showed that those who 
+chose to study abroad at the beginning of the academic 
+year were more extraverted than those who did not. 
+Furthermore, those who did study abroad became more 
+open to experience, more agreeable, and less neurotic 
+at the end of the academic year. Finally, the changes in 
+openness to experience and neuroticism were explained 
+in part by the changes in supportive social relationships. 
+To the extent that study abroad students gained interna-
+tional friendships, they became more open and less neu-
+rotic over time.
+Implications for social interactions
+Relationship strategies
+Oishi and Schimmack's (2010) findings on the protective 
+role of extraversion suggest that extraverts' relationship 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  525
+RESIDENTIAL MOBILITY
+strategies might be particularly adaptive under a resi-
+dentially mobile condition. In a stable society, one can 
+expect family and friends to be there when one needs 
+them. Thus, a relatively small social network could be 
+sufficient. In a residentially mobile society, one cannot 
+always expect family and friends to be there to help. 
+Therefore, it is logical to form a larger social network to 
+buffer some of the uncertainty. Indeed, a computer sim-
+ulation showed that a broader, weak-­tie strategy is most 
+adaptive under a residentially mobile condition, whereas 
+a narrower, deeper-­tie strategy is most adaptive under 
+a residentially stable condition (Oishi & Kesebir, 2012). 
+Furthermore, a survey showed that those who live in a 
+residentially mobile zip code were happier if they had 
+a wider, weaker-­tie strategy than if they had a narrow, 
+deep-­tie strategy; by contrast, in a residentially stable zip 
+code where the median household income is low, peo-
+ple are happier if they had a narrow, deep-­tie strategy 
+than if they had a broader, weak-­tie strategy (Oishi & 
+Kesebir, 2012, Study 2).
+In another set of studies, residential mobility was as-
+sociated with friendship diversification (Lun et al., 2013). 
+Specifically, individuals who moved around more while 
+growing up tended to have different friends for different 
+activities (e.g., a movie friend is different from a study 
+friend), whereas individuals who did not move tended 
+to engage in different activities with the same group 
+of friends if they valued social support in friendship 
+(Study 1). The association between residential mobility 
+and friendship diversification was also observed using 
+a residentially mobile versus stable mindset (Study 2). 
+In short, just as investors in a volatile market diversify 
+their financial investments, people living in volatile in-
+terpersonal markets seem to diversify their friendship 
+networks as well.
+A series of experiments also showed that participants 
+who were led to imagine a life after college in which they 
+had to move every other year (a residentially mobile 
+mindset condition) were more motivated to expand social 
+networks than those who were led to imagine a life after 
+college in which they had to stay in one place for 10 years 
+(a residentially stable mindset condition) and those who 
+described their typical day (the control condition; Oishi 
+et al., 2013). These differences in motivation to expand 
+social networks were explained by anticipated levels of 
+loneliness (Oishi et al., 2013, Study 2). Those in the mo-
+bility mindset condition spontaneously mentioned more 
+loneliness and sadness than those in the stability and 
+control conditions; the more loneliness and sadness they 
+anticipated, the more motivated they were to make new 
+friends. A recent study, however, found that when people 
+are moving to a new location with their family members, 
+friends, or romantic partner, they are not as motivated to 
+expand their social networks as when they are moving to 
+a new location without any close others (Li et al., 2021).
+While mobility is associated with motivation to 
+expand social networks (Oishi et al.,  2013), it is also 
+associated with greater effort to maintain existing rela-
+tionships. This is presumably because those living in a 
+relationally mobile environment must be worried about 
+their partner exiting from the relationship to a greater 
+extent than those living in a relationally stable environ-
+ment. For example, married respondents living in more 
+relationally mobile environments, who have more new 
+relationship opportunities, gave gifts to their partner 
+more frequently than those living in relationally stable 
+environments who have fewer relationship opportunities 
+(Komiya et al., 2019, Study 2). Likewise, a large study in 
+Turkey also found that married respondents who moved 
+from their hometown were more likely to rely heavily on 
+their spouse for emotional support than those who still 
+lived in their hometown (Yilmaz et al., 2022, Study 1). 
+A subsequent study also found that those who moved 
+placed more importance on the romantic partner than 
+those who did not (Study 2). Overall, residential mobil-
+ity seems to accentuate the centrality of existing close 
+relationships.
+Communication style
+When one is new to a town, one needs to get to know 
+others who could help them quickly (Whyte Jr., 1957). 
+This means a newcomer must be friendly and outgoing 
+to attract others. Individuals who perceive their envi-
+ronments to be relationally mobile are more willing to 
+share their thoughts and opinions than those who per-
+ceive their environments to be relationally stable (Schug 
+et al.,  2010). Furthermore, the more self-­disclosure to 
+strangers, the easier it becomes to form intimate rela-
+tionships (Yamada et al., 2015).
+In a residentially mobile context, an individual's emo-
+tions and emotional expression become a central cue in 
+interpersonal communication, as other information (e.g., 
+family name) is less informative. It is then reasonable that 
+individuals in a mobile context pay more attention to and 
+are better at coding others' facial expressions. For example, 
+individuals who have moved around more frequently were 
+quicker to detect the disappearance of a smile in a change 
+detection task than individuals who had not moved (Ishii 
+et al.,  2020, Study 1). Replicating the individual differ-
+ence findings, participants who were led to think about a 
+mobile life in the future detected the disappearance of a 
+smile more quickly than those randomly assigned to the 
+residentially stable condition (Ishii et al., 2020, Study 2). 
+These findings show the centrality of positive emotional 
+expression in residentially mobile contexts.
+Compensation vs. apology
+When an interpersonal conflict arises, the offender 
+typically apologizes and/or compensates if some dam-
+age was done. These reconciliatory behaviors facilitate 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+526  |     
+OISHI and TSANG
+forgiveness and the maintenance of social relationships 
+(McCullough et al., 2014; Ohtsubo & Watanabe, 2009). 
+In a residentially mobile context, it seems logical to get 
+compensation for certain right away, since it is not clear 
+whether the individual will have a long-­term relationship 
+with the offender in the future. In a residentially stable 
+context, in contrast, there is a good chance that the of-
+fended individual will have a long-­term relationship with 
+the offender. Thus, even if the offended party does not 
+get compensated immediately, there will likely be other 
+opportunities to be compensated in other ways. A recent 
+study found that individuals who had moved around 
+while growing up preferred immediate compensation 
+more than individuals who had never moved (Komiya 
+et al., 2020). In contrast, residential mobility did not af-
+fect the preference for an apology.
+Preferred groups
+Newcomers with no prior acquaintance in a town like 
+to join groups to make new friends. Whyte Jr.  (1957) 
+famously observed that “the transients' defense against 
+rootlessness, as we have noted, is to get involved in 
+meaningful activity; at the same time, however, like the 
+seasoned shipboard traveler, the wisest transients don't 
+get too involved” (p. 403). The key is to keep the delicate 
+balance of getting involved in a group, but not too much.
+What kinds of groups or organizations? Not all 
+groups are equally attractive to transients. Ideally, the 
+group is easy to join and easy to leave. In terms of reli-
+gious organizations, megachurches (more than 2000 at-
+tendees at a weekend service) fit the bill. They are easy 
+to join because they usually do not have a certain period 
+of tentative membership that traditional churches typ-
+ically have. Indeed, megachurches have proliferated in 
+the U.S. states where there are a lot of newcomers (e.g., 
+Georgia and Texas) but not in the low mobility states 
+such as Pennsylvania and West Virginia (Oishi, Talhelm, 
+et al., 2015, Study 1; see Figure 4). By contrast, there are 
+more traditional Protestant churches in less residentially 
+mobile states than in more mobile states, controlling for 
+the total population and the median income (r = −0.48, 
+p < 0.001). Thus, low-­commitment religious organiza-
+tions proliferated in residentially mobile states, while 
+high-­commitment religious organizations were more 
+prevalent in residentially stable states. A follow-­up study 
+also found that individuals who moved frequently while 
+growing up joined low-­commitment student groups 
+more than those who never moved (Oishi, Talhelm, 
+et al., 2015, Study 4). Likewise, data from a large internet 
+service provider in Japan found that residents of residen-
+tially mobile areas were more likely than those living in 
+residentially stable areas to prefer a low-­commitment, 
+short-­term plan over a high-­commitment, long-­term 
+plan (Oishi, Talhelm, et al., 2015, Study 3).
+Preferred people
+Just as highly mobile people have preferences for certain 
+groups, they also have preferences for certain individu-
+als. In a series of studies, participants were asked to in-
+dicate which of the two individuals they liked better: an 
+individual who helped a classmate as well as a best friend 
+(egalitarian helper) or an individual who refused to help 
+a classmate but spent extra time helping a best friend 
+(loyal helper). Participants who moved around while 
+growing up were more likely to choose the egalitarian 
+helper over the loyal helper. In contrast, participants who 
+did not move were equally likely to choose the egalitar-
+ian helper and the loyal helper (Lun et al., 2012, Studies 
+1 and 2). Moreover, participants who were led to think 
+about visiting and staying in a certain city temporarily 
+F IGU R E 4 
+Residential Mobility & Megachurch per 100,000 Residents. R(49) = 0.43, p = 0.002. When two outliers in megachurch (i.e., 
+Wyoming and DC) are removed, r(47) = 0.47, p < 0.001. The data are from Oishi, Talhelm et al. (2015, Study 1) [Colour figure can be viewed at 
+wileyonlinelibrary.com]
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  527
+RESIDENTIAL MOBILITY
+liked the egalitarian helper better than the loyal helper, 
+whereas participants who were led to think about living 
+permanently in a certain city liked the egalitarian and 
+the loyal helpers equally (Lun et al., 2012, Study 3).
+Likewise, relationally mobile individuals seem to re-
+ward honesty more than relationally stable individuals. 
+For example, in a reward allocation task, individuals in 
+the mobility condition gave an honest stranger more mon-
+etary rewards, than those in the stability condition did 
+(Wang et al., 2011; Wang & Leung, 2010). The flip side of 
+this is that mobile individuals seem to punish dishonesty 
+more than relationally stable individuals. That is, mobile 
+individuals seem to be more sensitive to honesty vs. dis-
+honesty than stable individuals are. Specifically, partic-
+ipants who perceived their career to be mobile excluded 
+a dishonest partner more aggressively in an experimen-
+tal game of Cyberball than those who perceived their 
+career will be stable (Whitson et al., 2015, Experiment 
+2). Additionally, in relationally mobile contexts, people 
+did not pay much attention to enemies, perhaps because 
+they can avoid them. By contrast, in relationally stable 
+contexts, where people cannot avoid enemies, people pay 
+more attention to them, literally, as measured by an eye-­
+tracker (Li et al., 2018). That is, mobile individuals ap-
+pear to be more motivated to curate the social networks 
+filled with egalitarian helpers and honest individuals, 
+and actively distance themselves from enemies, unhelp-
+ful or dishonest individuals to a greater degree than res-
+identially stable individuals.
+Weaker in-­group favoritism
+In-­group favoritism is one of the fundamental social 
+psychological insights (Tajfel et al., 1971). By age 6, chil-
+dren are more likely to punish out-­group members who 
+show selfishness than in-­group members in an artificial 
+minimal-­group situation (Jordan et al., 2014). Thus, in-­
+group favoritism is considered part of human nature. 
+Yet, residential mobility seems to weaken in-­group fa-
+voritism by blurring the boundary between in-­group and 
+out-­group members. For instance, a large survey study in 
+Iceland found that Icelanders with a personal history of 
+residential mobility showed more tolerance toward im-
+migrants than Icelanders who had never moved before 
+(Bjarnason et al.,  2020). The association between resi-
+dential mobility and tolerance toward immigrants held 
+significant, controlling for age, gender, education, em-
+ployment status, income, and generalized trust.
+Furthermore, when participants were randomly as-
+signed to imagine living in a country where people 
+change their jobs frequently (the mobility condition), 
+they rewarded a friend and a stranger equally, and 
+punished a friend slightly less than a stranger. On the 
+other hand, those assigned to imagine living in a coun-
+try where people do not change their jobs often (the sta-
+bility condition) differentiated between their friend and 
+a stranger: they punished a stranger a lot more than a 
+friend and rewarded a friend a lot more than a stranger 
+(Wang et al., 2011, Experiment 3).
+A recent experiment also found the typical in-­group fa-
+voritism in a helping situation among participants exper-
+imentally induced to hold a residentially stable mindset 
+(expected to live in the same city for a long time), but no 
+sign of in-­group favoritism among those who were induced 
+to hold a mobile mindset (Li et al., 2019b, Study 1). That is, 
+those who thought they would be living in the same place 
+for a long time were far more willing to help someone in 
+the same department (in-­group) than someone in another 
+department (out-­group). By contrast, those who thought 
+they would be living in a different city every other year 
+were willing to help someone in another department as 
+much as someone in the same department. In a subsequent 
+study that utilized the Dictator Game (Study 2), partic-
+ipants in the residentially stable condition offered more 
+money to the in-­group member than the out-­group mem-
+ber. By contrast, participants randomly assigned to the 
+residentially mobile condition offered virtually the same 
+amount of money to the in-­group and out-­group member.
+A recent study extended these findings to racial in-­
+group bias in perceived pain ratings (Xu et al.,  2021). 
+Chinese participants in the residential stability mindset 
+condition perceived more intense pain in Asian faces 
+(racial in-­group) relative to Caucasian faces (racial out-­
+group), whereas participants in the residential mobil-
+ity mindset condition did not show racial in-­group bias 
+(Study 1). Moreover, a psychophysiology study showed 
+that N1 amplitudes (an indicator of early, selective visual 
+attention) increased and P3 amplitudes (an indicator of 
+task demand) decreased to a greater extent when look-
+ing at racial in-­group faces than out-­group faces among 
+participants in the residential stability condition; no such 
+differences were observed in the residential mobility con-
+dition (Study 2). Finally, transcranial direct current stim-
+ulation of the left dorsolateral prefrontal cortex increased 
+the racial in-­group bias in pain perceptions among par-
+ticipants in the stability condition but not in the mobility 
+condition (Study 3). Using psychophysiological measures 
+that are not susceptible to impression management and 
+socially desirable responses, these studies show that the 
+residential mobility mindset decreases racial in-­group 
+bias in pain perception. That is, residential mobility ap-
+pears to blur racial group boundaries in pain perception, 
+whereas residential stability appears to intensify the de-
+marcation between in-­group and out-­group members.
+Implications for community
+Social norms
+Residential mobility has many implications for the role 
+of social norms as well. For example, residential mobil-
+ity is positively associated with cultural looseness, where 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+528  |     
+OISHI and TSANG
+there are fewer strongly enforced norms and greater 
+tolerance for deviance (Harrington & Gelfand,  2014). 
+This finding also holds at the individual level. One study 
+conducted in China examined attitudes about norms 
+in various residentially mobile settings. Across five 
+studies, the researchers found that residentially mobile 
+individuals—­those that were either living in a temporary 
+residence, were in a residentially mobile mindset in a 
+laboratory, or grew up moving around more—­were more 
+tolerant of social norm violations (Luo et al., 2020). This 
+pathway was found to be linked by perceived threats to 
+reputation. In a residentially stable setting, individuals 
+are more concerned about damage to their reputation 
+and find deviant behavior more costly. Therefore, they 
+are more likely to view norm violations as inappropriate. 
+Conversely, residentially mobile individuals do not face 
+the same damage to their reputation and are more likely 
+to view norm violations as tolerable.
+This reactance to social norm violations can also be 
+observed on a neural level as well. A psychophysiologi-
+cal study using EEG showed that the N400 component, 
+the neural marker for detecting social norm violations, 
+reacted more strongly to minor social norm violations 
+among participants in the residentially stable mindset 
+condition than those in the residentially mobile mind-
+set condition (Luo et al., 2019). In other words, residen-
+tial mobility reduced the brain's reaction to social norm 
+violations.
+Moral deviations
+If residential mobility is associated with tolerance for 
+minor social norm violations, then it is not surprising 
+that it is also associated with criminal activities (Haynie 
+& South, 2005). As previously mentioned, residential mo-
+bility leads individuals to favor weak ties and decreases 
+in-­group commitment. Therefore, residentially mobile 
+individuals are more likely to act out of self-­interest. One 
+study found that a residential mobility mindset manipu-
+lation increased bribe-­giving intention in bribery sce-
+narios and that this effect was mediated by self-­interest 
+(Chen et al., 2021, Study 1–­2). Additionally, a residential 
+mobility mindset led individuals to display more actual 
+bribing during a behavioral game (Study 3). Another 
+study showed that individuals who moved around while 
+growing up were more likely to cheat on a knowledge 
+test than those who never moved (Zuo et al., 2018, Study 
+1). A subsequent experiment showed that the residen-
+tial mobility mindset manipulation increased the likeli-
+hood of cheating to gain more monetary rewards (Zuo 
+et al., 2018, Study 2).
+Likewise, if residentially mobile individuals do not 
+care about reputational damage as much as residentially 
+stable individuals (Luo et al.,  2020), social monitoring 
+should not function as deterrence of crime for residen-
+tially mobile individuals. Su et al. (2016, Study 1) used 
+the number of journalists as a proxy for social moni-
+toring and found that residentially mobile cities had a 
+higher rate of violent crime than residentially stable cit-
+ies, but this association was moderated by the number 
+of journalists. Consistent with their hypothesis, among 
+residentially stable U.S. cities, the more journalists in 
+the city, the lower the crime rate was. In other words, 
+among stable U.S. cities, social monitoring had a crime-­
+deterring effect. Among residentially mobile U.S. cities, 
+however, more journalists did not deter crime.
+In a follow-­up laboratory experiment, social monitor-
+ing was manipulated using the presence or absence of 
+CCTV. In the task, participants could potentially cheat 
+to get more money. Relational mobility was measured 
+prior to the laboratory experiment. As predicted, partic-
+ipants low in relational mobility cheated less under the 
+social monitoring condition than under no monitoring 
+condition. In contrast, participants high in relational 
+mobility cheated at a similar level regardless of social 
+monitoring. Thus, individuals with stable social net-
+works seem to rely more on social monitoring to guide 
+their moral behaviors, whereas individuals with mobile 
+social networks seem to rely more on themselves to guide 
+their moral behaviors.
+Conditional investment in community
+A series of studies also showed that residents of a resi-
+dentially mobile community are less likely to engage in 
+pro-­community actions than those in a residentially sta-
+ble community (Oishi, Rothman, et al.,  2007). For ex-
+ample, residents of the Minneapolis-­St Paul area were 
+more likely to have purchased a critical habitat car li-
+cense plate, which charges an extra fee to support the 
+critical habitat in Minnesota, than a regular license plate 
+if they lived in a residentially stable zip code area than 
+in a mobile zip code area (Study 1). Furthermore, the 
+Major League Baseball home game attendance records 
+showed that residents of residentially stable cities (e.g., 
+Philadelphia and Pittsburgh) attended home games re-
+gardless of the team's performance, whereas residents 
+of mobile cities (e.g., Houston and Atlanta) attended 
+the game only when the team was doing well (Study 
+2). A follow-­up study in Japan using Nippon Baseball 
+League's home game attendance data replicated the U.S. 
+findings (Oishi et al.,  2009). Finally, participants who 
+were assigned to a mobile group were less likely to help 
+another group member who asked for help than those 
+randomly assigned to a stable group (Oishi, Rothman, 
+et al.,  2007 Study 3). In general, residentially mobile 
+individuals tended to identify with a particular group 
+when it was portrayed positively (e.g., the University of 
+Virginia is the best public university in the United States) 
+more than when it was portrayed less positively (e.g., the 
+University of Virginia is no longer the best public univer-
+sity in the United States). Such conditional identification 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  529
+RESIDENTIAL MOBILITY
+is problematic when it comes to collective problems such 
+as power outages and climate change, because uncondi-
+tional identification is required to tackle collective, long-­
+term problems.
+Implications for culture
+As summarized above, situational, individual, and re-
+gional variations in residential mobility have numerous 
+implications for the self and identity, moral behaviors, 
+cognitive tendencies, interpersonal relationships, inter-
+group relationships, and community involvement. In 
+addition, recent studies found that some cross-­national 
+differences in psychological outputs are due in part to 
+the differences in residential or relational mobilities.
+Emotion expressions
+Residential mobility explains some of the cultural dif-
+ferences in emotion expression. For instance, some cul-
+tures (e.g., the United States, Australia, Canada) are 
+very explicit in terms of emotional expression, while 
+others are not (e.g., Japan, Germany, and Russia). In 
+a residentially stable and homogeneous context, an ex-
+plicit mode of communication is not always necessary, 
+as an implicit code of conduct sufficiently provides con-
+crete guidelines as to what is acceptable and what is not. 
+By contrast, in a residentially mobile and heterogeneous 
+context, there is less of a shared implicit code of con-
+duct. Therefore, more direct communication is needed 
+in a mobile society where there is not much shared 
+background knowledge. In one study, participants in 
+32 countries were asked to indicate the degree to which 
+expressing anger, contempt, disgust, fear, happiness, 
+sadness, and surprise in public and private is appropri-
+ate (Rychlowska et al., 2015, Study 1). Those living in 
+residentially mobile countries were far more likely to 
+say that it is appropriate to express those emotions both 
+in public and in private than people living in residen-
+tially stable countries. In the second study, participants 
+in nine countries rated possible reasons for people to 
+smile. Participants in residentially mobile countries 
+were more likely to say that social bonding (wanting to 
+be a friend) was the main reason for smiling than those 
+in residentially stable countries.
+Similarly, within the United States, residents of states 
+higher in residential mobility expressed their positive 
+emotions more explicitly in their Facebook pages than 
+those living in the states lower in residential mobility 
+(Liu et al., 2018). When one is interacting with the same 
+group of individuals, one can rely on an implicit mode of 
+communication such as tone and gesture. By contrast, 
+when one is interacting with individuals from different 
+backgrounds, one must be very direct and explicit in 
+their communication.
+Self-­disclosure
+Relational mobility can explain cultural differences 
+in self-­disclosure. Generally, Americans are far more 
+willing than Japanese to disclose about themselves to 
+strangers (Schug et al., 2010). Americans perceive more 
+opportunities to form new relationships and greater 
+ease in exiting undesirable relationships than Japanese. 
+The more relational mobility participants perceived in 
+their environment, the more self-­disclosing they were. 
+This relationship was mediated by a desire to strengthen 
+personal relationships. In relationally mobile societies, 
+people can exit relationships at a lower cost. Therefore, 
+people are more motivated to signal their desire to 
+maintain or strengthen relationships and do so with 
+self-­disclosure. More recently, a large cross-­national 
+study found that people living in societies with higher 
+relational mobility self-­disclose and seek social support 
+more than those living in societies with lower relational 
+mobility (Thomson et al., 2018).
+Generalized trust
+Cultural differences in generalized trust can be ex-
+plained in part by relational mobility. For instance, 
+Americans are far more trusting of strangers than 
+Japanese are (Yamagishi & Yamagishi, 1994). In gen-
+eral, the United States is much more residentially mo-
+bile than Japan. A computer simulation study found 
+that as the rate of residential mobility increases from 
+10% to 90% of a population, the level of trust to-
+ward strangers increased monotonically (Macy & 
+Sato, 2002). The researchers suggest that in low mobil-
+ity areas, people are familiar with each other and trust 
+friends, but rarely encounter strangers and are there-
+fore distrustful toward them. However, in moderately 
+mobile areas, people are more practiced at reading 
+character, and can therefore have more trust in others. 
+Thomson et al.’s (2018) cross-­national study empirically 
+showed that participants living in societies with higher 
+relational mobility (e.g., Brazil and Canada) showed a 
+greater degree of generalized trust than those living in 
+societies with lower relational mobility (e.g., Hungary 
+and Hong Kong).
+Friendships
+Mobility also plays a role in how different cultures view 
+friendships. A classic MIT dorm study found that peo-
+ple tend to become friends with someone who happened 
+to live close by (Festinger et al., 1950). In a residentially 
+and relationally mobile context, however, people can 
+make friends with others who share similar interests 
+and values outside the dorm. Thus, friends tend to share 
+similar interests and values in the United States (Byrne 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+530  |     
+OISHI and TSANG
+et al., 1967). This is called the similarity-­attraction effect. 
+In Japan, however, friends tend to be determined by pro-
+pinquity and other chance factors (which courses they 
+happen to take), and therefore there is little similarity-­
+attraction effect (Heine & Renshaw, 2002). A follow-­up 
+study explicitly measured relational mobility and showed 
+that the United States–­Japan difference in the similarity-­
+attraction effect was indeed mediated by cultural differ-
+ences in relational mobility (Schug et al., 2009). That is, 
+to the extent that Americans see greater opportunities 
+to form new relationships, they seek someone who share 
+the same values and interests. By contrast, to the extent 
+that Japanese do not see much opportunity to form new 
+relationships, they stay friends with someone they got to 
+know by chance.
+Relational mobility also affects the degree to which 
+people are cautious about others (Li et al., 2015). In areas 
+with high relational mobility, people have a greater sense 
+of freedom to form new relationships and exit undesir-
+able relationships. Because there is an exit option, people 
+are not afraid of expanding their social networks. Indeed, 
+Americans have very positive views of friendships, asso-
+ciating friendships with such positive words as trust and 
+respect (Adams & Plaut, 2003). By contrast, in Ghana, 
+where people do not move around often, it is very diffi-
+cult to end undesirable friendships. Thus, Ghanaians are 
+quite cautious about friendships, associating friendship 
+with ambivalence and guardedness (e.g., caution and 
+accusation). Findings about enemyship show mirrored 
+patterns. People from low mobility areas, such as Hong 
+Kong and West Africa, are very concerned about enemy-
+ship because once they make an enemy, it is very hard to 
+escape. In contrast, people from high mobility areas such 
+as the United States think that an enemy is not a big deal; 
+one just has to avoid them.
+Given a greater degree of self-­disclosure and simi-
+larity in relationally mobile contexts, it is understand-
+able that people who live in a relationally mobile society 
+(Canada) report more intense intimacy toward their 
+friends than those in a relationally stable society (Japan; 
+Yamada et al., 2015). The cultural differences in intimacy 
+were explained by the degree to which people perceived 
+freedom to form new relationships and exit from existing 
+relationships.
+Subjective well-­being
+Cultural differences in relational mobility can also ex-
+plain differences in sources of subjective well-­being. For 
+example, previous cross-­cultural studies have found that 
+self-­esteem is more strongly associated with life satis-
+faction in individualistic countries than in collectivist 
+countries (Diener & Diener,  1995). Interestingly, this 
+connection is moderated by relational mobility. In mobile 
+societies, relationships are “competitive” because they 
+are determined by choice, and most people will want to 
+associate with desirable people. This means that they in 
+turn must also be desirable to be chosen. In this competi-
+tive market, having high self-­esteem or a high desirabil-
+ity would result in more connections with valued others, 
+leading to greater happiness. In a less relationally mobile 
+society, the social relationships market is not as competi-
+tive, and therefore self-­esteem should not play as much 
+of a role in happiness. As predicted, Americans perceive 
+their environment to be more relationally mobile than 
+Japanese, and Americans also based their life satisfac-
+tion judgments more on self-­esteem than did Japanese. 
+Furthermore, even within Japan, citizens who live in 
+prefectures with higher levels of residential/relational 
+mobility base their life satisfaction judgments more on 
+self-­esteem than those living in lower levels of mobility 
+(Yuki et al., 2013).
+Similarly, residential mobility affects the type of trust 
+that is functional for relationships. For instance, a large 
+recent study in China (N  =  10,968 from 28 provinces) 
+found that in residentially mobile provinces, trust toward 
+strangers was associated with lower levels of depression 
+to a greater extent than in residentially stable provinces 
+(Wang & Li, 2020). By contrast, in residentially stable 
+provinces, trust toward well-­known others, such as 
+neighbors and colleagues, was associated with lower lev-
+els of depression to a greater extent than in mobile prov-
+inces. In short, trust toward strangers was associated 
+with better well-­being in residentially mobile provinces, 
+whereas trust toward neighbors and colleagues was as-
+sociated with better well-­being in residentially stable 
+provinces. This is perhaps because, in residentially stable 
+communities, people can get help mostly from their close 
+others. Thus, those who cannot trust their neighbors and 
+colleagues will suffer more during hardship. These find-
+ings indicate that residential mobility at the level of the 
+city or providence could shape the type of well-­being, 
+whether it is based on self-­esteem and trust of strangers 
+or on bonding with in-­group members.
+SUMMARY AND 
+FUTURE DIRECTIONS
+In sum, psychological research has shown that residen-
+tial and relational mobilities play an important role in 
+the self and identity, interpersonal strategies and re-
+lationships, group affiliations, in-­group vs. out-­group 
+distinctions, social norms, morality, well-­being, and 
+pro-­community and antisocial behaviors. In general, 
+residential mobility appears to shift an individual's 
+focus away from collective attributes and social roles 
+to personal attributes and from collective well-­being to 
+personal well-­being. It also weakens the in-­group/out-­
+group distinction, pushing individuals to prefer egali-
+tarian helpers and low-­commitment groups rather than 
+loyal helpers and high-­commitment groups. Recent re-
+search has also revealed that some of the cross-­nation or 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  531
+RESIDENTIAL MOBILITY
+within-­nation variations could be explained in part by 
+relational mobility (see Yuki & Schug, 2020 for a recent 
+review, Figure 5).
+Divergent findings across different 
+levels of analysis
+While there are many pieces of converging evidence at 
+multiple levels of analysis (Li et al., 2019b; Oishi, Miao, 
+et al.,  2012), there has been some divergent evidence 
+across different levels of analysis. For instance, at the 
+individual level, residential mobility is consistently as-
+sociated with lower levels of well-­being (Jellyman & 
+Spencer, 2008; Oishi & Schimmack, 2010). By contrast, 
+residential mobility at the level of the city has been as-
+sociated with higher levels of well-­being (Oishi, Saeki, 
+& Axt,  2015). That is, while individuals who moved a 
+lot in childhood tend to be less satisfied with their lives 
+than those who did not move, those currently living in a 
+residentially mobile city report higher levels of life sat-
+isfaction than those living in a residentially stable city. 
+This suggests that residential mobility captures different 
+kinds of experiences at different levels of analysis. At the 
+level of individuals, residential mobility, particularly in 
+childhood, might capture cumulative stress, whereas res-
+idential mobility at the level of the community might sig-
+nal opportunities and economic growth. It is important 
+to explore the differential roles of residential mobility at 
+multiple levels of analysis in conjunction in the future.
+Similarly, there are also some inconsistent or paradox-
+ical findings that require further interpretation and the-
+orizing. Several previous papers found that residential 
+and relational mobilities are positively associated with 
+generalized trust (e.g., Macy & Sato,  2002; Thomson 
+et al., 2018). By contrast, recent studies in China showed 
+the opposite pattern: Residential mobility was associated 
+with lower levels of trust (Zhao et al., 2021). Specifically, 
+Chinese participants who moved more often reported 
+lower levels of interpersonal trust than those who did 
+not. It is important to explore potential moderators of 
+these divergent findings in the future.
+Another paradoxical finding emerges in research re-
+garding life satisfaction and crime. Some research has 
+shown that at the state (Talhelm & Oishi,  2014) and 
+city (Oishi, Talhelm et al., 2015) levels, and residential 
+mobility is positively associated with life satisfaction. 
+However, at the neighborhood level, residential mobility 
+erodes collective efficacy (Sampson et al., 1997), which 
+leads to more crime. In addition to the paradox of happi-
+ness and crime, the link between residential mobility and 
+criminal behavior could vary depending on local culture 
+as well. For instance, the U.S. South is famous for its cul-
+ture of honor (Nisbett & Cohen, 1996), where reputation 
+is important. Cohen  (1998) found that the argument-­
+related homicide rate was higher in more residentially 
+stable rather than in mobile Southern and Western 
+states. By contrast, the argument-­related homicide rate 
+tended to be higher in residentially mobile states than in 
+stable Northern states. The results from the U.S. South 
+seem contradictory to the extant findings on the surface. 
+Cohen explains that residential stability means the old 
+tradition continues, in the case of the South, the culture 
+of honor, increasing the prevalence of the argument-­
+related homicide rate. Thus, the role of residential mo-
+bility could be moderated by local culture. This needs to 
+be further investigated in the future.
+Conceptual distinctions
+Although research on residential mobility at the level of 
+community has often statistically controlled for other re-
+lated variables such as median income and population 
+F IGU R E 5 
+Summary of findings in residential mobility at different ecological levels
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+532  |     
+OISHI and TSANG
+density, other research has not explored the role of resi-
+dential mobility distinct from other related variables 
+such as multicultural experiences, cosmopolitanism, 
+globalization, and social mobility.
+There is a large literature on multicultural experiences, 
+or the effect of living abroad on various psychological 
+phenomena (see Maddux et al., 2021 for a recent review). 
+For example, multicultural experiences are shown to 
+be associated with creativity (Leung et al., 2008), self-­
+concept clarity (Adam et al.,  2018), generalized trust 
+(Cao et al.,  2014), and reduced stereotyping (Tadmor 
+et al., 2012), but also immoral behavior (Lu et al., 2017). 
+These findings are generally consistent with the litera-
+ture on residential mobility. Furthermore, they suggest 
+that residential mobility might be potentially associated 
+with self-­concept clarity and creativity. However, there 
+is an important distinction between residential mobility 
+in general and multicultural experiences: Multicultural 
+experience involves moving to another country, whereas 
+residential mobility could be within a limited geograph-
+ical and cultural region. As the literature on residential 
+mobility matures, it is important to explore the role of 
+both geographical and cultural distance in the future.
+To the extent that the majority of residential moves 
+are related to jobs, and jobs are more abundant in 
+urban areas, the majority of residential moves are to-
+ward urban areas (Lucas Jr.,  2004). In wealthy coun-
+tries at least, urban areas are also more cosmopolitan. 
+Recently, psychologists have studied various correlates 
+of cosmopolitanism (see Leung et al., 2015). For exam-
+ple, cosmopolitanism is associated with the value of 
+cultural diversity, cultural openness, and global proso-
+ciality. Cosmopolitan values are endorsed more by indi-
+viduals high in openness to experience and extraversion, 
+the same personality predictors of residential mobility 
+(Sevincer et al., 2017).
+Similar to cosmopolitanism, globalization also in-
+volves individuals moving to a new place, this case a new 
+country, and also everyday interactions with foreigners 
+and foreign cultures. Globalization is supposed to com-
+press the psychological distance between cultures, while 
+simultaneously accentuating the differences (Chiu & 
+Cheng, 2007). When a foreign culture poses a psycho-
+logical threat, people show defensive responses to glo-
+balization (Torelli et al., 2011). In that case, residential 
+mobility could have assimilating or contrasting effects 
+on an individual, depending on how a destination is con-
+strued. Like globalization, residential mobility presents 
+both opportunities and challenges. When challenges are 
+highlighted, mobility evokes conservative reactions such 
+as familiarity-­seeking (Oishi, Miao, et al., 2012), whereas 
+when opportunities are highlighted, mobility evokes 
+exploratory behaviors such as self-­disclosure (Schug 
+et al., 2010) and generalized trust (Thomson et al., 2018). 
+It is critical in the future to investigate how a psychologi-
+cal threat associated with a residential move might serve 
+as a moderator of residential mobility effects.
+Lastly, it is important to explore how residential mo-
+bility interacts with changes in socioeconomic status. 
+People often move when they find a better job (upward 
+mobility) or when they lose a job (downward mobility). 
+While intergenerational upward social mobility, the de-
+gree to which one moves up or down the economic ladder 
+compared with their childhood socioeconomic status, 
+has been intensely investigated (Destin, 2019), more re-
+search is needed on how the effects of residential mobil-
+ity are nullified or amplified during these changes.
+Remaining questions
+Much of the current literature has focused on the asso-
+ciations of residential mobility at static time points (e.g., 
+the amount of residential mobility in the past 5 years), 
+yet rates of residential mobility are constantly changing, 
+bringing with them a host of psychological consequences. 
+For example, the United States' current rate of residen-
+tial mobility is half of what it was in the 1970s. This shift 
+was accompanied by decreases in individualism, hap-
+piness, trust, optimism, and endorsement of the notion 
+that hard work leads to success (Buttrick & Oishi, 2021). 
+Whereas residential mobility has been decreasing in 
+South Korea, Japan, Australia, and the United States 
+over the last few decades, mobility in Austria, Hungary, 
+and Spain has been recently rising (Alvarez et al., 2021). 
+There is still much to learn about how rates of change in 
+mobility affect individuals and cultures.
+Next, more attention should be paid to the type 
+of move, specifically the location from and to which 
+one is moving. How the socio-­ecological factors in 
+these locations come into play is still understudied. 
+For example, one study found that childhood resi-
+dential mobility was associated with worse cognitive 
+performance and self-­regulation, but this effect was 
+moderated by rates of poverty in origin and destina-
+tion neighborhoods. Specifically, mobile children who 
+moved out of high poverty neighborhoods performed 
+better than stable children who remained in high pov-
+erty neighborhoods. By contrast, mobile children who 
+moved out of low poverty neighborhoods performed 
+worse than those who stayed in low poverty neighbor-
+hoods. Poverty level at the destination neighborhood 
+also mattered: mobile children who moved into low 
+poverty neighborhoods performed better than those 
+who stayed in low poverty neighborhoods, but mobile 
+children who moved into high poverty neighborhoods 
+performed worse than stable children in high poverty 
+neighborhoods (Roy et al., 2014). If these researchers 
+had examined mobility alone and ignored the context 
+of the original and new residential areas, these import-
+ant distinctions would not have been found.
+While the consequences of residential mobility have 
+been widely explored, less attention has been paid so far 
+to its antecedents. Other disciplines such as economics 
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  533
+RESIDENTIAL MOBILITY
+and policy have looked at structural factors (e.g., housing 
+supply, access to credit) that impact the ease of residen-
+tial mobility. In psychological studies, various personal-
+ity traits tend to predict mobility behavior. Additionally, 
+expecting versus not expecting a move can have effects 
+on actual moving behavior (Kan, 1999). Some moves are 
+desired, such as wanting to live in an area with a more 
+matching political ideology (Carson & Gimpel,  2019; 
+Motyl et al., 2014); other moves are forced, such as los-
+ing a job and having to relocate to one elsewhere. Future 
+investigation is needed as to how various reasons inter-
+play to influence moving behaviors and their associated 
+consequences.
+In conclusion, psychological research on residential 
+mobility over the last two decades has dramatically in-
+creased, shedding new light on diverse, central issues 
+in psychological science, ranging from self-­concepts, 
+identity, and well-­being to friendships and romantic re-
+lationships, and from group affiliations and intergroup 
+relations to community involvement and cultural differ-
+ences. There are, however, numerous issues that remain 
+to be resolved. We hope this article will spark new re-
+search on the role of residential mobility in various as-
+pects of consumer psychology.
+ORCID
+Shigehiro Oishi 
+ https://orcid.
+org/0000-0002-4185-960X 
+Shelly Tsang 
+ https://orcid.org/0000-0002-7239-8607 
+REFERENCES
+Adam, H., Obodaru, O., Lu, J. G., Maddux, W. W., & Galinsky, A. 
+D. (2018). The shortest path to oneself leads around the world: 
+Living abroad increases self-­concept clarity. Organizational 
+Behavior and Human Decision Processes, 145, 15–­29.
+Adams, G., & Plaut, V. C. (2003). The cultural grounding of personal 
+relationship: Friendship in North American and West African 
+worlds. Personal Relationships, 10, 333–­347.
+Ainsworth, M. S. (1979). Infant–­mother attachment. American Psychologist, 
+34(10), 932–­937. https://doi.org/10.1037/0003-­066X.34.10.932
+Alvarez, M., Bernard, A., & Lieske, S. N. (2021). Understanding inter-
+nal migration trends in OECD countries. Population Space and 
+Place, 27(7), e2451.
+Baumeister, R. F. (1986). Identity: Cultural change and the struggle for 
+self. Oxford University Press.
+Bjarnason, T., Stevenson, C., Shuttleworth, I., & Meckl, M. (2020). 
+Spatial mobility and tolerance towards immigrants: The 
+case of Northern Iceland. Ethnic and Racial Studies, 43(10), 
+1813–­1832.
+Borschel, E., Zimmermann, J., Crocetti, E., Meeus, W., Noack, P., & 
+Neyer, F. J. (2019). Me and you in a mobile world: The devel-
+opment of regional identity and personal relationships in young 
+adulthood. Developmental Psychology, 55(5), 1072–­1087. https://
+doi.org/10.1037/dev00​00677
+Buttrick, N., & Oishi, S. (2021). The cultural dynamics of declining 
+residential mobility. American Psychologist, 76(6), 904–­916. 
+https://doi.org/10.1037/amp00​00881
+Byrne, D., Clore, G. L., & Griffitt, W. (1967). Response discrepancy 
+versus attitude similarity-­dissimilarity as determinants of at-
+traction. Psychonomic Science, 7, 397–­398.
+Campbell, P. (2019). Dispositional traits and internal migration: 
+Personality as a predictor of migration in Australia. Journal of 
+Research in Personality, 78, 262–­267. https://doi.org/10.1016/j.
+jrp.2018.12.009
+Cao, J., Galinsky, A. D., & Maddux, W. W. (2014). Does travel broaden 
+the mind? Breadth of foreign experiences increases generalized 
+trust. Social Psychological and Personality Science, 5, 517–­525.
+Carson, C., & Gimpel, J. G. (2019). Political implications of residential 
+mobility and stasis on the partisan balance of locales. Political 
+Geography, 71, 103–­114.
+Chen, J., Chiu, C.-­Y., & Chan, S. F. (2009). The cultural effects of job 
+mobility and the belief in a fixed world: Evidence from perfor-
+mance forecast. Journal of Personality and Social Psychology, 
+97(5), 851–­865. https://doi.org/10.1037/a0015950
+Chen, Y., Liu, X., Lan, T., & Hong, Y. (2021). Move more and bribe 
+more? The impact of residential mobility on bribe-­giving. 
+Asian Journal of Social Psychology, 25(2), 237–­248. https://doi.
+org/10.1111/ajsp.12492
+Chiu, C.-­Y., & Cheng, S. Y. Y. (2007). Toward a social psychology of 
+culture and globalization: Some social cognitive consequences 
+of activation two cultures simultaneously. Social and Personality 
+Psychology Compass, 1(1), 84–­100.
+Clark, W. A. V., & Onaka, J. L. (1983). Life cycle and housing ad-
+justment as explanations of residential mobility. Urban Studies, 
+20(1), 47–­57.
+Coan, J. A., Schaefer, H. S., & Davidson, R. J. (2006). Lending a hand: 
+Social regulation of the neural response to threat. Psychological 
+Science, 17(12), 1032–­1039.
+Cohen, D. (1998). Culture, social organization, and patterns of violence. 
+Journal of Personality and Social Psychology, 75(2), 408–­419.
+Destin, M. (2019). Socioeconomic mobility, identity, and health: 
+Experiences that influence immunology and implications for 
+intervention. American Psychologist, 74(2), 207–­217. https://doi.
+org/10.1037/amp00​00297
+Détang-­Dessendre, C., Piguet, V., & Schmitt, B. (2002). Life cycle 
+variability in the microeconomic determinants of urban-­rural 
+migration. Population, 57(1), 31–­56. https://doi.org/10.3917/
+pope.201.0031
+Diener, E., & Diener, M. (1995). Cross-­cultural correlates of life 
+satisfaction and self-­esteem. Journal of Personality and Social 
+Psychology, 68(4), 653–­663.
+Dong, M., Anda, R. F., Felitti, V. J., Williamson, D. F., Dube, S. R., 
+Brown, D. W., & Giles, W. H. (2005). Childhood residential mo-
+bility and multiple health risks during adolescence and adult-
+hood. Archives of Pediatrics & Adolescent Medicine, 159(12), 
+1104–­1110. https://doi.org/10.1001/archp​edi.159.12.1104
+Easthope, E. (2009). Fixed identities in a mobile world? The relation-
+ship between mobility, place, and identity. Identities: Global 
+Studies in Culture & Power, 16(1), 61–­82.
+Festinger, L., Schachter, S., & Back, K. W. (1950). Social pressures in 
+informal groups: A study of human factors in housing. Harper.
+Fischer, C. S. (2002). Ever-­more rooted Americans. City & Community, 
+1(2), 177–­198. https://doi.org/10.1111/1540-­6040.00016
+Gallup. (2016). Gallup analytics. https://analy​ticsc​ampus.gallup.com/
+Graeber, D., & Wengrow, D. (2021). The dawn of everything: A new 
+history of humanity. Farrar, Straus, & Giroux.
+Harrington, J. R., & Gelfand, M. J. (2014). Tightness-­looseness across 
+the 50 United States. Proceedings of the National Academy of 
+Science, 111(22), 7990–­7995.
+Hasler, G., Haynes, M., Müller, S. T., Tuura, R., Ritter, C., & 
+Buchmann, A. (2020). The association between adolescent resi-
+dential mobility and adult social anxiety, BDNF and amygdala-­
+orbitofrontal functional connectivity in young adults with 
+higher education. Frontiers in Psychiatry, 11, 1–­9. https://doi.
+org/10.3389/fpsyt.2020.561464
+Haynie, D. L., & South, S. J. (2005). Residential mobility and adoles-
+cent violence. Social Forces, 84(1), 361–­374.
+Heine, S. J., & Renshaw, K. (2002). Interjudge agreement, self-­
+enhancement, and liking: Cross-­cultural divergences. Personality 
+and Social Psychology Bulletin, 28, 442–­451.
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+534  |     
+OISHI and TSANG
+Hochstadt, S. (1999). Mobility and modernity: Migration in Germany, 
+1820–­1989. University of Michigan Press.
+Hofstede, G. (2001). Culture's consequences: Comparing values, behav-
+iors, institutions and organizations across nations. Sage.
+Holmes, T. H., & Rahe, R. H. (1967). The Social Readjustment Rating 
+Scale. Journal of Psychosomatic Research, 11, 213–­218.
+Hoyt, W. H. (1993). Tax competition, Nash equilibria, and residential 
+mobility. Journal of Urban Economics, 34(3), 358–­379.
+Ishii, K., Komiya, A., & Oishi, S. (2020). Residential mobility fos-
+ters sensitivity to the disappearance of happiness. International 
+Journal of Psychology, 55(4), 577–­584.
+Ito, K., Tan, T. S.-­M., Lee, A., & Li, L. M. W. (2019). Low residential 
+mobility and novelty-­seeking consumption. Journal of Cross-­
+Cultural Psychology, 50(10), 1242–­1252.
+Jellyman, T., & Spencer, N. (2008). Residential mobility in child-
+hood and Health Outcomes: A systematic review. Journal of 
+Epidemiology & Community Health, 62(7), 584–­592. https://doi.
+org/10.1136/jech.2007.060103
+Jokela, M. (2009). Personality predicts migration within and between 
+U.S. states. Journal of Research in Personality, 43(1), 79–­83. 
+https://doi.org/10.1016/j.jrp.2008.09.005
+Jokela, M. (2014). Personality and the realization of migration 
+desires. In P. J. Rentfrow (Ed.), Geographical psychology: 
+Exploring the interaction of environment and behavior (pp. 
+71–­87). American Psychological Association. https://doi.
+org/10.1037/14272​-­005
+Jokela, M. (2021). Personality traits and reasons for residential mo-
+bility: Longitudinal data from United Kingdom, Germany, and 
+Australia. Personality and Individual Differences, 180, 110978. 
+https://doi.org/10.1016/j.paid.2021.110978
+Jokela, M., Elovainio, M., Kivimäki, M., & Keltikangas-­
+Järvinen, L. (2008). Temperament and migration patterns 
+in Finland. Psychological Science, 19(9), 831–­837. https://doi.
+org/10.1111/j.1467-­9280.2008.02164.x
+Jordan, J. J., McAuliffe, K., & Warneken, F. (2014). Development of 
+in-­group favoritism in children's third-­party punishment of self-
+ishness. Proceedings of the National Academy of Science, 111(35), 
+12710–­12715.
+Kan, K. (1999). Expected and unexpected residential mobility. 
+Journal of Urban Economics, 45(1), 72–­96. https://doi.org/10.1006/
+juec.1998.2082
+Komiya, A., Ohtsubo, Y., Nakanishi, D., & Oishi, S. (2019). Gift-­giving 
+in romantic couples serves as a commitment signal: Relational 
+mobility is associated with more frequent gift-­giving. Evolution 
+and Human Behavior, 40, 160–­166.
+Komiya, A., Ozono, H., Watabe, M., Miyamoto, Y., Ohtsubo, Y., 
+& Oishi, S. (2020). Socio-­ecological hypothesis of reconcilia-
+tory tactics: Cultural, individual, and situational variations 
+in willingness to accept apology or compensation. Frontiers in 
+Psychology, 11, 1–­18. https://doi.org/10.3389/fpsyg.2020.01761
+Landler, M., & Barbaro, M. (2006). Wal-­Mart finds that its formula 
+doesn't fit every culture. New York Times. http://www.nytim​es .
+com/2006/08/02/busin​ess/world​busin​ess/02wal​mart.htm
+Leung, A. K.-­Y., Koh, K., & Tam, K.-­P. (2015). Being environmen-
+tally responsible: Cosmopolitan orientation predicts pro-­
+environmental behaviors. Journal of Environmental Psychology, 
+43, 79–­94.
+Leung, A. K.-­Y., Maddux, W. W., Galinsky, A. D., & Chiu, C.-­Y. 
+(2008). Multicultural experience enhances creativity: The when 
+and how. American Psychologist, 63(3), 169–­181.
+Li, L. M. W., Adams, G., Kurtiş, T., & Hamamura, T. (2015). Beware 
+of friends: The cultural psychology of relational mobility and 
+cautious intimacy. Asian Journal of Social Psychology, 118(2), 
+124–­133.
+Li, M., Li, W.-­Q., & Li, L. M. W. (2019a). Sensitive periods of mov-
+ing on mental health and academic performance among uni-
+versity students. Frontiers in Psychology, 10, 1–­11. https://doi.
+org/10.3389/fpsyg.2019.01289
+Li, W.-­Q., Li, L. M. W., & Li, M. (2019b). Residential mobility re-
+duces in-­group favoritism in prosocial behavior. Asian Journal of 
+Social Psychology, 22(1), 3–­17.
+Li, W.-­Q., Li, L. M. W., & Lou, N. M. (2021). Who moved with you? 
+The companionship of significant others reduces movers' moti-
+vation to make new friends. Asian Journal of Social Psychology, 
+25(2), 319–­335.
+Li, L. M. W., Masuda, T., & Lee, H. (2018). Lower relational mobil-
+ity leads to greater motivation to understand enemies but not 
+friends and acquaintances. British Journal of Social Psychology, 
+57(1), 43–­60.
+Liu, P., Chan, D., Qiu, L., Tov, W., & Tong, V. J. C. (2018). Effects 
+of cultural tightness-­looseness and social network density on ex-
+pression of positive and negative emotions: A large-­scale study 
+of impression management by Facebook users. Personality and 
+Social Psychology Bulletin, 44(11), 1567–­1581.
+Lu, J. G., Quoidbach, J., Gino, F., Chakroff, A., Maddux, W. W., 
+& Galinsky, A. D. (2017). The dark side of going abroad: How 
+broad foreign experiences increase immoral behavior. Journal of 
+Personality and Social Psychology, 112, 1–­16.
+Lucas, R. E., Jr. (2004). Life earnings and rural-­urban migration. 
+Journal of Political Economy, 112(1), S29–­S59.
+Lun, J., Oishi, S., & Tenney, E. R. (2012). Residential mobility mod-
+erates preferences for egalitarian versus loyal helpers. Journal of 
+Experimental Social Psychology, 48, 291–­297.
+Lun, J., Roth, D., Oishi, S., & Kesebir, S. (2013). Residential mobil-
+ity, social support concerns, and friendship strategy. Social 
+Psychological and Personality Science, 4(3), 332–­339.
+Luo, S., Kong, Q., Ke, Z., Hunag, L., Yu, M., Zhu, Y., & Xu, Y. (2020). 
+Residential mobility decreases the perception of social norm vi-
+olations. Social Indicators Research, 148, 961–­986.
+Luo, S., Kong, Q., Ke, Z., Zhu, Y., Huang, L., Yu, M., & Xu, Y. (2019). 
+Residential mobility decreases neural responses to social norm 
+violations. Frontiers in Psychology, 10, 2654.
+Macy, M. W., & Sato, Y. (2002). Trust, cooperation, and market 
+formation in the U.S. and Japan. Proceedings of the National 
+Academy of Science, 99, 7214–­7220.
+Maddux, W. W., Lu, J. G., Affinito, S. J., & Galinsky, A. D. (2021). 
+Multicultural experiences: A systematic review and new the-
+oretical framework. Academy of Management Annals, 15(2), 
+345–­376.
+McCullough, M. E., Pedersen, E. J., Tabak, B. A., & Carter, E. 
+C. (2014). Conciliatory gestures promote forgiveness and re-
+duce anger in humans. Proceedings of the National Academy 
+of Science, 111, 11211–­11216. https://doi.org/10.1073/pnas.14050​
+72111
+Mollborn, S., Lawrence, E., & Root, E. D. (2018). Residential mo-
+bility across early childhood and children's kindergarten read-
+iness. Demography, 55(2), 485–­510. https://doi.org/10.1007/s1352​
+4-­018-­0652-­0
+Motyl, M., Iyer, R., Oishi, S., Trawalter, S., & Nosek, B. A. (2014). 
+How ideological migration geographically segregates groups. 
+Journal of Experimental Social Psychology, 51, 1–­14. https://doi.
+org/10.31234/​osf.io/25myb
+Nisbett, R. E., & Cohen, D. (1996). Culture of honor. Westview Press.
+Ohtsubo, Y., & Watanabe, E. (2009). Do sincere apologies need to 
+be costly? Test of a costly signaling model of apology. Evolution 
+and Human Behavior, 30, 114–­123. https://doi.org/10.1016/j.evolh​
+umbeh​av.2008.09.004
+Oishi, S. (2010). The psychology of residential mobility: Implications 
+for the self, social relationships, and well-­being. Perspectives on 
+Psychological Science, 5, 5–­21.
+Oishi, S., Ishii, K., & Lun, J. (2009). Residential mobility and condi-
+tionality of group identification. Journal of Experimental Social 
+Psychology, 45, 913–­919.
+Oishi, S., & Kesebir, S. (2012). Optimal social network strategy is a 
+function of socio-­economic conditions. Psychological Science, 
+23, 1542–­1548.
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+     |  535
+RESIDENTIAL MOBILITY
+Oishi, S., Kesebir, S., Miao, F. F., Talhelm, T., Endo, Y., Uchida, Y., 
+Shibanai, Y., & Norasakkunkit, V. (2013). Residential mobility 
+increases motivation to expand social network: But why? Journal 
+of Experimental Social Psychology, 49, 217–­223.
+Oishi, S., Krochik, M., Roth, D., & Sherman, G. D. (2012). 
+Residential mobility, personality, and wellbeing: An analy-
+sis of cortisol secretion. Social Psychological and Personality 
+Science, 3, 153–­161.
+Oishi, S., Lun, J., & Sherman, G. D. (2007). Residential mobility, self-­
+concept, and positive affect in social interactions. Journal of 
+Personality and Social Psychology, 93, 131–­141.
+Oishi, S., Miao, F. F., Koo, M., Kisling, J., & Ratliff, K. A. (2012). 
+Residential mobility breeds familiarity seeking. Journal of 
+Personality and Social Psychology, 102, 149–­162.
+Oishi, S., Rothman, A. J., Snyder, M., Su, J., Zehm, K., Hertel, A. W., 
+Gonzales, M. H., & Sherman, G. D. (2007). The Socio-­ecological 
+model of pro-­community action: The Benefits of residential sta-
+bility. Journal of Personality and Social Psychology, 93, 831–­844.
+Oishi, S., Saeki, M., & Axt, J. (2015). Are people living in walkable 
+areas healthier and more satisfied with life? Applied Psychology: 
+Health and Well-­Being, 7(3), 365–­386.
+Oishi, S., & Schimmack, U. (2010). Residential mobility, well-­being, 
+and mortality. Journal of Personality and Social Psychology, 
+98(6), 980–­994.
+Oishi, S., Schug, J., Yuki, M., & Axt, J. (2015). The psychology of 
+residential and relational mobilities. Advances in Culture and 
+Psychology, 5, 221–­272.
+Oishi, S., Talhelm, T., Lee, M., Komiya, A., & Akutsu, S. (2015). 
+Residential mobility and low commitment groups. Archives of 
+Scientific Psychology, 3, 54–­61.
+Prothero, R. M. (1977). Disease and mobility: A neglected factor 
+in Epidemiology. International Journal of Epidemiology, 6(3), 
+259–­267.
+Roy, A. L., McCoy, D. C., & Raver, C. C. (2014). Instability versus 
+quality: residential mobility, neighborhood poverty, and chil-
+dren's self-­regulation. Developmental Psychology, 50(7), 1891–­
+1896. https://doi.org/10.1037/a0036984
+Rychlowska, M., Miyamoto, Y., Matsumoto, D., Hess, U., Gilboa-­
+Schechtman, E., Kamble, S., Muluk, H., Masuda, T., & 
+Niedenthal, P. M. (2015). Heterogeneity of long-­history migra-
+tion explains cultural differences in reports of emotional expres-
+sivity and the functions of smiles. Proceedings of the National 
+Academy of Sciences, 112(19), E2429–­E2436.
+Sampson, R. J., Raudenbush, S. W., & Earls, F. (1997). Neighborhoods 
+and violent crime: A multilevel study of collective efficacy. 
+Science, 277, 918–­924.
+San Martin, A., Schug, J., & Maddux, W. W. (2019). Relational mo-
+bility and cultural differences in analytic and holistic thinking. 
+Journal of Personality and Social Psychology, 116(4), 495–­518.
+Schmidt, N. M., Krohn, M. D., & Osypuk, T. L. (2018). Modification 
+of housing mobility experimental effects on delinquency and 
+educational problems: Middle adolescence as a sensitive period. 
+Journal of Youth and Adolescence, 47, 2009–­2026. https://doi.
+org/10.1007/s1096​4-­018-­0859-­9
+Schug, J., Yuki, M., Horikawa, H., & Takemura, K. (2009). Similarity 
+attraction and actually selecting similar others: How cross-­
+societal differences in relational mobility affect interpersonal 
+similarity in Japan and the U.S.A. Asian Journal of Social 
+Psychology, 12(2), 95–­103.
+Schug, J., Yuki, M., & Maddux, W. (2010). Relational mobility 
+explains between-­and within-­culture differences in self-­
+disclosure to close friends. Psychological Science, 21(9), 
+1471–­1478.
+Sevincer, A. T., Varnum, M. E. W., & Kitayama, S. (2017). The cul-
+ture of cities: Measuring perceived cosmopolitanism. Journal of 
+Cross-­Cultural Psychology, 48(7), 1052–­1072.
+Shavitt, S., Torelli, C. J., & Riemer, H. (2011). Horizontal and vertical 
+individualism and collectivism: Implications for understanding 
+psychological processes. In M. J. Gelfand, C. Y. Chiu, & Y. Y. 
+Hong (Eds.), Advances in culture and psychology (pp. 309–­350). 
+Oxford University Press.
+Silventoinen, K., Hammar, N., Hedlund, E., Koskenvuo, M., 
+Ronnemaa, T., & Kaprio, J. (2008). Selective International 
+Migration by social position, health behaviour and personality. 
+The European Journal of Public Health, 18(2), 150–­155. https://
+doi.org/10.1093/eurpu​b/ckm052
+South, S. J., & Crowder, K. D. (1998). Leaving the ‘Hood: Residential 
+mobility between Black, White, and integrated neighborhoods. 
+American Sociological Review, 63(1), 17–­26.
+Squire, P., Wolfinger, R. E., & Glass, D. P. (1987). Residential mobility 
+and voter turnout. American Political Science Review, 81(1), 45–­65.
+Stevenson, C., McNamara, N., Kellezi, B., Easterbrook, M., 
+Shuttleworth, I., & Hyden, D. (2019). Re-­identifying residential 
+mixing: Emergent identity dynamics between incomers and existing 
+residents in a mixed neighbourhood in Northern Ireland. European 
+Journal of Social Psychology, 49(2), 413–­428.
+Su, J. C., Chiu, C.-­Y., Lin, W.-­F., & Oishi, S. (2016). Social monitor-
+ing matters for deterring social deviance in stable but not mobile 
+socio-­ecological contexts. PLoS One, 11(11), e0167053. https://
+doi.org/10.1371/journ​al.pone.0167053
+Tadmor, C. T., Hong, Y.-­Y., Chao, M. M., Wiruchnipawan, F., & 
+Wang, W. (2012). Multicultural experiences reduce intergroup bias 
+through epistemic unfreezing. Journal of Personality and Social 
+Psychology, 103(5), 750–­772. https://doi.org/10.1037/a0029719
+Tajfel, H., Billig, R. P., & Flament, C. (1971). Social categorization 
+and intergroup behavior. European Journal of Social Psychology, 
+1, 149–­178.
+Talhelm, T., & Oishi, S. (2014). Residential mobility affects self-­concept, 
+group support, and happiness of individuals and communities. 
+In P. J. Rentfrow (Ed.), Geographical psychology: Exploring the 
+interaction of environment and behavior (pp. 219–­239). American 
+Psychological Association. https://doi.org/10.1037/14272​-­012
+Taylor, C. (1989). Sources of the self: The making of the modern identity. 
+Harvard University.
+Thomson, R., Yuki, M., Talhelm, T., Schug, J., Kito, M., Ayanian, 
+A. H., Becker, J. C., Becker, M., Chiu, C., Choi, H.-­S., Ferreira, 
+C. M., Fülöp, M., Gul, P., Houghton-­Illera, A. M., Joasoo, 
+M., Jong, J., Kavanagh, C. M., Khutkyy, D., Manzi, C., … 
+Visserman, M. L. (2018). Relational mobility predicts social 
+behaviors in 39 countries and is tied to historical farming and 
+threat. Proceedings of the National Academy of Sciences, USA, 
+115(29), 7521–­7526. https://doi.org/10.1073/pnas.17131​91115
+Torelli, C. J., Chiu, C.-­Y., Tam, K.-­P., Au, A. K. C., & Heh, H. T. 
+(2011). Exclusionary reactions to foreign cultures: Effects of si-
+multaneous exposure to cultures in globalized space. Journal of 
+Social Issues, 67(4), 716–­742.
+Triandis, H. C. (1989). The self and social behavior in differing cul-
+tural contexts. Psychological Review, 96(3), 506–­520.
+Turner, F. J. (1921). The frontier in American history. Henry Holt and 
+Company.
+U.S. Census Bureau. (2019). Geographic mobility by selected charac-
+teristics in the United States, 2014–­2019 American Community 
+Survey 5-­year estimates. Retrieved from https://data.census.gov/
+cedsc​i/table​?q=S0701​&tid=ACSST​5Y2019.S0701
+van Minnen, C. A., & Hilton, S. L. (2002). Nation on the move: Mobility 
+in U.S history. VU University Press.
+Wang, Y., Kirmani, A., & Li, X. (2021). Not too far to help: Residential 
+mobility, global identity, and donations to distant beneficiaries. 
+Journal of Consumer Research, 47, 878–­889.
+Wang, C. S., & Leung, A. K.-­Y. (2010). The cultural dynamics of 
+rewarding honesty and punishing deception. Personality and 
+Social Psychology Bulletin, 36(11), 1529–­1542.
+Wang, C. S., Leung, A. K.-­Y., See, M. Y. H., & Gao, X. Y. (2011). The 
+effects of culture and friendship on rewarding honesty and pun-
+ishing deception. Journal of Experimental Social Psychology, 
+47(6), 1295–­1299.
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+536  |     
+OISHI and TSANG
+Wang, Y., & Li, L. M. W. (2020). Does your trust in strangers or close 
+acquaintances promote better health? Societal residential mobil-
+ity matters. The Journal of Social Psychology, 160(4), 416–­427.
+Whitson, J., Wang, C., Kim, J., Gao, J., & Scrimpshire, A. (2015). 
+Response to normative and norm-­violating behavior: Culture, 
+job mobility, and social inclusion and exclusion. Organization 
+Behavior and Human Decision Processes, 129, 24–­35.
+Whyte, W. H., Jr. (1957). The organization man. Doubleday Anchor 
+Book.
+Xu, Y., Chen, S., Kong, Q., & Luo, S. (2021). The residential stabil-
+ity mindset increases racial in-­group bias in empathy. Biological 
+Psychology, 165, 108194.
+Yamada, J., Kito, M., & Yuki, M. (2015). Relational mobility and 
+intimacy in friendships and romantic relationships: A cross-­
+societal study between Canada and Japan. Japanese Journal of 
+Experimental Social Psychology, 55, 18–­27.
+Yamagishi, T., & Yamagishi, M. (1994). Trust and commitment in the 
+United States and Japan. Motivation and Emotion, 18, 129–­166.
+Yilmaz, C., Selcuk, E., Gunaydin, G., Cingӧz-­Ulu, B., Filiztekin, A., & 
+Kent, O. (2022). You mean the world to me: The role of residential 
+mobility in centrality of romantic relationships. Social Psychological 
+and Personality Science. https://doi.org/10.1177/19485​50621​1061017
+Yoshino, S., & Oshio, A. (2022). Personality and migration in Japan: 
+Examining the tendency of extroverted and open people to mi-
+grate to Tokyo. Journal of Research in Personality, 96, 104168. 
+https://doi.org/10.1016/j.jrp.2021.104168
+Yuki, M., Sato, K., Takemura, K., & Oishi, S. (2013). Social ecology 
+moderates the association between self-­esteem and happiness. 
+Journal of Experimental Social Psychology, 49, 741–­746.
+Yuki, M., & Schug, J. (2020). Psychological consequences of relational 
+mobility. Current Opinion in Psychology, 32, 129–­132.
+Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of 
+Personality and Social Psychology, 9(2, Pt.2), 1–­27. https://doi.
+org/10.1037/h0025848
+Zhao, N., Xu, K., & Sun, L. (2021). Residential mobility and trust: The 
+moderating role of cognitive need for closure. Journal of Pacific 
+Rim Psychology, 15, 1–­9.
+Zhou, X., He, L., Yang, Q., Lao, J., & Baumeister, R. F. (2012). Control 
+deprivation and styles of thinking. Journal of Personality and 
+Social Psychology, 102, 460–­478. https://doi.org/10.1037/a0026316
+Zimmermann, J., & Neyer, F. J. (2013). Do we become a different 
+person when hitting the road? personality development of 
+Sojourners. Journal of Personality and Social Psychology, 105(3), 
+515–­530. https://doi.org/10.1037/a0033019
+Zuo, S., Huang, N., Cai, P., & Wang, F. (2018). The lure of antago-
+nistic social strategy in unstable socioecological environment: 
+Residential mobility facilitates individuals' antisocial behav-
+ior. Evolution and Human Behavior, 39(3), 364–­371. https://doi.
+org/10.1016/j.evolh​umbeh​av.2018.03.002
+How to cite this article: Oishi, S. & Tsang, S. (2022). 
+The socio-­ecological psychology of residential 
+mobility. Journal of Consumer Psychology, 32, 
+519–­536. https://doi.org/10.1002/jcpy.1310
+ 15327663, 2022, 3, Downloaded from https://myscp.onlinelibrary.wiley.com/doi/10.1002/jcpy.1310 by Test, Wiley Online Library on [14/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

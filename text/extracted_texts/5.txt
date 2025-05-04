@@ -1,0 +1,2915 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/236144378
+Multidimensional perception of residential environment quality and
+neighborhood attachment in the urban environment
+Article  in  Journal of Environmental Psychology · December 1999
+DOI: 10.1006/jevp.1999.0138
+CITATIONS
+671
+READS
+4,383
+5 authors, including:
+Marino Bonaiuto
+Sapienza University of Rome
+208 PUBLICATIONS   9,237 CITATIONS   
+SEE PROFILE
+Antonio Aiello
+University of Pisa
+69 PUBLICATIONS   1,756 CITATIONS   
+SEE PROFILE
+Marco Perugini
+Università degli Studi di Milano-Bicocca
+197 PUBLICATIONS   28,716 CITATIONS   
+SEE PROFILE
+Mirilia Bonnes
+Sapienza University of Rome
+114 PUBLICATIONS   6,658 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Mirilia Bonnes on 14 December 2017.
+The user has requested enhancement of the downloaded file.
+MULTIDIMENSIONAL PERCEPTION OF RESIDENTIAL ENVIRONMENT
+QUALITY AND NEIGHBOURHOOD ATTACHMENT IN THE URBAN
+ENVIRONMENT
+1
+MARINO BONAIUTO1, ANTONIO AIELLO1, MARCO PERUGINI2, MIRILIA BONNES1 AND ANNA PAOLA ERCOLANI1
+1Dipartimento di Psicologia dei Processi di Sviluppo e Socializzazione, Universita© degli Studi di Roma
+`La Sapienza' - V|a dei Marsi 78, 00185 Roma, Italy
+2Department of Psychology, University of Leicester, U.K.
+Abstract
+This study tests a path model in which residential satisfaction, operationalized in terms of multidimensional
+perceived residential environment quality (PREQ), predicts neighbourhood attachment considered as the ¢nal
+criterion. Socio-demographic (age, sex, socio-economic level) and residential (length of residence both in the
+neighbourhood and in Rome, number of persons living together) variables are also included in the theoretical
+model as predictors of both PREQ and neighbourhood attachment. Using a multidimensional questionnaire
+for the measurement of PREQ and a unidimensional scale for the measurement of neighbourhood attachment,
+the study focuses on a sample of 497 inhabitants from 20 di¡erent neighbourhoods in the city of Rome. The
+multidimensional PREQ questionnaire comprises 20 di¡erent scales covering four main areas: architectural
+and town-planning features (six scales); social relations features (three scales); punctual and in-network ser-
+vices (six scales); context features (¢ve scales). First, the path model is tested separately in each area using
+structural equation analysis. Then, the best predictors emerging from each area, together with all socio-demo-
+graphic and residential variables, are included in a ¢nal model. This model shows both the relevance of pre-
+dictors from all four areas in predicting attachment, and also a hierarchy between the areas in the power of
+the prediction (context area giving the most powerful predictors, services giving the weakest ones, architec-
+tural and town-planning, and social relations having intermediate importance). Length of residence in the
+neighbourhood and socio-economic level are the most relevant of the residential and socio-demographic vari-
+ables. Results are discussed with reference to the multicomponential nature of the process of neighbourhood
+attachment.
+# 1999 Academic Press
+Introduction
+The present work focuses on the relationship be-
+tween inhabitants' perceptions of residential quality
+concerning di¡erent aspects of their neighbour-
+hood,
+and
+attachment
+to
+the
+neighbourhood.
+In particular,
+the
+study aims
+at
+verifying
+the
+relevance of residential satisfaction, operational-
+ized
+in
+terms
+of
+multidimensional
+perception
+of
+residential
+quality,
+for
+the
+development
+of attachment to one's own residential environment,
+in a large urban environment such as the city of
+Rome.
+Both residential satisfaction and residential at-
+tachment are considered as important constructs
+in
+environmental
+psychology
+(e.g. Tognoli, 1987;
+Altman & Low, 1992; Sundstrom et al., 1996). Both
+are founded on a relevant tradition of theoretical
+considerations and empirical research aimed at
+clarifying the relationship between people and their
+residential environment (whether considered at the
+level of the home, the neighbourhood, or the city).
+However, the two constructs have seldom been
+considered as mutually relevant and, particularly,
+the theoretical and empirical links between the
+two have never been approached in a systematic
+way. Some of the relevant aspects of both residential
+satisfaction and residential attachment will be re-
+viewed brie£y in order to clarify the background
+for the speci¢c hypothesis of the present work. We
+will focus on residential environment at a medium
+level (i.e., the neighbourhood), rather than at the
+Journal of Environmental Psychology (1999) 19, 331^352
+0272-4944/99/040331 + 22 $30.00/0
+# 1999 Academic Press
+Article No. jevp.1999.0138, available online at http://www.idealibrary.com on
+level of smaller or larger scale places (e.g., the home
+or the city).2
+The problem of satisfaction with and perception
+of residential environment ö and speci¢cally with
+the neighbourhood ö is one of the most traditional
+topics in environmental psychology (e.g. Carp &
+Carp, 1982; Fried, 1982; Canter, 1983; Fried, 1984;
+Altman
+&
+Wandersman,
+1987;
+Tognoli,
+1987;
+Francescato et al., 1989; Carvalho et al., 1997; Garcia-
+Mira et al., 1997; for a brief review of recent works,
+see Sundstrom
+et al., 1996). However, as other
+authors (e.g. Weidemann & Anderson, 1985) have
+noted, traditionally this topic has been character-
+ized by: (1) attention to very speci¢c and fragmented
+aspects of the residential environment, e.g. the ten-
+dency to contrast spatial^physical aspects with so-
+cial^relational ones; and (2) neglect of the temporal
+and a¡ective component of the residential experi-
+ence.
+These tendencies are explicitly criticized by the
+`transactional and contextual approach' to environ-
+mental psychology (Altman & Rogo¡, 1987; Stokols,
+1987), which stresses the following two points: (1) fo-
+cusing on molar units of analysis such as `place'
+when
+studying
+people^environment
+transactions
+(e.g. Canter, 1977; Stokols & Shumaker, 1981; Russell
+& Ward, 1982; Proshansky et al., 1983; Holahan, 1985;
+Altman, 1986; Moore, 1987); and (2) recognizing the
+important role played by a¡ective and temporal di-
+mensions in the environmental experience, as a con-
+stitutive element of the person^place transactional
+unit (Rapaport, 1977; Stokols & Shumaker, 1981;
+Rapaport, 1982; Werner et al., 1985; Altman & Rogo¡,
+1987; Werner, 1987).
+In a previous study (e.g. Bonnes, 1991; Bonnes
+et al., 1991a, b), we attempted to reconcile these dif-
+ferent emphases. For example, we paid attention to
+the fact that residential satisfaction is a multidi-
+mensional construct focusing on di¡erent speci¢c
+aspects of a place (spatial features, human features,
+functional features; similarly to other studies such
+as in Canter, 1983), which became integrated at the
+level of people's place-evaluation. We also showed
+that residential satisfaction is signi¢cantly posi-
+tively related to di¡erent aspects of people's tempor-
+al experience in the residential place (both linear
+time as length of residence in the neighbourhood,
+and cyclic time as daily budget of time spent in the
+neighbourhood). In another study (Bonnes et al.,
+1997), we focused more on the issue of residential
+satisfaction's multidimensionality, preparing a Resi-
+dential Satisfaction Scale (RSS) articulated in 20 di-
+mensions,
+covering
+speci¢c
+aspects
+of
+spatial,
+social, functional, and contextual features. In that
+instrument, residential satisfaction was operationa-
+lized in terms of a large set of very speci¢c items,
+each one addressing a single feature of the neigh-
+bourhood, rather than directly asking for a single
+general evaluation of satisfaction with the neigh-
+bourhood. Thus, compared to other studies (e.g.
+Ame¨ rigo & Aragone¨ s, 1990), our operationalization
+of residential satisfaction was aimed at measuring
+subjects' perception of their residential environment
+(i.e. subjective indicators of urban quality), rather
+than measuring global residential satisfaction (e.g.
+`How satis¢ed are you with your neighbourhood?' or
+`How would you de¢ne your neighbourhood as a
+place to live?').
+As far as studies of residential attachment are
+concerned, `research is increasingly focused on psy-
+chological attachment to places, often in the context
+of home and neighbourhood' (Sundstrom et al., 1996,
+p. 493). Residential or place attachment has become
+a central construct for environmental psychology
+during recent years, attracting a number of contri-
+butions (e.g. Fried, 1982; Giuliani, 1991; Altman &
+Low, 1992; Giuliani & Feldman, 1993; Feldman,
+1996; Twigger-Ross & Uzzell, 1996). The aim is to un-
+derstand the way people establish a¡ective bonds
+with speci¢c places of their residential environ-
+ment, which can become a part of their place iden-
+tity (Proshansky et al., 1983; Low & Altman, 1992).
+Place attachment tends to involve willingness to
+maintain spatial^physical stability as well as feel-
+ings of `grief' (Fried, 1982), in the case of forced spa-
+tial detachment from places; and, especially at the
+beginning, this approach focused on the relation-
+ship between attachment and residential mobility
+(e.g. Feldman, 1990; Fuhrer et al., 1993). Several
+authors
+suggested
+place
+attachment
+should
+be
+viewed as a set of related phenomena, rather than
+a singular phenomenon, as well as a phenomenon
+strictly linked to such factors as time (Low &
+Altman, 1992). Therefore, within a wider framework,
+`place attachment involves positively experienced
+bonds,
+sometimes
+occurring
+without
+awareness,
+that are developed over time from the behavioural,
+a¡ective, and cognitive ties between individuals
+and/or groups and their socio-physical environment.
+These bonds provide a framework for both indivi-
+dual and communal aspects of identity and have
+both stabilizing and dynamic features' (Brown &
+Perkins, 1992, p. 284). Altman and Ginat (1992)
+stressed place attachment research can adopt di¡er-
+ent de¢nitions, all equally important, for example,
+in terms of `process' or `outcome'. Outcome de¢ni-
+tions refer to abstractions and feelings about the
+environment (i.e. feeling attached); while process
+332
+M. Bonaiuto et al.
+de¢nitions refer to social and/or psychological pro-
+cesses occuring between the person and the place
+(i.e. reasons for attachment).
+Following this theoretical perspective, in a pre-
+vious study (Bonnes et al., 1997), we created a neigh-
+bourhood
+attachment
+scale
+(NAS)
+comprising
+di¡erent aspects, i.e. inhabitants' desires to not
+change their present residential place and to posi-
+tively evaluate it, as well as their feelings of a¡ec-
+tive bonds toward their neighbourhood and the
+relevance of the residential place for the person's
+identity. In this sense, such a scale can be consid-
+ered to tap both outcome (items 127, 130, 131, 132 in
+Appendix 2) and process (items 128 and 129 in
+Appendix 2) de¢nitions of place attachment. How-
+ever, empirical results (Bonnes et al., 1997) showed
+such a measure of place attachment to work as a
+unidimensional construct.3 Thus, while theoreti-
+cally we can agree to conceive neighbourhood at-
+tachment
+as
+a
+multidimensional
+construct,
+empirically we think better instruments are still
+needed in order to be able to properly measure such
+a multidimensional character of the construct.
+Therefore, research has been dedicated both to
+residential satisfaction in terms of perceived resi-
+dential environment quality and to neighbourhood
+attachment; however, the links between the two con-
+structs have scarcely received any empirical atten-
+tion in environmental psychology. An exception is
+o¡ered by a study by Ame¨ rigo and Aragone¨ s' (1990)
+carried out on a sample of women living in council
+housing in Madrid. Their results show that global
+evaluations of residential satisfaction are related to
+both neighbourhood attachment and perception of
+speci¢c features of the residential environment (so-
+cial, spatial, and functional features). Recently, on a
+slightly di¡erent parallel line, Harris et al. (1996)
+showed the ease of privacy regulation within one's
+own family's home can enhance home attachment,
+via the enhancement of both the quality of family
+interactions and the sense of control in the home.
+However, some kind of tie between residential
+satisfaction or perceived residential environment
+quality and attachment is generally accepted (e.g.
+Sundstrom et al., 1996, pp. 491, 492, 493). The recipro-
+cal relevance of these constructs should have speci-
+¢c psychological signi¢cance because it represents a
+link between two di¡erent levels of people's psycho-
+logical experience of residential places. In fact, on
+the one hand, perceived residential environment
+quality traditionally focused more on problems of
+perception of speci¢c aspects of urban environmen-
+tal quality; on the other hand, residential attach-
+ment traditionally focused more on molar aspects
+of the person^environment relationship. Moreover,
+while the ¢rst tradition tends to work at the level
+of people's perceptions and cognitive evaluations of
+the speci¢c items of the residential environment,
+the second approach tends to study people's a¡ec-
+tive bonds with their residential environment as a
+whole.
+Given the lack of empirical studies ö and particu-
+larly of longitudinal ones ö addressing the relation-
+ship between these two psychological aspects of
+people^place transaction, it is di¤cult to establish
+an a priori causal hypothesis between the two con-
+structs. Obviously there are good theoretical rea-
+sons
+for
+favouring
+both
+causal
+directions.
+For
+example, as Ame¨ rigo and Aragone¨ s (1990) noted, re-
+sidential satisfaction itself has sometimes been con-
+sidered as a criterion with respect to residential
+quality and other times as a predictor of moving or
+other behaviours. Moreover, a circular and bidirec-
+tional relationship between the two constructs can
+easily be envisaged. However, due to practical con-
+siderations, in this preliminary study perceived resi-
+dential environment quality will be taken as the
+predictor, and residential attachment as the criter-
+ion. In fact, we conceptualize perceived residential
+environment quality as a multidimensional con-
+struct, articulated into many di¡erent speci¢c and
+partly independent evaluative features. On the con-
+trary, we de¢ne residential attachment in terms of a
+unidimensional construct, referring to a global rela-
+tionship of people's identity and a¡ective evalua-
+tions with their residential environment. Therefore,
+the objective is to discover which of the many di-
+mensions of neighbourhood quality perception/satis-
+faction are most relevant for the development of
+inhabitants' neighbourhood attachment, taken as a
+unique and ¢nal criterion synthesizing a general re-
+levance of the place^neighbourhood for inhabitants'
+place identity.
+On this basis, we tested a path model in which
+socio-demographic (gender, age, and socio-economic
+level) and residential (number of persons living to-
+gether, length of residence in the city, and length of
+residence in the neighbourhood) variables are the
+exogenous variables predicting perceived residential
+environment quality indexes. These, in turn, predict
+a neighbourhood attachment index considered as
+the ¢nal criterion. The main aim was to verify the
+relative predictive power of these di¡erent variables
+for inhabitants' attachment to their neighbourhood
+in order to test whether the development of strong
+a¡ective bonds with the neighbourhood depend on
+the perceived quality of particular features of the
+residential environment (spatial, social, functional,
+Perceived Residential Environment Quality and Neighbourhood Attachment
+333
+and contextual features), taking into account the re-
+sidents' socio-demographic and residential experi-
+ence characteristics. The speci¢c hypothesis is that
+neighbourhood attachment, as a global a¡ective eva-
+luation of inhabitants^residential place transaction,
+can be predicted by a multidimensional set of vari-
+ables, referring to di¡erent speci¢c domains of
+neighbourhood urban quality. Therefore, socio-demo-
+graphic and residential variables, although not spe-
+ci¢cally relevant for the main hypothesis, were
+included on the basis of previously quoted studies
+showing their relevance both for perceived residen-
+tial environment quality and attachment. However,
+we expect perception of environmental quality vari-
+ables would play the major role in predicting neigh-
+bourhood
+attachment,
+mediating
+the
+role
+of
+classical socio-demographic and residential vari-
+ables.
+Method
+Sample
+All items were administered to a sample of 497
+inhabitants living in 20 di¡erent neighbourhoods
+in Rome. The de¢nition of neighbourhood was left up
+to each respondent; in fact, the term used in the
+items was `quartiere' (translated as `neighbourhood'
+in
+the
+items
+reported
+in
+Appendices
+1
+and 2). This is the usual, popular term used in
+Italian
+urban
+toponomy,
+even
+if
+it
+does
+not
+necessarily correspond to the present administra-
+tive
+subdivision
+of
+Rome
+(i.e.
+`circoscrizione',
+or district). Table 1 shows the sample breakdown
+according
+to
+socio-demographic
+and
+residential
+variables. A sample of about 25 residents was
+selected in each neighbourhood. They had di¡erent
+length of residence (from at least 4 years) and they
+were equally subdivided according to sex and age.
+The
+various
+neighbourhoods
+(listed
+in
+Table 2 and represented in Figure 1) were chosen
+in order to represent the maximum variety based
+on their architectonic and town planning features,
+population
+density,
+and
+geographical
+location
+within the city area.
+Tools and procedure
+A
+126-item
+perceived
+residential
+environment
+quality (PREQ) scale was used (for details on scale
+construction and analysis, see RSS Bonnes et al.,
+1997). Items refer to four general and 11 speci¢c
+content areas derived from exploratory interviews
+(see Appendix 1): architectural and town-planning
+features: (1) architectural and town-planning space
+(19 items), (2) organization of accessibility and
+roads (14 items), (3) green areas (12 items). Social
+relations features: (4) people and social relations
+(22 items). Punctual and in-network (non punctual)
+services: (5) punctual social-health-assistance ser-
+vices (11 items), (6) punctual cultural-recreational
+services (13 items), (7) punctual commercial ser-
+vices
+(5
+items);
+(8)
+non-punctual
+(in-network)
+services (transportation, 5 items). Context features:
+(9) lifestyle (7 items), (10) pollution (6 items), (11)
+maintenance/care (12 items). The di¡erent number
+of items in each content area matches the richer or
+poorer articulation of each area, as observed in the
+preliminary interviews. Content categories about
+functional
+facilities
+(services)
+match
+analytic
+categories used by urban-planners.
+A 6-item neighbourhood attachment scale (NAS)
+was also developed to measure the individual's de-
+gree of attachment to the neighbourhood he/she is
+living in (see Appendix 2). This scale mainly refers
+to inhabitants' feelings of positive a¡ective orienta-
+tion toward their neighbourhood and to their desire
+to not change their present residential place; but it
+also addresses the relevance of the place^neighbour-
+hood for the person's identity. This scale was in-
+tended to measure a unidimensional construct.
+All items were prepared on small cards and pre-
+sented to the respondent individually and in ran-
+dom
+order
+by
+the
+interviewer. The
+respondent
+answered each item using a 4-point agreement^dis-
+agreement scale. When necessary, item scores were
+subsequently recoded so that high scores indicate
+environment quality or neighbourhood attachment
+for all items.
+The following socio-demographic and residential
+variables were also measured (see Table 1): age, sex,
+socio-economic level (SEL), number of persons liv-
+ing together (NPLT), length of residence in the
+neighbourhood (LRN), and length of residence in
+Rome (LRR). SEL was estimated by the interviewer
+using a 4-point scale (low, medium-low, medium-
+high, and high). Information about educational level
+and occupation was also gathered, but was not used
+in the analyses.
+Measures
+The ¢rst-order factor(s) underlying the items in
+each one of the 11 conceptual domains of the
+PREQ scale were identi¢ed through 11 ¢rst-order
+Principal Component Analyses. In this way, 20
+speci¢c
+PREQ
+indexes
+were
+derived. They are
+334
+M. Bonaiuto et al.
+TABLE 1
+Sample breakdown according to socio-demographic and residential variables
+Variable
+Levels
+F
+F%
+Gender
+Men
+247
+497
+Women
+250
+503
+Total
+497
+1000
+Age
+16^24 years
+101
+203
+25^34 years
+100
+201
+35^54 years
+106
+213
+55^65 years
+99
+199
+over 65 years
+91
+183
+Total
+497
+1000
+Estimated
+Low
+25
+50
+socio-economic
+Medium-low
+185
+372
+level
+Medium-high
+247
+497
+High
+40
+80
+Total
+497
+1000
+Education
+Primary school
+63
+127
+Junior high school
+93
+187
+Senior high school
+258
+519
+Degree
+45
+91
+Missing
+38
+76
+Total
+497
+1000
+Occupation
+Housewife/retired/student
+280
+563
+Unskilled worker
+8
+16
+Skilled worker
+8
+16
+Tradesman/agent
+35
+70
+Craftsman/self-employee
+14
+28
+White-collar worker/teacher
+82
+165
+Manager/professional
+25
+50
+Entrepreneur/industrialist
+1
+02
+Other
+44
+88
+Total
+497
+1000
+Number of
+1
+96
+193
+persons living
+2
+102
+205
+together
+3
+172
+350
+(respondent not included)
+4
+79
+160
+5
+19
+38
+6 or more
+9
+18
+Missing
+20
+40
+Total
+497
+1000
+Length of
+0^6 years
+1
+02
+residence in Rome
+7^9 years
+26
+52
+10^20 years
+59
+119
+Over 20 years ^ Native
+408
+811
+Missing
+3
+06
+Total
+497
+1000
+Length of
+0^6 years
+11
+22
+residence in the
+7^9 years
+79
+159
+neighbourhood
+10^20 years
+167
+336
+Over 20 years ^ native
+237
+477
+Missing
+3
+06
+Total
+497
+1000
+Perceived Residential Environment Quality and Neighbourhood Attachment
+335
+synthetically listed in Table 3 (for details on factor
+structure and factor loadings, see Bonnes et al.,
+1997).
+Architectural
+and
+town-planning
+features.
+In
+the
+Architectural and town-planning space area (three
+correlated
+factors,
+Oblimin
+rotation,
+517%
+of
+explained variance), 6 items referring to aesthetics,
+beauty, or harmony of the buildings loaded on
+the
+¢rst
+factor
+labelled
+`buildings'
+aesthetic
+pleasantness' (a  080); 3 items, 2 of which refer to
+contrast
+and
+heterogeneity
+between
+buildings,
+loaded on the second factor labelled `buildings'
+aesthetic contrast' (a 061); 5 items referring to
+negative aspects of building size loaded on the
+third
+factor
+labelled
+`buildings'
+excessive
+and
+repetitive volume' (a 066).
+In the organization of accessibility and roads area
+(two factors, 523% of explained variance), 6 items
+referring to road usability in the neighbourhood
+loaded on the ¢rst factor labelled `internal practic-
+ability' (a  073); 3 items referring to neighbourhood
+links with the centre or with other parts of the city
+loaded on the second factor labelled `external con-
+nections (with the city)' (a  076).
+In the green area (one factor, 516% of explained
+variance), 11 items referring to lack of parks or to
+bad conditions of green areas loaded on one factor
+labelled `lack of green areas (presence and care)'
+(a 090).
+Social relations features.
+In the people and social
+relations area (three correlated factors, Oblimin
+rotation, 456% of explained variance), 8 items
+referring to the dangerousness of certain kinds of
+persons
+loaded
+on
+the
+¢rst
+factor
+labelled
+`threatening people' (a 076); 5 items referring to
+the
+possibility
+of
+genuine
+social
+relationships
+between neighbours loaded on the second factor
+labelled `presence of social relationships' (a  074);
+3 items referring to intrusiveness and lack of
+tolerance
+and
+moderation
+loaded
+on
+the
+third
+factor labelled `intrusiveness/intolerance' (a 057).
+Punctual and in-network services.
+In the punctual
+social-health-assistance
+services
+area
+(two
+cor-
+related
+factors,
+Oblimin
+rotation, 433%
+of ex-
+plained variance), 7 items referring to health and
+social services loaded on the ¢rst factor labelled
+`adequacy of social and health services' (a 069);
+TABLE 2
+List of the neighbourhoods where inhabitants were sampled
+Reference in the map (Figure 1) Name of neighbourhood
+Q.I
+Flaminio
+Q.IV
+Salario
+Q.V
+Nomentano
+Q.VII
+Prenestino ^ Labicano
+Q.VIII
+Tuscolano
+Q.XIX
+Appio-Latino
+Q.X
+Ostiense
+Q.XI
+Portuense
+Q.XXI
+Pietralata
+Q.XXII
+Collatino
+Q.XXV
+Appio Claudio
+Q.XXIX
+Ponte Mammolo
+Q.XXXII
+Europa ^ Eur
+Q.XXXIV
+Lido di Ostia (Levante)
+R.XIV
+Borgo
+R.XXI
+San Saba
+S.X
+Trionfale
+Z.IV
+Casal Boccone
+Z.XIII
+Torre Angela
+Z.XXXI
+Mezzocammino
+Z.XXXIV
+Casal Palocco
+Z.L
+Ottavia
+Z.LIV
+Giustiniana
+FIGURE 1. Map of Rome with neighbourhoods included in the sam-
+ple marked by vertical lines (source of map: Municipality of
+Rome, Toponymic and Statistics O¤ce. Roman numbers refer to
+the old administrative neighbourhoods' subdivision, in terms of
+Rioni and Quartieri; Arabic numbers refer to the actual adminis-
+trative districts' subdivision, in terms of broader Circoscrizio-
+ni).- - - - , limits of the Circoscrizioni;ö, limits of the neighbour-
+hoods.
+336
+M. Bonaiuto et al.
+TABLE 3
+Summary of principal components for PREQ (for details on factor structures, see Bonnes et al., 1997)
+Principal component
+with short label in
+parentheses
+Loaded items
+(5045)
+with sign
+Per cent of
+explained
+variance
+a
+Generative content-area
+Buildings' aesthetic pleasantness
+(BUILPLEA)
+14, 13, 12, 4,
+38, 715
+218
+080
+Architectural/town-planning
+space
+Buildings' aesthetic contrast
+(BUILCONT)
+2, 3, 36
+134
+061
+Architectural/town-planning
+space
+Buildings' excessive and
+repetitive volume
+(BUILVOL)
+19, 1, 20, 8,
+718
+152
+066
+Architectural/town-planning
+space
+Internal practicability
+(INTPRAC)
+733, 34, 731,
+26, 30, 25
+285
+073
+Organization of accessibility
+and roads
+External connections (with the
+city)
+(EXTCON)
+24, 21, 723
+235
+076
+Organization of accessibility
+and roads
+Lack of green areas (presence
+and care)
+(LACKGREE)
+743, 41, 46,
+749, 48, 50, 40,
+744, 47, 42, 45
+516
+090
+Green
+Threatening people
+(THREPEOP)
+61, 760, 51, 77
+71, 770, 64, 68
+179
+076
+People and social relations
+Presence of social
+relationships
+(SOCRELA)
+776, 75, 774,
+777, 73
+156
+074
+People and social relations
+Intrusiveness/intolerance
+(INTRINTO)
+81, 79, 780
+111
+057
+People and social relations
+Adequacy of social and health
+services
+(ADEQSOC)
+112, 121, 7111,
+100, 107, 99,
+101
+233
+069
+Punctual social-health-
+assistance services
+Inadequacy of educational
+services
+(INADEDUC)
+793, 791, 92, 90
+199
+070
+Punctual social-health-
+assistance services
+Inadequacy of sport services
+(INADSPOR)
+7125, 7123,
+124, 126
+246
+070
+Punctual cultural-recreational
+services
+Inadequacy of cultural
+activities and meeting-places
+(INADCULT)
+115, 7113, 120
+117, 116
+207
+058
+Punctual cultural-recreational
+services
+Commercial assortment
+(COMASS)
+105, 102, 7103,
+106
+561
+072
+Punctual commercial
+services
+Inadequacy of public transport
+services
+(INADTRAN)
+94, 796, 98, 97
+528
+070
+Non-punctual (in-network)
+services: transportation
+Lack of opportunities
+(LAKOPPO)
+87, 86, 88, 789
+274
+063
+Lifestyle
+Quiet
+(QUIET)
+84, 783, 82
+267
+068
+Lifestyle
+Pollution
+(POLLUTION)
+54, 57, 52, 755,
+56, 53
+582
+085
+Pollution
+Lack of macro-upkeep in
+public services or spaces
+(LACKCARE)
+7109, 110, 59,
+7108, 32, 35
+203
+064
+Care/upkeep
+Presence of micro-upkeep in
+private spaces or activities
+(PRESCARE)
+11, 79, 772, 10,
+78
+195
+065
+Care/upkeep
+Neighbourhood attachment
+(NEIGHATT)
+130, 132, 128,
+7131, 127, 129
+592
+086
+Neighbourhood attachment
+Scale
+Perceived Residential Environment Quality and Neighbourhood Attachment
+337
+4 items referring to schools and quality of education
+loaded on the second factor labelled `inadequacy of
+educational services' (a 070).
+In
+the
+punctual
+cultural-recreational
+services
+area (two factors, 453% of explained variance), 4
+items referring to spaces and structures for sports
+activities loaded on the ¢rst factor labelled `inade-
+quacy of sport services' (a 070); 5 items referring
+to places for cultural activities in general and to
+meeting places for young people loaded on the sec-
+ond factor labelled `inadequacy of cultural activities
+and meeting places' (a  058).
+In the punctual commercial services area (one
+factor, 561% of explained variance), 4 items refer-
+ring to shop variety and local markets loaded on
+one
+factor
+labelled
+`commercial
+assortment'
+(a  072).
+In the network services: transportation area (one
+factor, 528% of explained variance), 4 items refer-
+ring to frequency and quality of public transport
+and buses loaded on one factor labelled `Inadequacy
+of public transport services' (a 070).
+Context features.
+In the lifestyle area (two factors,
+541% of explained variance), 4 items referring to
+lack of opportunities and facilities in the neighbour-
+hood loaded on the ¢rst factor labelled `lack of
+opportunities' (a 063); 3 items referring to neigh-
+bourhood quiet and liveability loaded on the second
+factor labelled `quiet' (a  068).
+In the pollution area (one factor, 582% of ex-
+plained variance), 6 items referring to air and noise
+pollution loaded on one factor labelled `pollution'
+(a  085).
+In the maintenance/care area (two correlated fac-
+tors, Oblimin rotation, 405% of explained variance),
+6 items referring to poor levels of upkeep in the
+public services and spaces (that is, garbage and
+street cleaning services, lighting, roads, and aban-
+doned spaces) loaded on the ¢rst factor labelled
+`lack of macro-upkeep in public services or spaces')
+(a  064); 5 items referring to upkeep in small
+spaces due to people's activities loaded on the sec-
+ond factor labelled `presence of micro-upkeep in pri-
+vate spaces or activities') (a 065).
+A single ¢rst-order factor resulted from the Prin-
+cipal Component Analysis carried out on NAS. All
+6 items, referring to degree of individual attach-
+ment to the neighbourhood lived in, loaded on one
+factor (592% explained variance; a  086) labelled
+`neighbourhood attachment'. Thus, a unidimensional
+index of neighbourhood attachment was derived
+(Table 3; for details on factor structure and factor
+loadings, see Bonnes et al., 1997).
+Levels for sex, age, estimated socio-economic level,
+number of persons living together, length of resi-
+dence in Rome, and length of residence in the neigh-
+bourhood were measured as reported in Table 1.
+Statistical analyses
+Correlations matrices were preliminarily calculated
+between
+PREQ
+indexes,
+attachment
+index,
+and
+socio-demographic and residential variables.
+Links between socio-demographic variables, PREQ
+indexes and the neighbourhood attachment index
+were analysed using a path analysis model tested
+by a structural equation approach and LISREL
+(Bollen, 1989; Joreskog & Sorbom, 1993). Due to the
+high number of variables and possible links in-
+volved, we considered each of the four general areas
+separately, i.e. architectural and town-planning fea-
+tures, social relations features, punctual and non-
+punctual (in-network) services, and context fea-
+tures. In each of the four models taken separately,
+socio-demographic variables predicted PREQ in-
+dexes which, in turn, predicted the neighbourhood
+attachment index. Thus, the aim of the theoretical
+model was to predict people's neighbourhood attach-
+ment on the basis of the degree of their neighbour-
+hood PREQ. Finally, the PREQ indexes which were
+the best predictors (path coe¤cient 5015) of neigh-
+bourhood attachment in each general area, were se-
+lected and included in a ¢nal model together with
+all socio-demographic variables. This procedure is
+conservative and it aims to preserve a good ratio
+between number of subjects and estimated para-
+meters (which is also of major concern when using
+structrual equation models). One of the major fac-
+tors negatively in£uencing the reliability of the
+parameter estimates, and more generally a¡ecting
+the ¢t of the model, is the estimation of a relatively
+large number of parameters given the sample size
+(Tanaka, 1987). The choice of including only the best
+predictors for each area would dramatically reduce
+the number of estimated parameters, therefore pro-
+ducing more reliable values, everything else being
+equal.4
+Results
+Table 4 synthesizes signi¢cant correlations between
+socio-demographic and residential variables and
+PREQ and neighbourhood attachment indexes. It
+shows that PREQ and neighbourhood attachment
+indexes have
+only a
+few weak signi¢cant cor-
+relations with sociodemographic and residential
+338
+M. Bonaiuto et al.
+variables,
+mostly
+with estimated
+socio-economic
+level or length of residence in the neighbourhood
+(Table 4).
+The correlation matrix of PREQ indexes and at-
+tachment index included in the following analyses
+is presented in Table 5.
+The path analysis model for architectonic and
+town-planning features (see Figure 2) shows the ex-
+cellent global ¢t of the model: GFI (Goodness of Fit
+Index)  099, Adjusted GFI  097, CFI (Compara-
+tive
+Fit
+Index)
+ 099,
+Chi-Square
+(30)  3895
+(p  013). Five out of the six indicators of urban
+quality play a signi¢cant role in predicting neigh-
+bourhood attachment: buildings' aesthetic pleasant-
+ness
+(026),
+buildings' excessive
+and
+repetitive
+volume (7017), lack of green areas (7016), internal
+practicability
+(011),
+and
+external
+connections
+(0086). Together with three residential or socio-
+demographic variables directly predicting neigh-
+bourhood attachmentönamely, length of residence
+in the neighbourhood (017), estimated socioeco-
+nomic level (7017), number of persons living to-
+gether (7013)öthey explain 30 per cent of the
+neighbourhood
+attachment
+variance
+(r2  030).
+Buildings' aesthetic contrast has no relevant in£u-
+ence on it.
+Moreover, buildings' aesthetic pleasantness is pre-
+dicted (r2  0038) by estimated socio-economic level
+(016) and age (012); buildings' aesthetic contrast is
+predicted (r2  0047) by length of residence in the
+TABLE 4
+Correlations of socio-demographic and residential variables with perceived residential environment quality and neighbourhood
+attachment indexes
+Age
+Number of
+persons
+living
+together
+Length of
+residence in
+neighbourhood
+Socio-
+economic
+level
+Gender
+Length of
+residence
+in Rome
+PREQ
+Buildings' aesthetic
+pleasantness
+017
+Buildings' aesthetic
+contrast
+016
+Buildings' excessive and
+repetitive volume
+7026
+Internal practicability
+018
+External connections
+7016
+Lack of green areas
+7025
+Threatening people
+7019
+Presence of social
+relationships
+Intrusiveness/intolerance
+Adequacy of social and
+health services
+Inadequacy of educational
+services
+Inadequacy of sport
+services
+Inadequacy of cultural
+activities and meeting-
+places
+7020
+Commercial assortment
+7016
+Inadequacy of public
+transport services
+Lack of opportunities
+Quiet
+Pollution
+Lack of macro-upkeep
+Presence of micro-upkeep
+021
+NAS
+Neighbourhood
+attachment
+016
+7013
+021
+7009
+003
+008
+Note: For PREQ, only correlations above 015 (all signi¢cant at p50001) are reported.
+Perceived Residential Environment Quality and Neighbourhood Attachment
+339
+TABLE 5
+Correlation matrix for perceived residential environment quality indexes and neighbourhood attachment index
+NEIGHATT
+NEIGHATT
+100
+BUILPLEA
+BUILPLEA
+041
+100
+BUILCONT
+BUILCONT
+7002
+70.25
+100
+BUILVOL
+BUILVOL
+7030
+7032
+004
+100
+INTPRAC
+INTPRAC
+023
+042
+7037
+7002
+100
+EXTCON
+EXTCON
+010
+7004
+018
+000
+000
+100
+LAKGREE
+LAKGREE
+7029
+7050
+013
+013
+7037
+013
+100
+THREPEOP
+THREPEOP
+7030
+7053
+042
+031
+7045
+025
+037
+100
+SOCRELA
+SOCRELA
+035
+020
+002
+7010
+017
+006
+7013
+7004
+100
+INTRINTO
+INTRINTO
+7015
+7020
+024
+7010
+7021
+7009
+013
+022
+7012
+100
+ADEQSOC
+ADEQSOC
+026
+022
+000
+7018
+017
+028
+7014
+7003
+031
+7019
+100
+INADEDUC
+INADEDUC
+7018
+7027
+002
+007
+7004
+7034
+015
+006
+7018
+024
+7022
+100
+INADSPOR
+INADSPOR
+7021
+7034
+7006
+008
+7029
+007
+067
+024
+7007
+013
+7001
+011
+100
+INADCULT
+INADCULT
+7031
+7023
+006
+018
+7017
+7008
+020
+018
+7023
+016
+7043
+008
+000
+100
+COMASS
+COMASS
+021
+005
+009
+004
+7007
+026
+7006
+013
+008
+7015
+024
+7032
+7009
+7010
+100
+INADTRAN
+INADTRAN
+7015
+001
+7019
+016
+7002
+7057
+000
+7008
+7012
+7006
+7032
+023
+005
+019
+7021
+100
+LAKOPPO
+LAKOPPO
+7043
+7038
+7004
+037
+7019
+7022
+037
+021
+7024
+020
+7044
+024
+028
+046
+7033
+025
+100
+QUIET
+QUIET
+029
+037
+7031
+7014
+046
+7023
+7016
+7058
+019
+7015
+001
+001
+7012
+7009
+7025
+011
+000
+100
+POLLUTION
+POLLUTION
+7019
+7041
+039
+023
+7053
+031
+026
+058
+7018
+007
+002
+7002
+021
+008
+026
+7014
+007
+7068
+100
+LAKCARE
+LAKCARE
+7022
+7024
+013
+013
+7028
+7018
+017
+026
+7014
+005
+7028
+023
+013
+023
+7016
+035
+029
+7010
+018
+100
+PRESCARE
+PRESCARE
+031
+061
+7035
+7021
+045
+7017
+7052
+7061
+014
+7029
+015
+7010
+7036
+7019
+000
+008
+7032
+036
+7052
+7026
+100
+340
+M. Bonaiuto et al.
+neighbourhood (016) and estimated socio-economic
+level (7016); buildings' excessive and repetitive vo-
+lume is predicted (r2 0065) by length of residence
+in the neighbourhood (025); internal practicability
+is predicted (r2  0043) by estimated socio-economic
+level (018) and length of residence in the neighbour-
+hood (70096); external connections are predicted
+(r2 0050) by length of residence in the neighbour-
+hood (016), estimated socio-economic level (7016)
+and length of residence in Rome (7013); lack of
+green areas is predicted (r20062) by estimated so-
+cio-economic level (7025).
+The path analysis model for social relations fea-
+tures (see Figure 3) shows rather satisfying ¢t in-
+dexes: GFI (Goodness of Fit Index)  098, adjusted
+GFI  096, CFI (Comparative Fit Index)  094.
+Although Chi-Square (30)  3214 (p  00023), the
+Critical n (n  42831) is close to the actual n of the
+sample, therefore showing the goodness of the mod-
+el. Two out of the three indicators of urban quality
+play a signi¢cant role in predicting neighbourhood
+attachment: threatening people (7033) and pre-
+sence of social relationships (031). Together with
+one residential and one socio-demographic variable
+directly
+predicting
+neighbourhood
+attachmentö
+namely, length of residence in the neighbourhood
+(020), estimated socio-economic level (7012)öthey
+explain 25 per cent of the neighbourhood attach-
+ment variance (r2  025). Intrusiveness/intolerance
+has no relevant in£uence on it.
+Moreover,
+threatening
+people
+is
+predicted
+(r2  0040)
+by
+estimated
+socio-economic
+level
+(7020); presence of social relationships is predicted
+(r2  0020) by number of persons living together
+(7014); intrusiveness/intolerance (r2 0024) by age
+(7014) and estimated socioeconomic level (70085).
+LISREL for punctual and non-punctual (in-net-
+work) services (see Figure 4) shows the worse ¢t in-
+dexes: GFI (Goodness of Fit Index)  096, adjusted
+GFI  086, CFI (Comparative Fit Index)  082, Chi-
+Square (24)  14159 (p  00). Even the Critical n is
+much lower than the actual sample size (n 15157),
+therefore showing that the model is not a good
+predictor. Five out of the six indicators of urban
+quality play a signi¢cant role in predicting neigh-
+bourhood attachment: inadequacy of cultural activ-
+ities and meeting places (7026), inadequacy of
+sport
+services
+(7022),
+commercial
+assortment
+(0096),
+adequacy of
+social
+and
+health
+services
+(0085),
+and
+inadequacy
+of
+education
+services
+(70082). Together with three residential or socio-
+demographic variables directly predicting neigh-
+bourhood attachmentönamely, length of residence
+in the neighbourhood (020), age (011), estimated
+FIGURE 2. Path analysis model for architectural and town planning features area. GFI  099, Adjusted GFI  097, CFI  099, Chi-
+Square (30)  3895 (p  013).
+Perceived Residential Environment Quality and Neighbourhood Attachment
+341
+FIGURE 3. Path analysis model for social relations features area. GFI  098, adjusted GFI  096, CFI  094, Chi-Square (30)  3214
+(p 00023).
+FIGURE 4. Path analysis model for punctual and non-punctual (in-network) services area. GFI  096, adjusted GFI  086, CFI  082,
+Chi-Square (24)  14159 (p  000).
+342
+M. Bonaiuto et al.
+socio-economic level (70084)öthey explain 23 per
+cent of the neighbourhood attachment variance
+(r2 023). Inadequacy of public transport services
+has no relevant in£uence on it.
+Moreover, inadequacy of sport services is pre-
+dicted (r 2  0040) by estimated socio-economic level
+(7020); commercial assortment (r 2  0026) by num-
+ber of persons living together (7016); inadequacy of
+public transport services (r 2  0062) by length of re-
+sidence in the neighbourhood (7021), length of resi-
+dence in Rome (019) and estimated socio-economic
+level (013).
+The path analysis model for context features (see
+Figure 5) shows rather good ¢t indexes: GFI (Good-
+ness of Fit Index)  099, adjusted GFI  095, CFI
+(Comparative
+Fit
+Index)  098.
+Although
+Chi-
+Square
+(21)  4300
+(p  00031),
+the
+Critical
+n
+(n  45007) is very close to the actual n of the sam-
+ple. Three out of the ¢ve indicators of urban quality
+play a signi¢cant role in predicting neighbourhood
+attachment: lack of opportunities (7037), quiet
+(026), presence of micro-upkeep (015). Together with
+two residential variables directly predicting neigh-
+bourhood attachmentönamely, length of residence
+in the neighbourhood (022), number of persons liv-
+ing together (7010)öthey explain 34 per cent of
+the neighbourhood attachment variance (r 2  034).
+Pollution and lack of macro-upkeep have no relevant
+in£uence on it.
+Moreover,
+lack
+of
+opportunities
+is
+predicted
+(r 2  0023) by length of residence in Rome (016)
+and
+length
+of
+residence
+in
+the
+neighbourhood
+(7013); quiet is predicted (r 2  00100) by length of
+residence in the neighbourhood (70100); pollution
+(r 2  0042) by length of residence in the neighbour-
+hood
+(012),
+number
+of
+persons
+living
+together
+(7012), age (7011) and estimated socio-economic
+level (7011); lack of macro-upkeep is predicted
+(r 2  0017) by length of residence in Rome (0097)
+and number of persons living together (70096);
+presence of micro-upkeep (r 2  0054) by estimated
+socio-economic level (019), length of residence in
+the neighbourhood (7010) and age (70092).
+From the above four models, ten residential satis-
+faction indexes were selected as the best predictors
+(5015) of attachment: buildings' aesthetic pleasant-
+ness, buildings' excessive and repetitive volume, and
+lack of green areas for architectonic and town-plan-
+ning features; threatening people and presence of
+social relationships for social relations features; in-
+adequacy of cultural activities and meeting-places
+and inadequacy of sport services for punctual and
+non punctual (in-network) services; lack of opportu-
+nities,
+quiet
+and
+presence
+of
+micro-upkeep
+for
+FIGURE 5. Path analysis model for Context features area. GFI  099, adjusted GFI  095, CFI  098, Chi-Square (21)  4300 (p  00031).
+Perceived Residential Environment Quality and Neighbourhood Attachment
+343
+context features. Together with all residential and
+socio-demographic variables they were included in
+the ¢nal path analysis model (see Figure 6), which
+shows excellent ¢t indexes: GFI (Goodness of Fit In-
+dex)  099, adjusted GFI  097, CFI (Comparative
+Fit Index)  099, Chi-Square (20)  2591 (p  017);
+with a Critical n  72007. Six out of the ten indica-
+tors of urban quality play a signi¢cant role in predicting
+neighbourhood attachment: lack of opportunities
+(7025), quiet (020), buildings' aesthetic pleasant-
+ness (017), presence of social relationships (015),
+lack of green areas (70084), inadequacy of cultural
+activities and meeting places (70082). Together
+with one socio-demographic and two residential
+variablesölength of residence in the neighbourhood
+(020), estimated socio-economic level (7012), and
+number of persons living together (70084)öthey
+explain 39 per cent of the neighbourhood attach-
+ment variance (r 2  039).
+Buildings' excessive and repetitive volume, threa-
+tening people, inadequacy of sport services, and pre-
+sence of micro-upkeep have no relevant in£uence on
+it. As evident in Table 5, each of these four indica-
+tors is somehow correlated with neighbourhood
+attachment (7030, 7030, 7021, and 031 respec-
+tively).
+However,
+their
+correlations
+with
+other
+stronger
+predictors
+of
+the
+same
+criterion
+can
+account for their lack of signi¢cant relevance in
+the ¢nal model.5
+Moreover, in the ¢nal model, lack of opportunities
+is predicted (r 2  0025) by length of residence in
+Rome (015) and length of residence in the neigh-
+bourhood (7015); quiet (r 2  0015) by length of resi-
+dence
+in
+the
+neighbourhood
+(7012);
+buildings'
+aesthetic pleasantness (r 2  0021) by estimated so-
+cio-economic level (015); presence of social relation-
+ships
+(r 2  0016)
+by
+number
+of
+persons
+living
+together (7013); lack of green areas (r 2  0054) by
+estimated socio-economic level (7023); inadequacy of
+cultural activities and meeting places (r 2  00067)
+by estimated socio-economic level (0082).
+Discussion
+As far as residential and socio-demographic vari-
+ables are concerned, although they showed several
+direct signi¢cant paths on perceived urban quality
+indicators, they showed only a few signi¢cant direct
+paths on the neighbourhood attachment index.
+Among residential variables, length of residence
+in the neighbourhood was always a positive direct
+FIGURE 6. Final path analysis model including the best predictors (5015) from each one of the four content areas. GFI  099, adjusted
+GFI  097, CFI  099, Chi-Square (20)  2591 (p  017).
+344
+M. Bonaiuto et al.
+predictor of neighbourhood attachment (in all ¢ve
+tested models; 020 in the ¢nal one); while number
+of persons living together was a negative direct pre-
+dictor (though a weaker one) of neighbourhood at-
+tachment (in the ¢rst, fourth and ¢nal models;
+7008 in the ¢nal one), and length of residence in
+Rome was never a signi¢cant direct predictor of
+neighbourhood attachment.
+Among
+socio-demographic variables,
+estimated
+socio-economic level was the best direct predictor
+of neighbourhood attachment (negatively in the
+¢rst, second, third, and ¢nal model; 7012 in the ¢-
+nal one); while age was a positive direct predictor of
+neighbourhood attachment only in the third model
+(7011), and gender was never a signi¢cant direct
+predictor of neighbourhood attachment.
+Thus, on the whole, neighbourhood attachment
+tends to be higher especially with length of resi-
+dence in the neighbourhood. To a lesser extent,
+neighbourhood attachment also tends to be higher
+for people living with few persons and for people
+belonging to lower socio-economic levels. Neigh-
+bourhood attachment tends also to be higher with
+age. However, socio-demographic and residential
+variables have other indirect in£uences on neigh-
+bourhood attachment through the direct e¡ects
+they exert on the various aspects of PREQ.
+Length of residence in the neighbourhood and es-
+timated socio-economic level showed a preeminent
+role among residential and socio-demographic vari-
+ables in predicting PREQ indexes, both in terms of
+the pervasiveness (the range of variables they are
+able to a¡ect) and magnitude (the power expressed
+by their path coe¤cients) of their e¡ects.
+Among residential variables, increasing length of
+residence in the neighbourhood is positively asso-
+ciated with perception of urban quality for volume,
+external connections, opportunities; and it is nega-
+tively associated with that pertaining to internal
+practicability, quiet, and presence of micro-upkeep.
+Length of residence in Rome is never positively as-
+sociated with perception of urban quality; rather, it
+is negatively associated with satisfaction with ex-
+ternal connections, public transport services, op-
+portunities, and macro-upkeep. Number of persons
+living together is positively associated with percep-
+tion of urban quality for macro-upkeep; and it is ne-
+gatively associated with that pertaining to social
+relationship, commercial assortment, and opportu-
+nities.
+Among
+socio-demographic variables,
+estimated
+socio-economic level is positively associated with
+the perception of urban quality for buildings' aes-
+thetic pleasantness, green areas, internal practic-
+ability, social threats, sport services, micro-upkeep,
+and pollution; and it is negatively associated with
+that pertaining to external connections. Age is posi-
+tively associated with the perception of urban qual-
+ity
+for
+buildings' aesthetic
+pleasantness,
+social
+tolerance; and it is negatively associated with that
+pertaining to micro-upkeep. Gender never a¡ects
+perception of urban quality.
+Overall, the main relationships that emerged re-
+produce results typically found in environmental
+psychology literature and
+also in our
+previous
+studies (e.g., Carp & Carp, 1982; Carp, 1987; Bonnes
+et al., 1991b, for age and length of residence; Bonnes
+et al., 1991a, for socioeconomic level). Speci¢cally,
+these results emphasize the role of length of resi-
+dence in the neighbourhood both in terms of perva-
+siveness and magnitude of e¡ects; in parallel, they
+reduce the importance of other demographic predic-
+tors, like age and gender, both in magnitude and
+pervasiveness. In fact, most demographic predictors
+have a weak direct relation with neighbourhood at-
+tachment (see Table 4). This direct relation is gener-
+ally even weaker when psychological variables are
+included: PREQ indexes seem to mediate by and
+large demographic predictors' relations with neigh-
+bourhood attachment. A clear exception is length of
+residence in neighbourhood: its relation with neigh-
+bourhood attachment is not mediated by other vari-
+ables. Therefore, from these results we can infer
+that length of residence in the neighbourhood in£u-
+ences attachment to that neighbourhood, irrespec-
+tive of other evaluative aspects concerning the
+same neighbourhood (e.g. quietness, lack of opportu-
+nities).
+On the other hand, perceived residential quality
+indicators showed several signi¢cant direct e¡ects
+on neighbourhood attachment.
+In particular, the model involving architectural
+and town-planning indicators o¡ers the best predic-
+tion of people's neighbourhood attachment, which is
+greater with buildings' aesthetic pleasantness, inter-
+nal practicability, and external connections, and
+smaller with buildings excessive and repetitive vo-
+lume, and lack of green areas.
+Then, the model involving indicators of context
+features is a good predictor of neighbourhood at-
+tachment, which is greater with quiet, and presence
+of micro-upkeep, and smaller with lack of opportu-
+nities.
+The model involving indicators of social relations
+features o¡ers a discrete prediction of people's
+neighbourhood attachment, which is greater with
+presence of social relationships, and smaller with
+threatening people.
+Perceived Residential Environment Quality and Neighbourhood Attachment
+345
+On the contrary, the model involving services in-
+dicators does not globally ¢t with the data and pro-
+vides
+a
+weak
+prediction
+of
+neighbourhood
+attachment, which is slightly greater with commer-
+cial assortment, and adequacy of social and health
+services, and is slightly smaller with inadequacy of
+sport services, inadequacy of educational services,
+and inadequacy of cultural activities and meeting
+places.
+The ¢nal model, which included the best predic-
+tors of attachment emerging from the four previous
+models, showed that each area is somehow impor-
+tant in determining neighbourhood attachment. In
+fact, the six predictors which emerged as signi¢cant
+out of the best ten belong to the four di¡erent
+areas: two from architectural and town-planning
+features, one from social relations features, one
+from services features, and two from contextual fea-
+tures. That is, neighbourhood attachment is signi¢-
+cantly
+greater
+with
+quiet,
+buildings'
+aesthetic
+pleasantness, and presence of social relationships,
+and smaller with lack of opportunities, inadequacy
+of cultural activities and meeting-places and lack
+of green areas. This result underlines the composite
+nature of neighbourhood attachment, con¢rming
+our preliminary analyses of the various speci¢c resi-
+dential facets which may be associated with a global
+evaluation of the residential environment (see the
+second-order factor analyis of RSS and NAS in
+Bonnes et al., 1997). However, the ¢nal model also
+clearly details di¡erences in the relative importance
+of these indicators. In fact, context features play the
+most relevant role: lack of opportunities and quiet in
+the neighbourhood are the two most powerful pre-
+dictors (7025 and 020 respectively). Then, two indi-
+cators have a less powerful but still consistent
+in£uence on neighbourhood attachment: buildings'
+aesthetic pleasantness and presence of social rela-
+tionships (017 and 015, respectively). Finally, two in-
+dicators have weak predictive power: lack of green
+areas and inadequacy of cultural activities and
+meeting places (0084 and 0082 respectively). With
+respect to neighbourhood attachment, context fea-
+tures seem to contribute more; then, architectural
+and town-planning features and social relations fea-
+tures; service features play only a minor role. The
+lack of signi¢cance of the other four indicators in-
+cluded in the ¢nal model (i.e., buildings' excessive
+and repetitive volume, threatening people, inade-
+quacy of sport services, and presence of micro-up-
+keep) seems due to their correlations with stronger
+predictors of attachment.
+Indicators of the perceived quality of architec-
+tural, social, and contextual features emerge as
+relevant predictors of neighbourhood attachment;
+in comparison, service features seem less impor-
+tant. On the one hand, the relative lack of impor-
+tance of functional features with respect to the
+neighbourhood attachment index should not be in-
+terpreted as a general lack of relevance of these in-
+dicators. Rather, they may prove to be relevant
+predictors of other variables. On the other hand,
+the inter-place perspective to explain inhabitants'
+neighbourhood
+activities
+and
+use
+of
+servicesö
+pointed out in our previous studies on urban prag-
+matics (e.g. Bonnes et al., 1990; Bonaiuto & Bonnes,
+1996)öcan be taken into account here. In fact, most
+neighbourhood residents are generally character-
+ized by a multiplace system of activities, in which
+they also use services and facilities located in other
+parts of the city (i.e. the centre and periphery).
+On the whole, the satisfying test of the ¢nal path
+model con¢rmed the hypothesis of the study, stres-
+sing the multicomponential nature of the process of
+establishing positive a¡ective relationships with the
+residential neighbourhood. The positive evaluation
+of
+di¡erent
+aspects
+of
+the
+residential
+environ-
+mentöas far as the contextual, architectural, social,
+and service features are concernedöunderlies feel-
+ings of neighbourhood attachment. Furthermore,
+the variety of perceived residential environment qua-
+lities, which resulted to be signi¢cant predictors of
+neighbourhood attachment, suggests a multicompo-
+nential nature of the process of place attachment.
+This is somehow coherent with three main psycholo-
+gical functions attributed to place attachment (e.g.
+Fried, 1982; Altman & Low, 1992; Fuhrer et al.,
+1993): regulation of personal/social identity, social
+contact, and the regulation of emotions. Moreover,
+these results shows that there are signi¢cant links
+among two di¡erent levels of people environmental
+experience (as usually theoretically stated; e.g. Sund-
+strom et al., 1996, pp. 491^493): perceptions and cog-
+nitive evaluations of speci¢c molecular aspects of
+the neighbourhood, on the one side; and global a¡ec-
+tive bonds with the same place, on the other side.
+Therefore, they represent an empirical bridge which
+¢lls the gap among two traditionally separated re-
+search
+areas
+within
+environmental
+psychology;
+namely, perceived residential environment quality
+and residential satisfaction, on the one side, and
+place attachment, on the other side.
+In terms of more general interdisciplinary im-
+plications, these results can represent guidelines
+for orienting policies aimed to selectively intervene
+on neighbourhood environmental features in order
+to
+foster
+inhabitants' attachment
+to
+their
+own
+neighbourhood. However, such applied implications
+346
+M. Bonaiuto et al.
+suggests an explicit causal direction from environ-
+mental management, to perceived residential envir-
+onment
+quality
+(or
+residential
+satisfaction),
+to
+neighbourhood attachment: while compatible with
+the presented results, it would need to be empiri-
+cally veri¢ed via a quasi-experimental research
+design.
+Notes
+Reprint requests and correspondence should be addressed
+to: Marino Bonaiuto, Dipartimento di Psicologia dei Pro-
+cessi di Sviluppo e Socializzazione, Universita¨ degli Studi
+di Roma `La Sapienza', V|a dei Marsi 78, 00185 Roma, Italy.
+Tel: 39 6 49917661, Fax: 39 6 49917652, E-mail: bonaiuto-
+m@axrma.uniromal.it
+(1) Preliminary versions of this paper were presented at
+the International Workshop on Population and Environ-
+ment in Developed Societies, C.N.R., Rome, 28^29 October,
+1996; and at The British Psychological Society Social Psy-
+chology Section Annual Conference 1997, University of
+Sussex, 17^19 September, 1997 (Symposium: `Identity and
+Place: Identifying Places and Locating Selves').
+(2) This choice is primarily justi¢ed by the general re-
+search project within which the present study is framed,
+i.e. the U.N.E.S.C.O.-M.A.B. Rome Project, a pluridisci-
+plinary research programme on urban systems which fo-
+cused
+particularly
+on
+neighbourhood
+residential
+environments
+in the
+city of Rome (Giacomini, 1981;
+Bonnes, 1987, 1991, 1993). This multidisciplinary research
+programme on the urban environment had two main
+aims: (1) to increase knowledge and understanding of psy-
+chological processes involved in the perception of urban
+quality, particularly at the level of the neighbourhood; (2)
+to develop knowledge and tools which might be useful for
+other non-psychological disciplinary ¢elds (such as town-
+planners,
+plant
+ecologists,
+etc.)
+participating
+in
+the
+M.A.B.-Rome Project, in order to promote and achieve a
+pluridisciplinary approach to the city (e.g. Bonnes & Bo-
+naiuto, 1995).
+(3) In a further study, as yet unpublished, we developed an
+extended 16-item NAS, which comprises new and better
+balanced items referring to rootedness and positive eva-
+luations, as well as to a¡ective bonds, personal, and so-
+cial identity. Principal component analysis shows again
+all items are highly loaded in only one component, in a
+very clear and reliable manner which psychometrically
+supports a single construct solution, rather than a multi-
+dimensional one.
+(4) Moreover, when considering a given set of variables, a
+variable which does not signi¢cantly a¡ect another vari-
+able in general can only become even less important when
+other variables are added to the starting set, except for
+rare occasions when spurious e¡ects are present (see Ba-
+gozzi & Baumgartner, 1994). In other words, if x1 is not
+in£uencing y when considering x2, x3, and x4, it will not
+increase its in£uence on y when we further include x5,
+x6, and x7. Indeed, its in£uence on y will generally be
+either equal or lower.
+(5) In fact (see Table 5), buildings' excessive and repetitive
+volume has medium correlations with buildings' aesthetic
+pleasantness (7032) and lack of opportunities (037); and
+it is slightly correlated with inadequacy of cultural activ-
+ities and meeting places (018), quiet (7014), lack of green
+areas (013), and presence of social relationships (7010). It
+also correlates with some other non-signi¢cant predictors:
+threatening people (031) and presence of micro-upkeep
+(7021). Threatening people has strong correlations with
+quiet
+(7058)
+and
+buildings'
+aesthetic
+pleasantness
+(7053); medium correlations with lack of green areas
+(037); and it is slightly correlated with lack of opportu-
+nities (021), and inadequacy of cultural activities and
+meeting places (018). It also correlates with the other
+non-signi¢cant
+predictors:
+presence
+of
+micro-upkeep
+(7061), buildings' excessive and repetitive volume (031)
+and inadequacy of sport services (024). Inadequacy of
+sport services has strong correlations with lack of green
+areas (067); medium correlations with buildings' aesthetic
+pleasantness (034); and it is slightly correlated with lack
+of opportunities (028) and quiet (7012). It also correlates
+with the other non-signi¢cant predictors: threatening
+people (024) and presence of micro-upkeep (7036). Pre-
+sence of micro-upkeep has strong correlations with build-
+ings' aesthetic pleasantness (061) and lack of green areas
+(7052); medium correlations with quiet (036) and lack of
+opportunities (7032); and it is slightly correlated with in-
+adequacy of cultural activities and meeting places (7019)
+and presence of social relationships (014). It also corre-
+lates with the other non-signi¢cant predictors: threaten-
+ing people (7061), inadequacy of sport services (7036)
+and buildings' excessive and repetitive volume (7021).
+References
+Altman, I. (1986). Theoretical issues in environmental psy-
+chology. 21st Congress of the International Association
+of Applied Psychology, Jerusalem.
+Altman, I. & Ginat, J. (1992). Place attachment: How many
+meanings? In A. Mazis & C. Karaletsou, (Eds), Socio-
+environmental metamorphoses: Builtscape, landscape,
+ethnoscape, euroscape. Proceedings of the IAPS 12 Inter-
+national Conference, Vol. 5. Thessaloniki: Aristotle
+University of Thessalonikia, pp. 125^131.
+Altman, I. & Low, S. (Eds) (1992). Place Attachment.
+Human Behavior and Environment, Vol. 12. New York:
+Plenum Press.
+Altman, I. & Rogo¡, B. (1987). World views in psychology:
+Trait, interactional, organismic, and transactional
+perspectives. In D. Stokols & I. Altman, (Eds), Hand-
+book of environmental psychology, Vol. 1. New York:
+Wiley, pp. 7^40.
+Altman, I. & Wandersman, A. (Eds) (1987). Neighborhood
+and community environment. Human behavior and envir-
+onment. New York: Plenum Press.
+Ame¨ rigo, M. & Aragone¨ s, J. I. (1990). Residential satisfac-
+tion in council housing. Journal of Environmental Psy-
+chology, 10, 313^325.
+Bagozzi, R. P. & Baumgartner, H. (1994). The evaluation of
+structural equation models and hypothesis testing. In
+R.P. Bagozzi, (Ed), Principles of Marketing Research.
+Cambridge, MASS: Blackwell, pp. 386^422.
+Bollen, K. A. (1989). Structural Equations with Latent
+Variables. New York: Wiley.
+Perceived Residential Environment Quality and Neighbourhood Attachment
+347
+Bonaiuto, M. & Bonnes, M. (1996). Multi-place analysis of
+the urban environment: A comparison between a
+large and a small Italian city. Environment and
+Behavior, 28, 699^747.
+Bonnes, M. (Ed.) (1987). U.N.E.S.C.O. Programme on Man
+and the Biosphere. Urban Ecology Applied to the City
+of Rome. M.A.B. Italia Project 11. Progress Report N.
+3. Rome: C.N.R.
+Bonnes, M. (Ed.) (1991). U.N.E.S.C.O. Programme on Man
+and the Biosphere. Urban Ecology Applied to the City
+of Rome. M.A.B. Italia Project 11. Progress Report N. 4.
+Rome: M.A.B. Italia and C.N.R.
+Bonnes, M. (Ed.) (1993). U.N.E.S.C.O. Programme on Man
+and the Biosphere. Perception and Evaluation of Urban
+Environmental Quality. A Pluridisciplinary Approach in
+the European Context. M.A.B. Italia Project 11. Proceed-
+ings of the International Symposium. November 1991.
+Rome: E.N.E.L.
+Bonnes, M. & Bonaiuto, M. (1995). Expert and Layperson
+Evaluation of Urban Environmental Quality: The
+`Natural' versus the `Built' Environment. In Y. Guer-
+rier, N. Alexander, J. Chase & M. O'Brien, (Eds), Va-
+lues and the Environment. A Social Science Perspective.
+Chichester: Wiley, pp. 151^163.
+Bonnes, M., Bonaiuto, M., Aiello, A., Perugini, M. & Erco-
+lani, A. P. (1997). A transactional perspective on resi-
+dential satisfaction. In C. Despre¨ s & D. Piche¨ , (Eds),
+Housing Surveys: Advances in Theory and Methods.
+Que¨ bec, Canada: CRAD Universite¨ Laval, pp. 75^99.
+Bonnes, M., Bonaiuto, M. & Ercolani, A. P. (1991a).
+Crowding and residential satisfaction in the urban
+environment:
+a contextual
+approach.
+Environment
+and Behavior, 23, 531^552.
+Bonnes, M., Bonaiuto, M., Ercolani, A. P. & De Rosa, A.
+M. (1991b). Residential satisfaction in the big city: a
+`transactional-contextual study'. In M. Bonnes, (Ed.),
+U.N.E.S.C.O. Programme on Man and the Biosphere. Ur-
+ban Ecology Applied to the City of Rome. M.A.B. Italia
+Project 11. Progress Report N. 4. Roma: M.A.B. Italia
+and C.N.R., pp. 127^148.
+Bonnes, M., Mannetti, L., Secchiaroli, G. & Tanucci, G.
+(1990). The city as a multi-place system: An analysis
+of people-urban environment transactions. Journal of
+Environmental Psychology, 10, 37^65.
+Brown, B. & Perkins, D. (1992). Disruptions in place at-
+tachment. In I. Altman & S. Low, (Eds), Place Attach-
+ment. Human Behavior and Environment, Vol. 12. New
+York: Plenum Press, pp. 279^304.
+Canter, D. (1977). The Psychology of Place. London: Archi-
+tectural Press.
+Canter, D. (1983). The purposive evaluation of places: A
+facet approach. Environment and Behavior, 15, 659^698.
+Carp, F. M. (1987). Environment and aging. In D. Stokols
+& I. Altman, (Eds), Handbook of environmental psychol-
+ogy,Vol. 1. New York: Wiley, pp. 329^360.
+Carp, F. M. & Carp, A. (1982). Perceived environmental
+quality of neighborhoods: Development of assessment
+scales and their relation to age and gender. Journal of
+Environmental Psychology, 2, 245^312.
+Carvalho, M., George, R. V. & Anthony, K. H. (1997). Resi-
+dential satisfaction in condomnios exclusivos (gate-
+guarded neighborhoods) in Brazil. Environment and
+Behavior, 29, 734^768.
+Feldman, R. M. (1990). Settlement-identity: psychological
+bonds with home place in a mobile society. Environ-
+ment and Behavior, 22, 183^229.
+Feldman, R. M. (1996). Constancy and change in attach-
+ment
+to
+types
+of
+settlements.
+Environment
+and
+Behavior, 28, 419^445.
+Francescato, G., Weidemann, S. & Anderson, J. R. (1989).
+Evaluating the built environment from the users'
+point of view: An attitudinal model of residential sa-
+tisfaction. In W. F. E. Preiser, (Ed), Building evalua-
+tion. New York: Basic Books, pp. 151^171.
+Fried, M. (1982). Residential attachment: Sources of resi-
+dential and community satisfaction. Journal of Social
+Issues, 38, 107^119.
+Fried, M. (1984). The structure and signi¢cance of commu-
+nity satisfaction. Population and Environment, 7(2),
+61^86.
+Fuhrer, U., Kaiser, F. G. & Hartig, T. (1993). Place attach-
+ment and mobility during leisure time. Journal of
+Environmental Psychology, 13, 309^321.
+Garcia-Mira, R., Arce, C. & Sabucedo, J. M. (1997). Per-
+ceived quality of neighbourhoods in a city in north-
+west
+Spain:
+an
+individual
+di¡erences
+scaling
+approach. Journal of Environmental Psychology, 17,
+243^252.
+Giacomini,V. (1981). Rome considered as an ecological sys-
+tem. Nature and Resources, 17(1), 13^19.
+Giuliani, M.V. (1991). Towards an analysis of mental repre-
+sentations of attachment to the home. Journal of
+Architectual and Planning Research, 8, 133^146.
+Giuliani, M. V. & Feldman, R. M. (1993). Place attachment
+in a developmental and cultural context. Journal of
+Environmental Psychology, 13, 267^274.
+Harris, P.B., Brown, B.B. & Werner, C.M. (1996). Privacy
+regulation and place attachment: predicting attach-
+ments to a student family housing facility. Journal of
+Environmental Psychology, 16, 287^301.
+Holahan, C. J. (1985). Environmental psychology. Annual
+Review of Psychology, 37, 381^407.
+Joreskog, K.G. & Sorbom, D. (1993). LISREL 8 User's Refer-
+ence Guide. Chicago, IL: Scienti¢c Software.
+Low, S. & Altman, I. (1992). Place Attachment: A concep-
+tual Inquiry. In I. Altman & S. Low, (Eds), Place
+Attachment. Human Behavior and Environment, Vol.
+12. New York: Plenum Press, pp. 1^12.
+Moore, G. T. (1987). Environment and behavior research in
+North America: History, developments, and unre-
+solved issues. In D. Stokols & I. Altman, (Eds), Hand-
+book of environmental psychology, Vol. 2. New York:
+Wiley, pp. 1359^1410.
+Proshansky, H., Fabian, A. K. & Kamino¡, R. (1983).
+Place-identity: physical world socialization of the self.
+Journal of Environmental Psychology, 3, 57^83.
+Rapaport,
+A.
+(1977).
+Human Aspects of Urban Form.
+Oxford: Pergamon Press.
+Rapaport, A. (1982). The Meaning of the Built Environment.
+Beverly Hills, CA: Sage.
+Russell, J. A. & Ward, L. M. (1982). Environmental psy-
+chology. Annual Review of Psychology, 33, 651^688.
+Stokols, D. (1987). Conceptual strategies of environmental
+psychology. In D. Stokols & I. Altman, (Eds), Hand-
+book of environmental psychology, Vol. 1. New York:
+Wiley, pp. 41^70.
+348
+M. Bonaiuto et al.
+Stokols, D. & Shumaker, S. A. (1981). People in places: A
+transactional view of settings. In J. H. Harvey, (Ed),
+Cognition, Social Behavior and Environment. Hillsdale,
+NJ: Lawrence, pp. 441^485.
+Sundstrom, E., Bell, P. A., Busby, P. L. & Asmus, C. (1996).
+Environmental Psychology 1989^1994. Annual review
+of Psychology, 47, 485^512.
+Tanaka, J.S. (1987). `How big is big enough?' Sample size
+and goodness of ¢t in structural equation models
+with latent variables. Child Development, 58, 134^146.
+Tognoli, J. (1987). Residential environments. In D. Stokols
+& I. Altman, (Eds), Handbook of environmental psychol-
+ogy,Vol. 1. New York: Wiley, pp. 655^690.
+Twigger-Ross, C. L. & Uzzell, D. L. (1996). Place and iden-
+tity processes. Journal of Environmental Psychology,
+16, 205^220.
+Weidemann, S. & Anderson, J. R. (1985). A conceptual fra-
+mework for residential satisfaction. In I. Altman & C.
+M. Werner, (Eds), Home Environments: Human Beha-
+vior and Environment, Vol. 8. New York: Plenum Press,
+pp. 153^212.
+Werner, C. M. (1987). Home interiors: A time and place for
+interpersonal relationships. Environment and Beha-
+vior, 19, 169^179.
+Werner, C. M., Altman, I. & Oxley, D. (1985). Temporal
+aspects of homes: A transactional perspective. In
+I. Altman & C. M. Werner, (Eds), Home Environments:
+Human Behavior and Environment, Vol. 8. New York:
+Plenum Press, pp. 1^32.
+Appendix 1
+Items of the Residential Satisfaction Scale (RSS) from
+item 1 to item 126, grouped according to the 4 general
+and 11 speci¢c generative content-areas (within each spe-
+ci¢c generative content-area, items are grouped according
+to the factors resulted from each principal component
+analysis; from Bonnes et al., 1997).
+Architectonic and town-planning features
+1. Architectural and town-planning space
+1.1. Buildings' aesthetic pleasantness (BUILPLEA)
+4.
+The styles of the di¡erent buildings are harmonious.
+12.
+It is a pleasant neighbourhood because of the colour
+of the buildings.
+13.
+The buildings in the neighbourhood are well-built
+with regard to form and details.
+14.
+It is a beautiful neighbourhood to see with beautiful
+buildings.
+15.
+It
+is
+a
+neighbourhood
+developed
+without
+any
+architectural plan.
+38.
+In this neighbourhood the open spaces and built
+areas are well-balanced.
+1.2.. Building aesthetic contrast (BUILCONT)
+2.
+There is a great di¡erence in the neighbourhood
+between old and new buildings.
+3.
+In the neighbourhood there is a contrast between
+very high-class buildings and horrible buildings.
+36.
+When I look out of the window I feel oppressed by
+the buildings nearby.
+1.3. Building excessive and repetitive volume (BUILVOL)
+1.
+In this neighbourhood there are only buildings that
+are all the same.
+8.
+In the neighbourhood there are residential buildings
+that seem like barracks.
+18.
+In this neighbourhood the blocks are smaller than
+they are elsewhere.
+19.
+In this neighbourhood the buildings are often too
+high.
+20.
+It is an oppressive neighbourhood because of the size
+of the buildings.
+Items with factor loadings 5045
+5.
+In the neighbourhood there are buildings which are
+too lower class.
+6.
+It is a neighbourhood without architectural and
+artistic merits.
+16.
+The buildings in this neighbourhood are generally
+comfortable and functional.
+17.
+The apartments in the neighbourhood often have
+walls that are too thin.
+37.
+There is too much cement in this neighbourhood.
+2. Organizations of accessibility and roads
+2.1. Internal practicability (INTPRAC)
+25.
+The streets in this neighbourhood are wide enough.
+26.
+The
+streets
+in
+this
+neighbourhood
+permit
+easy
+movement.
+30.
+This
+neighbourhood
+is
+well-suited
+even
+for
+handicapped people.
+31.
+The parked cars impede walking.
+33.
+In this neighbourhood parking places and parking
+lots are almost totally lacking.
+34.
+There is good availability of parking spaces in the
+neighbourhood.
+2.2. External connections (EXTCON)
+21.
+The
+centre
+can
+be
+reached
+easily
+from
+this
+neighbourhood.
+23.
+This neighbourhood is too cut o¡ from the rest of the
+city.
+24.
+This neighbourhood is well connected with impor-
+tant parts of the city.
+Items with factor loadings 5045
+22.
+It is easy to go out of the city from this neigh-
+bourhood.
+27.
+In this neighbourhood one is often forced to go
+around in circles even to reach places nearby.
+28.
+The
+presence
+of
+a
+high
+speed
+road
+in
+the
+neighbourhood reduces livability.
+29.
+The sidewalks in the neighbourhood are often too
+narrow.
+85.
+Unfortunately, in the neighbourhood people move
+more in cars than on foot.
+Perceived Residential Environment Quality and Neighbourhood Attachment
+349
+3. Green
+3.1. Lack
+of
+green
+areas
+(both
+presence
+and
+care)
+(LACKGREE)
+40.
+There should be more green areas in the neigh-
+bourhood.
+41.
+To go to a park it is necessary to go to other areas of
+the city.
+42.
+By increasing the number of homes, green areas have
+almost completely disappeared.
+43.
+In the neighbourhood there are green spaces for
+walking and relaxing.
+44.
+In the neighbourhood there is garden/park where
+people can meet.
+45.
+There are few trees in the neighbourhood.
+47.
+There would be green areas but for the most part
+they are unusable or closed to the public.
+48.
+The green spaces in the neighbourhood cannot be
+frequented because they are poorly kept.
+49.
+The green areas in the neighbourhood are in good
+condition.
+50.
+The usable green areas in the neighbourhood are
+only the private ones because the public ones are
+too poorly kept.
+Items with factor loadings 5045
+39.
+Construction continues in this neighbourhood and
+the little existing green is destined to disappear.
+Social relations features
+4. People and social relations
+4.1. Threatening people (THREPEOP)
+7.
+It is a rather high-class neighbourhood.
+51.
+The green areas of the neighbourhood are dangerous
+because of those who frequent them.
+60.
+In comparison with other areas this neighbourhood
+is not too crowded.
+61.
+This neighbourhood is too crowded.
+64.
+There are too many working class inhabitants in the
+neighbourhood.
+68.
+There are people in the neighbourhood who deal, rob,
+and take drugs.
+70.
+The people in this neighbourhood have a look of
+serenity and well-being.
+71.
+Going around the neighbourhood in the late evening
+there is often the risk of bad encounters.
+4.2. Presence of social relationships (SOCRELA)
+73.
+The people in this neighbourhood are generally very
+cordial.
+74.
+The people in this neighbourhood are generally not
+very sociable.
+75.
+Neighbours are often acquainted in this area.
+76.
+There are only very formal relationships between
+inhabitants of this neighbourhood.
+77.
+Above all the people in the neighbourhood think
+about themselves and have little interest in others.
+4.3. Intrusiveness/intolerance (INTRINTO)
+79.
+There are intolerant people in the neighbourhood.
+80.
+The people are generally civil and discreet.
+81.
+Here one often has the impression that others are
+watching him.
+Items with factor loadings 5045
+62.
+The population of this neighbourhood is a mixture of
+all kinds of people.
+63.
+The neighbourhood has the advantage of having
+inhabitants homogeneous for social class.
+65.
+There
+are
+too
+many
+gypsies
+and
+third
+world
+foreigners in the neighbourhood.
+66.
+Too often this neighbourhood is invaded by non-
+residents (for work, shopping, tourism, etc.).
+67.
+There are too many elderly in the neighbourhood.
+69.
+There are too many disoriented young people in the
+neighbourhood.
+Punctual and non punctual (in-network) services
+5. Punctual social-health-assistance services
+5.1. Adequacy of social and health services (ADEQSOC)
+99.
+There is a hospital that can be easily reached from
+the neighbourhood.
+100. The local health o¤ce in this area o¡ers better
+services compared with others.
+101. The neighbourhood is well-equipped for medical
+tests and outpatient services.
+107. The municipal o¤ces in the area respond adequately
+to the needs of the neighbourhood.
+111. Services for assisting the elderly are lacking in the
+neighbourhood.
+112. The neighbourhood is well-furnished with social
+services.
+121. The neighbourhood has a centre for the elderly that
+functions well.
+5.2. Inadequacy of educational services (INADEDUC)
+90.
+Schools and nurseries in the neighbourhood are
+often held in unsuitable places.
+91.
+The neighbourhood is well-equipped for scholastic
+services.
+92.
+Often
+children
+and
+young
+people
+of
+the
+neighbourhood are forced to live in the area for
+school.
+93.
+The neighbourhood schools are generally good.
+6. Punctual cultural-recreational services
+6.1. Inadequacy of sport services (INADSPOR)
+123. This neighbourhood is well-equipped with sports
+grounds (sports ¢elds, gymnasium, swimming pools).
+124. If
+you
+like
+bicycle
+riding
+or
+jogging,
+the
+neighbourhood is not very suitable.
+125. There are areas in the neighbourhood where it is
+possible to do sport activities outside.
+126. Sports grounds are few and only at high price.
+350
+M. Bonaiuto et al.
+6.2. Inadequacy of cultural activities and meeting-places
+(INADCULT)
+113. The already functioning cultural centres satisfy the
+needs of this neighbourhood.
+115. There are really very few cultural initiatives in this
+neighbourhood.
+116.
+The
+neighbourhood
+should
+have
+more
+movie
+theatres.
+117.
+The existence of a meeting place would get many of
+the young people of the neighbourhood o¡ the
+streets.
+120.
+The lack of a meeting place does not allow young
+people
+to
+spend
+their
+free
+time
+in
+the
+neighbourhood.
+Items with factor loadings 5045
+114.
+If you want a book you must go and look for it in
+book stores or libraries in other areas.
+118.
+You can always ¢nd a place to spend free time in
+this neighbourhood.
+119.
+Only some bars are open in the evening in this
+neighbourhood.
+122.
+There are many parish social activities in the
+neighbourhood.
+7. Punctual commercial services
+7.1. Commercial assortment (COMASS)
+102.
+This is a very commercial area, well-furnished with
+stores.
+103.
+Special things are lacking in the stores in this
+neighbourhood.
+105.
+There are all kinds of stores in the neighbourhood,
+which permit ¢nding anything in the area.
+106.
+The neighbourhood has a convenient local market.
+Items with factor loadings 5045
+104.
+The stores in the neighbourhood are also meeting
+places for the inhabitants.
+8. Non-punctual (in-network) services: transportation
+8.1. Inadequacy of public transport services (INADTRAN)
+94.
+There is not enough choice of public transportation
+in the neighbourhood.
+96.
+The existing public transportation guarantees good
+connections with other parts of the city.
+97.
+The existing bus service should be more frequent.
+98.
+The buses in the area are often too inconvenient.
+Items with factor loadings 5045
+95.
+The buses in this neighbourhood are almost always
+overcrowded.
+Context features
+9. Lifestyle
+9.1. Lack of opportunities (LAKOPPO)
+86.
+This neighbourhood is only a dormitory.
+87.
+Very few things can be done in this neighbourhood.
+88.
+Young people tend to £ee from this neighbourhood.
+89.
+It is a neighbourhood with many points of interest.
+9.2. Quiet (QUIET)
+82.
+Compared
+with
+the
+chaos
+in
+the
+centre
+this
+neighbourhood is still livable.
+83.
+This is a neighbourhood with too much activity.
+84.
+There
+is
+a
+peaceful
+rhythm
+of
+life
+in
+the
+neighbourhood.
+10. Pollution
+10.1. Pollution (POLLUTION)
+52.
+The air in the neighbourhood is not clean and
+breathable.
+53.
+The exteriors of the buildings show signs of air
+pollution.
+54.
+The air in the neighbourhood is often unbreathable.
+55.
+It is a silent and peaceful neighbourhood.
+56.
+There is really too much noise in the neighbourhood.
+57.
+The intensity of the tra¤c in this neighbourhood is
+really annoying.
+11. Maintenance/care
+11.1. Lack of macro-upkeep in public services or spaces
+(LACKCARE)
+32.
+The streets are not adequately kept.
+35.
+There are too many abandoned areas in the neigh-
+bourhood.
+59.
+Too often there is trash around.
+108. This neighbourhood is well-equipped for recycling
+and di¡erentiated trash pick-up.
+109. The trash collection service is e¤cient.
+110. Street lighting is often insu¤cient.
+11.2. Presence of micro-upkeep in private spaces or activities
+(PRESCARE)
+9.
+Many buildings in the neighbourhood are in poor
+condition.
+10.
+There is
+good upkeep
+of
+the buildings
+in the
+neighbourhood.
+11.
+This neighbourhood is rich with terraces and well-
+kept gardens.
+72.
+There are too many signs of vandalism on the streets
+of the neighbourhood.
+78.
+People show interest and care for the neighbour-
+hood.
+Items with factor loadings 5045
+58.
+The streets and sidewalks of the neighbourhood are
+clean enough.
+Appendix 2
+Items of the Neighbourhood Attachment Scale (NAS),
+from
+item
+127
+to
+item
+132
+(from
+Bonnes
+et
+al.,
+1997).
+Perceived Residential Environment Quality and Neighbourhood Attachment
+351
+Attachment area
+127. This is the ideal neighbourhood to live in.
+128. Now this neighbourhood is a part of me.
+129. There are places in the neighbourhood to which I am
+very emotionally attached.
+130.
+It
+would
+be
+very
+hard
+for
+me
+to
+leave
+this
+neighbourhood.
+131.
+I would willingly leave this neighbourhood.
+132.
+I would not willingly leave this neighbourhood for
+another.
+352
+M. Bonaiuto et al.
+View publication stats

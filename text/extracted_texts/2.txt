@@ -1,0 +1,873 @@
+Psychology. Journal of the Higher School of Economics. 
+2019. Vol. 16. N 1. P. 67–84. DOI: 10.17323/1813-8918-2019-1-67-84
+HOW THE HOME MATCHES THE PERSON: 
+THE RELEVANCE OF THE HOME ENVIRONMENT
+QUESTIONNAIRE
+S.I. REZNICHENKOa, S.K. NARTOVA-BOCHAVERb, E.I. BRAGINETSb
+Introduction
+Seeking ecological and healthy ways to stimulate one’s well-being and growth
+is one of the most important trends in today’s psychology (Moser, 2009; Horelli &
+Prezza, 2004). Ironically, the home as the very basic “” has not attracted until
+now much research focus. Home is the primary, basic and relatively constant space
+in human life that meets a person’s basic needs, stimulates development and also
+carries a psychotherapeutic function. Even when a person has no home, the home’s
+image itself appears to be the source of a person’s support (Bochaver, 2015; Dovey,
+1985; Case, 1996; Nartova-Bochaver, Bochaver, Dmitrieva, & Reznichenko, 2016;
+Abstract
+In a questionnaire study with N = 1730 participants aged from 11 to 72 years (M = 20.4, Me = 19,
+SD = 6.96), 60% female, we developed the Relevance of the Home Environment Questionnaire
+(RHEQ) aimed at measuring parameters of the home environment as the inhabitants’ eco-social
+resource. Results from exploratory and confirmatory factor analyses showed that the seven-fac-
+tor structure of the questionnaire was uniquely formulated. The scales were titled as follows:
+Privacy, Potential, Self-presentation, Ergonomics, Home detachment, Plasticity, and Historicity.
+Consistency coefficients (Cronbach’s alpha) of scales ranged from .91 to .94. Age trends in four
+out of seven scales were found. Potential scores were higher in women, while Home detach-
+ment — in men. Content validity was investigated by comparison of home relevance scores in
+students living in their own homes or dormitories. Convergent validity was explored by measur-
+ing correlations of the scales with the Functionality of the Home Environment Questionnaire
+and the Home Attachment Scale. All psychometric properties are satisfactory. Data was dis-
+cussed with regard to possible applications in research, expertise, and psychotherapy. 
+Keywords: home environment, person-environment fit, validation, relevance, affordance, func -
+tionality, home attachment.
+a Moscow State University of Psychology and Education, 29 Sretenka Str., Moscow, 127051, Russian
+Federation
+b National Research University Higher School of Economics, 20 Myasnitskaya Str., Moscow, 101000,
+Russian Federation
+This research was supported by the Russian Science Foundation (Project 14-18-02163).
+68
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+Nartova-Bochaver, Reznichenko, Braginetc, & Podlipnyak, 2015). At the same
+time, research on relationships between home and its inhabitants has been ham-
+pered by the lack of a valid measure. Methodological tools in environmental psy-
+chology primarily allow us to estimate only the physical attributes of a dwelling
+(location, footage, furnishings) but rarely take into account the individual needs of
+each inhabitant (Boumeester, 2011; Bradley, Caldwell, & Elardo, 1979; Heft, 1979,
+1985; Jansen, Coolen, & Goetgeluk, 2011). Furthermore, usually there are either
+interviews or projective techniques that are used as research methods, therefore
+the results may not be unambiguous and often need additional verification (Skifter
+Andersen, 2011), except some initial inventories developed for children’s home
+environments decades ago (e.g., Bradley et al., 1979; Heft, 1979, 1985). There exist
+only few for assessing the psychological resources of environment for adult individ-
+uals, and there are no such tools in Russia at all. This is due to the multidimension-
+ality of the concept of home and, therefore, different points of the analysis of rela-
+tionships between home and its inhabitants.
+Researchers and theorists have presented a variety of definitions for the concept
+of home. P. Somerville (1992) argued that home has at least six dimensions of
+meaning identified by the ‘key signifiers’ of shelter, hearth, heart, privacy, roots and
+abode. After G. Hayward (1975), home can be considered as a physical structure, a
+territory, a locus in space, self and self-identity, a social and cultural unit. A.
+Rapoport (1995) referred to three semiotic units of living environment: 1) home as
+a building with its spatial characteristics, architecture and design; 2) home as a
+dwelling (functional space) where a person performs various daily activities; 3)
+home as a place with intrapersonal meanings (meanings). In similar way, H. Coolen
+and J. Meesters (2012) suggest sharing the concepts of house, dwelling and home.
+‘House’ is commonly used in housing research and describes the physical objective
+structures we live in. A dwelling is defined as a system of settings that affords dif-
+ferent functions and activities (eating, relaxing, entertaining, etc.). While the con-
+cept of home connotes with positive feelings and affective bonds based on the tem-
+poral (e.g. home as the place where one was born) and social (e.g. home as a “family
+nest”) individual experience and meanings we attach to the living space. 
+We understand home as integrity of physical, social, and existential properties of
+a specific place satisfying inhabitants’ needs (for security, comfort, identity, etc.). In
+the normative case, home is present through the course of the life of a person, is bio-
+graphically connected with his/her history and therefore reflects individuality,
+expresses identity and stimulates personal authenticity. Following the Lens model of
+Brunswik (1956), Gibson’s theory of affordances (1986), Person-Environment Fit
+theory (Edwards, Caplan, & Harrison, 1998; Kahana, Lovegreen, Kahana, & Kahana,
+2003), the concept of environmental friendliness (Chemero, 2003; Coolen, 2011;
+Coolen & Hoekstra, 2001; Greeno, 1994; Horelli, 2007; Horelli & Prezza, 2004;
+Kyttä, 2004) and the subject-environmental approach (Nartova-Bochaver, 2008), we
+believe that the interaction between a person and their home occurs on several levels. 
+The non-psychological level defines a place as a house, but not as a home. This
+level is set by the quality of housing, – for example, its location, type, size or num-
+ber of inhabitants sharing the same living space.
+The Relevance of the Home Environment Questionnaire
+69
+The objective level is set by the physical qualities of home as a living environ-
+ment represented in the degree of functionality of the home environment — various
+functions and activities that home performs for its inhabitants (i.e. meeting the
+needs for privacy, development, health management, commu nica tion with family
+members, etc.). Initially the functions of home environment can’t be maladaptive
+(Gosling, Ko, Mannarelli, & Morris, 2002). The more functions a home can per-
+form, the higher number of people it can potentially fit, but the presence of a large
+number of different functions does not necessarily make it an “ideal home”, because
+some functions are unconscious due to their irrelevance for a particular person (for
+example, a playground near the house won’t be a significant attribute of the home
+environment for families without children). 
+The intermediate level, or the relevance of home environment, is a degree to
+which the inhabitant’s needs and environmental characteristics match. This level
+includes a system of affordances — dispositional properties of environments and
+functionally meaningful ‘relations between abilities to perceive and act and fea-
+tures of the environment’ (Chemero, 2009, p. 150). The process of perceiving affor-
+dances is not the same for all people sharing the same space as others’ bodily fea-
+tures and values differ from ours. According to the theory of environmental friend-
+liness the more affordances the environment includes, the friendlier it is to its
+inhabitant (Chemero, 2003; Coolen, 2011; Kyttä, 2004). As H. Coolen (2011)
+wrote, “Individuals selectively engage particular objects in their surroundings;
+individuals typically make choices from among the range of potential features in a
+setting to support some activity. However, individuals do not have unconstrained
+choice. <…> So there is self-selection of affordances but often within constraints”
+(p. 5). 
+Finally, the deepest level of psychological analysis shows the people-home rela-
+tionship is subjective. The subjective level reflects a system of personal experiences
+and meanings, positive feelings and attitudes towards a home that are integrated
+into a sense of home attachment de ned as a complex of positive experiences and
+feelings toward home as a personally relevant place in functional, emotional and
+symbolic meanings. We assume that home attachment is a kind of place attachment
+and has a similar structure, manifestations and development mechanisms
+(Jorgensen & Stedman, 2006; Lewicka, 2011; Reznichenko, 2014; Scannell & Gifford,
+2017). Home attachment positively affects the psychological health, well-being and
+authenticity (Manzo, 2003; Reznichenko, 2016). 
+We previously developed a set of tools that only allowed the study of two levels
+of person-home interaction: The Functionality of the Home Environment
+Questionnaire (FHEQ) was designed to assess the objective level and measure var-
+ious functions presented in the home environment so that an objective level is pos-
+sible in relation to the home (Nartova-Bochaver, Dmitrieva, Reznichenko, Kuznetsova,
+& Braginets, 2015); the second one, Home Attachment Scale (HAS), allows the explo-
+ration of the subjective level of analysis and measures the person-to-home
+emotional bonds (Reznichenko, Nartova-Bochaver, & Kuznetsova, 2016). In this
+article, our aim was to describe a technique that allows measuring how much the
+inhabitants feel their home suits them, reflects their individuality and meets their
+70
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+basic needs; a subjectively perceived preference of what we call a relevant home. In
+other words, we would investigate the “compatibility” between people and their
+home that represents the intermediate level (subject-environmental) of person-
+home relationship.
+As Heft (2012) rightly noted, to proceed in making an assessment of the psy-
+chological resources, several steps are required: “(1) particular possibilities need to
+be proposed for what may serve as an eco-psychological resource (e.g., a particular
+type of affordance); (2) a means of assessing the availability of these resources in
+some local needs to be developed; and crucially, (3) linkages between availability
+of these resources and positive outcomes must be established” (Ibid., p. 26). And
+we can say, in the current study, these steps towards development of the multi-fac-
+torial questionnaire have been taken into consideration. 
+Participants and Procedure
+Sample. In total, 1730 respondents aged from 11 to 72 (Mage = 20.4; Meage = 19.0,
+SDage = 6.96, 62,2 % female) participated in our surveys. Most respondents were
+recruited from Moscow universities. Adult respondents were recruited mainly
+from students’ families using the technique that became known as “snow ball”.
+Participation in the survey was absolutely voluntary, students were granted an aca-
+demic credit as compensation. The program of the survey was approved by the
+Ethical Committee of the National Research University Higher School of
+Economics. The survey was realized using the “patchwork” design: not all respon-
+dents participated in all studies but most of them did. Sample 1 (preliminary study,
+development of the item pool) included 186 participants, Muscovites, (Mage = 23.9,
+SDage = 4.9, 55.9 % female). Sample 2 (exploratory analysis, reducing the number of
+questionnaire items) consisted of 431 participants from Moscow and other regions,
+students from different faculties (Mage = 20.5, SDage = 10.1, 72.2% female). Sample 3
+(factor analysis, internal consistency) comprised of 1051 participants from
+Moscow and other regions, students from different faculties (Mage = 20.5, SDage =
+10.1, 72.2% female). Sample 4 (external validity: age trend and gender differences)
+included 332 respondents (Mage = 26.8; SDage=13.2; 54.8% female) divided into four
+age groups (82 adolescents 12–17; 76 young adults aged 18–24; 87 adults aged 25–
+45, and 87 late adults aged 46–72. Sample 5 (content validity) included 434
+respondents. 227 of them were Muscovites living with their parents mostly, all sin-
+gle (Mage = 22.1, SDage = 0.92; 71.6% female). Other 207 came to Moscow from dif-
+ferent regions of Russia and lived in dormitories where they had to share their
+rooms with 2–3 other students (Mage = 21.7, SDage = 0.65; 78.7% female). Sample 6
+(construct validity) consisted of 719 individuals aged from 18 to 40 (Mage = 21.92,
+SDage = 6.90; 71.2% female), who were students and graduates from Moscow univer-
+sities. 
+We used web-based data collection. The respondents were required to fill out
+questionnaires incorporating a forced-choice question format. There was no time
+limit to complete the questionnaires.
+The Relevance of the Home Environment Questionnaire
+71
+Measures. The Functionality of the Home Environment Questionnaire
+(FHEQ) and The Home Attachment Scale (HAS) were used to measure the con-
+vergent validity of the new instrument.
+FHEQ was aimed to assess the functions provided by the home to its dwellers
+(Nartova-Bochaver et al., 2015). The questionnaire consists of 55 statements and
+four subscales (Pragmatism, Development, Stability, and Protection). Examples of
+FHEQ items are as follows: “My home … 1) demonstrates the dwellers’ wealth,
+2) is accessible (geographically and financially), 3) is spacious 4) gives an opportu-
+nity to care for myself, etc. In the current study, Cronbach’s alphas were from 0.82
+to 0.93 for all subscales.
+The Home Attachment Scale (HAS) indicates the level of a person’s positive
+emotional connectedness to his/her home (Reznichenko et al., 2016). It includes
+14 statements and only one scale. Examples of the items are as follows: “I identify
+myself strongly with my home”, “My home says a lot about who I am”, “I am willing
+to put my heart and soul into my home”. In this study, alpha was 0.89. 
+Results
+Development of the Item Pool
+To collect a prior pool of statements, firstly we analyzed the sources in the fields
+of social, environmental, recreational psychology and social anthropology to iden-
+tify the person’s needs satisfied by their home (Boumeester, 2011; Coolen, 2011;
+Depres, 1991; Ingold, 2002). Then, during the empirical research, the list of con-
+structs identified theoretically was enlarged (Sample 1). Participants (Sample 1)
+were invited to take part in a ladder interview on the topic of the desired image of
+a home. Also, respondents were asked to evaluate interiors of rooms and dwellings
+using the minimum context method by Kelly and to name the meaningful home
+qualities (Kelly, 1991). Finally, we used a number of creative tasks such as incom-
+plete sentence test and essay exercises. 
+As a result, this study has identified 54 characteristics of home environment
+that meet multilevel needs of inhabitants (for rest, for safety, for family interaction,
+for home space changeability, for ergonomics and aesthetics, for self-presentation
+and self-development, etc.). Two statements were formulated for each construct
+(total 108 statements); the questionnaire items’ wording had to reflect the personal
+opinion of the respondent on the possibilities of his own home. The ratio of inverse
+and direct statement formulations were 1:7. The degree of agreement/disagree-
+ment with the statements was evaluated on a five-point Likert scale. To ensure the
+respondents understood the instruction and to correct controversial statements, a
+focused interview was conducted. The primary version of the questionnaire was
+offered to the group of respondents (Sample 1) for feedback on the content, struc-
+ture and clarity of the statement wordings for convenience of filling out the ques-
+tionnaire. 
+Next, we conducted an Exploratory Factor Analysis (EFA) to determine the pre-
+liminary structure of the questionnaire and narrow down to the number of variables
+72
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+(Sample 2). The method of Principal Components Analysis (PCA) with Varimax
+rotation was used to calculate factors. The criterion of Kaiser’s eigenvalues (k > 1)
+showed only one optimal model consisting of seven factors. Since sometimes this
+criterion shows an inadequately large number of factors, an additional Scree-plot
+test was performed that confirmed the seven-factor structure. The EFA allowed us
+to reduce all the items with low factor loadings and to reduce the questionnaire
+length from 108 statements to 35 items (5 items per scale). 
+Dimensional Structure of the RHEQ
+The reduced version of the questionnaire was reanalyzed with EFA using the
+Varimax rotation of factors. As previously the seven-factor solution was revealed
+(the questionnaire structure with factor loadings is presented in Figure 1). We used
+the final statement list in our further work on this questionnaire (Appendix A). 
+The performance of the model was evaluated (Sample 3) by examining the
+ensemble of “goodness-of-fit” statistics, such as the Root Mean Squared Error of
+Figure 1
+Factor Loadings of the Seven-Factor Solution of RHEQ
+The Relevance of the Home Environment Questionnaire
+73
+Approximation (RMSEA), Standardized Root Mean Square Residual (SRMR),
+the Comparative Fit Index (CFI) and Tucker Lewis Index (TLI). According to
+conventional agreements, all the indices except chi-squared test indicate a good fit
+of model (CFI > 0.9, TLI > 0.9, SRMR < 0.5) (Hooper, Coughlan, & Mullen,
+2008). The insufficient level of chi-squared significance can be explained by a large
+sample (> 200), so the Chi-Square statistic nearly always rejects the model in this
+case (Bentler & Bonnet, 1980). Table 1 shows the results of confirmatory factor
+analysis.
+The titles of the scales were as follows. (1) Self-presentation is associated with
+the inhabitants’ possibility to personalize their own space and to signify the indi-
+vidual and social characteristics of the dwellers through the home environment.
+(2) Ergonomics describes home environment convenience and aesthetics. (3) Po -
+ten tial includes constructs associated with home support and stability. (4) Privacy
+is associated with the capability to control and predict a home environment con-
+text. (5) Home Detachment is concerned with reasons of home estrangement, loss
+of home attachment and sense of belonging. This scale includes statements related
+to discomfort, inconvenience, low functionality of a living space, and lack of desire
+to come back home. We have not reversed this scale (i.e. haven’t measured ‘home
+detachment’ in a positive direction) to prevent confusion with the concept of
+Home Attachment. (6) Plasticity determines the capability of the home environ-
+ment to be dynamic in accordance with the changing resident’s needs.
+(7) Historicity reflects the links of a home with the personal, family, and general past. 
+The average score is calculated for each subscale. Evaluation of the overall level
+of home environment relevance is performed by summing up the average values of
+seven scales, except for the Home Detachment scale, the rate of which is subtracted
+from the total.
+Descriptive Statistics and Internal Consistency
+Table 2 shows the descriptive statistics and unexpectedly high coefficients of
+internal consistency (taking into account the small number of items in each scale)
+ranging from .91 to .94. Thus, we have obtained initial norms; all Cronbach’s alpha
+values are satisfactory confirming the test to be highly reliable. 
+The most considerable variability is revealed in Historicity and Self-presentation
+scores, this potentially indicates that the intensity of these needs depends more on
+latent variables, for example, the respondent’s gender or age. Privacy scale has the
+lowest variability of scores — probably this need is the most universal and signifi-
+cant for the whole population.
+Model
+2 (p-value)
+df
+RMSEA
+SRMR
+CFI
+TLI
+Seven factors
+4248.2 (0.00)
+539
+.06
+.03
+.94
+.94
+Table 1
+Goodness-of-Fit Statistics of the Seven-Factor Model of RHEQ (N = 1051)
+74
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+External Validity
+External validity of the questionnaire was evaluated via ANOVA and post hoc
+analysis of the variances in different ages and gender populations (Sample 4).
+Age trends. Although there were not significant differences between age groups
+(F3; 329 = 0.632; p = .590) regarding general index of RHEQ, they were found in four
+of the seven scales in the questionnaire, namely: Potential (F3; 329 = 5.955; p = .001),
+Ergonomics (F3; 329 = 4.792; p = .003), Plasticity (F3; 329 = 9.423; p = .000), and
+Historicity (F3; 329 = 5.637; p = .001) (Figure 2). The Games-Howell post hoc test
+allowed obtaining the following results. In late adulthood Potential of the home
+scale index is significantly higher than in adults (p  .050), young adults (p  .002),
+and especially in adolescents (p  .000). Ergonomics indices are significantly higher
+in adolescents than in young adults (p  .047) and in adults (p  .002). Plasticity
+is equally less significant in adolescents and young adults, than in adults (p = 0.001
+and p = .006, respectively) and in late adults (p = .000 and p = .002, respectively):
+flexible home is more important in adulthood than in youth. Finally, adolescents
+and young people had higher scores (p = .004 in both groups) on the Historicity
+scale than the adults. 
+Gender differences. Analysis of gender differences showed that Home
+Detachment (F1; 331 = 5.804; p  .017) is higher in the male group, while Potential
+scores (F1; 331 = 4.114; p  .023) are higher in women. 
+Content Validity
+In order to test whether RHEQ adequately reflects real significance (relevance) of
+the home affordances for its inhabitant, we compared the data of students who lived
+in parental homes or their own apartments, and those who resided in dormitories. 
+Comparing RHEQ indices of students with different living conditions (using
+ANOVA), we found that those who lived in their own homes have a higher overall
+RHEQ rate (F1; 433 = 85.681; p   .000) than others as well as rates of all the ‘positive’
+scales: Privacy (F1; 433 = 34.641; p  .000), Self-presentation (F1; 433 = 27.451; p  .000),
+Table 2
+Descriptive Statistics of the RHEQ Scales (N=1051)
+Scales
+M
+SD
+Me
+Min
+Max
+SE
+Cronbach’s alpha
+Self-presentation
+3.36
+0.90
+3.40
+1
+5
+0.02
+.94
+Ergonomics
+3.45
+0.85
+3.40
+1
+5
+0.02
+.93
+Potential
+3.80
+0.86
+4.00
+1
+5
+0.02
+.92
+Privacy
+3.92
+0.73
+4.00
+1
+5
+0.02
+.91
+Home detachment
+2.35
+0.85
+2.20
+1
+5
+0.02
+.94
+Plasticity
+3.09
+0.88
+3.20
+1
+5
+0.02
+.94
+Historicity
+3.07
+1.10
+3.00
+1
+5
+0.03
+.94
+The Relevance of the Home Environment Questionnaire
+75
+Ergonomics (F1; 433 = 38.378; p  .000), Plasticity (F1;433 = 34.752; p  .000); high intergroup
+differences were especially observed in Potential (F1; 433 = 74.440; p .000) and Historicity
+(F1; 433 = 64.943; p  .000) scores. At the same time, Home Detachment indices are lower
+in this group of respondents (F1; 433 = 6.272; p  .013). This data is presented in Figure 3.
+Construct Validity
+The construct validity of the questionnaire was evaluated by examining its cor-
+relation to the closest in terms of content empirical constructs – Functionality of
+Figure 2
+Age Differences in Mean Scores of the RHEQ scales (N = 332)
+* p  0.01, ** p  0.001.
+Figure 3
+The Differences of Mean Scores (p  0.001) of the RHEQ Scales in Students Living 
+in Their Own Flats, and Dormitories (N = 434)
+76
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+the Home Environment (is measured by the FHEQ) and Home Attachment
+(HAS) were used. As shown in Table 3, all the scales of RHEQ, except the Home
+Detachment scale, have a significant positive relationship (p  .000) with the
+scales of the FHEQ and Home Attachment scale, while Home Detachment has sig-
+nificant negative relations (p  .000). The strongest correlations are found
+between Potential, Ergonomics, Self-presentation and the FHEQ and Home
+Attachment scales. A weak negative correlation was received only between the
+Home Detachment and Protection scales.
+Discussion
+Based on the Theories of Affordances (Gibson, 1986) and Person-Environment
+Fit (Coolen & Hoekstra, 2001; Horelli, 2007; Kyttä, 2004) as well as on multidis-
+ciplinary works devoted to wholesome impacts of the home environment on indi-
+viduals’ well-being (Casakin & Bernard, 2012; Heft, 2012; Ingold, 2002) the
+Relevance of the Home Environment Questionnaire was developed. The aim of
+this instrument is to measure the extent to which the affordability of home is able
+to meet the various needs of the dwellers (relevant to dwellers). 
+While creating the initial statements pool, we assumed the understanding of the
+home both as the archetypal phenomenon and as a private living space at the same
+time. That is why in the very beginning we selected from multidisciplinary sources
+those well-known functions that home had in different times and cultures. Then,
+through a series of empirical studies, this list was enlarged by functions, which are
+performed in homes of modern Russians in their everyday lives. Since there is a
+high diversity in living conditions in Russia, and traditional Russian families are
+RHEQ Scales
+FHEQ Scales
+FHE
+Pragmatism
+Development
+Stability Protection
+HAS
+RHE
+.78*
+.76*
+.72*
+.71*
+.60*
+.64*
+Privacy
+.69*
+.71*
+.60*
+.67*
+.49*
+.59*
+Potential
+.58*
+.58*
+.51*
+.55*
+.40*
+.67*
+Self-presentation
+.63*
+.54*
+.54*
+.54*
+.63*
+.55*
+Ergonomics
+.68*
+.64*
+.60*
+.64*
+.54*
+.53*
+Home detachment
+ .38*
+ .44*
+ .30*
+ .38*
+ .24*
+ .31*
+Plasticity
+.55*
+.54*
+.50*
+.49*
+.44*
+.46*
+Historicity
+.46*
+.37*
+.58*
+.35*
+.32*
+.42*
+* p  0.01.
+Table 3
+Correlations between the Relevance of the Home Environment Questionnaire (RHEQ) Scales,
+the Functionality of the Home Environment Questionnaire (FHEQ) scales, and the Home
+Attachment scale (HAS) (N = 719)
+The Relevance of the Home Environment Questionnaire
+77
+multigenerational, these constructs reflect the experiences associated with living
+in different dwellings such as separate rural houses, buildings with a few apart-
+ments or apartment blocks. This has contributed to the representation of the test
+statements and the expansion of the target audience within its users (e.g.
+researchers, practitioners).
+Due to exploratory and confirmatory factor analyses seven scales were identi-
+fied: Privacy, Potential, Self-presentation, Ergonomics, Home Detachment, Plasticity,
+and Historicity scales. The new tool seems to have good psychometric properties:
+Cronbach’s alphas are ranged between .91 and .94. Investigation into age trends
+showed that the RHEQ scores environment features formed specific patterns (pro-
+files) in every one of the investigated ages. Thus, the Potential and Plasticity scales
+have highest meanings in late adults, in full accordance with life styles of elderly
+people who usually spend a lot of time at home and get support and stability from
+their homes mainly, but not from jobs. Similar trends are shown in M. Lawton and
+L. Nahemow’s (1973) ecological model of aging (Competence-Press Model theory)
+that conceptualizes the individual as having a set of competences, and the environ-
+ment as a ‘press’ or having the characteristic of making demands upon the individ-
+ual. As the levels of competence gradually decrease with age (due to age health
+problems, tendency to social and physical inactivity, decreased functioning of
+the nervous system, etc.), adaptation to living conditions requires a flexible, adapt-
+able, and stable living environment.
+At the same time, Historicity scores are higher in adolescents and youth because
+as the proportion of life experience just in their current houses is higher in these
+age groups, than it is for the older group. Finally, Ergonomics of the home environ-
+ment is more relevant for teenagers than for older people. This may be due to the
+fact that the home for a teenager is not only a place of relaxation and recovery, but
+also a place for doing homework and networking with classmates that requires
+comfortable user-friendly conditions (Jonkmann, Thoemmes, Lüdtke, & Traut -
+wein, 2014). The Privacy, Self-presentation and Home Detachment (in terms of
+opposing positive connotations – the overall satisfaction with the living environ-
+ment) scales have no differences that are age dependent, probably emphasizing the
+universal nature of these needs.
+We have also found gender differences: Home Detachment scores are higher in
+men while Potential scores are higher in women. Whereas women are mostly the
+ones who engage in housekeeping and more often than men work from home, they
+need affordable, stable and supportive living environments at home to facilitate dif-
+ferent home activities. At the same time, men do not cope with domestic problems
+as easily as women do (Graham & Graham, 1989).  
+Calculation of the RHEQ scores in the samples of respondents living in differ-
+ent conditions (homes and dormitories) showed that all meanings were higher in
+students living in homes, and the Home Detachment score was significantly lower,
+thus giving good evidence for construct validity of the new tool. This is the expect-
+ed result, because students who live in their own or their parents’ homes are less
+limited in residential facilities and are not constrained by the rules and require-
+ments of communal housing as experienced by dormitory residents.
+78
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+The correlation between the RHEQ and other environmental tools (FHEQ and
+HAS) was significant and positive, whereas the Home Detachment scale formed sig-
+nificant negative links with them. This confirms a good convergent validity of the
+new questionnaire: numbers of home functions as well as attachment to homes are
+in mutual relationship to the extent to which a home matches its inhabitants.
+Naturally, people who are attached to their homes personalize them more strongly
+and, in turn, this makes their homes more congruent to them.
+To sum up, all these results uniquely demonstrate the good psychometric prop-
+erties of the new instrument.
+Conclusions and Limitations
+The aim of the study was to develop the Relevance of the Home Environment
+Questionnaire as a tool to assess the person-home fit. It was stimulated by a broad
+list of applied tasks as follows: seeking empirical proof to the apartment-therapy,
+expertise of living spaces, the exploration of restorative and potential functions in
+various building environments, design of dwellers-friendly flats, homes, dormito-
+ries, hostels, hospitals, etc. The new RHEQ tool appears to be very helpful in solv-
+ing these problems.
+Before discussing further implications, we want to point out some limitations of
+the current study. Firstly, most tests of the RHEQ validity were realized in a stu-
+dents’ sample. Secondly, our work did not deal with data on objectively verifiable
+characteristics of home (density, availability of personal space, length of residence,
+etc.), which makes the RHEQ content validity slightly less convincing. In future
+research we plan to observe the objective home characteristics more carefully.
+At the same time, the development of RHEQ allows further testing of the the-
+oretical positions, in addition to examining the questions that emerge from this
+article. For example: How does home as a physical space determine family climate?
+How does home influence the work-family balance in the inhabitants’ life styles?
+Least but not last, how can friendly homes contribute to the “higher” personality
+traits and virtues of their inhabitants?
+There are multiple new areas of home environment study in both applied psychol-
+ogy and environmental psychology research. We hope that the development of RHEQ
+will aid these research endeavors and support social and therapeutic applications.
+Acknowledgements
+We are very grateful to Dr. Valeriya Kuznetsova for her professional help in sta-
+tistics. We also express our gratitude to the volunteers who took part in our study. 
+References
+Bentler, P. M., & Bonnet, D. C. (1980). Significance tests and goodness of fit in the analysis of covari-
+ance structures. Psychological Bulletin, 88(3), 588–606. 
+The Relevance of the Home Environment Questionnaire
+79
+Bochaver, A. (2015). Predstavleniya o dome kak element personal’nogo opyta [Home as a category of
+personal experience]. Psikhologicheskii Zhurnal, 36, 5–15. (in Russian)
+Boumeester, H. J. (2011). Traditional housing demand research. In S. T. Jansen, R. W. Goetgeluk, &
+H. H. Coolen (Eds.), The measurement and analysis of housing preference and choice (pp. 27–55).
+New York: Springer.
+Bradley, R. H., Caldwell, B. M., & Elardo, R. (1979). Home environment and cognitive development
+in the first two years: A cross lagged panel analysis. Developmental Psychology, 15, 246–250.
+Brunswik, E. (1956). Perception and the representative design of psychological experiments. Berkeley,
+CA: University of California Press.
+Casakin, H., & Bernard, F. (2012). The role of place identity in the perception, understanding, and design
+of built environments. Oak Park, IL: Bentham Science. doi:10.2174/97816080541381120101
+Case, D. (1996). Contributions of journeys away to the definition of home: an empirical study of a
+dialectical process. Journal of Environmental Psychology, 16, 1–15.
+Chemero, A. (2003). An outline of a theory of affordances. Ecological Psychology, 15, 181–195.
+doi:10.1207/S15326969ECO1502_5
+Chemero, A. (2009). Radical embodied cognitive science. Cambridge, MA: The MIT Press.
+Coolen, H. (2011). The measurement and analysis of housing preference and choice. New York: Springer.
+Coolen, H., & Hoekstra, J. (2001). Values as determinants of preferences for housing attributes. Journal
+of Housing and the Built Environment, 16, 285–306. doi:10.1023/A:1012587323814
+Coolen, H., & Meesters, J. (2012). Editorial special issue: House, home and dwelling. Journal of
+Housing and the Built Environment, 27(1), 1–10. doi:10.1007/s10901-011-9247-4
+Depres, C. (1991). The meaning of home: literature review and directions for future research and the-
+oretical development. Journal of Architectural and Planning Research, 8, 96–114.
+Dovey, K. (1985). Home and homelessness. In I. Altman & M. Carol (Eds.), Human behavior and envi-
+ronment: Advances in theory and research (Vol. 8, pp. 33–64). New York: Plenum Press.
+Edwards, J. R., Caplan, R. D., & Harrison, R. V. (1998). Person–environment fit theory: conceptual
+foundations, empirical evidence, and directions for future research. In C. L. Cooper (Ed.), Theories
+of organizational stress (pp. 28–67). New York: Oxford University Press. 
+Gibson, J. J. (1986). The ecological approach to visual perception. Hillsdale, NJ: Lawrence Erlbaum Associates. 
+Gosling, S. D., Ko, S. J., Mannarelli, T., & Morris, M. E. (2002). A room with a cue: personality judg-
+ments based on offices and bedrooms. Journal of Personality and Social Psychology, 82, 379–398.
+doi:10.1037//0022-3514.82.3.379 
+Graham, A., & Graham, C. (1989). Home and family: creating the domestic sphere. Basingstoke, UK:
+Palgrave Macmillan. 
+Greeno, J. G. (1994). Gibson’s affordances. Psychological Review, 101, 336–342.
+Hayward, G. (1975). Home as an environmental and psychological concept. Landscape, 20, 2–9.
+Heft, H. (1979). Background and focal environmental conditions in the home and attention in young
+children. Journal of Applied Social Psychology, 9, 47-69.
+Heft, H. (1985). High residential density and perceptual-cognitive development: An examination of
+the effects of crowding and noise in the home. In J. F. Wohlwill & W. van Vliet (Eds.), Habitats for
+children: The impacts of density (pp. 39–75). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Heft, H. (2012). Foundations of an ecological approach to psychology. In C. D. Clayton (Ed.), The
+Oxford handbook of environmental and conservation psychology (pp. 11–41). New York: Oxford
+University Press.
+80
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+Hooper, D., Coughlan, J., & Mullen, M. (2008). Structural equation modelling: Guidelines for deter-
+mining model fit. Electronic Journal on Business Research Methods, 6(1), 53–60.
+Horelli, L. (2007). Constructing a theoretical framework for environmental child-friendliness.
+Children, Youth and Environments, 17, 267–292.
+Horelli, L. & Prezza, M. (2004). Child-friendly environments: approaches and lessons. Espoo: Helsinki
+University of Technology.
+Ingold, T. (2002). The perception of the environment. essays on livelihood, dwelling and skill. New York:
+Taylor & Francis.
+Jansen, S., Coolen, H., & Goetgeluk, R. (2011). The measurement and analysis of housing preference
+and choice. New York: Springer.
+Jonkmann, K., Thoemmes, F., Lüdtke, O., & Trautwein, U. (2014). Personality traits and living arrangements in
+young adulthood: selection and socialization. Developmental Psychology, 50, 683–698. doi:10.1037/a0034239
+Jorgensen, B., & Stedman, R. (2006). A comparative analysis of predictors of sense of place dimensions:
+Attachment to, dependence on, and identification with lakeshore properties. Journal of
+Environmental Management, 79(3), 316–327.
+Kahana, E., Lovegreen, L., Kahana, B., & Kahana, M. (2003). Person, environment, and person-environ-
+ment fit as influences on residential satisfaction of elders. Environment and Behavior, 35, 434–453.
+Kelly, G. A. (1991). The psychology of personal constructs (Vol. 1. A theory of personality). London:
+Routledge.
+Kyttä, M. (2004). The extent of children’s independent mobility and the number of actualized affor-
+dances as criteria for child-friendly environments. Journal of Environmental Psychology, 24, 179–198.
+doi:10.1016/S0272-4944(03)00073-2
+Lawton, M. P., & Nahemow, L. (1973). Ecology and the aging process. In C. Eisdorfer & M. P. Lawton
+(Eds.), The psychology of adult development and aging (pp. 619–674). Washington, DC: American
+Psychological Association.
+Lewicka, M. (2011). Place attachment. Journal of Environmental Psychology, 31, 207–230.
+Manzo, L. C. (2003). Beyond house and haven. Journal of Environmental Psychology, 23, 47–61.
+Moser, G. (2009). Quality of life and sustainability: toward person–environment congruity. Journal of
+Environmental Psychology, 29, 351–357. 
+Nartova-Bochaver, S., Bochaver, A., Dmitrieva, N., & Reznichenko, S. (2016). Dom kak zhiznennaya
+sreda cheloveka: psikhologicheskoe issledovanie [Home as a person’s living environment: a psycho-
+logical study]. Moscow: Pamyatniki istoricheskoi mysli. (in Russian)
+Nartova-Bochaver, S., Dmitrieva, N., Reznichenko S., & Bochaver A. (2015). How do home environ-
+ments contribute to the mental health: case of Russian adolescents. In C. Pracana (Ed.),
+Proceedings of International Psychological Applications Conference and Trends (InPact 2015) (pp.
+374–378). Lisbon: World Institute for Advanced Research and Science.
+Nartova-Bochaver, S., Dmitrieva, N., Reznichenko, S., Kuznetsova, V., & Braginets, E. (2015). Metod
+otsenki druzhestvennosti zhilishcha: oprosnik “Funktsional’nost’ domashnei sredy” [The instrument
+for assessment of dwelling friendliness: the Functionality of Home Environment questionnaire].
+Psikhologicheskii Zhurnal, 36, 71–83. (in Russian)
+Nartova-Bochaver, S., Reznichenko, S., Braginets, E., & Podlipnyak, M. (2015). Real and ideal home
+representations as moderators of a positive person’s functioning. Sotsial’naya Psikhologiya i
+Obshchestvo, 6, 9–22. doi:10.17759/sps.2015060402 (in Russian)
+Rapoport, A. (1995). A critical look at the concept home. In D. N. Benjamin, D. Stea, & D. Saile (Eds.),
+The home: Words, interpretations, meanings, and environments (pp. 25–53). Aldershot: Avebury. 
+The Relevance of the Home Environment Questionnaire
+81
+Reznichenko, S. I. (2014). Privyazannost’ k mestu i chuvstvo mesta: modeli i fenomeny [Attachment
+to place and sense of place: Models and phenomena]. Sotsial’naya Psikhologiya i Obshchestvo, 5, 3,
+15–26. (in Russian)
+Reznichenko, S. I. (2016). Valeologicheskii potentsial privyazannosti k domu u vzroslykh lyudei
+[Valeological potential of home attachment in adults]. Klinicheskaya i Spetsial’naya Psikhologiya,
+5(3), 1–23. doi:10.17759/psycljn.2016050301 (in Russian)
+Reznichenko, S., Nartova-Bochaver S., & Kuznetsova, V. (2016). The instrument for assessment of
+home attachment. Psychology. Journal of Higher School of Economics, 13(3), 498–519. (in Russian) 
+Scannell, L., & Gifford, S. (2017). The experienced psychological benefits of place attachment. Journal
+of Environmental Psychology, 51, 256–269. doi:10.1016/j.jenvp.2017.04.001
+Skifter Andersen, H. (2011). Explaining preferences for home surroundings and locations. Urbani Izziv,
+22, 100–114. doi:10.5379/urbani-izziv-en-2011-22-01-002
+Somerville, P. (1992). Homelessness and the meaning of home: Rooflessness or rootlessness?
+International Journal of Urban and Regional Research, 16(4), 529– 539.
+Appendix A
+The Final Tested Items of the Relevance of the Home Environment Questionnaire
+№
+Scale
+Statement
+1
+Pl
+My home changes along with me.
+2
+Pot
+I “feel at home” in my home.
+3
+SP
+My house can ‘tell’a guest about my achievements and hobbies.
+4
+Pr
+There is time and space at my home to be alone with myself. 
+5
+SP
+My home is a manifestation of my personality. 
+6
+Pl
+If desired, my house can easily be rearranged and remade.
+7
+Pot
+I feel like a host at my home.
+8
+Pr
+When moving about the house I do not disturb other inhabitants.
+9
+Pl
+If desired, it is easy to move the furniture and swap rooms.
+10
+HD
+In a bad mood or after a bad day I try for as long as possible not to go home.
+11
+Pr
+Nobody uses my hygiene products without permission.
+12
+HD
+There are many distractions at home and it is difficult for me to plan my next day.
+13
+Pot
+At home I always rest well and recover quite fast.
+14
+Pl
+I can make any changes in my home.
+15
+Pl
+I prefer to design the interior of my home by myself instead of inviting experts.
+16
+His
+The walls of my own house remind me of many events of the past.
+17
+Pr
+My home is a place where I can do nothing.
+18
+HD
+It’s hard for me to find inspiration and muster strength at home.
+19
+His
+There are many things in my home that remind me of my family. 
+20
+SP
+I like it that my home is not the same as everyone else’s.
+82
+S.I. Reznichenko, S.K. Nartova-Bochaver, E.I. Braginets
+Note. Pot — Potential, SP — Self-presentation, Pr — Privacy; HD — Home Detachment; E —
+Ergonomics, Pl — Plasticity, His — Historicity. 
+Sofia I. Reznichenko — research fellow, Faculty of Clinical and Special Psychology, Moscow
+State University of Psychology and Education, Ph.D. 
+Research area: environmental psychology, home environment, health psychology, special psychology.
+E-mail: reznichenko.sofya@yandex.ru
+Sofya K. Nartova-Bochaver — professor, School of Psychology, Faculty of Social Sciences,
+National Research University Higher School of Economics, D.Sc., professor.
+Research area: individual differences, psychology of sovereignty, environmental psychology
+E-mail: s-nartova@yandex.ru
+Ekaterina I. Braginets — postgraduate student, research assistant, Institute of Education,
+Center of Education Quality Monitoring, National Research University Higher School of
+Economics.
+Research area: home environment friendliness, learning environment, education quality.
+E-mail: ebraginets@hse.ru
+№
+Scale
+Statement
+21
+HD
+I rarely do things that I like at home (sports, music, dance, crafts and so on).
+22
+His
+My home is a place that reminds me of my childhood.
+23
+E
+I like that there is a place for each of my activities in my home.
+24
+Pot
+Everything changes, but my home is still my home.
+25
+Pr
+At home I can choose what I want to do at a particular moment.
+26
+SP
+There are many things to see at my home.
+27
+SP
+It is important for me that in my house there is always something to surprise guests.
+28
+His
+I’ve lived in my house since childhood. 
+29
+HD
+My home seems to be too empty for me.
+30
+His
+At my home I have experienced many important events.
+31
+Pot
+My home gives me a feeling of consistency.
+32
+E
+It’s comfortable to live, do the housekeeping and relax in my house. 
+33
+E
+At home I have no things that are poorly made.
+34
+E
+Му home is always clean and tidy.
+35
+E
+I like a lot of things, furniture and decor in my house. 
+Релевантность домашней среды
+83
+Резниченко София Ивановна — научный сотрудник, факультет клинической и специ-
+альной психологии, ФГБОУ ВО «Московский государственный психолого-педагогиче-
+ский университет», кандидат психологических наук.
+Сфера научных интересов: экологическая психология, домашняя среда, психология здо-
+ровья, специальная психология.
+Контакты: reznichenko.sofya@yandex.ru
+Насколько дом подходит индивидуальности обитателя: опросник
+«Релевантность домашней среды»
+С.И. Резниченкоa, С.К. Нартова-Бочаверb, Е.И. Брагинецb
+a Московский государственный психолого-педагогический университет, 127051, Россия, Москва,
+ул. Сретенка, д. 29
+b Национальный исследовательский университет «Высшая школа экономики», 101000, Россия,
+Москва, ул. Мясницкая, д. 20
+Резюме
+Статья посвящена описанию валидизации нового опросника «Релевантность домашней
+среды», измеряющему разнообразные параметры дома как экосоциального источника
+психологического благополучия человека. В исследовании участвовали 1730 респондентов
+в возрасте от 11 до 72 лет (Mвозр. = 20.4, Meвозр. = 19, SDвозр. = 6.96; 60% женского пола).
+Результаты факторного анализа подтвердили наличие семифакторной структуры
+опросника, состоящей из шкал: Приватность, Ресурсность, Самопрезентация,
+Эргономичность, Отчужденность от домашней среды, Пластичность и Историчность.
+Опросник показал высокие коэффициенты надежности (альфа Кронбаха), варьирующие в
+диапазоне от .91 до .94. Репрезентативность опросника исследовалась путем анализа
+возрастных и гендерных трендов. На основе анализа данных респондентов была
+обнаружена возрастная специфика выраженности четырех из семи шкал. Показатели по
+шкале Ресурсность оказались значимо выше в женской группе, в то время как показатели
+Отчужденности от дома — в мужской. Содержательная валидность опросника оценивалась
+посредством пошкального сопоставления данных респондентов студенческого возраста,
+проживающих в своих собственных домах, и студентов, проживающих в общежитии.
+Описаны результаты оценки конвергентной валидности, основанные на результатах
+корреляционного анализа шкал Релевантности домашней среды со шкалами опросников
+Функциональность домашней среды и Привязанность к дому. Опросник имеет
+удовлетворительные психометрические свойства и может быть использован в области
+психологии домашней среды и психотерапии как инструмент экспертизы жизненной
+среды человека.
+Ключевые слова: домашняя среда, субъект-средовое соответствие, оценка валидности,
+релевантность, допущения, функциональность, привязанность к дому.
+84
+С.И. Резниченко, С.К. Нартова-Бочавер, Е.И. Брагинец
+Нартова-Бочавер Софья Кимовна — профессор, департамент психологии, факультет
+социальных наук, Национальный исследовательский университет «Высшая школа эконо-
+мики», доктор психологических наук, профессор.
+Сфера научных интересов: психология индивидуальных различий, психология суверенно-
+сти, психология среды.
+Контакты: s-nartova@yandex.ru
+Брагинец Екатерина Игоревна — аспирант, стажер-исследователь, Центр мониторинга
+качества образования, Институт образования, Национальный исследовательский универ-
+ситет «Высшая школа экономики».
+Сфера научных интересов: качество образования, дружественность домашней среды, обра-
+зовательная среда.
+Контакты: ebraginets@hse.ru

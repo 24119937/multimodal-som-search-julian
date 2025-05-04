@@ -1,0 +1,1002 @@
+The Psychological Measurement of 
+Cultural Syndromes 
+Harry C. Triandis 
+University of Illinois at Urbana-Champaign 
+An examination of a range of definitions of culture indi- 
+cates that almost all researchers agree that culture is re- 
+flected in shared cognitions, standard operating proce- 
+dures, and unexamined assumptions. Cultural syndromes 
+consist of shared attitudes, beliefs, norms, role and self 
+definitions, and values of members of each culture that 
+are organized around a theme. Two methods of measure- 
+ment of syndromes that allow the examination of the con- 
+vergence of the data from each method in each culture are 
+(a) the identification of questionnaire items to which an 
+arbitrary 90% of each sample responds on the same side 
+of the neutral point and (b) the identification of items to 
+which an arbitrary 90% of triads--consisting of members 
+of each culture--agree among themselves in fewer than 
+60 seconds on the appropriate response to the item. The 
+shorter the time to reach agreement, the more likely it is 
+that the item is an element of culture. Examples of these 
+approaches are presented, and discussion focuses on how 
+to obtain good descriptions of cultures through psycho- 
+logical methods. 
+Almost 
+all the theories 
+data 
+contemporary 
+and 
+of 
+psychology come from Western populations (e.g., 
+Europeans, North Americans, Australians, etc.). 
+Yet about 70% of humans live in non-Western cultures 
+(Triandis, 1995). If psychology is to become a universal 
+discipline it will need both theories and data from the 
+majority of humans. In recent years, psychologists who 
+were raised in non-Western traditions such as Hui, Kim, 
+Kitayama, Leung, Setiadi, and others (see Triandis, 1995, 
+for references to their work) have supplied such data. 
+Their work has suggested that each culture may have, at 
+least to some extent, its own psychology. These indigenous 
+psychologies (Kim & Berry, 1993) are both similar and 
+different from contemporary psychology. Contemporary 
+psychology is best conceived as a Western indigenous 
+psychology that is a special case of the universal psy- 
+chology we as contemporary psychologists would like to 
+develop. When the indigenous psychologies are incor- 
+porated into a universal framework, we will have a uni- 
+versal psychology. 
+To bridge the gap between contemporary psychology 
+and many of the indigenous psychologies, we need con- 
+structs that will indicate how a phenomenon found in 
+contemporary psychology is modified in indigenous psy- 
+chologies. This article proposes that cultural syndromes 
+(Triandis, 1993, 1995) are such constructs. Cultural syn- 
+dromes are conceived as dimensions of cultural variation 
+that can be used as parameters of psychological theories. 
+That is, if a population is high on a given dimension of 
+cultural variation, the theory will take one form; if the 
+population is low on that dimension, the theory might 
+take a somewhat different form (e.g., Kitayama, Markus, 
+& Lieberman, 1995; Kitayama, Markus, & Matsumoto, 
+1995). In that way, the current psychological theories will 
+become special cases of the universal theories. 
+The first step toward the development of dimensions 
+of cultural variations is the identification of cultural syn- 
+dromes (Triandis, 1993, 1995). This article discusses how 
+psychological methods can be applied to study such 
+syndromes. 
+The importance of the identification of theories ap- 
+propriate for non-Western cultures becomes clearer when 
+we realize that all humans are ethnocentric (Triandis, 
+1994, in press) and suffer from naive realism that limits 
+the full appreciation of"the subjective status of their own 
+construals, and, as such, they do not make sufficient al- 
+lowances for the uncertainties of construal when called 
+on to make behavioral attributions and predictions about 
+others" (Robinson, Keltner, Ward, & Ross, 1995, p. 404). 
+We psychologists often use unexamined assumptions 
+found in our own culture when constructing theories 
+(Ichheiser, 1949, 1970), so that our theories often reflect 
+our culture. This is much more the case in clinical, social, 
+and personality psychology than in animal, experimental, 
+or physiological psychology, but the extent of shaping of 
+psychological theories by unstated assumptions found in 
+our culture is unknown. 
+The tendency to use constructs from Western culture 
+to construct psychological theories while believing that 
+we are constructing universal theories is also aggravated 
+by the phenomenon of false consensus (Mullen et al., 
+Editor's note. Articles based on APA award addresses are given special 
+consideration in the American Psychologist's editorial selection process. 
+A version of this article was originally presented as part of a Dis- 
+tinguished Contributions to the International Advancement of Psychology 
+Award address at the 103rd Annual Convention of the American Psy- 
+chological Association, New York, NY, August 1995. 
+Author's note. Correspondence concerning this article should 
+be addressed to Harry C. Triandis, Department of Psychology, 
+University of Illinois, 603 East Daniel Street, Champaign, 
+IL 61820. Electronic mail be may sent via Internet to 
+H Triandi@s.psych.uiuc.edu. 
+April 1996 
+• American Psychologist 
+Copyright 1996 by the American Psychological Association, Inc. 0003-066X/96/$2.00 
+Vol. 51, No. 4, 407--415 
+407 
+1985). People who agree with a position believe that a 
+large percentage of humans agrees with that position; 
+people who disagree with a position believe that a very 
+small percentage of humans agrees with the position. The 
+effect is strong (Mullen et al. report effect sizes of .3 to 
+1.3) and extraordinarily statistically significant (p < 
+.0000000001); several attempts to eliminate it have 
+proved ineffective (Krueger & Clement, 1994). 
+In short, people tend to believe that the way they see 
+the world is the way most people see the world. Therefore, 
+they tend to see their psychological theories as universal. 
+To control this tendency, we as psychologists need objec- 
+tive data that tell us how people from other cultures see 
+the world. Such data often show that our theories need 
+to be modified when they are applied to non-Western 
+populations. For example, our theories tend to emphasize 
+the importance of attitudes, beliefs, needs, personality, 
+and idiosyncratic values because Western culture is in- 
+dividualistic and Western psychology focuses on individ- 
+uals and processes internal to individuals. However, in 
+non-Western cultures norms, collective needs, collective 
+self-definitions, and values are often more important. Ex- 
+ternal processes, such as the membership of the individual 
+in a collective (i.e., family, village, work group, religious 
+community, or nation) and the context of behavior, are 
+emphasized. 
+The weights we give to specific variables in predicting 
+psychological phenomena shift with the context, and cul- 
+ture is one of the most important contexts. To put it dif- 
+ferently, the psychology of the individualistic cultures of 
+the West differs to some extent from the psychology of 
+the collectivist cultures of the East and the traditional 
+cultures of Africa and Latin America (Triandis, 1988, 
+1989, 1990, 1994, 1995; Triandis, Brislin, & Hui, 1988; 
+Triandis, McCusker, & Hui, 1990; Triandis, Bontempo, 
+Villareal, Asai, & Lucca, 1988). Thus, cross-cultural psy- 
+chology offers a means for the development of a universal 
+psychology (Triandis, in press). 
+Definition of Culture 
+The definition of culture has been controversial in the 
+social sciences. Cultural anthropologists have defined it 
+in more than one hundred ways (Kroeber & Kluckhohn, 
+1952). It has been defined as the human-made part of 
+the environment (Herskovits, 1955), and thus it can be 
+distinguished into objective culture (e.g., tools or roads) 
+and subjective culture (e.g., categorizations, beliefs, at- 
+titudes, norms, role definitions, or values; Triandis, 1972). 
+It has been defined also as a complex schedule of rein- 
+forcements (Skinner, 198 I), as being to humans what a 
+program is to a computer (Hofstede, 1991). Some have 
+emphasized shared behaviors (Goodenough, 1970), and 
+others emphasized shared cognitive systems (Gooden- 
+ough, 1971/1981) or meanings (Pelto & Pelto, 1975; 
+Shweder & LeVine, 1984). Some have emphasized shared 
+symbolic systems (Geertz, 1973; Schneider, 1968). Kees- 
+ing (1981) defined it as a system of competencies shared 
+by a group of people. Some have mentioned shared cog- 
+nitive maps (Murdock, 1945), but others have argued that 
+it is a construct only in the mind of the investigator (Spiro, 
+1951). Other definitions have stressed that culture is to 
+society what memory is to individuals (Kluckhohn, 1954) 
+and have viewed it as consisting of shared elements of 
+subjective culture and behavioral patterns found among 
+those who speak a particular language dialect, in a par- 
+ticular geographic region, during a specific historic period 
+(Triandis, 1994). 
+Thus, although there are many definitions, there is 
+wide agreement that culture consists of shared elements 
+(Shweder & LeVine, 1984) that provide the standards for 
+perceiving, believing, evaluating, communicating, and 
+acting among those who share a language, a historic pe- 
+riod, and a geographic location. The shared elements are 
+transmitted from generation to generation with modifi- 
+cations. They include unexamined assumptions and 
+standard operating procedures that reflect "what has 
+worked" at one point in the history of a cultural group. 
+The study of cultural differences aims, in part, to 
+identify cultural regions within which cultures are more 
+or less alike. In general, geography is an important way 
+to identify such regions. For example, the West, consisting 
+of Europe and North America, and the East, consisting 
+of the cultures of East Asia, can be seen as different 
+regions. 
+Different disciplines have used different methods of 
+identifying cultural regions. For example, leading an- 
+thropologists (Burton, Moore, Whiting, & Romney, in 
+press) have paid much attention to social structure. In a 
+multidimensional scaling of social structural data from 
+35 t cultures, these researchers identified 10 regions. What 
+is striking about this work is that Europeans, Koreans, 
+Japanese, and Polar Eskimos end up in the same region, 
+whereas Native Americans are so diverse that they require 
+five regions. In any case, if Europeans and East Asians 
+have similar social structures, it must be that the social 
+structure criterion is insufficient to provide discrimina- 
+tions among cultures that are obviously rather different. 
+Thus, a psychological method of analysis might be used 
+to augment the sensitivity of these discriminations and 
+develop a clearer understanding of cultural differences. 
+One way of doing this analysis is to use well-established 
+psychological constructs, which leads to the use of cultural 
+syndromes. 
+A cultural syndrome is a pattern of shared attitudes, 
+beliefs, categorizations, self-definitions, norms, role def- 
+initions, and values that is organized around a theme that 
+can be identified among those who speak a particular 
+language, during a specific historic period, and in a de- 
+finable geographic region (Triandis, 1993, 1994, t995). 
+Examples of such syndromes are 
+Tightness: In some cultures, there are very many norms 
+that apply across many situations. Minor deviations from 
+norms are criticized and punished; in other cultures, there 
+are few norms, and only major deviations from norms 
+are criticized (Triandis, 1994). Tightness is highly situa- 
+tional; for example, the United States is, at this time, 
+rather loose in marital arrangements but tight in banking 
+408 
+April 1996 • American Psychologist 
+regulations. However, across situations, Japan is tighter 
+overall than the U.S. because there are many more rules 
+concerning many more situations, and people are ex- 
+tremely concerned that they not break them (Iwao, 1993). 
+Cultural Complexity: The number of different cultural 
+elements, such as role definitions, can be large or small 
+(e.g., about 20 jobs among hunters and gatherers vs. 
+250,000 types of jobs in information societies). Cultural 
+complexity is higher when the size of settlements is large 
+(e.g., Mexico City with about 20 million people vs. a vil- 
+lage with 200 people). Also, cultures differ in the com- 
+plexity and multiplicity of religious, economic, political, 
+educational, social, and aesthetic standards. 
+Active-Passive: This syndrome, first described by Diaz- 
+Guerrero (1967), includes a number of active (e.g., com- 
+petition, action, and self-fulfillment) and passive (e.g., re- 
+flective thought, leave the initiative to others, and coop- 
+eration) elements. 
+Honor: This pattern is a rather narrow syndrome, focused 
+on the concept of honor. It emerges in environments in 
+which property is mobile and to protect it individuals 
+have to appear fierce so that outsiders will not dare to try 
+to take it from them. It includes beliefs, attitudes, norms, 
+values, and behaviors (e.g., hypersensitivity to affronts) 
+that favor the use of aggression for self-protection, to de- 
+fend one's honor, and to socialize children so that they 
+will react when challenged (Cohen & Nisbett, 1994). 
+Collectivism: In some cultures the self is defined as an 
+aspect of a collective (e.g., family or tribe); personal goals 
+are subordinated to the goals of this collective; norms, 
+duties, and obligations regulate most social behavior; 
+taking into account the needs of others in the regulation 
+of social behavior is widely practiced. Traditional cultures 
+and many of the cultures of Asia and Africa include many 
+collectivist elements. 
+Individualism: The self is defined as independent and au- 
+tonomous from collectives. Personal goals are given 
+priority over the goals of collectives. Social behavior is 
+shaped by attitudes and perceived enjoyable conse- 
+quences. The perceived profit and loss from a social be- 
+havior is computed, and when a relationship is too costly 
+it is dropped. Western Europe and North America are 
+high on this syndrome (Hui & Triandis, 1986; Triandis, 
+1990; Triandis et al., 1986, 1988; Triandis, Leung, Vil- 
+lareal, & Clack, 1985). This construct has a long history 
+in philosophy and the social sciences (Dumont, 1983; 
+Kim, Triandis, Kagit~ibasi, Choi, & Yoon, 1994; Triandis, 
+1995) and is linked to the ideology of modernity. 
+Vertical and Horizontal Relationships: In some cultures 
+hierarchy is very important, and ingroup authorities de- 
+termine most social behavior. In other cultures social be- 
+havior is more egalitarian. 
+In these examples the importance of norms, com- 
+plexity, action, honor, collectives, and individuals is the 
+organizing theme of each of the syndromes. 
+Number of Cultural Syndromes 
+The number of syndromes for an adequate description 
+of cultural differences is at this time unknown. It is hoped 
+that a dozen or a score of syndromes, to be identified in 
+the future, will account for most of the interesting, reliable 
+cultural differences. There is also the problem that syn- 
+dromes are somewhat related to each other. For example, 
+tight, passive, simple cultures are likely to be more col- 
+lectivist; loose, active, complex cultures are likely to be 
+more individualistic. The higher these correlations, the 
+less does any one syndrome provide independent infor- 
+mation about cultural differences. 
+Collectivism and Individualism as Polythetic 
+Constructs 
+Triandis (1995) suggested that four attributes define col- 
+lectivism and individualism: 
+• The meaning of the self. Collectivists cut up the 
+social space by using groups as the units of anal- 
+ysis; individualists use individuals for that purpose. 
+The definition of the self in collectivist cultures is 
+interdependent with members of groups (Markus 
+& Kitayama, 1991); in individualist cultures it is 
+autonomous and independent of groups (Rey- 
+kowski, 1994). Interdependence is theoretically 
+distinct from social identity (Markus & Kitayama, 
+1994, p. 570). 
+• The structure of goals. Collectivists use individual 
+goals that are compatible with the goals of their 
+ingroups. If there is a discrepancy between the 
+two sets of goals, collectivists give priority to the 
+ingroup goals. Individualists use individual goals 
+that may or may not be compatible with the goals 
+of their ingroups. If there is a discrepancy between 
+the two sets of goals, individualists give priority 
+to their personal goals (Schwartz, 1990, 1992, 
+1994; Triandis, 1988, 1990). 
+• Behavior is a function of norms and attitudes. 
+Across a wide range of situations, collectivists give 
+more weight to norms than to attitudes as deter- 
+minants of their social behavior; individualists give 
+more weight to attitudes than to norms as deter- 
+minants of social behavior (Bontempo & Rivero, 
+1992; Davidson, Jaccard, Triandis, Morales, & 
+Diaz-Guerrero, 1976; Miller, 1994). 
+• Focus on the needs of the ingroup or social ex- 
+changes. Collectivists pay much attention to the 
+needs of members of their ingroups in determining 
+their social behavior. Thus, if a relationship is de- 
+sirable from the point of view of the ingroup but 
+costly from the point of view of the individual, 
+the individual is likely to stay in the relationship. 
+Individualists pay attention to the advantages and 
+costs of relationships, as described by exchange 
+theory (Thibaut & Kelley, 1959). If the costs ex- 
+ceed the advantages, individualists drop the rela- 
+tionship. As a result, generally across situations, 
+collectivists engage in communal relationships, 
+April 1996 • American Psychologist 
+409 
+whereas individualists engage in exchange rela- 
+tionships (Mills & Clark, 1982). 
+In addition to these four attributes, Triandis (1995) 
+has identified some 60 other attributes that are sometimes 
+found in a collectivist or individualist culture. Current 
+research keeps adding findings that distinguish individ- 
+ualist and collectivist cultures. For example, individualists 
+are higher than collectivists in self-esteem and self-efficacy, 
+and use internal states (e.g., emotions) as means of ap- 
+praising situations, whereas collectivists use inputs from 
+ingroups to appraise situations (Oettingen, 1995; Oettin- 
+gen, Little, Lindenberger, & Baltes, 1994). Whereas in- 
+dividualists explicitly enhance their self-esteem, collec- 
+tivists do so implicitly (Kitayama & Karasawa, 1995). 
+The collectivism and individualism constructs 
+should be defined polythetically. In zoology, a few attri- 
+butes (e.g., feathers or wings) are used to define a "bird," 
+and many additional features are used to define hundreds 
+of species of birds. Similarly, in the case of cultures we 
+can use the above-mentioned four attributes to decide 
+whether a culture is on the whole collectivist or individ- 
+ualist. Then we can use the 60 additional attributes to 
+decide what species of collectivism or individualism is 
+found in that culture. 
+For example, in Eastern collectivist cultures it is very 
+important to maintain harmony within the ingroup 
+(Bond, 1994). However, in the Israeli kibbutz this is not 
+emphasized. In fact, strong intellectual arguments are 
+welcomed and enjoyed in that species of collectivism. 
+Vertical and Horizontal Varieties of 
+Collectivism and Individualism 
+Triandis (1995) suggested that the two most important 
+species of individualism and collectivism are the hori- 
+zontal and vertical ones. There is evidence that we as 
+researchers can distinguish vertical and horizontal indi- 
+vidualist and collectivist cultures. One of the ways to do 
+that is to use the values of the subjects. 
+In a large project, one that tested 200 teachers and 
+200 students (or representative samples of the culture) in 
+almost 50 countries, the participants rated 56 values on 
+nine-point 
+scales, 
+according to 
+their importance 
+(Schwartz, 1992, 1994). It was found through smallest 
+space analysis (a form of multidimensional scaling) that 
+in most cultures the values formed approximately the 
+same pattern. One axis was Collectivism versus Individ- 
+ualism. The Collectivist side included Conformity and 
+Security and other collectivist values, which are especially 
+high in East Asian countries, in traditional societies, and 
+in the former communist countries. The Individualist side 
+included cultures that emphasized Self-Direction and 
+Hedonism as well as other individualistic values that are 
+high in Western cultures. 
+The second axis was vertical (Power and Achieve- 
+ment) versus horizontal (Benevolence and Universalism). 
+If we add Benevolence to the collectivist values, we have 
+Horizontal Collectivism. If we add Universalism (this 
+pattern includes "equality") to the individualist values, 
+we have Horizontal Individualism. If we add Power to 
+the collectivist values, we have Vertical Collectivism. If 
+we add Achievement to the Individualist values, we have 
+Vertical Individualism. 
+Rokeach (1973) also studied values, and argued that 
+political systems can be characterized by the extent people 
+rank "freedom" and "equality" either high or low. Ro- 
+keach used content analyses of the speeches of political 
+leaders that indicated that they used the words "freedom" 
+and "equality" with very different frequencies. For in- 
+stance, communist leaders such as Lenin mentioned 
+equality frequently and freedom rarely; social democrats 
+mentioned both freedom and equality with high fre- 
+quencies; fascists mentioned neither; leaders in Western 
+democracies mentioned freedom very frequently, and 
+equality infrequently. 
+In a study of managerial values in 43 nations, Smith, 
+Dugan, and Trompenaars (in press) identified two inde- 
+pendent dimensions that parallel the horizontal-vertical/ 
+individualism-collectivism typology. 
+The pattern of Horizontal and Vertical Individualism 
+and Collectivism can also be seen in the social orientations 
+identified by Fiske (1990, 1992). What Fiske called com- 
+munal sharing has much in common with Collectivism; 
+authority ranking with Vertical social relationships; 
+equality matching with Horizontal relationships; and 
+market pricing with Individualism. 
+Integrating the work on the self (Markus & Kita- 
+yama, 1991), which can be interdependent or indepen- 
+dent, with the idea of a "same" self or a "different" self, 
+Triandis (1995) presented the attributes of Vertical and 
+Horizontal Collectivism and Individualism, as shown in 
+Appendix A. 
+Traditional societies tend to be Vertical Collectivist. 
+For example, in India differences in status (reflected in 
+the caste system) but also strong obligations to the family 
+and the caste create a Vertically Collectivist culture. In 
+cultures in which competition for distinctiveness is high, 
+as in the U.S. where it is a great compliment to say that 
+someone is "distinguished," there is Vertical Individu- 
+alism. Consistent with Vertical Individualism, middle- 
+and upper-class Americans are offended if an experi- 
+menter suggests to them that they are "average" (Weldon, 
+1984; Markus & Kitayama, 1991). 
+Americans often emphasize equality (Horizontal 
+Individualism), but they also tolerate inequality (e.g., ra- 
+cial or social class) better than do Swedes, who are willing 
+to be taxed at high rates so that income inequality can 
+be reduced. For example, if we consider the ratio of the 
+income of the top 20% of the country's income distri- 
+bution to the bottom 20% of the income distribution, we 
+find that the U.S. has now a ratio of 9.0. In 1970 this 
+ratio was 7.0, so recent years have increased inequality 
+(i.e., made the society more vertical). France and the 
+United Kingdom now have ratios of 7.0. However, in 
+Sweden this ratio is 3.0 (both in 1970 and 1993); in Japan 
+it is now 5.0, from a 1970 ratio of 4.0; in the Netherlands 
+it is now 5.5 from about 5.0 in 1970. Thus, in most so- 
+410 
+April 1996 • American Psychologist 
+cieties the trend is toward higher ratios (United Nations, 
+1994). 
+Incidentally, this ratio is very high in some societies 
+(e.g., Brazil), and the frequency of criminal acts in large 
+cities appears correlated with this ratio. Presumably, the 
+larger this ratio the more those at the bottom feel hostile 
+to those at the top and are willing to do something to 
+restore the "balance of income" by taking resources from 
+those who are better off than they are. 
+Swedes (Daun, 1991, 1996) are individualistic, but 
+they also tend to be horizontal. They do not want to be 
+distinguished. For example, in one study the desire for 
+high status was expressed by only 2% of the Swedish sam- 
+ple, 7% of the American sample, and 25% of the German 
+sample. Australians are also individualistic, but they tend 
+to want to bring down "tall poppies" (Feather, 1994), 
+suggesting that they are horizontal. 
+Measurements of Individualism and 
+Collectivism 
+The self can be studied in many ways. For example, 
+Triandis, McCusker, and Hui (1990) asked participants 
+to complete 20 statements that began with the words "I 
+am .... 
+" Content analyses of their responses indicated 
+that in collectivist cultures, the self has more social con- 
+tent (averages between 30% and 50% in different samples) 
+than in individualistic cultures (averages of 6% to 30% in 
+different samples; the mode of 509 University of Illinois 
+students was zero!). Especially interesting is the study by 
+Altrocchi and Altrocchi (1995), which showed that the 
+social content of the self of unacculturated Cook islanders 
+averaged in the 27% to 58% range for different samples; 
+for those Cook islanders who were acculturated to New 
+Zealand, it averaged in the 20% to 31% range. 
+A more detailed content analysis presented by Rhee, 
+Uleman, Lee, and Roman (1995) used nine rather than 
+just two categories for the spontaneous responses of Ko- 
+rean and American participants to the aforementioned 
+20 statements test. The category "pure traits" is especially 
+interesting. Of course, it is a nonsocial response. European 
+Americans gave this response 29% of the time; Koreans 
+gave it only 12% of the time. Rhee et al. also classified 
+Asian Americans according to whether they had identified 
+their ethnicity (e.g., "I am Asian" or "I am Chinese"). 
+Those Asian Americans who did not use ethnic responses 
+were assumed to be assimilated to American society. They 
+averaged 39% pure trait responses (i.e., they overshot the 
+American norm). Those who gave an ethnic response only 
+once were assumed to be integrated into American so- 
+ciety. They averaged 25% pure trait responses. Those who 
+gave two ethnic responses were assumed to be less ac- 
+culturated; they averaged 17% pure trait responses. In 
+other words, the predictions of the way acculturation will 
+affect the responses to the 20-statement self-descriptions 
+test were fully supported by their data. 
+Trafimow, Triandis, and Goto (1991) randomly as- 
+signed participants to two conditions in the laboratory 
+that were designed to prime their collectivism or individ- 
+ualism. The collectivist condition used the instruction 
+"think of what you have in common with your family 
+and friends." The individualist condition used the in- 
+struction "think of what makes you different from your 
+family and friends." These instructions resulted in sta- 
+tistically different social content of the self in the expected 
+direction. Furthermore, the social content of the sentence 
+completions of introductory psychology students with 
+Chinese names was significantly higher than the social 
+content of the students with European names. 
+It is possible to identify attitude items that measure 
+horizontal-vertical, collectivism-individualism (Singelis, 
+Triandis, Bhawuk, & Gelfand, 1995). A sample of such 
+items is presented in Appendix B. 
+In all cultures, individuals are capable of using all 
+four patterns of responding. In some situations (e.g., when 
+the ingroup is under attack from outsiders, and there are 
+respected ingroup leaders) people use a vertical collectivist 
+pattern in all cultures. However, the use of a particular 
+pattern is likely to be culture-specific. Thus, in a specific 
+culture, in some situations, people will be vertical collec- 
+tivists (VC), in others, vertical individualists (VI); in some 
+situations people may be horizontal collectivists (HC), and 
+in others, horizontal individualists (HI). 
+One way to think of an individual's personality is to 
+construct a profile of these tendencies. For example, an 
+individual might have a profile such as this one: VC 10% 
+of the time, across situations; 30% VI; 5% HC; and 55% 
+HI. Suppose we look at the distributions of these scores 
+across a sample of individuals that is representative of a 
+culture. By paying attention to the modal values on each 
+of the four dimensions, we can characterize the culture 
+as being primarily VI, VC, HI, or HC. In most societies, 
+the four themes coexist (e.g., in India, the vertical collec- 
+tivist theme of family interdependence and obligations 
+coexists with the HI theme of renouncing society and 
+living alone as a holyman; Dumont, 1983). Individuals 
+may select these themes at different times and in different 
+situations, though there is a modal pattern that is selected 
+most frequently. 
+If we are to describe a culture adequately we need 
+to take seriously the fact that, by definition, culture con- 
+sists of shared elements. We can do that in at least two 
+ways: 
+1. We can examine the response distributions to 
+items that measure elements of subjective culture. For 
+example, in the case of attitude items, such as those of 
+Appendix B, in one study we started with 80 items that 
+reflected vertical and horizontal individualism and col- 
+lectivism. We defined a cultural item as an item to which 
+90% of the participants gave an answer (on a 9-point 
+agree--disagree scale) on the same side of the neutral point. 
+Our sample consisted of Illinois undergraduates. We 
+found that 61% of the items that met this criterion hap- 
+pened to be HI items; 5% were VI; 24% were HC, and 
+10% were VC items. Thus this sample is predominantly 
+horizontal (85%) and individualist (66%). 
+One can also use scenarios, such as those of Appen- 
+dix C. We used 36 such scenarios with a sample of Illinois 
+undergraduates. For these scenarios, we used the criterion 
+April 1996 • American Psychologist 
+411 
+that if at least 50% of the sample selected one of the four 
+answers, it constituted a cultural response. We found that 
+in the case of 65% of the scenarios that reached this cri- 
+terion, the HI response had been selected. In the case of 
+25% of the "cultural" scenarios, the HC response had 
+been selected. All of the remaining 10% of the scenarios 
+showed that the VI response had been selected. Thus, 
+there is consistency in the way the attitude items and the 
+scenarios were answered. The cultural responses of Illinois 
+undergraduates are HI (61% to 65% of the time) and HC 
+(24% to 25% of the time). 
+2. One can also assemble 40 or so triads of members 
+of a culture and present subjective culture items to them 
+and ask them to respond as quickly as possible on whether 
+they, as a group, agreed that the idea is important or 
+unimportant. 
+This study was done in Hong Kong and the United 
+States (Triandis, Bontempo, Leung, & Hui, 1990). We 
+used, in this case, a cutoff of one minute and an arbitrary 
+agreement level of 85% of the triads. That is, if the triads 
+agreed that a particular value was important in less than 
+one minute and 85% of the triads reached agreement, we 
+considered the item "cultural." For example, "persis- 
+tence" is a very clear value in Hong Kong, wherein 100% 
+of the triads agreed that it was important, with an average 
+time of 2.7 seconds. In Illinois, this value did not reach 
+criterion. "Self-actualization" was considered important 
+by 96% of the Illinois triads, with an average time of 4.3 
+seconds; it did not reach criterion in Hong Kong. Thus 
+it is a value in Illinois but not in Hong Kong. "To be well 
+adjusted" was a value in both cultures. 
+These two examples suggest how we can use psy- 
+chological methods to study cultural syndromes. We need 
+to identify items that measure each of the elements of 
+the cultural syndromes such as beliefs, attitudes, norms, 
+role and self-definitions, and values. We can examine the 
+response distributions to each of these elements and select 
+items that meet the 90% agreement criterion. We can 
+also assemble triads of individuals and ask them to re- 
+spond to elements of subjective culture. Timing their re- 
+sponses and degrees of agreement can indicate which of 
+the elements are "cultural." We can do such studies, not 
+only in different cultures but also across gender, social 
+class, and other demographics. In some cases, the de- 
+mographic breakdowns may turn out to be more impor- 
+tant than the cultural. 
+Discussion 
+In this article, I suggested how we might study cultural 
+syndromes through psychological methods. One might 
+be curious to know if the cultural syndromes I described 
+are in any way related to each other. In Triandis (1994), 
+I speculated that they are. Specifically, I suggested that 
+tight-simple cultures are most collectivist, and loose- 
+complex cultures most individualistic. 
+I suggested also that when a culture is homogeneous 
+it is possible to have clear norms and impose them tightly; 
+when the culture is heterogeneous, as is typical in mul- 
+ticultural settings, looseness is necessary to avoid friction. 
+When members of a culture must be interdependent to 
+survive, as happens in many agricultural societies wherein 
+irrigation canals require common actions, norms will be 
+clear and imposed; when people live separated by large 
+distances, they can tolerate deviations from norms. In 
+complex cultures people have many choices; in poor, 
+simple ones there are few choices. 
+Collectivism is maximal when a society is low in 
+complexity and tight; individualism is maximal when a 
+society is complex and loose. Thus, individualism is high 
+in affluent societies, in which individuals can decide 
+without consultation with ingroup members about how 
+to use their resources. Collectivism is high in societies in 
+which collectives decide how to dispense resources. Note, 
+however, that collectivism requires that the ingroup have 
+resources to dispense. In very poor societies such as the 
+Ik (Turnbull, 1972), or in the Brazilian favelas (Scheper- 
+Hughes, 1985), the ingroup has no resources to dis- 
+pense--we find in such societies intensive individualism. 
+Several additional factors probably contribute to collec- 
+tivism such as joint ownership of resources, schooling 
+that glorifies the ingroup, large families, stability of res- 
+idence, and isolation from outside influences. Several 
+factors contribute to individualism such as high social 
+class, migration, social mobility, and exposure to the mass 
+media. 
+As we develop measurements of tightness (now in 
+progress), affluence (Gross National Product per capita) 
+and individualism-collectivism (e.g., Singelis et al., 1995), 
+we should be able to test these speculations. 
+Conclusions 
+Starting with the definition of culture, we have identified 
+several psychological methods that can be used to char- 
+acterize a culture. This work is at the cultural level and 
+uses methods and approaches that are not usually used 
+by psychologists. 
+We can also use data from the individual level (i.e., 
+individual differences information). By doing this, we 
+identified individuals who are allocentric or idiocentric 
+(Triandis et al., 1985). These personality attributes cor- 
+respond to collectivism and individualism. The cultural 
+and individual difference analyses are complementary and 
+allow us to describe cultures and also identify individuals 
+who are countercultural (e.g., allocentrics in an individ- 
+ualistic culture who join communes and gangs, or idi- 
+ocentric in a collectivist culture who feel oppressed by 
+the culture and usually leave it if they are allowed to 
+do so). 
+The study of cultural syndromes can provide theory 
+and method for the development of a universal psychology. 
+Contemporary psychology can be seen as a special case 
+of the to-be-developed universal psychology, and cultural 
+syndromes may become the parameters of this universal 
+psychology. 
+REFERENCES 
+Altrocchi, J., & Altrocchi, L. (1995). Polyfaceted psychological accul- 
+turation in Cook islanders. Journal of Cross-Cultural Psychology. 26. 
+426-440. 
+412 
+April 1996 • American Psychologist 
+Bond, M. H. (1994). Continuing encounters with Hong Kong. In W. J. 
+Lonner & R. Malpass (Eds.), Psychology and culture (pp. 239-244). 
+Boston: Allyn & Bacon. 
+Bontempo, R., & Rivero, J. C. (1992, August). Cultural variation in 
+cognition. The role of self-concept in the attitude behavior link. Paper 
+presented at the meetings of the American Academy of Management, 
+Las Vegas, Nevada. 
+Burton, M. L., Moore, C. C., Whiting, J. W. M., & Romney, A. K. (in 
+press). Regions based on social structure. Current Anthropology. 
+Cohen, D., & Nisbett, R. E. (1994). Self-protection and the culture of 
+honor: Explaining Southern violence. Personality and Social Psy- 
+chology Bulletin, 20. 551-567. 
+Daun, A. ( 199 l). Individualism and collectivity among Swedes. Ethnos, 
+56, 165-172. 
+Daun, A. (1996). Swedish mentality, University Park: The Pennsylvania 
+State University Press. 
+Davidson, A. R., Jaccard, J. J., Triandis, H. C., Morales, M. L., & Diaz- 
+Guerrero, R. (1976). Cross-cultural model testing: Toward a solution 
+of the etic-emic dilemma. International Journal of Psychology, 11, 
+1-13. 
+Diaz-Guerrero, R. (1967). The active and passive syndromes. Revista 
+Interamericana de Psicologia, 1, 263-272. 
+Dumont, L. (1983). Essais sur l'individualism [Essays on individualism]. 
+Paris: Editions du Seuil. 
+Feather, N. T. (1994). Attitudes toward high achievers and reactions to 
+their fall: Theory and research concerning tall poppies. In M. Zanna 
+(Ed.), Advances in experimental socialpsychology (Vol. 25, pp. 1-73). 
+New York: Academic Press. 
+Fiske, A. (1990). Structures of social life: The four elementary forms of 
+human relations. New York: Free Press. 
+Fiske, A. P. (1992). The four elementary forms of sociality: Framework 
+for a unified theory of social relations. Psychological Review, 99, 689- 
+723. 
+Geertz, C. (1973). The interpretation of cultures. New York: Basic Books. 
+Goodenough, W. H. (1970). Description and comparison in cultural an- 
+thropology Chicago: Aldine. 
+Goodenough, W. H. (1981). Culture, language, and society (2nd ed.). 
+Melno Park, CA: Benjamin/Cummings (First published in 1971). 
+Herskovits, M. J. (1955). Cultural anthropology. New York: Knopf. 
+Hofstede, G. ( 1991 ). Culture and organizations. London: McGraw-Hill. 
+Hui, C. H., & Triandis, H. C. (1986). Individualism and collectivism: 
+A study of cross-cultural researchers. Journal of Cross-Cultural Psy- 
+chology, 17, 225-248. 
+Ichheiser, G. (1949). Misunderstandings in human relations. Chicago: 
+University of Chicago Press. 
+Ichheiser, G. (1970). Appearance & reality. San Francisco: Josse-Bass. 
+Iwao, S. (1993). The Japanese woman: Traditional image and changing 
+reality, New York: Free Press. 
+Keesing, R. M. (1981). Theories of culture. In R. W. Casson (Ed.), Lan- 
+guage, culture and cognition: Anthropological perspectives (pp. 42- 
+66). New York: Macmillan. 
+Kim, U., & Berry, J. W. (1993). Indigenous psychologies. Thousand 
+Oaks, CA: Sage. 
+Kim, U., Triandis, H. C., Kagit~ibasi, C., Choi, S-C., & Yoon, G. (1994). 
+Introduction. In Kim et al. (Eds.), Individualism and collectivism: 
+Theory, method, and applications (pp. 1-19). Thousand Oaks, CA: 
+Sage. 
+Kitayama, S., & Karasawa, M. (1995, August). Implicit self-esteem in 
+Japan: Name letters and birthday numbers. Paper presented to the 
+meetings of the American Psychological Association, New York. 
+Kitayama, S., Markus, H. R., & Lieberman, C. (1995). The collective 
+construction of self esteem. In J. A. Russell, J. M. Fernandez-Dois, 
+A. S. Manstead, & J. C. Wellkamp (Eds.), Everyday conceptions of 
+emotion: An introduction to the psychology, anthropology, and lin- 
+guistics of emotion (pp. 523-549). Kyoto: Japan Khiwer Academic 
+Publishers. 
+Kitayama, S., Markus, H. R., & Matsumoto, H. (1995). Culture, self, 
+and emotion: A cultural perspective on "self-conscious" emotions. In 
+J. P. Tangney & K. W. Fischer (Eds.), Self-conscious emotions: The 
+psychology of shame, guilt, embarrassment, and pride (pp. 439-464). 
+New York: Guilford Press. 
+Kluckhohn, C. (1954). Culture and behavior. In G. Lindzey (Ed.), 
+Handbook of social psychology (Vol. 2, pp. 921-976). Cambridge, 
+MA: Addison-Wesley. 
+Kroeber, A. L., & Kluckhohn, C. (1952). Culture: Critical review of 
+concepts and definitions (Vol. 1, No. 1). Cambridge, MA: Peabody 
+Museum. 
+Krueger, J., & Clement, R. W. (1994). The truly false consensus effect: 
+An ineradicable egocentric bias in social perception. Journal of Per- 
+sonality and Social Psychology, 67, 596-610. 
+Markus, H. R., & Kitayama, S. (1991). Culture and self: Implications 
+for cognition, emotion, and motivation. Psychological Review, 98, 224- 
+253. 
+Markus, H. R., & Kitayama, S. (1994). A collective fear of the collective: 
+Implications for selves and theories of selves. Personality and Social 
+Psychology Bulletin, 20, 568-579. 
+Miller, J. G. (1994). Cultural diversity in the morality of caring: Indi- 
+vidually-oriented versus duty-oriented interpersonal codes. Cross- 
+Cultural Research, 28, 3-39. 
+Mills, J., & Clark, M. S. (1982). Exchange and communal relationships. 
+In L. Wheeler (Ed.), Review of personality and social psychology (Vol. 
+3, pp. 121-144). Beverly Hills, CA: Sage. 
+Mullen, B., Atkins, J. L., Champion, D. S., Edwards, C., Handy, D., 
+Story, J. E., & Vanderklok, M. (1985). The false consensus effect: A 
+meta-analysis of I 15 hypothesis tests. Journal of Experimental Social 
+Psychology, 21, 262-283. 
+Murdock, G. P. (1945). The common denominator of culture. In R. 
+Linton (Ed.), The science of man in the world crisis (pp. 51-69). New 
+York: Columbia University Press. 
+Oettingen, G. (1995). Cross-cultural perspectives on self-efficacy. In A. 
+Bandura (Ed.), Self-efflcacy in changing societies (pp. 149-176). New 
+York: Cambridge University Press. 
+Oettingen, G., Little, T. D., Lindenberger, U., & Baltes, P. B. (1994). 
+Causality, agency, and control beliefs in East versus West Berlin chil- 
+dren: A natural experiment on the role of context. Journal of Per- 
+sonality and Social Psychology, 66, 579-595. 
+Pelto, P. J., & Pelto, G. H. (1975). Intra-cultural diversity: Some theo- 
+retical issues. American Ethnologist, 2, 1-18. 
+Reykowski, J. (1994). Collectivism and individualism as dimensions of 
+social change. In U. Kim, H. C. Triandis, C. Kagitcibasi, S-C. Choi, 
+& G. Yoon (Eds.), Individualism and collectivism: Theory, method, 
+and applications (pp. 276-292). Newbury Park, CA: Sage. 
+Rhee, E., Uleman, J. S., Lee, H. K., & Roman, R. J. (1995). Spontaneous 
+self-descriptions and ethnic identities in individualistic and collectivist 
+cultures. Journal of Personality and Social Psychology, 69, 142-152. 
+Robinson, R. J., Keltner, D., Ward, A., & Ross, L. (1995). Actual versus 
+assumed differences in construal: "Naive realism" in intergroup per- 
+ception and conflict. Journal of Personality and Social Psychology, 
+68, 404-417. 
+Rokeach, M. (1973). The nature of human values. New York: Basic 
+Books. 
+Scheper-Hughes, N. (1985). Culture, scarcity, and maternal thinking: 
+Maternal detachment and infant survival in a Brazilian shantytown. 
+Ethos, 13, 291-317. 
+Schneider, D. (1968). American kinship: A cultural account. Englewood 
+Cliffs, NJ: Prentice-Hall. 
+Schwartz, S. H. (1990). Individualism-collectivism. Critique and pro- 
+posed refinements. Journal of Cross-Cultural Psychology, 21, 139- 
+157. 
+Schwartz, S. H. (1992). Universals in the content and structure of values: 
+Theoretical advances and empirical tests in 20 countries. In M. Zanna 
+(Ed.), Advances in experimental socialpsychology (Vol. 25, pp. 1-66). 
+New York: Academic Press. 
+Schwartz, S. H. (1994). Beyond individualism and collectivism: New 
+cultural dimensions of values. In U. Kim, H. C. Triandis, C. Kagit- 
+cibasi, S-C. Choi, & G. Yoon (Eds.), Individualism and collectivism: 
+Theory, method, and applications (pp. 85-122). Newbury Park, CA: 
+Sage. 
+Shweder, R., & LeVine, R. A. (1984). Culture theory. Essays on mind, 
+self, and emotion. Cambridge, England: Cambridge University Press. 
+Singelis, T., Triandis, H. C., Bhawuk, D., & Gelfand, M. (1995). Hori- 
+zontal and vertical individualism and collectivism: A theoretical and 
+methodological refinement. Cross-Cultural Psychology,, 29, 240-275. 
+April 1996 • American Psychologist 
+413 
+Skinner, B. F. (1981). Selection by consequences. Science, 213, 501- 
+504. 
+Smith, P. B., Dugan, S., & Trompenaars, E (in press). National culture 
+and managerial values: A dimensional analysis across 43 nations. 
+Journal of Cross-Cultural Psychology. 
+Spiro, M. E. (1951). Culture and personality: The natural history of a 
+false dichotomy. Psychiatry, 14, 19-46. 
+Thibaut, J. W., & Kelley, H. H. (1959). The social psychology of groups. 
+New York: Wiley. 
+Trafimow, D., Triandis, H. C., & Goto, S. (1991). Some tests of the 
+distinction between private self and collective self. Journal of Person- 
+ality and Social Psychology, 60. 649-655. 
+Triandis, H. C. (1972). The analysis of subjective culture. New York: Wiley. 
+Triandis, H. C. (1988). Collectivism v. individualism: A reconceptual- 
+ization of a basic concept in cross-cultural social psychology. In G. K. 
+Verma & C. Bagley (Eds.), Cross-cultural studies of personality, at- 
+titudes and cognition (pp. 60-95). London: Macmillan. 
+Triandis, H. C. (1989). The self and social behavior in differing cultural 
+contexts. Psychological Review, 96, 506-520. 
+Triandis, H. C. (1990). Cross-cultural studies of individualism and col- 
+lectivism. In J. Berman (Ed.), Nebraska Symposium on Motivation, 
+1989 (pp. 41-133). Lincoln: University of Nebraska Press. 
+Triandis, H. C. (1993). Collectivism and individualism as cultural syn- 
+dromes. Cross-Cultural Research, 27, 155-180. 
+Triandis, H. C. (1994). Culture and social behavior. New York: McGraw- 
+Hill. 
+Triandis, H. C. (1995). Individualism and collectivism. Boulder, CO: 
+Westview Press. 
+Triandis, H. C. (in press). A cross-cultural perspective on social psy- 
+chology. In C. McGarty & A. Haslam (Eds.), The message of social 
+psychology: Perspectives on mind and society. Oxford, England: 
+Blackwell. 
+Triandis, H. C., Bontempo, R., Betancourt, H., Bond, M., Leung, K., 
+Brenes, A., G-eorgas, J., Hui, C. H., Matin, G., Setiadi, B., Sinha, J. B. P., 
+Verma, J., Spangenberg, J., Touzard, H., & de Montmollin, G. (1986). 
+The measurement of eric aspects of individualism and collectivism across 
+cultures. Australian Journal of Psychology, 38, 257-267. 
+Triandis, H. C., Bontempo, R., Leung, K., & Hui, C. K. (1990). A 
+method for determining cultural, demographic, and personal con- 
+structs. Journal of Cross-Cultural Psychology, 21, 302-318. 
+Triandis, H. C., Bontempo, R., Villareal, M. J, Asai, M., & Lucca, N. 
+(1988). Individualism and collectivism: Cross-cultural perspectives 
+on self-ingroup relationships. Journal of Personality and Social Psy- 
+chology, 54, 323-338. 
+Triandis, H. C., Brislin, R., & Hui, C. H. (1988). Cross-cultural training 
+across the individualism-collectivism divide. International Journal 
+of lntercultural Relations, 12, 269-289. 
+Triandis, H. C., Leung, K., Villareal, M., & Clack, E L. (1985). Allo- 
+centric vs. idiocentric tendencies: Convergent and discriminant vali- 
+dation. Journal of Research in Personality, 19, 395-415. 
+Triandis, H. C., McCusker, C., & Hui, C. H. (1990). Multimethod probes 
+of individualism and collectivism. Journal of Personality and Social 
+Psychology, 59, 1006-1020. 
+Turnbull, C. M. (1972). The mountain people. New York: Simon & 
+Schuster. 
+United Nations. (1994). World social situation in the 1990s. New York: 
+Author. 
+Weldon, E. (1984). Deindividuation, interpersonal affect, and productivity 
+in laboratory task groups. Journal of Applied Social Psychology, 14, 
+469-485. 
+Appendix A 
+Four Cultural Patterns 
+Dimension/study 
+Collectivism 
+Individualism 
+Vertical self 
+Different from others 
+Markus & Kitayama (1991 ) 
+Interdependent 
+Independent 
+Communal sharing 
+Market pricing 
+Fiske (1992) 
+Rokeach (1973) 
+Low freedom 
+Communalism 
+(e.g., Indian village) 
++ Authority ranking 
+Low equality 
+High freedom 
+Market democracy 
+(e.g., United States) 
+Horizontal self 
+Same as others 
+Fiske I1992) 
+Communal sharing 
+Market pricing 
++ Equality matching 
+Rokeach (1973) 
+High equality 
+tow freedom 
+Communal living 
+(e.g., Kibbutz) 
+High freedom 
+Democratic socialism 
+(e.g., Sweden) 
+414 
+April 1996 • American Psychologist 
+Appendix B 
+Items for the Measurement of Horizontal and Vertical Individualism 
+and Collectivism 
+Vertical Individualism (a = .82) 
+It annoys me when other people perform better than I do. 
+Competition is the law of nature. 
+When another person does better than I do, I get tense and aroused. 
+Without competition, it is not possible to have a good society. 
+Winning is everything. 
+It is important that I do my job better than others. 
+I enjoy working in situations involving competition with others. 
+Some people emphasize winning; I'm not one of them (and vice 
+versa) 
+Horizontal Individualism (a = .81 ) 
+I often do "my own thing." 
+Being a unique individual is important to me. 
+I'd rather depend on myself than on others. 
+I rely on myself most of the time; I rarely rely on others. 
+My personal identity, independent from others, is very important to 
+me. 
+I am a unique person, separate from others. 
+I enjoy being unique and different from others. 
+Vertical Collectivism (a = .73) 
+I would do what would please my family, even if I detested that 
+activity. 
+I usually sacrifice my self-interest for the benefit of my group. 
+We should keep our aging parents with us at home. 
+I would sacrifice an activity that I enjoy very much if my family did 
+not approve of it. 
+Children should be taught to place duty before pleasure. 
+It is important to me that I respect the decisions made by my groups. 
+Self-sacrifice is a virtue. 
+It annoys me if I have to sacrifice activities that I enjoy to help others 
+(reverse scoring). 
+Horizontal Collectivism (a = .80) 
+The well-being of my coworkers is important to me. 
+If a coworker gets a prize, I would feel proud. 
+If a relative were in financial difficulty, I would help within my means. 
+It is important to me to maintain harmony within my group. 
+I like sharing little things with my neighbors. 
+It is important to consult close friends and get their ideas before 
+making a decision. 
+Note. 
+From "Horizontal and Vertical Individualism and Collectivism: A Theoretical and Methodological Refinement" (Table 4), by T. Singelis, 
+H. C. Triandis, D. Bhawuk, and M. Gelfand, 1995, Cross-CulturalPsychology, 29, pp. 240-275. Copyright 1995 by Sage Publications, Inc. Reprinted 
+with permission. 
+Appendix C 
+Examples of Scenarios Used in the Study Mentioned in the Text 
+1. Which of the following activities are likely to be most satisfying to 
+you? 
+A. thinking about yourself- 
+B. doing your duty, as expected of you by important groups _ 
+C. linking with others _ 
+D. beating your competitors _ 
+2. In your opinion, in an ideal society, national budgets will be 
+determined so that 
+A. all people have adequate incomes to meet basic 
+needs _ 
+B. some people will be rewarded for making brilliant contributions 
+C. there will be maximum stability, law, and order _ 
+D. people can feel unique and self-actualized _ 
+April 1996 • American Psychologist 
+415 

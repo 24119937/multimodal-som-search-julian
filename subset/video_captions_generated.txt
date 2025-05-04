@@ -1,0 +1,21 @@
+.ipynb_checkpoints\frame_0000.jpg: [Unrecognized content]
+frame-009835\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-014236\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-015935\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-021034\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-021642\frame_0000.jpg: A person sitting at a desk next to a window and a column
+frame-022319\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-028479\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-044589\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-046951\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047074\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047433\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-062673\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-068866\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-069730\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-070456\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-089915\frame_0000.jpg: A person holding a phone while standing near a bed
+frame-116293\frame_0000.jpg: A close-up of a human face with walls and artwork in the background
+frame-119401\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119781\frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-140709\frame_0000.jpg: A person sitting at a desk next to a window and a column

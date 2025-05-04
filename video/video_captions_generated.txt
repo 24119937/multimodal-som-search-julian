@@ -1,0 +1,135 @@
+frame-009835/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-009835/frame_0001.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-009835/frame_0002.jpg: A person sitting at a desk next to a window and a column
+frame-009835/frame_0003.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-009835/frame_0004.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-009835/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-009835/frame_0006.jpg: A person sitting at a desk next to a window and a column
+frame-014236/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-014236/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-014236/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-014236/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-014236/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-014236/frame_0005.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-015935/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-015935/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-015935/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-015935/frame_0003.jpg: A person sitting at a desk next to a window and a column
+frame-021034/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-021034/frame_0001.jpg: A child playing indoors near a staircase
+frame-021034/frame_0002.jpg: A person sitting at a desk next to a window and a column
+frame-021034/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-021034/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-021034/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-021642/frame_0000.jpg: A person sitting at a desk next to a window and a column
+frame-021642/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-021642/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-021642/frame_0003.jpg: A man playing basketball on a wooden court with a visible ceiling
+frame-021642/frame_0004.jpg: A man playing basketball on a wooden court with a visible ceiling
+frame-022319/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-022319/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-022319/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-022319/frame_0003.jpg: A close-up of a human face with walls and artwork in the background
+frame-022319/frame_0004.jpg: A close-up of a human face with walls and artwork in the background
+frame-028479/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-028479/frame_0001.jpg: A close-up of a human face with walls and artwork in the background
+frame-028479/frame_0002.jpg: A person sitting at a desk next to a window and a column
+frame-028479/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-028479/frame_0004.jpg: A child playing indoors near a staircase
+frame-044589/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-044589/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-044589/frame_0002.jpg: A close-up of a human face with walls and artwork in the background
+frame-044589/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-044589/frame_0004.jpg: A person sitting at a desk next to a window and a column
+frame-046951/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-046951/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-046951/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-046951/frame_0003.jpg: A child playing indoors near a staircase
+frame-046951/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047074/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047074/frame_0001.jpg: A close-up of a human face with walls and artwork in the background
+frame-047074/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-047074/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-047074/frame_0004.jpg: A person holding a phone while standing near a bed
+frame-047074/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-047433/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047433/frame_0001.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-047433/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047433/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-047433/frame_0004.jpg: A person giving a presentation in a room with a projector and seating
+frame-047433/frame_0005.jpg: A person giving a presentation in a room with a projector and seating
+frame-062673/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-062673/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-062673/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-062673/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-062673/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-062673/frame_0005.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-062673/frame_0006.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-068866/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-068866/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-068866/frame_0002.jpg: A person cooking in a kitchen with cabinets and a tiled wall
+frame-068866/frame_0003.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-068866/frame_0004.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-069730/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-069730/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-069730/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-069730/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0006.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0007.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0008.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0009.jpg: A person holding a phone while standing near a bed
+frame-069730/frame_0010.jpg: A child playing indoors near a staircase
+frame-070456/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-070456/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0002.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0004.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0006.jpg: A person sitting at a desk next to a window and a column
+frame-070456/frame_0007.jpg: A person sitting at a desk next to a window and a column
+frame-070456/frame_0008.jpg: A person sitting at a desk next to a window and a column
+frame-070456/frame_0009.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0010.jpg: A person holding a phone while standing near a bed
+frame-070456/frame_0011.jpg: A person holding a phone while standing near a bed
+frame-089915/frame_0000.jpg: A person holding a phone while standing near a bed
+frame-089915/frame_0001.jpg: A person holding a phone while standing near a bed
+frame-089915/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-089915/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-089915/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-089915/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-116293/frame_0000.jpg: A close-up of a human face with walls and artwork in the background
+frame-116293/frame_0001.jpg: A dog running on grass near a stone wall
+frame-116293/frame_0002.jpg: A close-up of a human face with walls and artwork in the background
+frame-116293/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-116293/frame_0004.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-116293/frame_0005.jpg: A person holding a phone while standing near a bed
+frame-116293/frame_0006.jpg: A person holding a phone while standing near a bed
+frame-116293/frame_0007.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-116293/frame_0008.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-116293/frame_0009.jpg: A news reporter talking in a studio with lighting fixtures
+frame-119401/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0004.jpg: A person sitting at a desk next to a window and a column
+frame-119401/frame_0005.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0006.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119401/frame_0007.jpg: A person sitting at a desk next to a window and a column
+frame-119401/frame_0008.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-119401/frame_0009.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-119401/frame_0010.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-119401/frame_0011.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-119401/frame_0012.jpg: A group of people in a classroom with chairs and a whiteboard
+frame-119781/frame_0000.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119781/frame_0001.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119781/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119781/frame_0003.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-119781/frame_0004.jpg: A person using a computer at a desk with bookshelves around
+frame-119781/frame_0005.jpg: A person using a computer at a desk with bookshelves around
+frame-140709/frame_0000.jpg: A person sitting at a desk next to a window and a column
+frame-140709/frame_0001.jpg: A close-up of a human face with walls and artwork in the background
+frame-140709/frame_0002.jpg: A cat walking across a tiled floor inside a room with furniture
+frame-140709/frame_0003.jpg: A person holding a phone while standing near a bed
+frame-140709/frame_0004.jpg: A person holding a phone while standing near a bed

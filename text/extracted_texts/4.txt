@@ -1,0 +1,1034 @@
+Articles
+The Study of Culture, Ethnicity, and Race in
+American Psychology
+Hector Betancourt and Steven Regeser Lopez
+The study of culture and related concepts, such as ethnicity
+and race, in American psychology are examined in this
+article. First, the conceptual confusion and ways in which
+culture, ethnicity, and race are used as explanatory factors
+for intergroup differences in psychological phenomena are
+discussed. Second, ways in which to study culture in
+mainstream psychology and to enhance hypothesis testing
+and theory in cross-cultural psychology are illustrated. Fi-
+nally, the importance of examining sociocultural variables
+and considering theory in ethnic minority research is ad-
+dressed. In general, it is proposed that by including theory,
+conceptualizing, and measuring cultural and related vari-
+ables, mainstream, cross-cultural, and ethnic research can
+advance the understanding of culture in psychology as well
+as the generality of principles and the cultural sensitivity
+of applications.
+C
+ulture and its significant role in human behavior
+have been recognized for many years, as far back
+as Hippocrates from the classical Greek era (see
+Dona, 1991) as well as near the beginning of psychology
+as a discipline (Wundt, 1921). More recently, a number
+of authors have questioned the cross-cultural generaliz-
+ability of psychological theories (e.g., Amir & Sharon,
+1987; Bond, 1988; Pepitone & Triandis, 1987), some ar-
+guing for the inclusion of culture in psychological theories
+(e.g., Harkness, 1980; Rokeach, 1979; Smith, 1979;
+Triandis, 1989). An abundant literature demonstrates
+cultural variations in many areas of psychology that can
+guide such theoretical efforts (see handbooks edited by
+Triandis et al., 1980, and by Munroe, Munroe, & Whit-
+ing, 1981; see also Berman, 1990). Most recently, the need
+to study culture in psychology was highlighted in an
+American Psychological Association (APA) report on ed-
+ucation (McGovern, Furumoto, Halpern, Kimble, &
+McKeachie, 1991). Because of the changing demographics
+in the nation as well as in the student population,
+McGovern et al. indicated that an "important social and
+ethical responsibility of faculty members is to promote
+their students' understanding of gender, race, ethnicity,
+culture, and class issues in psychological theory, research,
+and practice" (p. 602).
+Despite the historical and contemporary awareness
+concerning the importance of culture among a number
+of scholars, the study of culture and related variables oc-
+cupies at best a secondary place in American (main-
+stream) psychology. It appears to be the domain of cross-
+cultural psychology and is often associated with the rep-
+lication of findings in some remote or exotic part of the
+world. In the United States, it is often associated with the
+study of ethnic minorities, which is as segregated from
+mainstream psychology (see Graham, 1992) as is cross-
+cultural research. There seems to be a widespread as-
+sumption that the study of culture or ethnicity contributes
+little to the understanding of basic psychological processes
+or to the practice of psychology in the United States.
+The general purpose of this article is to share some
+of our preoccupations and views concerning the status of
+the study of culture and related concepts, such as race
+and ethnicity, in psychology. Our main concern is that
+whereas mainstream investigators do not consider culture
+in their research and theories, cross-cultural researchers
+who study cultural differences frequently fail to identify
+the specific aspects of culture and related variables that
+are thought to influence behavior. Consequently, we learn
+that cultural group, race, or ethnicity may be related to
+a given psychological phenomenon, but we learn little
+about the specific elements of these group variables that
+contribute to the proposed relationship. The limited
+specificity of this research impedes our understanding of
+the behavior of a group or groups. In addition, it serves
+to limit the delineation of more universal processes that
+cut across cultural, ethnic, and racial groups. In this ar-
+ticle, we promote the study of culture. This is not to say
+that culture is the single most important variable in psy-
+chology. It is one of many factors that contribute to the
+complexities of psychological processes, and it is obviously
+important to the understanding of culturally diverse pop-
+Hector Betancourt, Department of Psychology, Loma Linda University
+and La Sierra University; Steven Regeser Lopez, Department of Psy-
+chology, University of California, Los Angeles.
+Walter J. Lonner served as action editor for this article.
+Correspondence concerning this article should be addressed to
+Hector Betancourt, Department of Psychology, Loma Linda University,
+Riverside, CA 92515.
+June 1993 • American Psychologist
+Copyright 1993 by the American Psychological Association, Inc. 0003-066X/93/S2.00
+Vol. 48, No. 6, 629-637
+629
+ulations both inside and outside of the United States. In
+addition, even though the higher uniformity of cultural
+elements makes it less obvious, cultural factors also play
+an important role in the behavior of mainstream indi-
+viduals. Thus, our focus will be on culture, some of the
+problems that in our opinion preclude progress in our
+understanding of its role in psychology and some prop-
+ositions on how to overcome them. To illustrate our
+points, we draw from research in the social and clinical
+domains; these reflect our areas of expertise.
+As a general approach, we propose that both main-
+stream and cross-cultural investigators identify and mea-
+sure directly what about the group variable (e.g., what
+cultural element) of interest to their research influences
+behavior. Then, hypothesized relationships between such
+variables and the psychological phenomenon of interest
+could be examined and such research could be incor-
+porated within a theoretical framework. We believe that
+an adherence to this approach will serve to enhance our
+understanding of both group-specific and group-general
+(universal) processes as well as contribute to the integra-
+tion of culture in theory development and the practice of
+psychology. Our focus is on the general approach rather
+than on specific methodological issues already treated
+elsewhere in the literature (see Brislin, Lonner, & Thorn-
+dike, 1973; Lonner & Berry, 1988; Triandis et al., 1980,
+Vol. 2).
+Because culture is closely intertwined with concepts
+such as race, ethnicity, and social class, and because con-
+ceptual confusion has been an obstacle for progress in
+this area, it is important to first define culture and point
+out its relationship to these related concepts. Hence, we
+first focus on these definitions and conceptual problems.
+Then, we address some of the limitations of cross-cultural
+and mainstream psychology and suggest ways in which
+to infuse the study of culture in mainstream research and
+both experimentation and theory in cross-cultural re-
+search. Finally, we illustrate ways in which to study cul-
+tural variables and discuss the importance of infusing
+theory in ethnic minority research.
+Definitions
+Variations in psychological phenomena observed in the
+comparative study of groups identified in terms of na-
+tionality, race, ethnicity, or socioeconomic status (SES)
+are often attributed to cultural differences without defin-
+ing what is meant by culture, and what about culture
+and to what extent is related to the differences. This is so
+common, even among cross-cultural psychologists, that
+it has led to the criticism that little research in cross-
+cultural psychology actually deals with culture (e.g.,
+Rohner, 1984). Thus, an important problem is the lack
+of a clear definition and understanding of culture from a
+psychological perspective.
+Culture
+A number of psychologists interested in the study of cul-
+ture agree that the confusion concerning its definition
+has been an obstacle for progress (e.g., Brislin, 1983; Ja-
+hoda, 1984; Rohner, 1984; Triandis et al., 1980). Al-
+though it would be desirable to have a definition that
+everyone agrees upon, as noted by Segall (1984), consen-
+sus is not absolutely necessary to advance knowledge.
+Even without consensus, progress is possible if, as we
+propose, cultural research specifies what is meant by cul-
+ture in terms that are amenable to measurement.
+After reviewing the elements found in the anthro-
+pological and cross-cultural psychology views of culture,
+Rohner (1984) proposed a conceptualization of culture
+in terms of "highly variable systems of meanings," which
+are "learned" and "shared by a people or an identifiable
+segment of a population." It represents "designs and ways
+of life" that are normally "transmitted from one gener-
+ation to another." We consider this conception as equiv-
+alent to that proposed by Herkovits (1948), who conceives
+culture as the human-made part of the environment. Per-
+haps the most distinctive characteristic of Rohner's for-
+mulation is the explicit statement of aspects such as the
+learned, socially shared, and variable nature of culture.
+Within the context of this general conception of cul-
+ture, we consider Triandis et al.'s (1980) reformulation
+of Herkovits's (1948) definition as the most practical one
+for the purpose of our work. In addition to differentiating
+between the objective and subjective aspects of Herkovits's
+human-made part of the environment, Triandis's for-
+mulation is quite explicit about the psychologically rel-
+evant elements that constitute culture. According to
+Triandis, although physical culture refers to objects such
+as roads, buildings, and tools, subjective culture includes
+elements such as social norms, roles, beliefs, and values.
+These subjective cultural elements include a wide range
+of topics, such as familial roles, communication patterns,
+affective styles, and values regarding personal control, in-
+dividualism, collectivism, spirituality, and religiosity.
+When culture (or subjective culture) is defined in
+terms of psychologically relevant elements, such as roles
+and values, it becomes amenable to measurement. More-
+over, the relationship of the cultural elements to psycho-
+logical phenomena can be directly assessed. Hence, it is
+possible to deal with the complexity of the concept and
+at the same time pursue an understanding of the role of
+culture in psychology. By incorporating the conceptual-
+ization and measurement of specific cultural elements,
+the comparative study of national, ethnic, or cultural
+groups is more likely to contribute to the understanding
+of the role of culture than are the typical comparative
+studies (see Poortinga & Malpass, 1986).
+Race
+Scholars and pollsters often use the concept of culture
+interchangeably with race, ethnicity, or nationality. For
+example, in surveys or research instruments, individuals
+are often required to indicate their race by choosing one
+of a combination of categories including race, ethnicity,
+and national origin (such as Asian, American Indian,
+Black, Latino, and White). Latinos, for instance, can be
+White, Black, Asian, American Indian, or any combi-
+nation thereof. We are particularly concerned about the
+630
+June 1993 • American Psychologist
+loose way in which culture, race, and ethnicity are used
+to explain differences between groups. This not only limits
+our understanding of the specific factors that contribute
+to group differences, but it also leads to interpretations
+of findings that stimulate or reinforce racist conceptions
+of human behavior (see Zuckerman, 1990).
+Jones (1991) recently argued that the concept of race
+is fraught with problems for psychology. For example,
+race is generally defined in terms of physical character-
+istics, such as skin color, facial features, and hair type,
+which are common to an inbred, geographically isolated
+population. However, the classification of people in groups
+designated as races has been criticized as arbitrary, sug-
+gesting that the search for differences between such groups
+is at best dubious (Zuckerman, 1990). Specifically, there
+are more within-group differences than between-group
+differences in the characteristics used to define the three
+so-called races (Caucasoid, Negroid, and Mongoloid).
+Also, studies of genetic systems (e.g., blood groups, serum
+proteins, and enzymes) have found that differences be-
+tween individuals within the same tribe or nation account
+for more variance (84%) than do racial groupings (10%;
+Latter, 1980; Zuckerman, 1990). This indicates that racial
+groups are more alike than they are different, even in
+physical and genetic characteristics. Still, too often in the
+history of psychology, race has been used to explain vari-
+ations in psychological phenomena between the so-called
+racial groups, without examining the cultural and social
+variables likely to be associated with such variations (e.g.,
+Allport, 1924; Barrett & Eysenck, 1984; Jensen, 1985).
+We agree with Zuckerman (1990) that the study of racial
+differences in psychological phenomena is of little sci-
+entific use without a clear understanding of the variables
+responsible for the differences observed between the
+groups classified as races. We consider racial group or
+identity inadequate as a general explanatory factor of be-
+tween-group variations in psychological phenomena. We
+encourage researchers to give greater attention to cultural
+elements, as discussed earlier, as they may prove fruitful
+in understanding behavioral differences associated with
+racial groupings.
+Although we focus on the cultural and social vari-
+ables associated with racial grouping, we do not imply
+that biological factors associated with such groupings are
+of no scientific interest. These biological variables are
+important, for example, in the study of group differences
+in essential hypertension, for which Afro-Americans are
+at a higher risk than Anglo-Americans (Anderson, 1989).
+From our perspective, what is of scientific interest is not
+the race of these individuals but the relationship between
+the identified biological factors (e.g., plasma renin levels
+and sodium excretion) and hypertension. Moreover, even
+if a cause-effect relationship is demonstrated between
+these biological variables and hypertension, one cannot
+attribute this relationship to race because of intraracial
+variability and interracial overlap with regard to the bio-
+logical variables (Anderson, 1989). Psychological stress
+or factors such as diet, life-style, and objective and sub-
+jective culture could be responsible for the racial-group
+differences in the biological factors. Also, this difference
+may not be observed in a group of the same race in an-
+other part of the world or under different living conditions.
+In summary, we suggest that when behavioral vari-
+ations are studied in relation to race, the so-called racial
+variable under study should be defined, measured, and
+the proposed relationships tested. The role of specific cul-
+tural and social variables could be clearly separated from
+that of biological and other variables. The area of research
+will determine the relative importance of any one of these
+variables. The important point is that the research be on
+the relevant variable and not on racial groupings alone.
+Ethnicity
+The concept of ethnicity is also associated with culture
+and is often used interchangeably with culture as well as
+with race. Usually, ethnicity is used in reference to groups
+that are characterized in terms of a common nationality,
+culture, or language. The concept of ethnicity is related
+to the Greek concept of ethnos, which refers to the people
+of a nation or tribe, and ethnikos, which stands for na-
+tional. Hence, ethnicity refers to the ethnic quality or
+affiliation of a group, which is normally characterized in
+terms of culture. However, the distinction between these
+two related concepts is an important one for psychology.
+Although cultural background can be a determinant of
+ethnic identity or affiliation, being part of an ethnic group
+can also determine culture. As members of an ethnic
+group interact with each other, ethnicity becomes a means
+by which culture is transmitted. According to Berry
+(1985), because an ethnic group is likely to interact with
+other ethnic groups, such interactions should not be ig-
+nored as possible sources of cultural influences. Hence,
+it is important that comparative studies of ethnic groups
+identify and measure cultural variables assumed to be
+responsible for observed differences in psychological phe-
+nomena before such differences are attributed to culture
+on the basis of group membership. This issue is partic-
+ularly important in the United States today because, be-
+yond face-to-face interactions, interethnic communica-
+tion takes place through the mass media.
+We believe that the study of variations in psycho-
+logical phenomena between ethnic groups is relevant as
+far as the specific variable of theoretical interest is mea-
+sured and related to the relevant psychological phenom-
+ena. In addition to the specific cultural elements, there
+are a range of ethnic-related variables, such as ethnic
+identification, perceived discrimination, and bilingualism.
+Increased specification with regard to what about eth-
+nicity is of interest could reduce the confusion and con-
+ceptual problems in this area (for an illustration of re-
+search in this direction, see Sue, 1988; Sue & Zane, 1987).
+Social and Related Variables
+The effect of variables such as the social system and so-
+cioeconomic level on behavior can also be confounded
+with the influence of culture, race, and ethnicity (for a
+discussion, see Rohner, 1984). Some authors do control
+for the effects of socioeconomic variables. For example,
+June 1993 • American Psychologist
+631
+Frerichs, Aneshensel, and Clark (1981) found that the
+prevalence of depressive symptoms was significantly dif-
+ferent for Latinos, Anglos, and Afro-American commu-
+nity residents. More Latinos reported significant levels of
+depressive symptoms than did the other ethnic groups.
+However, when controlling for SES-related variables (e.g.,
+employment status and family income), the ethnic effect
+disappeared. This suggests that ethnicity, and possibly
+culture, are of little or no significance in the prevalence
+rates of depression, whereas SES, that is, economic strain,
+is viewed as being more significant.
+Although this approach has the advantage of reduc-
+ing the likelihood of misattributing to culture the influ-
+ence of SES, the possibility of confusion still exists. It is
+possible, for instance, that cultural influences are not
+identified and are wrongly attributed to SES. We see at
+least two instances in which this can happen. First, in
+societies with a history of ethnic or racial discrimination,
+segregation may result in significant overlap between cul-
+ture and SES. For example, in the United States the ma-
+jority of Anglos are represented in higher social strata,
+whereas the majority of Latinos are represented in lower
+social strata. Thus, by methodologically or statistically
+controlling for SES, the cultures are also separated, and
+the variance associated with culture is removed along with
+the effects of SES. This may then lead one to wrongly
+assume that culture does not play a role.
+Second, even if two social classes are represented in
+each of the two cultures, the economic, social, or living
+conditions of a segregated lower class that includes both
+cultural groups may generate beliefs, norms, or values
+specific to that social strata. These cultural elements as-
+sociated with lower SES may become significantly differ-
+ent from that of other groups (e.g., the middle class) of
+the same ethnic group. Although it is possible that some
+cultural elements associated with ethnicity are consistent
+across the different SES levels of a given ethnic group, it
+is also possible that there are beliefs, norms, and values
+that are common to an SES level across cultural (ethnic)
+groups. Hence, even when social classes are compared
+within the same ethnic group, cultural elements unique
+to a lower strata may be wrongly attributed to SES—that
+is, income or educational level—when in fact they reflect
+cultural or subcultural elements—that is, beliefs and at-
+titudes associated with lower class reality.
+Sobal and Stunkard (1989) illustrated this point with
+regard to obesity and socioeconomic status. They argued
+that the prevalence of obesity in developing societies is a
+function of structural elements in society, such as the
+availability of food supplies, and "cultural values favoring
+fat body shapes" (p. 266). The former reflect SES-related
+variables, whereas the values associated with body shapes
+may be more cultural in nature, even though the cultural
+beliefs are associated with social strata. The work of Sobal
+and Stunkard is consistent with our recommendation to
+measure the specific proximal variables thought to un-
+derlie a given behavioral phenomenon. By doing so, the
+comparative study of social as well as cultural groups will
+be able to better identify the specific social variables (e.g.,
+income, educational level) as well as cultural elements
+(e.g., values, beliefs) that are relevant to the behavioral
+phenomena of interest.
+In summary, we encourage investigators to think
+carefully about the group of interest, whether it be cul-
+tural, racial, ethnical, or social, and go beyond the group
+category to the specific factors that underlie the group
+category. By doing so, studies will be able to identify what
+about culture, race, ethnicity, or social class is related to
+the psychological phenomenon of interest. We argue that
+cultural variables, specifically social roles, norms, beliefs,
+and values, are likely to contribute significantly to the
+effects of these demographic variables. However, culture
+is only one dimension. Depending on the research prob-
+lem and the interests of the investigator, more biological
+or social variables could also be assessed. The important
+point is that further specification will likely lead to a
+greater understanding of the roles of culture, race, eth-
+nicity, and social class in psychological phenomena.
+Limitations of Mainstream and Cross-
+Cultural Psychology
+The need to study and understand culture in psychology
+represents a major challenge to mainstream and cross-
+cultural psychology. A review of the literature reveals im-
+portant limitations in the ways both mainstream and
+cross-cultural psychology have responded to this chal-
+lenge. On the one hand, the study of culture has largely
+been ignored in mainstream psychology and is often seen
+as the domain of cross-cultural psychology. Usually, the-
+ories do not include cultural variables and findings or
+principles are thought to apply to individuals everywhere,
+suggesting that psychological knowledge developed in the
+United States by Anglo-American scholars using Anglo-
+American subjects is universal. Even in areas such as so-
+cial psychology, in which the importance of variables such
+as norms and values is particularly obvious, there is little
+regard for the cultural nature of such variables (Bond,
+1988).
+On the other hand, cross-cultural psychology, nor-
+mally segregated from mainstream psychology, has fo-
+cused on the comparative (cross-cultural) study of be-
+havioral phenomena, without much regard for the mea-
+surement of cultural variables and their implications for
+theory. Attributing to culture the differences observed
+between countries or groups assumed to represent dif-
+ferent cultures ignores the complexity of culture as well
+as the cultural heterogeneity of nations or ethnic groups
+(see Berry, 1985). Moreover, it tells us little about the role
+of culture in human behavior. Without a theoretical focus,
+cross-cultural research has little connection to main-
+stream psychology, thus maintaining its segregation.
+Although there is no simple solution to the noted
+limitations (see Lonner & Berry, 1986; Malpass, 1977;
+Reyes-Lagunes & Poortinga, 1985), we believe that the
+following two approaches would help psychologists to en-
+hance the study of culture: (a) Begin with a phenomenon
+observed in the study of culture and apply it cross-cul-
+turally to test theories of human behavior, and (b) begin
+632
+June 1993 • American Psychologist
+with a theory, typically one that ignores culture, and in-
+corporate cultural elements to broaden its theoretical do-
+main. The former might be considered a bottom-up ap-
+proach; one is beginning with an observation from the
+study of cultures and moving toward its implications for
+psychological theory. The latter might be considered a
+top-down approach; one is beginning with theory and
+moving to observations within as well as between cultures,
+examining the role of culture and searching for universals.
+Triandis and associates' research illustrates a bottom-
+up approach to cross-cultural research. Drawing from
+anthropological research that identified dimensions of
+cultural variations, they proposed the following steps: (a)
+Develop measures of such dimensions, (b) assess different
+cultures along the dimensions so that the cultures could
+be placed on a continuum of a designated dimension,
+and (c) test predictions relating the cultural dimension
+and behavioral phenomenon across cultures. These steps
+are evident in the work of Triandis et al. (1986) on col-
+lectivism versus individualism. They first developed a
+measure; second, they assessed students from Illinois and
+Puerto Rico along this dimension. Then, as expected,
+this dimension was found to be related to behaviors such
+as cooperation and helping (Triandis, Bontempo, Villa-
+real, Asai, & Lucca, 1988). Not only did they find differ-
+ences between U.S. mainland students and Puerto Rican
+students with regard to helping and cooperation, they also
+found that the cultural dimension of collectivism versus
+individualism accounted in part for these differences.
+Thus, in line with the bottom-up approach, the observed
+cultural phenomenon, in this case individualism-collec-
+tivism, has served to inform theoretical accounts of help-
+ing and cooperation.
+The research of Betancourt and his associates serves
+to illustrate a top-down approach to the study of cultural
+influences. They began with a theory and took steps to
+incorporate cultural factors in the theory. In a first study,
+Betancourt and Weiner (1982) examined the cross-cul-
+tural generality of an attribution theory of motivation
+(see Weiner, 1986), specifically assessing whether the re-
+lationships between the dimensional properties of attri-
+butions and related psychological consequences differed
+for Chilean and U.S. college students. Evidence for both
+cultural generality and cultural specificity was found. The
+relationship between the perceived stability of a given
+causal attribution and expectancy of future success was
+similar for both groups, suggesting that this part of the
+theory has cross-cultural generality. The influence of per-
+ceived controllability of attributions for a person's
+achievement on interpersonal feelings and reactions was
+less important for Chilean students than for students from
+the United States; this part suggested cultural specificity.
+For example, although Chileans tended to like the person
+more when success was due to controllable than to un-
+controllable causes, the effect of controllability over liking
+was significantly lower than for the students from the
+United States. Chileans tended to like the successful in-
+dividual, regardless of whether the cause of his or her
+achievement behavior was perceived as controllable (e.g.,
+effort) or uncontrollable (e.g., aptitude). On the other
+hand, U.S. students more systematically liked the person
+according to the degree the achievement behavior was
+perceived as within the person's volitional control.
+In explaining these findings, Betancourt and Weiner
+(1982) suggested that the generality observed in the re-
+lationship between perceived stability of causes and ex-
+pectancy of success was a reflection of the logic of cause-
+effect relationships (e.g., if A is the cause of B, and A is
+stable, B should also be stable). They also suggested that
+when such logic applies, we might expect psychological
+principles to be fairly universal. However, in the case of
+perceived controllability and its relation to interpersonal
+feelings and behavior, elements of the culture such as
+norms and values are thought to play a role.
+Recall that we have criticized comparative studies
+of cultures as insufficient in that the aspects of culture
+responsible for the observed differences are not identified
+or measured, nor are the relationships between these and
+the corresponding psychological phenomena demon-
+strated. From this perspective, Betancourt and Weiner's
+(1982) study was appropriate as a first step, but limited
+in that cultural variables responsible for observed vari-
+ations were not identified and measured. Hence, one may
+not conclusively attribute differences to cultural factors.
+To more directly test the specific cultural element
+that might underlie the noted difference, Betancourt
+(1985) first reviewed the cross-cultural literature on at-
+tribution processes in an effort to identify possible cultural
+dimensions that might contribute to explaining further
+these findings. Key studies were identified that suggested
+that the perception of control and the effects of causal
+controllability are culturally determined. Specifically, the
+relationship observed in the United States between con-
+trollability for success and failure and reward and pun-
+ishment (Weiner & Kukla, 1970) was replicated in Ger-
+many (Meyer, 1970) but was not fully replicated in Brazil
+(Rodrigues, 1981). In addition, Salili, Maehr, and Gill-
+more (1976) only partially replicated in Iran the findings
+of Weiner and Peter (1973) concerning developmental
+aspects of the proposed relationship between controlla-
+bility of attributions and interpersonal judgment.
+The findings from these key studies, in conjunction
+with the work of Kluckhohn and Strodtbeck (1961) on
+dimensions of cultural variation, suggested that the cul-
+tural dimension of "control over nature versus subjuga-
+tion to nature" (control-subjugation) was potentially rel-
+evant. When the results on the control-subjugation value
+orientation are compared for the countries noted in the
+cross-cultural attributional research, Germany, a country
+in which results are replicated, scores high on control, as
+does the United States, whereas Brazil, Chile, and Iran,
+where variations are observed, score low on control.
+A series of studies was then designed (e.g., Betan-
+court, Hardin, & Manzi, 1992) to investigate the control-
+subjugation value orientation and related cultural beliefs
+in relation to the attributional components of a model of
+helping behavior (Betancourt, 1990). Although no cross-
+cultural comparison took place, within-culture measures
+June 1993 • American Psychologist
+633
+of the control-subjugation value orientation were used to
+examine the influence of value orientation on the attri-
+bution process, as well as the relationship between con-
+trollability of attributions and helping behavior. In ad-
+dition, the manipulation (activation) of beliefs associated
+with this value orientation demonstrated how it relates
+to the other components of the helping behavior model.
+The research by Betancourt and associates progresses
+from mainstream social psychological research and theory
+to the study of cultural variables relevant to the theory
+and search for universals. They identify a specific cultural
+element hypothesized to be related to the cognitive pro-
+cess and behavior under study and then test the relation-
+ships. Their findings indicate that value orientation in-
+fluences attributional processes. Accordingly, attention
+to values in attribution theory may serve to broaden the
+scope and universality of the theory. This is an example
+in which attention to culture may serve to enhance theory
+development in mainstream research. In addition, the
+work of Betancourt et al. (1992) has methodological im-
+plications. Although these authors could have taken a
+cross-cultural or between-groups approach by selecting
+cultures that vary with regard to value orientation, they
+chose a within-culture approach. Specifically, they mea-
+sured differences on the theoretically relevant cultural di-
+mension and tested its relationship to helping. This re-
+search suggests that cultural variables can be studied
+within a single culture and that research with mainstream
+subjects can also examine culture.
+The main limitation of mainstream theories is that
+they ignore culture and therefore lack universality. The
+limitation of a segregated cross-cultural psychology is that
+it fails to use experimentation and develop theory. Two
+approaches were described above (Betancourt et al., 1992;
+Triandis et al., 1988) to illustrate how these limitations
+might be overcome. We submit that progress will follow
+if mainstream investigators include cultural elements in
+their research and theory and if cross-cultural researchers
+incorporate the measurement of cultural variables within
+a theoretical network.
+Limitations of Ethnic Minority Research
+Ethnic minority research shares conceptual problems
+similar to those of cross-cultural psychology. Direct mea-
+sures of cultural elements are frequently not included,
+yet cultural factors are assumed to underlie ethnic group
+differences. Furthermore, ethnic minority research often
+lacks sufficient attention to psychological theory. It ap-
+pears that investigators of ethnicity are more inclined to-
+ward description than testing theoretically derived hy-
+potheses. In this section, we examine ethnic minority re-
+search as it pertains to the study of psychopathology. We
+draw attention to the importance of directly examining
+the cultural basis of psychopathology and suggest ways to
+incorporate psychological theory.
+Like cross-cultural research, a typical cross-ethnic
+design compares a given set of variables across samples
+of two ethnic groups. In the study of ethnic differences
+in psychopathology, such research is frequently based on
+community or clinic surveys of psychological distress or
+rates of mental disorders. Usually, methodological or sta-
+tistical controls are included to rule out the effects of
+socioeconomic status, age, and other sociodemographic
+variables that could possibly be related to the given de-
+pendent variable. If group differences are found with these
+controls in place, then the investigator frequently argues
+that the differences between Asian Americans and Anglo
+Americans, for example, reflect cultural influences. In
+other words, the observed group differences are thought
+to be the result of differences in the groups' cultural values
+and beliefs.
+Often, researchers will discuss the cultural differences
+that are thought to contribute to the observed differences.
+It is important to note that the "cultural differences"
+thought to underlie the observed group differences are
+frequently not directly measured or assessed. It is assumed
+that because the two groups are from two distinct cultural
+or ethnic groups, they differ from one another on key
+cultural dimensions. This may or may not be the case.
+Without directly assessing these cultural dimensions, one
+cannot be sure whether culture plays a role, nor can one
+understand the nature of the relationship between cultural
+variables and psychological processes.
+In an attempt to more directly assess cultural influ-
+ences associated with ethnicity, some investigators have
+been using measures of acculturation. Acculturation typ-
+ically refers to the degree to which minority groups adhere
+to traditional cultural practices (in many cases, those
+practices that are associated with people from their coun-
+try of origin) or to U.S. cultural practices (for a review,
+see Berry, 1990). These efforts represent a step forward
+as they serve to increase the specificity in measuring cul-
+tural influences.
+The inclusion of acculturation measures are not
+without limitations. First of all, such measures are usually
+based on behavioral indices such as language usage (native
+language or English) and place of birth (country of origin
+or the United States). At best, these are indirect measures
+of cultural values and beliefs. It is assumed that individ-
+uals of low acculturation are more likely to adhere to
+traditional cultural values regarding such variables as sex
+role orientation and collectivism-individualism. This may
+not be the case for a given sample.
+Another reason why acculturation is a poor measure
+of cultural influences is that it is confounded with ac-
+culturative stress, or the stress experienced in adjusting
+from one culture to another culture (Berry, 1990). Some
+investigators have attempted to determine whether certain
+levels of acculturation are related to psychological ad-
+justment and distress, as well as rates of mental disorders
+(see Rogler, Cortes, & Malgady, 1991, for a recent review
+of Latino research). For example, some researchers find
+that low-acculturated Latinos, in this case Mexican
+Americans, report more distress than do more accultur-
+ated Latinos and Anglos (Vega, Kolody, & Warheit, 1985).
+It is not reasonable to interpret findings such as these as
+only reflecting acculturative stress. It seems possible that
+634
+June 1993 • American Psychologist
+the results could also reflect the association between level
+of distress and specific cultural values, indirectly assessed.
+Acculturation indices may serve then as indirect
+measures of adherence to cultural values, but they may
+also serve as indices of stress associated with adjusting to
+the Anglo culture. If an investigator is interested in ex-
+amining cultural influences, he or she would do best to
+incorporate direct measures of culture-relevant variables
+rather than a global measure of acculturation. Further-
+more, if acculturative stress is the focus of an investigation,
+a direct measure of this construct should be included (see
+Cervantes, Padilla, & Salgado de Snyder, 1991). Without
+directly assessing cultural values and beliefs and without
+directly assessing acculturative stress, it is difficult to know
+the meaning of finding significant relationships between
+acculturation and psychological variables.
+In a recent study, Lopez, Hurwicz, Karno, and Telles
+(1992) attempted to approximate the goal of directly
+measuring culture in the study of psychopathology.
+Drawing from the Los Angeles Epidemiologic Catchment
+Area database, a large epidemiologic study of the prev-
+alence rates of several mental disorders among Mexican-
+origin Latinos and Anglos (Karno et al., 1987), Lopez et
+al. took two significant steps to examine possible cultural
+influences. First, they chose symptoms as the dependent
+variable rather than disorders, the dependent variable
+used in past analyses. Influenced by the work of Draguns
+(1980) and Persons (1986), they argued that symptoms
+may be more sensitive to possible sociocultural influences.
+The second step was to test hypotheses regarding
+ethnic differences in the report of specific symptoms and
+to examine whether specific sociocultural variables ac-
+counted for the hypothesized ethnic differences. To de-
+velop specific hypotheses, they turned to prior descriptive
+work of a clinical nature. For example, some clinical ob-
+servers had noted that Latinos may have the experience
+of hearing voices, which is reflective of a high degree of
+spirituality or religiosity and not reflective of psychosis
+(Abad, Ramos, & Boyce, 1977; Torrey, 1972). Religiosity
+was also implicated in the relative absence of hypersex-
+uality in the symptomatology of Amish with bipolar dis-
+orders (Egeland, Hostetter, & Eshleman, 1983). On the
+basis of these clinical observations, Lopez et al. (1992)
+hypothesized that, relative to Anglo residents, Mexican-
+origin residents would report more evidence of auditory
+hallucinations, a symptom frequently associated with
+schizophrenia, and less evidence of hypersexuality, a
+symptom frequently associated with mania. Furthermore,
+they hypothesized that religiosity would account for these
+ethnic differences.
+Consistent with their hypotheses, there were signif-
+icant differences in the reporting of these two symptoms
+among Latinos of Mexican origin (U.S. born and Mexican
+born) and Anglos. Furthermore, the patterns of findings
+are consistent with the hypotheses. With regard to au-
+ditory hallucinations, more Mexican-born Latinos re-
+ported this symptom (2.3%) than U.S.-born Latinos
+(1.6%), who reported more such symptoms than Anglos
+(0.6%). The opposite pattern resulted for hypersexuality:
+Mexican-born Latinos (2.2%), U.S.-born Latinos (4.3%),
+and Anglos (6.8%). Although these findings are consistent
+with cultural hypotheses—that is, there is something
+about one or both cultures that contributes to these
+symptom patterns—there is no direct evidence that cul-
+tural elements are responsible for the findings.
+To more closely approximate a direct cultural test,
+Lopez et al. (1992) examined the role of religiosity in the
+report of these symptoms. Regression analyses revealed
+that ethnicity is an important variable in the reporting
+of hypersexuality; however, Catholicism accounts for a
+greater proportion of the variance. Thus, ethnicity appears
+to be a more distal variable, whereas religious affiliation
+is a more proximal variable. In contrast to the report of
+hypersexuality, religiosity was not found to be significantly
+related to the report of auditory hallucinations. It might
+be that the report of auditory hallucinations is more re-
+lated to spiritual beliefs that may exist independent of
+religious background.
+Although the past Los Angeles Epidemiologic
+Catchment Area research indicates that there are no eth-
+nic differences in the prevalence rates of disorders such
+as schizophrenia and bipolar disorder (Karno et al., 1987),
+suggesting that sociocultural factors are unimportant, the
+Lopez et al. (1992) study indicates that ethnic and socio-
+cultural factors are related to psychopathology as reflected
+in the report of specific symptomatology. Their findings
+are consistent with the notion that cultural elements or
+the values and beliefs of individuals are likely to shape
+the manner in which psychological distress and disorder
+are manifest.
+This research goes beyond the typical comparative
+ethnic study by examining specific sociocultural factors
+that are related to psychopathology; however, it falls short
+of the ideal study. For example, although Catholicism
+may represent a more proximal variable to hypersexuality
+than ethnicity, it is not a direct measure of values and
+beliefs. Measuring values and beliefs about sexual rela-
+tions would have provided a more direct assessment of
+cultural elements. Another limitation is that the rela-
+tionship between Catholicism and hypersexuality may
+reflect the reticence on the part of Catholics to report
+this symptom and not their relatively less hypersexual
+behavior. Also, this study lacks a specific theoretical base.
+To incorporate theory, the authors might have linked
+conceptual processes thought to underlie the given symp-
+toms. One such theoretical framework is offered by Ben-
+tall (1990), who posited that hallucinations are the result
+of impaired reality discrimination. In spite of the noted
+limitations, this research serves to illustrate the impor-
+tance of including more proximal sociocultural variables
+in the study of ethnic group behavior, in this case psy-
+chopathology.
+Conclusion
+We have discussed some of our concerns about the status
+of culture in American psychology. We have pointed out
+three areas of concern that in our opinion represent lim-
+itations that preclude the advancement of knowledge
+June 1993 • American Psychologist
+635
+concerning the role of culture in human behavior and
+the universality of psychological theories. At the same
+time we have suggested possible ways in which to deal
+with some of the limitations in these areas. First, we ad-
+dressed and tried to clarify some confusion in the un-
+derstanding and use of the concepts of culture, race, eth-
+nicity, and social variables, all of which are often used as
+general explanatory factors for intergroup variations in
+psychological phenomena. Second, addressing the limi-
+tations of mainstream psychology, we suggested ways in
+which to infuse the study of culture in mainstream re-
+search and theory as well as ways to enhance experimen-
+tation and the use of theory in cross-cultural research.
+Finally, we illustrated ways in which to study sociocultural
+variables and to consider theory in ethnic minority re-
+search. In general, we propose that by clearly concep-
+tualizing and measuring cultural and related variables
+and by including theory, cross-cultural, ethnic, and
+mainstream research, we can advance the understanding
+of the role of culture as well as contribute to theory de-
+velopment and applications.
+We believe that psychology as a discipline will benefit
+both from efforts to infuse culture in mainstream research
+and theory and from efforts to study culture and develop
+theory in cross-cultural and ethnic psychology. Specifi-
+cally, we believe that the advancement of knowledge in
+this area is necessary for psychology to enhance its status
+as a scientific discipline and its standards of ethical and
+social responsibility as a profession. As a scientific dis-
+cipline, progress in the understanding of culture and its
+role in psychology would result in more universal prin-
+ciples and theories. As a profession, it would result in
+instruments and interventions that are more sensitive to
+the reality and cultural diversity of society and the world.
+Our hope is that this article may stimulate attempts to
+overcome the limitations we have noted and advance the
+study of culture in psychology.
+REFERENCES
+Abad, V., Ramos, J., & Boyce, E. (1977). Clinical issues in the psychiatric
+treatment of Puerto Ricans. In E. Padilla & A. Padilla (Eds.), Trans-
+cultural psychiatry: An Hispanic perspective (Monograph No. 4, pp.
+23-24). Los Angeles: Spanish Speaking Mental Health Research Cen-
+ter.
+Allport, F. (1924). Social psychology. New York: Houghton Mifflin.
+Amir, Y., & Sharon, I. (1987). Are social psychological laws cross-cul-
+turally valid? Journal of Cross-Cultural Psychology, 8, 383-470.
+Anderson, N. B. (1989). Racial differences in stress-induced cardiovas-
+cular reactivity and hypertension: Current status and substantive issues.
+Psychological Bulletin, 105. 89-105.
+Barrett, P., & Eysenck, S. (1984). The assessment of personality factors
+across 25 countries. Personality and Individual Differences, 5, 615-
+632.
+Bentall. R. P. (1990). The illusion of reality: A review and integration
+of psychological research on hallucinations. Psychological Bulletin,
+107, 82-95.
+Berman, J. J. (Ed.). (1990). Nebraska Symposium on Motivation, 1989:
+Cross-cultural perspectives (Vol. 37). Lincoln: University of Nebraska
+Press.
+Berry, J. (1985). In I. Reyes-Lagunes & Y. Poortinga (Eds.), From a
+different perspective: Studies of behavior across cultures. Lisse, The
+Netherlands: Swets & Zeitlinger.
+Berry, J. (1990). Psychology of acculturation. In J. J. Berman (Ed.).
+Nebraska Symposium on Motivation, 1989: Cross-cultural perspectives
+(Vol. 37, pp. 201-234). Lincoln: University of Nebraska Press.
+Betancourt, H. (1985, July). Cultural variations in attribution processes
+and the universality of psychological principles. Paper presented at
+the XX Congress of the Interamerican Society of Psychology, Caracas,
+Venezuela.
+Betancourt, H. (1990). An attribution-empathy model of helping be-
+havior: Behavioral intentions and judgements of help-giving. Person-
+ality and Social Psychology Bulletin, 16, 573-591.
+Betancourt, H., Hardin, C, & Manzi, J. (1992). Beliefs, value orientation,
+and culture in attribution processes and helping behavior. Journal of
+Cross-Cultural Psychology, 23, 179-195.
+Betancourt, H., &Weiner, B. (1982). Attributions for achievement-related
+events expectancy, and sentiments: A study of success and failure in
+Chile and the United States. Journal of Cross-Cultural Psychology,
+13, 362-374.
+Bond, M. (Ed.). (1988). The cross-cultural challenge to social psychology.
+Newbury Park, CA: Sage.
+Brislin, R. W. (1983). Cross-cultural research in psychology. Annual
+Review of Psychology, 34, 363-400.
+Brislin, R., Lonner, W., & Thorndike, R. (1973). Cross-cultural research
+methods. New York: Wiley.
+Cervantes, R. C, Padilla, A. M., & Salgado de Snyder, N. (1991). The
+Hispanic Stress Inventory: A culturally relevant approach to psycho-
+social assessment. Psychological Assessment: A Journal of Consulting
+and Clinical Psychology, 3. 438-447.
+Dona, G. (1991). Cross-cultural psychology as presaged by Hippocrates.
+Cross-Cultural Psychology Bulletin, 25, 2.
+Draguns, J. G. (1980). Psychological disorders of clinical severity. In
+H. C. Triandis & J. G. Draguns (Eds.), Handbook of cross-cultural
+psychology: Psychopathology (Vol. 6, pp. 99-174). Boston: Allyn &
+Bacon.
+Egeland, J. A., Hostetter, A. M., & Eshleman, S. K., III. (1983). Amish
+study: 3. The impact of cultural factors on diagnosis of bipolar illness.
+American Journal of Psychiatry, 140, 67-71.
+Frerichs, R. R., Aneshensel, C. S., & Clark, V. A. (1981). Prevalence of
+depression in Los Angeles County. American Journal of Epidemiology,
+113, 691-699.
+Graham, S. (1992). Most of the subjects were White and middle class:
+Trends in published research on African Americans in selected APA
+journals, 1970-1989. American Psychologist, 47, 629-639.
+Harkness, S. (1980). Child development theory in anthropological per-
+spective. New Directions in Child Development, 8, 7-13.
+Herkovits, M. (1948). Man and his works. New York: Knopf.
+Jahoda, G. (1984). Do we need a concept of culture. Journal of Cross-
+Cultural Psychology, 15, 139-151.
+Jensen, A. R. (1985). The nature of the Black-White difference on various
+psychometric tests: Spearman's hypothesis. The Behavioral and Brain
+Sciences. 8. 193-263.
+Jones, J. M. (1991). Psychological models of race: What have they been
+and what should they be? In J. D. Goodchilds (Ed.), Psychological
+perspectives on human diversity in America (pp. 5-46). Washington,
+DC: American Psychological Association.
+Karno, M., Hough, R. L., Burnam, M. A., Escobar, J. I., Timbers,
+D. M., Santana, F, & Boyd, J. H. (1987). Lifetime prevalence of
+specific psychiatric disorders among Mexican Americans and Non-
+Hispanic Whites in Los Angeles. Archives of General Psychiatry, 44,
+695-701.
+Kluckhohn, F., & Strodtbeck, F. (1961). Variations in value orientations.
+Evanston, IL: Row, Peterson.
+Latter, B. (1980). Genetic differences within and between populations
+of the major human subgroups. The American Naturalist, 116, 220-
+237.
+Lonner, W., & Berry, J. (1986). Field methods in cross-cultural research.
+Newbury Park, CA: Sage.
+Lopez, S. R., Hurwicz, M., Karno, M., & Telles, C. A. (1992). Schizo-
+phrenic and manic symptoms in a community sample: A sociocultural
+analysis. Unpublished manuscript.
+Malpass, R. (1977). Theory and method in cross-cultural psychology.
+American Psychologist, 32, 1069-1079.
+636
+June 1993 • American Psychologist
+McGovern, T. V., Furumoto, L., Halpern, D. F., Kimble, G. A., &
+McKeachie, W. J. (1991). Liberal education, study in depth, and the
+arts and sciences major—Psychology. American Psychologist, 46, 598-
+605.
+Meyer, W. U. (1970). Selbstverantwortlichkeit 
+undLeistungs-motivation
+[Self-concept and achievement motivation]. Unpublished doctoral
+dissertation, Ruhr Universitat, Bochum, Federal Republic of Germany.
+Munroe, R. H., Munroe, R. L., & Whiting, B. (Eds.). (1981). Handbook
+of cross-cultural human development. New York: Garland STPM.
+Pepitone, A., & Triandis, H. (1987). On the universality of social psy-
+chological theories. Journal of Cross-Cultural Psychology, 18, 471-
+498.
+Persons, J. B. (1986). The advantages of studying psychological phenom-
+ena rather than psychiatric diagnoses. American Psychologist, 41,
+1252-1260.
+Poortinga, Y., & Malpass, R. (1986). In W. Lonner & J. Berry (Eds.),
+Fields methods in cross-cultural research (pp. 17-46). Newbury Park,
+CA: Sage.
+Reyes-Lagunes, I., & Poortinga, Y. (1985). From a different perspective:
+Studies of behavior across cultures. Lisse, The Netherlands: Swets &
+Zeitlinger.
+Rodrigues, A. (1981). Causal ascription and evaluation of achievement
+related outcomes: A cross-cultural comparison. International Journal
+of lntercullural Relations, 4, 379-389.
+Rogler, L. H., Cortes, D. E., & Malgady, R. G. (1991). Acculturation
+and mental health status among Hispanics: Convergence and new
+directions for research. American Psychologist, 46, 585-597.
+Rohner, R. P. (1984). Toward a conception of culture for cross-cultural
+psychology. Journal of Cross-Cultural Psychology, 15, 111-138.
+Rokeach, M. (1979). Some unresolved issues in theories of beliefs, at-
+titudes, and values. In Proceedings of the Nebraska Symposium on
+Motivation (pp. 261-304). Lincoln: University of Nebraska Press.
+Salili, F, Maehr, M. L., & Gillmore, F. (1976). Achievement and morality:
+A cross-cultural analysis of causal attribution and evaluation. Journal
+of Personality and Social Psychology, 33, 327-337.
+Segall, M. H. (1984). More than we need to know about culture, but
+are afraid not to ask. Journal of Cross-Cultural Psychology, 15, 153-
+162.
+Smith, M. B. (1979). Attitudes, values, and selfhood. In Proceedings of
+the Nebraska Symposium on Motivation (pp. 305-350). Lincoln:
+University of Nebraska Press.
+Sobal, J., & Stunkard, A. J. (1989). Socioeconomic status and obesity:
+A review of the literature. Psychological Bulletin, 105, 260-275.
+Sue, S. (1988). Psychotherapeutic services for ethnic minorities: Two
+decades of research findings. American Psychologist, 43, 301-308.
+Sue, S., & Zane, N. (1987). The role of culture and cultural technique
+in psychotherapy: A critique and reformulation. American Psychol-
+ogist, 42, 37-45.
+Torrey, E. F. (1972). The mind game: Witch doctors and psychiatrists.
+New York: Emerson Hall.
+Triandis, H. (1989). The self and social behavior in differing cultural
+contexts. Psychology Review, 96, 506-520.
+Triandis, H., Bontempo, R., Betancourt, H., Bond, M., Leung, K.,
+Brenes, A., Georgas, J., Hui, C. H., Marin, G., Setiadi, B., Sinha,
+J. B. P., Verma, J., Spangenberg, J., Touzard, H., & de Montmollin,
+G. (1986). The measurement of the etic aspects of individualism and
+collectivism across cultures. Australian Journal of Psychology, 38, 257-
+267.
+Triandis, H., Bontempo, R., Villareal, M. J., Asai, M., & Lucca, N.
+(1988). Individualism and collectivism: Cross-cultural perspectives
+on self-ingroup relationships. Journal of Personality and Social Psy-
+chology, 54, 323-338.
+Triandis, H., Lambert, W., Berry, J., Lonner, W., Heron, A., Brislin, R.,
+& Draguns, J. (Eds.). (1980). Handbook of cross-cultural psychology:
+Vols. 1-6. Boston: Allyn & Bacon.
+Vega, W. A., Kolody, B., & Warheit, G. (1985). Psychoneuroses among
+Mexican Americans and other Whites: Prevalence and caseness.
+American Journal of Public Health, 75, 523-527.
+Weiner, B. (1986). An attribution theory of motivation and emotion. New
+York: Springer-Verlag.
+Weiner, B., & Kukla, A. (1970). An attributional analysis of achievement
+motivation. Journal of Personality and Social Psychology, 15, 1-20.
+Weiner, B., & Peter, N. (1973). A cognitive developmental analysis of
+achievement and moral judgments. Developmental Psychology, 9, 290-
+309.
+Wundt, W. (1921). Volkerpsychologie: Vols. 1-10. Leipzig, Germany:
+Alfred Kroner Verlag.
+Zuckerman, M. (1990). Some dubious premises in research and theory
+on racial differences: Scientific, social, and ethical issues. American
+Psychologist, 45. 1297-1303.
+Remember Your Passport for Convention
+If you are attending the 101st Annual Convention of the American Psychological Association in
+Toronto, Ontario, Canada, be sure to take your passport, birth certificate, or voter registration card. If
+you take a birth certificate or voter registration card, you should also carry a picture identification card.
+You may not be able to drive across the border into Canada or board your plane unless you have the
+necessary identification. A driver's license alone is not sufficient. Many airlines have specific
+requirements; you may want to check with your airline. Delta Air Lines strongly recommends a valid
+passport or an original birth certificate or voter registration card. Air Canada requires a valid passport
+or an original birth certificate and picture identification or voter registration card and picture
+identification. It is also recommended that you allow about two hours for U.S. Immigration when
+returning by plane from Toronto to the United States.
+June 1993 • American Psychologist
+637
+View publication stats
+View publication stats

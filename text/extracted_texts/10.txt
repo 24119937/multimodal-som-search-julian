@@ -1,0 +1,855 @@
+http://www.hts.org.za
+Open Access
+HTS Teologiese Studies/Theological Studies 
+ISSN: (Online) 2072-8050, (Print) 0259-9422
+Page 1 of 7
+Original Research
+Read online:
+Scan this QR 
+code with your 
+smart phone or 
+mobile device 
+to read online.
+Authors:
+Xiang Lei1 
+Hao Cao1 
+Limin Guo1 
+Affiliations:
+1Department of Design 
+Engineering, Jiangxi College 
+of Applied Technology, 
+Ganzhou, China
+Corresponding author:
+Xiang Lei,
+18409397@masu.edu.cn
+Dates:
+Received: 09 Apr. 2023
+Accepted: 13 June 2023
+Published: 24 Aug. 2023
+How to cite this article:
+Lei, X., Cao, H. & Guo, L., 
+2023, ‘The aesthetics of 
+Gannan Hakka architecture in 
+modern housing: A design 
+psychology perspective’, 
+HTS Teologiese Studies/
+Theological Studies 79(4), 
+a8850. https://doi.org/​
+10.4102/hts.v79i4.8850
+Copyright:
+© 2023. The Authors. 
+Licensee: AOSIS. This work 
+is licensed under the 
+Creative Commons 
+Attribution License.
+Introduction
+The overall pace of society is accelerating, resulting in modern people being under various pressures 
+for a long time, with great psychological pressure, resulting in anxiety and depression and worrying 
+mental health. The study analysed the psychological stress of modern people and obtained six 
+factors that led to modern people suffering from psychological diseases, including work pressure, 
+emotional and family pressure, network dependence psychology, learning pressure, social 
+development adaptation pressure and economic pressure (Yang & Department 2019). Among them, 
+work pressure refers to that the pace of life and work of modern people are constantly accelerating, 
+which is very obvious in urban white-collar groups (Schandert et al. 2021). Most white-collar groups 
+are in a high-tension working state for a long time and lack of practice to adjust their body, spirit and 
+psychology. In this case, many white-collar workers have negative symptoms such as anxiety, 
+irritability and depression (Roberts et al. 2021). Maintaining a high-tension mental state for a long 
+time will lead to physical dysfunction and various physical and mental diseases, which is also one 
+of the important reasons for the frequent occurrence of mental diseases and psychological disorders 
+in modern people (King et al. 2022). Emotional and family stress refer to the increasing frequency of 
+emotional problems, marriage problems and family problems in contemporary society, and the 
+resulting psychological problems also increase dramatically (Malyshev et al. 2020). 
+The rapid acceleration of societal change has subjected contemporary individuals to prolonged 
+periods of diverse pressures, leading to substantial psychological strain, resulting in anxiety, 
+depression, and compromised mental well-being. Within this context, the home has evolved 
+into a vital refuge for modern individuals, offering both physical and psychological respite. 
+Through experimental intervention, this study examines two distinct residential groups: those 
+adhering to traditional housing and those residing in characteristic folk houses, specifically 
+Gannan Hakka architecture. Analysing the psychological state of contemporary individuals 
+and integrating Gannan Hakka architectural elements into folk house design through a 
+psychologically informed approach, this research aims to enhance residents’ aesthetic 
+experiences and alleviate psychological distress. The study involved 120 volunteers with 
+varying psychological stress levels, categorised into characteristic and traditional folk house 
+groups. Psychological assessments evaluated stress, self-efficacy, and quality of life. Findings 
+reveal significantly improved psychological well-being, self-efficacy, and quality of life among 
+the characteristic residential group, affirming the benefits of Gannan Hakka architecture 
+integration. This research underscores the importance of addressing modern individuals’ 
+environmental needs and proposes the integration of Gannan Hakka cultural elements into 
+residential design to enhance well-being. 
+Contribution: This study demonstrates the application of Hakka culture in contemporary 
+housing profoundly influences residents’ lives, enabling both relaxation and a deeper cultural 
+connection. This integration facilitates a comprehensive understanding of Hakka culture, 
+promoting its preservation. Notably recognised for hospitality and diligence, Hakka culture 
+enhances individuals’ appreciation of tradition, fostering physical and mental rejuvenation. 
+These findings offer valuable insights for practical theology scholars and practitioners 
+exploring the impact of religious aspects on modern residential design from a psychological 
+perspective.
+Keywords: design psychology; resident; residential design; Gannan Hakka; architectural 
+aesthetics.
+The aesthetics of Gannan Hakka architecture in modern 
+housing: A design psychology perspective
+Read online:
+Scan this QR 
+code with your 
+smart phone or 
+mobile device 
+to read online.
+Note: Special Collection: Culture and Psychology Education, sub-edited by Mahdi Esmaeilzadeh (Scientific Research Publishing House, 
+Iran), Aghel Ali (University of Babol, Iran), Mohammad E. Hokmabadi (Islamic Azad University, Iran).
+Page 2 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+Take love as an example. When you encounter lovelorn, you 
+will experience an extremely painful emotional experience. 
+You will feel sad because of your nostalgia, and there will be 
+a serious psychological imbalance. As a result, many people 
+suffer from psychological disorders and a series of 
+psychological diseases, which have a very negative impact 
+on their own health (Sindermann et al. 2020). Marriage is the 
+foundation of a family. However, in modern society, because 
+of the change of ideas, the divorce rate in China has increased 
+year by year. In a survey, more than 70% of the people 
+believed that the breakdown of marriage would cause 
+psychological stress to themselves and harm their mental 
+health (Cengiz et  al. 2019). This can fully explain that 
+marriage changes will bring greater psychological pressure 
+to modern people. Network dependence psychology refers 
+to: for teenagers, their mental intelligence is not mature, 
+their self-control is low and their dependence on the network 
+is extremely serious. A considerable number of teenagers 
+show strong interest in the Internet and regard it as a 
+necessity in their life (Kneer et al. 2019). Proper and correct 
+access to the Internet is beneficial to relaxing the mood and 
+consulting learning materials, but excessive access to the 
+Internet will damage the physical and mental health of 
+teenagers, especially the large amount of junk information 
+on the Internet, which will cause teenagers to suffer from 
+various psychological diseases. However, spending a lot of 
+time in games, online love and chatting every day will affect 
+teenagers’ self-awareness and environmental cognition and 
+even cause teenagers to suffer from split personality disorder 
+(Hernández-Moreno et al. 2021). Learning pressure mainly 
+appears in students, especially high school students. Because 
+of the pressure of the college entrance examination, high 
+school students live a repetitive life every day, with endless 
+books and learning materials, and exams are also emerging 
+in endlessly. However, students’ families, teachers and 
+schools all have high expectations of them, which leads to 
+high school students bearing greater psychological pressure 
+(Gorman et al. 2021). When the test results are not ideal, the 
+psychological pressure from families, schools, classmates, 
+teachers and students themselves will rise sharply. When 
+this pressure exists for a long time, it will lead to various 
+psychological problems of students. Learning pressure often 
+leads to students’ bad psychology, such as slow reaction, 
+irritability, anxiety, fear and weariness, so it needs to be paid 
+attention to. The adaptation pressure of social development 
+refers to the fact that in the process of rapid social 
+development, the society is constantly changing and some 
+modern people do not adapt to social changes for various 
+reasons. The maladjustment to society is reflected in various 
+aspects. In modern society, new things, new technologies, 
+new concepts and new words emerge in an endless stream. 
+When social development deviates from people’s inherent 
+cognition of society, people will have a sense of difference. 
+When this sense of difference is too large, it will lead to a 
+feeling of being abandoned by the society, resulting in 
+loneliness and anxiety (Micoulaud-Franchi et  al. 2021). In 
+addition, because of the rapid development of society, there 
+are some people who cannot adapt their skills to modern 
+society, resulting in anxiety and helplessness. All the above 
+will lead to various psychological problems. Economic 
+pressure means that in today’s highly developed economy, 
+people’s desire for money is also increasing day by day. In 
+addition, because of the existence of various financial 
+products and services, most modern people are burdened 
+with various loans, such as housing loans and car loans. In 
+big cities, the cost of living is very high, coupled with 
+entertainment costs, transportation costs, among others. 
+Modern people have a lot of expenses and economic 
+pressure. However, some people’s salary cannot bear these 
+expenses, and they will have anxiety, depression and mental 
+illness. Home is a person’s shelter and an important place 
+for modern people to relax physically and mentally. A good 
+residential design, where residents live, can alleviate 
+psychological stress, thus releasing the negative emotions of 
+residents. The Hakka ethnic group, one of the seven major 
+ethnic groups of the Han nationality in China, mainly living 
+in southern China, and its distribution areas include Jiangxi, 
+Guangdong and Fujian. The Hakka family is an important 
+part of the Han nationality. Although the Hakka  people 
+have roughly the same life customs and cultural 
+characteristics, through in-depth research, we can find 
+that  the Hakka buildings in various regions have 
+their own characteristics of development according to the 
+environment. The origin of the Hakka family is Gannan, so 
+the Hakka architecture in Gannan is the most representative 
+and traditional. Gannan Hakka architecture mainly includes 
+two forms, which are divided into hall and house 
+combination and enclosure. 
+The most mainstream residential building of Gannan Hakka 
+people has high cultural value and historical practical value. 
+Among them, the most mainstream residential building 
+form  in Gannan is the combination of halls and houses, 
+which  is widely distributed in the northeast of Gannan. 
+The  enclosed houses in southern Jiangxi are different from 
+the  enclosed round earth buildings in Fujian and the 
+semi-enclosed dragon houses in northern Guangdong. Most 
+of the enclosed houses in southern Jiangxi are square enclosed 
+spaces, which have  strong defensive and certain anti-
+encirclement and suppression capabilities during the years of 
+social unrest. The residence combines the regional history of 
+Gannan and the living habits of surrounding residents, 
+reflecting the ideological and cultural, social outlook, and 
+lifestyle of Gannan region. Therefore, the Hakka architecture 
+in Gannan area contains rich ideological, cultural and historical 
+information, which has a certain impact on the spiritual 
+thoughts of the residents. The research analyses the existing 
+relevant documents, news and reports to understand the 
+historical and cultural background and construction methods 
+of Gannan residential buildings and explore the important 
+elements of Gannan residential buildings. With the 
+development trend of modern urban culture, all regions are 
+based on local customs and  develop regional culture. The 
+research analyses the psychological situation of modern 
+people and then integrates the elements of Gannan Hakka 
+architecture into the design of folk houses based on design 
+psychology, so as to deepen the aesthetic feelings of residents 
+Page 3 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+and alleviate the psychological pressure of residents. In the 
+design of residential buildings based on Gannan Hakka 
+architecture, the integration of Gannan Hakka elements 
+greatly alleviates the psychological pressure of residents. 
+Introducing ethnic elements into modern urban architectural 
+clusters has a certain degree of innovation.
+Subjects and methods
+Study setting
+The psychological problems of modern people are becoming 
+more and more serious and frequent, which has greatly 
+hindered social progress and reduced the happiness of 
+Chinese residents. In various surveys, more than half of 
+modern people have varying degrees of psychological stress, 
+and more than 26% of modern people suffer from various 
+types of psychological diseases. There are seven common 
+psychological problems in modern people, including 
+depression, compulsion, anxiety, division, social fear, choice 
+difficulty and habitual negation. Depressive psychology is 
+mainly reflected in the fact that individuals lose interest in the 
+things and people around them and think that life is boring. 
+Compulsive psychology refers to the fact that an unimportant 
+thing must be completed according to one’s own requirements. 
+Anxiety refers to feeling nervous and anxious about anything 
+and problems, and sweating and trembling will occur. Split 
+psychology refers to people who are extroverted, warm and 
+cheerful when facing familiar people, but they are unwilling 
+or afraid to communicate with strangers, and their emotions 
+are capricious. Social phobia means that some people are 
+afraid of people and things outside and refuse to communicate. 
+Selection difficulty refers to that some people often feel that 
+their choice is not the best choice when facing choices and 
+show panic and anxiety in the scene where they must make 
+choices. Habitual negative psychology refers to people who 
+habitually deny themselves and others, who often only see 
+the defects of things, so they often take a pessimistic attitude 
+towards things. As the main place for modern people to relax, 
+the social intercourse of folk houses is also very important. 
+Good residential design can relax the mood of residents, give 
+residents comfort from visual and other sensory experience 
+and use experience and alleviate residents’ negative emotions. 
+Therefore, based on the design psychology, the research 
+analyses the needs of modern people for the living 
+environment and proposes to integrate the elements of 
+Gannan Hakka architecture into the design of folk houses, so 
+as to deepen the aesthetic feelings of residents and alleviate 
+the psychological pressure of residents.
+Design
+In order to verify the relieving effect of integrating the 
+elements of Gannan Hakka architecture into the residential 
+design on the psychological pressure of modern people, a 
+control experiment was designed. Through Internet, group 
+chat, offline leaflets and other ways, 120 volunteers were 
+recruited for the experiment. All volunteers had different 
+levels of psychological stress. All volunteers were numbered 
+and then randomly grouped using Excel software. After 
+obtaining the grouping results, all volunteers were divided 
+into two groups, namely, the characteristic folk house group 
+and the traditional folk house group. For the members of the 
+characteristic folk house group, let them live in the folk 
+houses with the elements of Hakka architecture in southern 
+Jiangxi for half a month; for members of the traditional 
+residential group, they shall be allowed to live in the ordinary 
+residential for half a month. Half a month later, the 
+psychological stress, self-efficacy and quality of life of the 
+two groups were evaluated by psychological test scale. 
+The psychological stress, self-efficacy and quality of life of 
+volunteers were evaluated by symptom checklist 90 
+(SCL-90), self-efficacy evaluation scale (SEES) and SF-36. 
+Self-efficacy evaluation  includes four aspects: stress self-
+management, anxiety self-management, depression self-
+management and emotional self-management. The total 
+score of the SEES is calculated as shown in Equation 1:
+F = S + A + D + E
+[Eqn 1]
+In Equation 1, S, A, D, and E respectively represent stress self-
+score, anxiety self-score, depression self-management score, 
+and emotional self-management score.
+Results
+Symptom checklist 90 was used to evaluate the psychological 
+stress of the two groups of volunteers. The four dimensions 
+of anxiety, depression, hostility and neuroticism in the scale 
+were selected to evaluate the psychological situation of 
+volunteers. 
+See Table 1 for relevant information of the two groups of 
+volunteers. In Table 1, we can see that there are 10 members 
+under the age of 20 in the characteristic residential group 
+and eight members under the age of 20 in the traditional 
+residential group. The difference between the two groups is 
+very small, and the P-value of the difference is greater 
+than  0.05; there are 29 members aged 20–30 years in the 
+characteristic residential group, and 30 members aged 20–30 
+years in the traditional residential group. There is a very 
+small difference between the two groups, and the P-value of 
+the difference is greater than 0.05; there are 21 members 
+aged over 31 years in the characteristic residential group, 
+and 22 members aged over 31 years in the traditional 
+residential group. There is a very small difference between 
+the two groups, and the P-value of the difference is greater 
+than 0.05. It can be seen that in terms of age, the difference 
+between the characteristic residential group and the 
+traditional residential group is very small, and the p-value 
+of the difference is greater than 0.05. In addition, in terms of 
+psychological stress, education level and occupational 
+distribution, the difference between the characteristic 
+residential group and the traditional residential group is 
+also very small, with a P-value greater than 0.05. The above 
+results show that the difference between the characteristic 
+residential group and the traditional residential group is 
+very small, which can be used as a comparative comparison 
+of the experiment.
+Page 4 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+During the experiment, the changes of psychological pressure 
+of the two groups of volunteers are shown in Table 2.
+In Table 2, before the experiment, the scores of the two 
+groups of volunteers in the four dimensions of anxiety, 
+depression, hostility and neuroticism were basically the 
+same; after the experiment, the scores of the members of 
+the characteristic residential group in the four dimensions 
+of anxiety, depression, hostility and neuroticism decreased 
+significantly, while the scores of the members of the 
+traditional residential group in the four dimensions of 
+anxiety, depression, hostility and neuroticism changed 
+little. It can be seen that before the experimental 
+intervention, the members of the characteristic residential 
+group scored 1.74 ± 0.44 in the anxiety dimension, while 
+the members of the traditional residential group scored 
+1.75 ± 0.47 in the anxiety dimension. The score difference 
+between the two groups was very small, and the significance 
+was greater than 0.05. The score of the members of the 
+characteristic residential group in the depression dimension 
+was 1.93 ± 0.35, and the score of the members of the 
+traditional residential group in the depression dimension 
+was 1.88 ± 0.42. The score difference between the two 
+groups was very small, and the significance was greater 
+than 0.05. The score of the members of the characteristic 
+residential group in the hostile dimension is 1.96 ± 0.62, 
+while the score of the members of the traditional residential 
+group in the hostile dimension is 1.86 ± 0.71. The  score 
+difference between the two groups is very small, and the 
+significance is greater than 0.05.
+The score of neuroticism dimension of the members of the 
+characteristic residential group was 1.62 ± 0.49, and that of 
+the traditional residential group was 1.61 ± 0.54. The 
+difference between the two groups was very small, and the 
+significance was greater than 0.05. After the experiment, the 
+score of the members of the characteristic residential group in 
+the depression dimension was 1.35 ± 0.26, which was 
+significantly lower than that before the experiment, with a 
+difference of less than 0.05. The score of the members of the 
+traditional residential group in the depression dimension 
+was 1.91 ± 0.38, which was not significantly different from 
+that before the experiment, with a difference of more than 
+0.05. The score of the members of the characteristic residential 
+group in the depression dimension was significantly lower 
+than that of the traditional residential group, with a difference 
+of less than 0.05. After the experiment, the score of the 
+members of the characteristic residential group in the hostile 
+dimension was 1.45 ± 0.45, which was significantly lower 
+than that before the experiment, with a difference of less than 
+0.05. The score of the members of the traditional residential 
+group in the hostile dimension was 1.88 ± 0.63, which was 
+not significantly different from that before the experiment, 
+with a difference of more than 0.05. The score of the 
+characteristic residential group in the hostile dimension was 
+significantly lower than that of the traditional residential 
+group, with a difference of less than 0.05. After the experiment, 
+the score of neuroticism dimension of the members of the 
+characteristic residential group was 1.40 ± 0.33, which was 
+significantly lower than that before the experiment, with a 
+difference of less than 0.05. The score of neuroticism 
+dimension of the members of the traditional residential 
+group was 1.58 ± 0.43, which was not significantly different 
+from that before the experiment, with a difference of more 
+than 0.05. The score of neuroticism dimension of the members 
+of the characteristic residential group was significantly lower 
+than that of the traditional residential group, with a difference 
+of less than 0.05. Table 3 shows the changes of SF-36 scores of 
+the members of the characteristic residential group and the 
+members of the traditional residential group.
+In Table 3, after the experiment, the scores of physical function, 
+social function, role function and emotional function of the 
+members of the characteristic folk house group in the SF-36 
+scale are significantly higher than those of the members of the 
+traditional folk house group. Using SEE to evaluate the self-
+efficacy of the members of the characteristic residential group 
+and the traditional residential group. After the experimental 
+intervention, the score of the members of the characteristic 
+residential group in the physical function dimension was 71.25 
+± 9.64, and the score of the members of the traditional 
+residential group in the physical function dimension was 66.84 
+± 9.02. The score of the members of the characteristic residential 
+group in the physical function dimension was significantly 
+lower than that of the traditional residential group, with a 
+TABLE 1: Relevant information of two groups of volunteers (N = 60).
+Attribute
+Category
+Characteristic 
+residential group 
+(n)
+Traditional 
+residential group 
+(n)
+Age (years)*
+< 20
+10
+8
+20–30
+29
+30
+> 31
+21
+22
+Degree of 
+psychological 
+stress*
+Nothing
+0
+0
+Light
+20
+18
+Moderate
+30
+31
+Severe
+10
+11
+Education*
+Master degree or above
+5
+7
+Undergraduate
+25
+26
+Speciality
+16
+15
+High school and below
+14
+12
+Occupation*
+White collar
+28
+26
+Teacher
+20
+18
+Worker
+12
+16
+*, p > 0.05.
+TABLE 2: Changes of psychological pressure in the two groups of volunteers 
+(N = 60).
+Dimension
+Experiment time
+Group
+p
+Characteristic 
+residential group 
+(n)
+Traditional 
+residential group 
+(n)
+Anxiety
+Before experiment
+1.74 ± 0.44
+1.75 ± 0.47
+> 0.05
+After experiment
+1.35 ± 0.26*
+1.68 ± 0.51
+< 0.05
+Depression
+Before experiment
+1.93 ± 0.35
+1.88 ± 0.42
+> 0.05
+After experiment
+1.39 ± 0.42*
+1.91 ± 0.38
+< 0.05
+Hostility
+Before experiment
+1.96 ± 0.62
+1.86 ± 0.71
+> 0.05
+After experiment
+1.45 ± 0.45*
+1.88 ± 0.63
+< 0.05
+Neuroticism
+Before experiment
+1.62 ± 0.49
+1.61 ± 0.54
+> 0.05
+After experiment
+1.40 ± 0.33*
+1.58 ± 0.43
+< 0.05
+*, Compared with ‘Before experiment’ (p < 0.05).
+Page 5 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+significance of less than 0.05. After the experimental 
+intervention, the score of the members of the characteristic 
+residential group in the social function dimension was 
+69.04 ± 8.02, and the score of the members of the traditional 
+residential group in the social function dimension was 65.37 ± 
+9.18. The score of the members of the characteristic residential 
+group in the social function dimension was significantly lower 
+than that of the traditional residential group, with a significance 
+of less than 0.05. After the experimental intervention, the score 
+of the members of the characteristic residential group in the 
+role function dimension was 79.53 ± 7.46, and the score of the 
+members of the traditional residential group in the role 
+function dimension was 71.25 ± 9.52. The score of the members 
+of the characteristic residential group in the role function 
+dimension was significantly lower than that of the traditional 
+residential group, with a significance of less than 0.05. After 
+the experimental intervention, using different parameters, the 
+emotional function scores of members of the characteristic 
+residential group were 72.30 ± 8.48 and 74.39 ± 7.27, while the 
+emotional function scores of members of the traditional 
+residential group were 65.12 ± 9.03 and 68.52 ± 11.36. The score 
+of the role function dimension of members of characteristic 
+residential groups is significantly lower than that of traditional 
+residential groups, with a significance of less than 0.05. After 
+the experiment, the SEES scores of the members of the 
+characteristic folk house group and the members of the 
+traditional folk house group are shown in Table 4.
+In Table 4, after the experiment, the scores of the members of 
+the characteristic residential group in the four dimensions of 
+stress self-management, anxiety self-management, depression 
+self-management and emotional self-management in the 
+SEES scale are significantly higher than those of the members 
+of the traditional residential group. To sum up, based on 
+the design psychology, the integration of Gannan Hakka 
+architectural elements into the residential design can 
+effectively relieve the psychological pressure of residents.
+Discussion
+The psychological problems of modern people are becoming 
+more and more serious and frequent, which has greatly 
+hindered social progress and reduced the happiness of Chinese 
+residents (Trombello et al. 2022). In various surveys, more than 
+half of modern people have varying degrees of psychological 
+stress, and more than 26% of modern people suffer from 
+various types of psychological diseases. Therefore, the 
+psychological problems of modern people must be paid 
+attention to (Adikari, Appukutty & Kuan 2020). As the main 
+place for modern people to relax, the social intercourse of folk 
+houses is also very important. Good residential design can 
+relax the mood of residents, give residents comfort from visual 
+and other sensory experience and use experience and alleviate 
+residents’ negative emotions (Gelaye et  al. 2020). A poor 
+residential design will, to a certain extent, aggravate the 
+psychological anxiety and irritability of residents, not only 
+failing to relieve their psychological pressure but also 
+aggravating their psychological pressure. For example, the 
+insufficient space design leads to the limited range of residents’ 
+activities, the small computer table leads to only one computer, 
+inconvenient dining, inconvenient clothes drying and other 
+details (Menear et  al. 2020; Sharifian et  al. 2021). Therefore, 
+based on the design psychology, the study analyses the 
+psychological needs of residents for modern folk. Limited, 
+modern 
+people 
+instinctively 
+pursue 
+freedom 
+and 
+unconstrained, so they have a certain demand for large space. 
+During the design, it is necessary to remove some unnecessary 
+objects and decorations so that residents can have a certain 
+activity space. Then, the space design in the residential 
+buildings should be as reasonable as possible, so that the 
+residents can feel comfortable and relax their mood. For 
+example, we should pay attention to the sense of privacy and 
+security of residents. Finally, to meet the needs of residents for 
+harmonious mitigation. Modern people have an inseparable 
+connection with nature and instinctively want to get close to 
+nature and embrace nature. Therefore, in the design of 
+residential buildings, it is necessary to make the environment 
+around the residential buildings and the residential buildings 
+coexist and integrate harmoniously, so that the residents can 
+approach the nature to the greatest extent, so that the residents’ 
+mood can be relaxed and the psychological pressure can be 
+released. Based on the above analysis, it is proposed to 
+integrate the elements of Gannan Hakka architecture into the 
+design of folk houses. Gannan Hakka architecture emphasises 
+the 
+integration 
+of 
+multiculturalism, 
+the 
+harmonious 
+coexistence between humans and nature, the combination of 
+spiritual belief and architecture and the people-oriented 
+architectural concept. Integrating these elements into modern 
+residential design can not only meet the psychological needs 
+of residents but also provide them with a new sensory 
+experience. After the experimental intervention, members 
+of the characteristic residential group scored 72.30 ± 8.48 in 
+the  emotional function dimension, while members of the 
+traditional residential group scored 65.12 ± 9.03 in the 
+emotional function dimension. The members of the 
+characteristic residential group scored significantly lower in 
+the role function dimension than the traditional residential 
+group, with a significance of less than 0.05. The self-
+TABLE 3: SF-36 scale scores of the two groups after the experiment.
+Group
+Somatic 
+function
+Social 
+function
+Role function
+Emotional 
+function
+Characteristic residential 
+group (N = 60)
+71.25 ± 9.64
+69.04 ± 8.02
+79.53 ± 7.46
+72.30 ± 8.48
+Traditional residential 
+group (N = 60)
+66.84 ± 9.02
+65.37 ± 9.18
+71.25 ± 9.52
+65.12 ± 9.03
+Characteristic residential 
+group (N = 80)
+75.25 ± 11.45 72.08 ± 10.52 82.54 ± 9.47
+74.39 ± 7.27
+Traditional residential 
+group (N = 80)
+68.80 ± 10.73 68.73 ± 10.05 73.24 ± 12.27 68.52 ± 11.36
+p
+< 0.05
+< 0.05
+< 0.05
+< 0.05
+TABLE 4: After the experiment, the SEES scores of members of the characteristic 
+folk house group and members of the traditional folk house group (N = 60).
+Group
+Stress 
+self-
+management
+Anxiety 
+self-
+management
+Depression 
+self-
+management
+Emotional 
+self-
+management
+Characteristic residential 
+group
+71.25 ± 9.64
+69.04 ± 8.02
+79.53 ± 7.46
+72.30 ± 8.48
+Traditional residential 
+group
+66.84 ± 9.02
+65.37 ± 9.18
+71.25 ± 9.52
+65.12 ± 9.03
+p
+< 0.05
+< 0.05
+< 0.05
+< 0.05
+SEES, self-efficacy evaluation scale.
+Page 6 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+management ability of traditional residential group emotions 
+is 65.12 ± 9.03, while the self-management ability of 
+characteristic residential group emotions is 72.30 ± 8.48. It is 
+obvious that the emotional fluctuations of users in traditional 
+residential groups are much greater than those in characteristic 
+residential groups. Based on the above contents, the residents 
+can relax their minds in the residential buildings, thus relieving 
+their psychological pressure. In order to verify the effect of the 
+design method proposed in the study, the results of the 
+research and design experiments show that integrating the 
+elements of Gannan Hakka architecture into the residential 
+design can effectively relieve the psychological pressure of 
+residents.
+Conclusion
+The integration of Gannan Hakka architectural elements 
+into  modern residential areas is to better alleviate the 
+psychological pressure of modern people. Starting from 
+design psychology, this study integrates Gannan Hakka 
+architectural elements into the residential design to meet the 
+psychological needs of residents and alleviate their 
+psychological pressure. The experimental results show that 
+after the experiment, the scores of the members of the 
+characteristic residential group in each dimension of the 
+SEES and SF-36 scale are significantly higher than those of 
+the members of the traditional residential group. In the SF-36 
+scale, after the experimental intervention, the social and role 
+functions of the characteristic residential group and the 
+traditional residential group were 69.04 ± 8.02, 79.53 ± 7.46 
+and 65.37 ± 9.18, 71.25 ± 9.52, respectively. After the 
+experiment, the melancholic dimension score of the 
+characteristic residential group was 1.35 ± 0.26, which was 
+significantly lower than before the experiment, with 
+differences within 0.05. The depression scale score of the 
+participants in the traditional residence test was 1.91 ± 0.38, 
+and there was no significant difference compared to the 
+participants before the traditional residence test, with a 
+difference of over 0.05. The scores of college students in 
+characteristic residential areas on various dimensions of 
+depression are significantly lower than those in traditionally 
+residential areas, with differences within 0.05. After the 
+experiment, the score of the specificity in the hostile 
+dimension was 1.45 ± 0.45, which was significantly different 
+from before the experiment, with a difference of within 0.05. 
+To sum up, based on the design psychology, integrating the 
+Hakka architectural elements of Gannan into the residential 
+design can effectively relieve the psychological pressure of 
+residents. In the future, the evaluation index system will be 
+enriched and improved based on the development of the 
+industry, while taking into account more factors that affect 
+the comfort of residential areas.
+Acknowledgements
+Competing interests
+The authors declare that they have no financial or personal 
+relationships that may have inappropriately influenced them 
+in writing this article.
+Authors’ contributions
+X.L. developed the idea for the study, X.L., H.C. and L.G. did 
+the analyses and X.L., H.C. and L.G. wrote the article.
+Ethical considerations
+This article followed all ethical standards for research 
+without direct contact with human or animal subjects.
+Funding information
+The research is supported by Study on the ‘Harmony Culture’ 
+Form of Gannan Hakka Traditional Dwelling, Jiangxi 
+Provincial Culture and Art Science Planning Project (No. 
+YG2022139).
+Data availability
+All data generated or analysed during this study are included 
+in this published article.
+Disclaimer
+The views and opinions expressed in this article are those of 
+the authors and do not necessarily reflect the official policy or 
+position of any affiliated agency of the authors.
+References
+Adikari, C., Appukutty, M. & Kuan, G., 2020, ‘Effects of daily probiotics supplementation 
+on anxiety induced physiological parameters among competitive football players’, 
+Nutrients 7(12), 1–17. https://doi.org/10.3390/nu12071920
+Cengiz, G.F., Sacmaci, H., Aktürk, T. & Hacimusalar, Y., 2019, ‘Comparison of patients 
+with migraine and tension-type headache in terms of somatosensory amplification 
+and health anxiety’, Arquivos de Neuro-siquiatria 77(11), 768–774. https://doi.
+org/10.1590/0004-282x20190132
+Gelaye, B., Sanchez, S.E., Andrade, A., Gómez, O., Coker, A.L., Dole, N. et al., 2020, 
+‘Association of antepartum depression, generalized anxiety, and posttraumatic 
+stress disorder with infant birth weight and gestational age at delivery’, Journal of 
+Affective Disorders 262(2), 310–316. https://doi.org/10.1016/j.jad.2019.11.006
+Gorman, B., Calamante, F., Civier, O., Demayo, M.M., Demetriou, E.A., Hickie, I.B. 
+et al., 2021, ‘Invigating white matter structure in social anxiety disorder using 
+fixel-based analysis’, Journal of Psychiatric Research 1(143), 30–37. https://doi.
+org/10.1016/j.jpsychires.2021.08.028
+Hernández-Moreno, L., Senra, H., Moreno, N. & Macedo, A.F., 2021, ‘Is perceived 
+social support more important than visual acuity for clinical depression and 
+anxiety in patients with age-related macular degeneration and diabetic 
+retinopathy?’, 
+Clinical 
+Rehabilitation 
+9(35), 
+1341–1347. 
+https://doi.
+org/10.1177/0269215521997991
+King, C.E., Wilkerson, A., Newman, R., Wagner, C.L. & Guille, C., 2022, ‘Sleep, anxiety, and 
+vitamin D status are associated with the risk of perinatal depression’, Reproductive 
+Science 6(29), 1851–1858. https://doi.org/10.1007/s43032-022-00922-1
+Kneer, K., Reinhard, J., Romanos, M., Domschke, K. & Neufang, S., 2019, ‘The influence 
+of trait anxiety and depressivity on emotional face processing’, European 
+Neuropsychopharmacology 
+1(29), 
+S496–S497. 
+https://doi.org/10.1016/j.
+euroneuro.​2018.11.741
+Malyshev, A., Haile, C., Sukhanova, I., Doronin, I. & Babkin, G., 2020, ‘P.068 Stress-
+protective effects of a novel peptide GABAergic system modulator in animal 
+models of anxiety, depression and post-traumatic stress disorder’, European 
+Neuropsychopharmacology 1(40), S44–S45. https://doi.org/10.1016/j.euroneuro.​
+2020.09.063
+Menear, M., Dugas, M., Careau, E., Chouinard, M.C., Dogba, M.J., Gagnon, M.P. 
+et  al., 2020, ‘Strategies for engaging patients and families in collaborative 
+care  programs for depression and anxiety disorders: Review of systems’, 
+Journal of Affective Disorders 263, 528–539. https://doi.org/10.1016/j.
+jad.2019.11.008
+Micoulaud-Franchi, J.A., Jeunet, C., Pelissolo, A. & Ros, T., 2021, ‘EEG neurofeedback 
+therapy for anxiety disorders and posttraumatic stress disorders: A promising 
+blueprint for brain therapy’, Current Psychiatric Report 12(23), 1–14. https://doi.
+org/10.1007/s11920-021-01299-9
+Roberts, S.D., Champigny, C., Feldman, S., Flora, D.B. & Wojtowicz, M., 2021, ‘A – 25 
+screening for anxiety and depression symptoms using the post-concussive 
+symptom scale among varsity athletes’, Archives of Clinical Neuropsychology 
+4(36), 665–665. https://doi.org/10.1093/arclin/acab035.25
+Page 7 of 7
+Original Research
+http://www.hts.org.za
+Open Access
+Schandert, L., Affronti, M., Prince, M. & Schneider, S., 2021, ‘Music intervention: 
+Nonpharmacologic method to reduce pain and anxiety in adult patients 
+undergoing bone marrow procedures’, Clinical Journal of Oncology Nursing 3(25), 
+314–320. https://doi.org/10.1188/21.CJON.314-320
+Sharifian, E., Saadat, S. & Rajabi, M., 2021, ‘The investigation of Yazd Khan Bazaar with 
+emphasis on bazaar status in Eastern, Western and Islamic thoughts’, Kurmanj 3(2), 1–13.
+Sindermann, L., Redlich, R., Bhnlein, J., Dannlowski, U. & Leehr, E., 2020, ‘P.242 Cross 
+diagnostic review of brain imaging results: Depression, anxiety, and their co 
+occurrence’, European Neuropsychopharmacology 4(40), 138–139. https://doi.
+org/10.1016/j.euroneuro.2020.09.182
+Trombello, J.M., Cooper, C.M., Fatt, C.C., Grannemann, B.D., Carmody, T.J., Jha, M.K. 
+et  al., 2022, ‘The neuromatrix of anxiety and emotional conflict in severe 
+depression: Findings of a randomized controlled trial of Establishing a Modulator 
+and Biological Characteristics (EMBARC) for antidepressant response in clinical 
+nursing’, Journal of Psychiatric Research 1(149), 243–251. https://doi.
+org/10.1016/j.jpsychires.2022.03.015
+Yang, W. & Department, N., 2019, ‘Comparison of PBL teaching method and 
+CPBL  teaching method in the teaching of clinical undergraduate nursing 
+students  in emergency department’, China Continuing Medical Education 
+Network 11(1), 36–39.
