@@ -1,6 +1,8 @@
 # Multimodal Search Engine with SOM Visualization
 
 This project implements a cross-modal search engine connecting images, video frames, and textual content. It integrates Self-Organizing Maps (SOMs) for visualization and semantic clustering across domains.
+(All data files used in this project (including `.npy` and `.csv`) are fully included in this GitHub repository.  
+No additional download from OneDrive or other sources is required.)
 
 ---
 
